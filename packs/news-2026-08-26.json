@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-08-26",
+  "title": "News 2026-08-26",
   "date": "2026-08-26",
-  "timezone": "KST",
   "headline": "Alibaba proposes record $10.2 billion Hong Kong share placement to fund AI",
-  "youtube_title": "Alibaba proposes record $10.2 billion Hong Kong share placement to fund AI",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0826.txt",
   "words": [
     {
+      "id": "placement",
       "en": "placement",
-      "pos": "noun",
-      "def_en": "The sale of new shares by a company to raise money",
-      "example_en": "The company told Reuters the placement would raise eighty billion Hong Kong dollars.",
-      "sense_note": ""
+      "ko": "The sale of new shares by a company to raise money",
+      "l1": {
+        "en": "The sale of new shares by a company to raise money"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The sale of new shares by a company to raise money"
+        },
+        "example": {
+          "en": "The company told Reuters the placement would raise eighty billion Hong Kong dollars."
+        }
+      },
+      "picture_prompt": "a clear photo of placement: The sale of new shares by a company to raise money"
     },
     {
+      "id": "billion",
       "en": "billion",
-      "pos": "noun",
-      "def_en": "The number one thousand million",
-      "example_en": "The company told Reuters the placement would raise eighty billion Hong Kong dollars.",
-      "sense_note": ""
+      "ko": "The number one thousand million",
+      "l1": {
+        "en": "The number one thousand million"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The number one thousand million"
+        },
+        "example": {
+          "en": "The company told Reuters the placement would raise eighty billion Hong Kong dollars."
+        }
+      },
+      "picture_prompt": "a clear photo of billion: The number one thousand million"
     },
     {
+      "id": "offering",
       "en": "offering",
-      "pos": "noun",
-      "def_en": "Shares or securities made available for sale",
-      "example_en": "The firm said the deal would be the largest primary follow-on offering ever by a Hong Kong-listed company.",
-      "sense_note": ""
+      "ko": "Shares or securities made available for sale",
+      "l1": {
+        "en": "Shares or securities made available for sale"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Shares or securities made available for sale"
+        },
+        "example": {
+          "en": "The firm said the deal would be the largest primary follow-on offering ever by a Hong Kong-listed company."
+        }
+      },
+      "picture_prompt": "a clear photo of offering: Shares or securities made available for sale"
     },
     {
+      "id": "proceeds",
       "en": "proceeds",
-      "pos": "noun",
-      "def_en": "The money received from a sale or event",
-      "example_en": "Alibaba said one hundred percent of the net proceeds would go into its full-stack AI work.",
-      "sense_note": ""
+      "ko": "The money received from a sale or event",
+      "l1": {
+        "en": "The money received from a sale or event"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The money received from a sale or event"
+        },
+        "example": {
+          "en": "Alibaba said one hundred percent of the net proceeds would go into its full-stack AI work."
+        }
+      },
+      "picture_prompt": "a clear photo of proceeds: The money received from a sale or event"
     },
     {
+      "id": "infrastructure",
       "en": "infrastructure",
-      "pos": "noun",
-      "def_en": "The basic systems and structures needed for something to work",
-      "example_en": "That includes expanding and improving the computers, data centers, and other infrastructure that AI needs.",
-      "sense_note": ""
+      "ko": "The basic systems and structures needed for something to work",
+      "l1": {
+        "en": "The basic systems and structures needed for something to work"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The basic systems and structures needed for something to work"
+        },
+        "example": {
+          "en": "That includes expanding and improving the computers, data centers, and other infrastructure that AI needs."
+        }
+      },
+      "picture_prompt": "a clear photo of infrastructure: The basic systems and structures needed for something to work"
     },
     {
+      "id": "company",
       "en": "company",
-      "pos": "noun",
-      "def_en": "A business organization that makes or sells goods or services",
-      "example_en": "The company told Reuters the placement would raise eighty billion Hong Kong dollars.",
-      "sense_note": ""
+      "ko": "A business organization that makes or sells goods or services",
+      "l1": {
+        "en": "A business organization that makes or sells goods or services"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A business organization that makes or sells goods or services"
+        },
+        "example": {
+          "en": "The company told Reuters the placement would raise eighty billion Hong Kong dollars."
+        }
+      },
+      "picture_prompt": "a clear photo of company: A business organization that makes or sells goods or services"
     },
     {
+      "id": "market",
       "en": "market",
-      "pos": "noun",
-      "def_en": "A place or system where things are bought and sold",
-      "example_en": "A company that already sells goods online is asking the market for a huge pile of new money.",
-      "sense_note": ""
+      "ko": "A place or system where things are bought and sold",
+      "l1": {
+        "en": "A place or system where things are bought and sold"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A place or system where things are bought and sold"
+        },
+        "example": {
+          "en": "A company that already sells goods online is asking the market for a huge pile of new money."
+        }
+      },
+      "picture_prompt": "a clear photo of market: A place or system where things are bought and sold"
     },
     {
+      "id": "equity",
       "en": "equity",
-      "pos": "noun",
-      "def_en": "Ownership shares in a company",
-      "example_en": "It would also be the biggest Regulation S equity offering on record.",
-      "sense_note": ""
+      "ko": "Ownership shares in a company",
+      "l1": {
+        "en": "Ownership shares in a company"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Ownership shares in a company"
+        },
+        "example": {
+          "en": "It would also be the biggest Regulation S equity offering on record."
+        }
+      },
+      "picture_prompt": "a clear photo of equity: Ownership shares in a company"
     },
     {
+      "id": "invest",
       "en": "invest",
-      "pos": "verb",
-      "def_en": "To put money into something to make a profit",
-      "example_en": "China's Alibaba said on Sunday that it wants to sell new shares in Hong Kong.",
-      "sense_note": ""
+      "ko": "To put money into something to make a profit",
+      "l1": {
+        "en": "To put money into something to make a profit"
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "To put money into something to make a profit"
+        },
+        "example": {
+          "en": "China's Alibaba said on Sunday that it wants to sell new shares in Hong Kong."
+        }
+      },
+      "picture_prompt": "a clear photo of invest: To put money into something to make a profit"
     },
     {
+      "id": "record",
       "en": "record",
-      "pos": "noun",
-      "def_en": "The best or largest amount ever achieved",
-      "example_en": "It would also be the biggest Regulation S equity offering on record.",
-      "sense_note": ""
+      "ko": "The best or largest amount ever achieved",
+      "l1": {
+        "en": "The best or largest amount ever achieved"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The best or largest amount ever achieved"
+        },
+        "example": {
+          "en": "It would also be the biggest Regulation S equity offering on record."
+        }
+      },
+      "picture_prompt": "a clear photo of record: The best or largest amount ever achieved"
     }
   ]
 }

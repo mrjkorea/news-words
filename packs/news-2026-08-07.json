@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-08-07",
+  "title": "News 2026-08-07",
   "date": "2026-08-07",
-  "timezone": "KST",
   "headline": "2026 08 07",
-  "youtube_title": "2026 08 07",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0807.txt",
   "words": [
     {
+      "id": "protein",
       "en": "protein",
-      "pos": "noun",
-      "def_en": "A large molecule in living things made of amino acids needed for structure and function.",
-      "example_en": "A protein that emerged long before animals developed circulatory systems may influence whether cancer immunotherapy succeeds.",
-      "sense_note": ""
+      "ko": "A large molecule in living things made of amino acids needed for structure and function.",
+      "l1": {
+        "en": "A large molecule in living things made of amino acids needed for structure and function."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A large molecule in living things made of amino acids needed for structure and function."
+        },
+        "example": {
+          "en": "A protein that emerged long before animals developed circulatory systems may influence whether cancer immunotherapy succeeds."
+        }
+      },
+      "picture_prompt": "a clear photo of protein: A large molecule in living things made of amino acids needed for structure an..."
     },
     {
+      "id": "immunotherapy",
       "en": "immunotherapy",
-      "pos": "noun",
-      "def_en": "A treatment that helps the body's immune system fight disease such as cancer.",
-      "example_en": "A protein that emerged long before animals developed circulatory systems may influence whether cancer immunotherapy succeeds.",
-      "sense_note": ""
+      "ko": "A treatment that helps the body's immune system fight disease such as cancer.",
+      "l1": {
+        "en": "A treatment that helps the body's immune system fight disease such as cancer."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A treatment that helps the body's immune system fight disease such as cancer."
+        },
+        "example": {
+          "en": "A protein that emerged long before animals developed circulatory systems may influence whether cancer immunotherapy succeeds."
+        }
+      },
+      "picture_prompt": "a clear photo of immunotherapy: A treatment that helps the body's immune system fight disease such as cancer."
     },
     {
+      "id": "tumor",
       "en": "tumor",
-      "pos": "noun",
-      "def_en": "An abnormal growth of cells in the body.",
-      "example_en": "Researchers at Nagoya University in Japan found that a protein called complement C three helps keep immunosuppressive cells out of tumors, but only when the protein is produced within the tumor itself.",
-      "sense_note": ""
+      "ko": "An abnormal growth of cells in the body.",
+      "l1": {
+        "en": "An abnormal growth of cells in the body."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "An abnormal growth of cells in the body."
+        },
+        "example": {
+          "en": "Researchers at Nagoya University in Japan found that a protein called complement C three helps keep immunosuppressive cells out of tumors, but only when the protein is produced within the tumor itself."
+        }
+      },
+      "picture_prompt": "a clear photo of tumor: An abnormal growth of cells in the body."
     },
     {
+      "id": "immune",
       "en": "immune",
-      "pos": "noun",
-      "def_en": "Protected against disease by the body's defense system.",
-      "example_en": "By limiting these cells, local C three gives the immune system a better opportunity to attack the cancer.",
-      "sense_note": ""
+      "ko": "Protected against disease by the body's defense system.",
+      "l1": {
+        "en": "Protected against disease by the body's defense system."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Protected against disease by the body's defense system."
+        },
+        "example": {
+          "en": "By limiting these cells, local C three gives the immune system a better opportunity to attack the cancer."
+        }
+      },
+      "picture_prompt": "a clear photo of immune: Protected against disease by the body's defense system."
     },
     {
+      "id": "circulate",
       "en": "circulate",
-      "pos": "verb",
-      "def_en": "To move continuously through a system such as blood through the body.",
-      "example_en": "A protein that emerged long before animals developed circulatory systems may influence whether cancer immunotherapy succeeds.",
-      "sense_note": ""
+      "ko": "To move continuously through a system such as blood through the body.",
+      "l1": {
+        "en": "To move continuously through a system such as blood through the body."
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "To move continuously through a system such as blood through the body."
+        },
+        "example": {
+          "en": "A protein that emerged long before animals developed circulatory systems may influence whether cancer immunotherapy succeeds."
+        }
+      },
+      "picture_prompt": "a clear photo of circulate: To move continuously through a system such as blood through the body."
     },
     {
+      "id": "fibroblast",
       "en": "fibroblast",
-      "pos": "noun",
-      "def_en": "A cell in connective tissue that helps build and repair body structures.",
-      "example_en": "A protein that emerged long before animals developed circulatory systems may influence whether cancer immunotherapy succeeds.",
-      "sense_note": ""
+      "ko": "A cell in connective tissue that helps build and repair body structures.",
+      "l1": {
+        "en": "A cell in connective tissue that helps build and repair body structures."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A cell in connective tissue that helps build and repair body structures."
+        },
+        "example": {
+          "en": "A protein that emerged long before animals developed circulatory systems may influence whether cancer immunotherapy succeeds."
+        }
+      },
+      "picture_prompt": "a clear photo of fibroblast: A cell in connective tissue that helps build and repair body structures."
     },
     {
+      "id": "suppress",
       "en": "suppress",
-      "pos": "verb",
-      "def_en": "To stop or reduce something from happening or growing.",
-      "example_en": "A protein that emerged long before animals developed circulatory systems may influence whether cancer immunotherapy succeeds.",
-      "sense_note": ""
+      "ko": "To stop or reduce something from happening or growing.",
+      "l1": {
+        "en": "To stop or reduce something from happening or growing."
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "To stop or reduce something from happening or growing."
+        },
+        "example": {
+          "en": "A protein that emerged long before animals developed circulatory systems may influence whether cancer immunotherapy succeeds."
+        }
+      },
+      "picture_prompt": "a clear photo of suppress: To stop or reduce something from happening or growing."
     },
     {
+      "id": "resistant",
       "en": "resistant",
-      "pos": "noun",
-      "def_en": "Not easily affected or harmed by something.",
-      "example_en": "A protein that emerged long before animals developed circulatory systems may influence whether cancer immunotherapy succeeds.",
-      "sense_note": ""
+      "ko": "Not easily affected or harmed by something.",
+      "l1": {
+        "en": "Not easily affected or harmed by something."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Not easily affected or harmed by something."
+        },
+        "example": {
+          "en": "A protein that emerged long before animals developed circulatory systems may influence whether cancer immunotherapy succeeds."
+        }
+      },
+      "picture_prompt": "a clear photo of resistant: Not easily affected or harmed by something."
     },
     {
+      "id": "antibody",
       "en": "antibody",
-      "pos": "noun",
-      "def_en": "A protein produced by the immune system to fight specific invaders.",
-      "example_en": "A protein that emerged long before animals developed circulatory systems may influence whether cancer immunotherapy succeeds.",
-      "sense_note": ""
+      "ko": "A protein produced by the immune system to fight specific invaders.",
+      "l1": {
+        "en": "A protein produced by the immune system to fight specific invaders."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A protein produced by the immune system to fight specific invaders."
+        },
+        "example": {
+          "en": "A protein that emerged long before animals developed circulatory systems may influence whether cancer immunotherapy succeeds."
+        }
+      },
+      "picture_prompt": "a clear photo of antibody: A protein produced by the immune system to fight specific invaders."
     },
     {
+      "id": "fragment",
       "en": "fragment",
-      "pos": "noun",
-      "def_en": "A small piece broken off from something larger.",
-      "example_en": "A protein that emerged long before animals developed circulatory systems may influence whether cancer immunotherapy succeeds.",
-      "sense_note": ""
+      "ko": "A small piece broken off from something larger.",
+      "l1": {
+        "en": "A small piece broken off from something larger."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A small piece broken off from something larger."
+        },
+        "example": {
+          "en": "A protein that emerged long before animals developed circulatory systems may influence whether cancer immunotherapy succeeds."
+        }
+      },
+      "picture_prompt": "a clear photo of fragment: A small piece broken off from something larger."
     }
   ]
 }

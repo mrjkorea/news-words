@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-07-23",
+  "title": "News 2026-07-23",
   "date": "2026-07-23",
-  "timezone": "KST",
   "headline": "2026 07 23",
-  "youtube_title": "2026 07 23",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0723.txt",
   "words": [
     {
+      "id": "fast",
       "en": "fast",
-      "pos": "verb",
-      "def_en": "To not eat food for a period of time.",
-      "example_en": "Today's news uses the word fast.",
-      "sense_note": ""
+      "ko": "To not eat food for a period of time.",
+      "l1": {
+        "en": "To not eat food for a period of time."
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "To not eat food for a period of time."
+        },
+        "example": {
+          "en": "Today's news uses the word fast."
+        }
+      },
+      "picture_prompt": "a clear photo of fast: To not eat food for a period of time."
     },
     {
+      "id": "gut",
       "en": "gut",
-      "pos": "noun",
-      "def_en": "The long tube in the body that digests food; the digestive system.",
-      "example_en": "Today's news uses the word gut.",
-      "sense_note": ""
+      "ko": "The long tube in the body that digests food; the digestive system.",
+      "l1": {
+        "en": "The long tube in the body that digests food; the digestive system."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The long tube in the body that digests food; the digestive system."
+        },
+        "example": {
+          "en": "Today's news uses the word gut."
+        }
+      },
+      "picture_prompt": "a clear photo of gut: The long tube in the body that digests food; the digestive system."
     },
     {
+      "id": "bacterium",
       "en": "bacterium",
-      "pos": "noun",
-      "def_en": "A single tiny living thing; one microbe.",
-      "example_en": "Today's news uses the word bacterium.",
-      "sense_note": ""
+      "ko": "A single tiny living thing; one microbe.",
+      "l1": {
+        "en": "A single tiny living thing; one microbe."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A single tiny living thing; one microbe."
+        },
+        "example": {
+          "en": "Today's news uses the word bacterium."
+        }
+      },
+      "picture_prompt": "a clear photo of bacterium: A single tiny living thing; one microbe."
     },
     {
+      "id": "intestine",
       "en": "intestine",
-      "pos": "noun",
-      "def_en": "The long tube below the stomach where food is digested and absorbed.",
-      "example_en": "Today's news uses the word intestine.",
-      "sense_note": ""
+      "ko": "The long tube below the stomach where food is digested and absorbed.",
+      "l1": {
+        "en": "The long tube below the stomach where food is digested and absorbed."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The long tube below the stomach where food is digested and absorbed."
+        },
+        "example": {
+          "en": "Today's news uses the word intestine."
+        }
+      },
+      "picture_prompt": "a clear photo of intestine: The long tube below the stomach where food is digested and absorbed."
     },
     {
+      "id": "radiation",
       "en": "radiation",
-      "pos": "noun",
-      "def_en": "Powerful energy waves or particles used to treat cancer.",
-      "example_en": "Today's news uses the word radiation.",
-      "sense_note": ""
+      "ko": "Powerful energy waves or particles used to treat cancer.",
+      "l1": {
+        "en": "Powerful energy waves or particles used to treat cancer."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Powerful energy waves or particles used to treat cancer."
+        },
+        "example": {
+          "en": "Today's news uses the word radiation."
+        }
+      },
+      "picture_prompt": "a clear photo of radiation: Powerful energy waves or particles used to treat cancer."
     },
     {
+      "id": "heal",
       "en": "heal",
-      "pos": "verb",
-      "def_en": "To become healthy or whole again after injury.",
-      "example_en": "Today's news uses the word heal.",
-      "sense_note": ""
+      "ko": "To become healthy or whole again after injury.",
+      "l1": {
+        "en": "To become healthy or whole again after injury."
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "To become healthy or whole again after injury."
+        },
+        "example": {
+          "en": "Today's news uses the word heal."
+        }
+      },
+      "picture_prompt": "a clear photo of heal: To become healthy or whole again after injury."
     },
     {
+      "id": "tissue",
       "en": "tissue",
-      "pos": "noun",
-      "def_en": "A group of similar cells that work together in the body.",
-      "example_en": "Today's news uses the word tissue.",
-      "sense_note": ""
+      "ko": "A group of similar cells that work together in the body.",
+      "l1": {
+        "en": "A group of similar cells that work together in the body."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A group of similar cells that work together in the body."
+        },
+        "example": {
+          "en": "Today's news uses the word tissue."
+        }
+      },
+      "picture_prompt": "a clear photo of tissue: A group of similar cells that work together in the body."
     },
     {
+      "id": "therapy",
       "en": "therapy",
-      "pos": "noun",
-      "def_en": "Treatment to cure or manage a disease or condition.",
-      "example_en": "Today's news uses the word therapy.",
-      "sense_note": ""
+      "ko": "Treatment to cure or manage a disease or condition.",
+      "l1": {
+        "en": "Treatment to cure or manage a disease or condition."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Treatment to cure or manage a disease or condition."
+        },
+        "example": {
+          "en": "Today's news uses the word therapy."
+        }
+      },
+      "picture_prompt": "a clear photo of therapy: Treatment to cure or manage a disease or condition."
     },
     {
+      "id": "abdominal",
       "en": "abdominal",
-      "pos": "noun",
-      "def_en": "Relating to the stomach area of the body.",
-      "example_en": "Today's news uses the word abdominal.",
-      "sense_note": ""
+      "ko": "Relating to the stomach area of the body.",
+      "l1": {
+        "en": "Relating to the stomach area of the body."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Relating to the stomach area of the body."
+        },
+        "example": {
+          "en": "Today's news uses the word abdominal."
+        }
+      },
+      "picture_prompt": "a clear photo of abdominal: Relating to the stomach area of the body."
     },
     {
+      "id": "microbes",
       "en": "microbes",
-      "pos": "adjective",
-      "def_en": "Very small living things such as bacteria that can only be seen with a microscope.",
-      "example_en": "Today's news uses the word microbes.",
-      "sense_note": ""
+      "ko": "Very small living things such as bacteria that can only be seen with a microscope.",
+      "l1": {
+        "en": "Very small living things such as bacteria that can only be seen with a microscope."
+      },
+      "ww": {
+        "pos": "adj",
+        "def": {
+          "en": "Very small living things such as bacteria that can only be seen with a microscope."
+        },
+        "example": {
+          "en": "Today's news uses the word microbes."
+        }
+      },
+      "picture_prompt": "a clear photo of microbes: Very small living things such as bacteria that can only be seen with a micros..."
     }
   ]
 }

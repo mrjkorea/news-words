@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-08-20",
+  "title": "News 2026-08-20",
   "date": "2026-08-20",
-  "timezone": "KST",
   "headline": "Vietnam proposes ending the death penalty for six offences, keeping it for only four crimes",
-  "youtube_title": "Vietnam proposes ending the death penalty for six offences, keeping it for only four crimes",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0820.txt",
   "words": [
     {
+      "id": "penalty",
       "en": "penalty",
-      "pos": "noun",
-      "def_en": "A punishment given for breaking a law.",
-      "example_en": "Vietnam's government has proposed to abolish the death penalty for six offences, including drug trafficking.",
-      "sense_note": ""
+      "ko": "A punishment given for breaking a law.",
+      "l1": {
+        "en": "A punishment given for breaking a law."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A punishment given for breaking a law."
+        },
+        "example": {
+          "en": "Vietnam's government has proposed to abolish the death penalty for six offences, including drug trafficking."
+        }
+      },
+      "picture_prompt": "a clear photo of penalty: A punishment given for breaking a law."
     },
     {
+      "id": "offence",
       "en": "offence",
-      "pos": "noun",
-      "def_en": "A crime or illegal act.",
-      "example_en": "Each offence on the new list would no longer carry a death sentence.",
-      "sense_note": ""
+      "ko": "A crime or illegal act.",
+      "l1": {
+        "en": "A crime or illegal act."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A crime or illegal act."
+        },
+        "example": {
+          "en": "Each offence on the new list would no longer carry a death sentence."
+        }
+      },
+      "picture_prompt": "a clear photo of offence: A crime or illegal act."
     },
     {
+      "id": "assembly",
       "en": "assembly",
-      "pos": "noun",
-      "def_en": "A group of lawmakers who meet to make decisions.",
-      "example_en": "Public Security Minister Luong Tam Quang told the National Assembly that the draft code would keep the death penalty for only four crimes.",
-      "sense_note": ""
+      "ko": "A group of lawmakers who meet to make decisions.",
+      "l1": {
+        "en": "A group of lawmakers who meet to make decisions."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A group of lawmakers who meet to make decisions."
+        },
+        "example": {
+          "en": "Public Security Minister Luong Tam Quang told the National Assembly that the draft code would keep the death penalty for only four crimes."
+        }
+      },
+      "picture_prompt": "a clear photo of assembly: A group of lawmakers who meet to make decisions."
     },
     {
+      "id": "draft",
       "en": "draft",
-      "pos": "noun",
-      "def_en": "An early written version of a law or document.",
-      "example_en": "The draft revision of the criminal code was presented to parliament on Thursday, Reuters reported, citing state media.",
-      "sense_note": ""
+      "ko": "An early written version of a law or document.",
+      "l1": {
+        "en": "An early written version of a law or document."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "An early written version of a law or document."
+        },
+        "example": {
+          "en": "The draft revision of the criminal code was presented to parliament on Thursday, Reuters reported, citing state media."
+        }
+      },
+      "picture_prompt": "a clear photo of draft: An early written version of a law or document."
     },
     {
+      "id": "treason",
       "en": "treason",
-      "pos": "noun",
-      "def_en": "The crime of betraying your country.",
-      "example_en": "Those remaining crimes are treason, murder, terrorism, and the illegal production of narcotics.",
-      "sense_note": ""
+      "ko": "The crime of betraying your country.",
+      "l1": {
+        "en": "The crime of betraying your country."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The crime of betraying your country."
+        },
+        "example": {
+          "en": "Those remaining crimes are treason, murder, terrorism, and the illegal production of narcotics."
+        }
+      },
+      "picture_prompt": "a clear photo of treason: The crime of betraying your country."
     },
     {
+      "id": "murder",
       "en": "murder",
-      "pos": "noun",
-      "def_en": "The crime of killing a person on purpose.",
-      "example_en": "Those remaining crimes are treason, murder, terrorism, and the illegal production of narcotics.",
-      "sense_note": ""
+      "ko": "The crime of killing a person on purpose.",
+      "l1": {
+        "en": "The crime of killing a person on purpose."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The crime of killing a person on purpose."
+        },
+        "example": {
+          "en": "Those remaining crimes are treason, murder, terrorism, and the illegal production of narcotics."
+        }
+      },
+      "picture_prompt": "a clear photo of murder: The crime of killing a person on purpose."
     },
     {
+      "id": "terrorism",
       "en": "terrorism",
-      "pos": "noun",
-      "def_en": "The use of violence to frighten people for a political goal.",
-      "example_en": "Those remaining crimes are treason, murder, terrorism, and the illegal production of narcotics.",
-      "sense_note": ""
+      "ko": "The use of violence to frighten people for a political goal.",
+      "l1": {
+        "en": "The use of violence to frighten people for a political goal."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The use of violence to frighten people for a political goal."
+        },
+        "example": {
+          "en": "Those remaining crimes are treason, murder, terrorism, and the illegal production of narcotics."
+        }
+      },
+      "picture_prompt": "a clear photo of terrorism: The use of violence to frighten people for a political goal."
     },
     {
+      "id": "narcotics",
       "en": "narcotics",
-      "pos": "noun",
-      "def_en": "Illegal drugs that are controlled by law.",
-      "example_en": "Those remaining crimes are treason, murder, terrorism, and the illegal production of narcotics.",
-      "sense_note": ""
+      "ko": "Illegal drugs that are controlled by law.",
+      "l1": {
+        "en": "Illegal drugs that are controlled by law."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Illegal drugs that are controlled by law."
+        },
+        "example": {
+          "en": "Those remaining crimes are treason, murder, terrorism, and the illegal production of narcotics."
+        }
+      },
+      "picture_prompt": "a clear photo of narcotics: Illegal drugs that are controlled by law."
     },
     {
+      "id": "abolish",
       "en": "abolish",
-      "pos": "verb",
-      "def_en": "To officially end a law or system.",
-      "example_en": "Vietnam's government has proposed to abolish the death penalty for six offences, including drug trafficking.",
-      "sense_note": ""
+      "ko": "To officially end a law or system.",
+      "l1": {
+        "en": "To officially end a law or system."
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "To officially end a law or system."
+        },
+        "example": {
+          "en": "Vietnam's government has proposed to abolish the death penalty for six offences, including drug trafficking."
+        }
+      },
+      "picture_prompt": "a clear photo of abolish: To officially end a law or system."
     },
     {
+      "id": "injection",
       "en": "injection",
-      "pos": "verb",
-      "def_en": "The act of putting a liquid into the body with a needle.",
-      "example_en": "Lethal injection is now the only method of execution, after firing squads were abolished in twenty eleven.",
-      "sense_note": ""
+      "ko": "The act of putting a liquid into the body with a needle.",
+      "l1": {
+        "en": "The act of putting a liquid into the body with a needle."
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "The act of putting a liquid into the body with a needle."
+        },
+        "example": {
+          "en": "Lethal injection is now the only method of execution, after firing squads were abolished in twenty eleven."
+        }
+      },
+      "picture_prompt": "a clear photo of injection: The act of putting a liquid into the body with a needle."
     }
   ]
 }

@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-07-30",
+  "title": "News 2026-07-30",
   "date": "2026-07-30",
-  "timezone": "KST",
   "headline": "Coffee linked to dramatically lower risk of liver disease and liver cancer",
-  "youtube_title": "Coffee linked to dramatically lower risk of liver disease and liver cancer",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0730.txt",
   "words": [
     {
+      "id": "cirrhosis",
       "en": "cirrhosis",
-      "pos": "noun",
-      "def_en": "A chronic liver disease marked by permanent scarring and damage to the liver.",
-      "example_en": "A large new study has found that drinking coffee is linked to a significantly lower risk of liver disease, cirrhosis, and liver cancer.",
-      "sense_note": ""
+      "ko": "A chronic liver disease marked by permanent scarring and damage to the liver.",
+      "l1": {
+        "en": "A chronic liver disease marked by permanent scarring and damage to the liver."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A chronic liver disease marked by permanent scarring and damage to the liver."
+        },
+        "example": {
+          "en": "A large new study has found that drinking coffee is linked to a significantly lower risk of liver disease, cirrhosis, and liver cancer."
+        }
+      },
+      "picture_prompt": "a clear photo of cirrhosis: A chronic liver disease marked by permanent scarring and damage to the liver."
     },
     {
+      "id": "antioxidant",
       "en": "antioxidant",
-      "pos": "noun",
-      "def_en": "A substance that prevents or slows damage to cells caused by harmful molecules.",
-      "example_en": "Your daily cup of coffee may be doing more than just waking you up.",
-      "sense_note": ""
+      "ko": "A substance that prevents or slows damage to cells caused by harmful molecules.",
+      "l1": {
+        "en": "A substance that prevents or slows damage to cells caused by harmful molecules."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A substance that prevents or slows damage to cells caused by harmful molecules."
+        },
+        "example": {
+          "en": "Your daily cup of coffee may be doing more than just waking you up."
+        }
+      },
+      "picture_prompt": "a clear photo of antioxidant: A substance that prevents or slows damage to cells caused by harmful molecules."
     },
     {
+      "id": "caffeine",
       "en": "caffeine",
-      "pos": "noun",
-      "def_en": "A natural stimulant found in coffee",
-      "example_en": "The benefits appear to come from antioxidants in coffee rather than caffeine.",
-      "sense_note": ""
+      "ko": "A natural stimulant found in coffee",
+      "l1": {
+        "en": "A natural stimulant found in coffee"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A natural stimulant found in coffee"
+        },
+        "example": {
+          "en": "The benefits appear to come from antioxidants in coffee rather than caffeine."
+        }
+      },
+      "picture_prompt": "a clear photo of caffeine: A natural stimulant found in coffee"
     },
     {
+      "id": "compound",
       "en": "compound",
-      "pos": "noun",
-      "def_en": "A substance formed from two or more elements chemically combined.",
-      "example_en": "Your daily cup of coffee may be doing more than just waking you up.",
-      "sense_note": ""
+      "ko": "A substance formed from two or more elements chemically combined.",
+      "l1": {
+        "en": "A substance formed from two or more elements chemically combined."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A substance formed from two or more elements chemically combined."
+        },
+        "example": {
+          "en": "Your daily cup of coffee may be doing more than just waking you up."
+        }
+      },
+      "picture_prompt": "a clear photo of compound: A substance formed from two or more elements chemically combined."
     },
     {
+      "id": "inflammation",
       "en": "inflammation",
-      "pos": "noun",
-      "def_en": "A localized physical condition where part of the body becomes red",
-      "example_en": "However, those who used sweeteners showed an elevated marker for liver inflammation, which can contribute to fatty liver disease.",
-      "sense_note": ""
+      "ko": "A localized physical condition where part of the body becomes red",
+      "l1": {
+        "en": "A localized physical condition where part of the body becomes red"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A localized physical condition where part of the body becomes red"
+        },
+        "example": {
+          "en": "However, those who used sweeteners showed an elevated marker for liver inflammation, which can contribute to fatty liver disease."
+        }
+      },
+      "picture_prompt": "a clear photo of inflammation: A localized physical condition where part of the body becomes red"
     },
     {
+      "id": "consumption",
       "en": "consumption",
-      "pos": "verb",
-      "def_en": "The act of eating",
-      "example_en": "Still, the findings add to a growing body of evidence that moderate coffee consumption can be part of a healthy lifestyle.",
-      "sense_note": ""
+      "ko": "The act of eating",
+      "l1": {
+        "en": "The act of eating"
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "The act of eating"
+        },
+        "example": {
+          "en": "Still, the findings add to a growing body of evidence that moderate coffee consumption can be part of a healthy lifestyle."
+        }
+      },
+      "picture_prompt": "a clear photo of consumption: The act of eating"
     },
     {
+      "id": "moderate",
       "en": "moderate",
-      "pos": "noun",
-      "def_en": "Not extreme or excessive; within reasonable limits.",
-      "example_en": "Still, the findings add to a growing body of evidence that moderate coffee consumption can be part of a healthy lifestyle.",
-      "sense_note": ""
+      "ko": "Not extreme or excessive; within reasonable limits.",
+      "l1": {
+        "en": "Not extreme or excessive; within reasonable limits."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Not extreme or excessive; within reasonable limits."
+        },
+        "example": {
+          "en": "Still, the findings add to a growing body of evidence that moderate coffee consumption can be part of a healthy lifestyle."
+        }
+      },
+      "picture_prompt": "a clear photo of moderate: Not extreme or excessive; within reasonable limits."
     },
     {
+      "id": "chronic",
       "en": "chronic",
-      "pos": "noun",
-      "def_en": "Persisting for a long time or constantly recurring.",
-      "example_en": "Your daily cup of coffee may be doing more than just waking you up.",
-      "sense_note": ""
+      "ko": "Persisting for a long time or constantly recurring.",
+      "l1": {
+        "en": "Persisting for a long time or constantly recurring."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Persisting for a long time or constantly recurring."
+        },
+        "example": {
+          "en": "Your daily cup of coffee may be doing more than just waking you up."
+        }
+      },
+      "picture_prompt": "a clear photo of chronic: Persisting for a long time or constantly recurring."
     },
     {
+      "id": "beneficial",
       "en": "beneficial",
-      "pos": "noun",
-      "def_en": "Producing good results or helpful effects.",
-      "example_en": "Your daily cup of coffee may be doing more than just waking you up.",
-      "sense_note": ""
+      "ko": "Producing good results or helpful effects.",
+      "l1": {
+        "en": "Producing good results or helpful effects."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Producing good results or helpful effects."
+        },
+        "example": {
+          "en": "Your daily cup of coffee may be doing more than just waking you up."
+        }
+      },
+      "picture_prompt": "a clear photo of beneficial: Producing good results or helpful effects."
     },
     {
+      "id": "decaffeinated",
       "en": "decaffeinated",
-      "pos": "adjective",
-      "def_en": "Having had most or all of the caffeine removed.",
-      "example_en": "Hyunseok Kim of Cedars-Sinai Medical Center says decaffeinated drinkers showed similar benefits.",
-      "sense_note": ""
+      "ko": "Having had most or all of the caffeine removed.",
+      "l1": {
+        "en": "Having had most or all of the caffeine removed."
+      },
+      "ww": {
+        "pos": "adj",
+        "def": {
+          "en": "Having had most or all of the caffeine removed."
+        },
+        "example": {
+          "en": "Hyunseok Kim of Cedars-Sinai Medical Center says decaffeinated drinkers showed similar benefits."
+        }
+      },
+      "picture_prompt": "a clear photo of decaffeinated: Having had most or all of the caffeine removed."
     }
   ]
 }

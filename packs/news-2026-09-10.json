@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-09-10",
+  "title": "News 2026-09-10",
   "date": "2026-09-10",
-  "timezone": "KST",
   "headline": "Injectable hydrogel from University at Buffalo could keep arthritis drugs working for weeks",
-  "youtube_title": "Injectable hydrogel from University at Buffalo could keep arthritis drugs working for weeks",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0910.txt",
   "words": [
     {
+      "id": "arthritis",
       "en": "arthritis",
-      "pos": "noun",
-      "def_en": "A disease that causes painful stiff joints",
-      "example_en": "For English learners, this health story connects words like injection, lubrication, and symptom with a real attempt to make arthritis care last longer.",
-      "sense_note": ""
+      "ko": "A disease that causes painful stiff joints",
+      "l1": {
+        "en": "A disease that causes painful stiff joints"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A disease that causes painful stiff joints"
+        },
+        "example": {
+          "en": "For English learners, this health story connects words like injection, lubrication, and symptom with a real attempt to make arthritis care last longer."
+        }
+      },
+      "picture_prompt": "a clear photo of arthritis: A disease that causes painful stiff joints"
     },
     {
+      "id": "injection",
       "en": "injection",
-      "pos": "noun",
-      "def_en": "Medicine put into the body with a needle",
-      "example_en": "For English learners, this health story connects words like injection, lubrication, and symptom with a real attempt to make arthritis care last longer.",
-      "sense_note": ""
+      "ko": "Medicine put into the body with a needle",
+      "l1": {
+        "en": "Medicine put into the body with a needle"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Medicine put into the body with a needle"
+        },
+        "example": {
+          "en": "For English learners, this health story connects words like injection, lubrication, and symptom with a real attempt to make arthritis care last longer."
+        }
+      },
+      "picture_prompt": "a clear photo of injection: Medicine put into the body with a needle"
     },
     {
+      "id": "hydrogel",
       "en": "hydrogel",
-      "pos": "noun",
-      "def_en": "A water-based gel that can hold and release drugs",
-      "example_en": "Scientists at the University at Buffalo say a new injectable hydrogel could change how osteoarthritis is treated.",
-      "sense_note": ""
+      "ko": "A water-based gel that can hold and release drugs",
+      "l1": {
+        "en": "A water-based gel that can hold and release drugs"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A water-based gel that can hold and release drugs"
+        },
+        "example": {
+          "en": "Scientists at the University at Buffalo say a new injectable hydrogel could change how osteoarthritis is treated."
+        }
+      },
+      "picture_prompt": "a clear photo of hydrogel: A water-based gel that can hold and release drugs"
     },
     {
+      "id": "joint",
       "en": "joint",
-      "pos": "noun",
-      "def_en": "A place where two bones meet and move",
-      "example_en": "ScienceDaily reports that the material starts as a liquid, then turns into a smooth semisolid depot inside the joint at body temperature.",
-      "sense_note": ""
+      "ko": "A place where two bones meet and move",
+      "l1": {
+        "en": "A place where two bones meet and move"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A place where two bones meet and move"
+        },
+        "example": {
+          "en": "ScienceDaily reports that the material starts as a liquid, then turns into a smooth semisolid depot inside the joint at body temperature."
+        }
+      },
+      "picture_prompt": "a clear photo of joint: A place where two bones meet and move"
     },
     {
+      "id": "lubrication",
       "en": "lubrication",
-      "pos": "noun",
-      "def_en": "A slippery layer that reduces friction",
-      "example_en": "The gel also improves lubrication, which could help stiff, painful knees move more smoothly during daily activity.",
-      "sense_note": ""
+      "ko": "A slippery layer that reduces friction",
+      "l1": {
+        "en": "A slippery layer that reduces friction"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A slippery layer that reduces friction"
+        },
+        "example": {
+          "en": "The gel also improves lubrication, which could help stiff, painful knees move more smoothly during daily activity."
+        }
+      },
+      "picture_prompt": "a clear photo of lubrication: A slippery layer that reduces friction"
     },
     {
+      "id": "cartilage",
       "en": "cartilage",
-      "pos": "noun",
-      "def_en": "Smooth tissue that cushions bones in a joint",
-      "example_en": "Small-molecule drugs and biologics can also wash out of synovial fluid fast, limiting how much medicine actually reaches damaged cartilage.",
-      "sense_note": ""
+      "ko": "Smooth tissue that cushions bones in a joint",
+      "l1": {
+        "en": "Smooth tissue that cushions bones in a joint"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Smooth tissue that cushions bones in a joint"
+        },
+        "example": {
+          "en": "Small-molecule drugs and biologics can also wash out of synovial fluid fast, limiting how much medicine actually reaches damaged cartilage."
+        }
+      },
+      "picture_prompt": "a clear photo of cartilage: Smooth tissue that cushions bones in a joint"
     },
     {
+      "id": "therapy",
       "en": "therapy",
-      "pos": "noun",
-      "def_en": "Treatment meant to improve health",
-      "example_en": "If trials succeed, one shot could mean weeks of targeted therapy instead of repeated appointments.",
-      "sense_note": ""
+      "ko": "Treatment meant to improve health",
+      "l1": {
+        "en": "Treatment meant to improve health"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Treatment meant to improve health"
+        },
+        "example": {
+          "en": "If trials succeed, one shot could mean weeks of targeted therapy instead of repeated appointments."
+        }
+      },
+      "picture_prompt": "a clear photo of therapy: Treatment meant to improve health"
     },
     {
+      "id": "depot",
       "en": "depot",
-      "pos": "noun",
-      "def_en": "A storage place where material is held for later use",
-      "example_en": "ScienceDaily reports that the material starts as a liquid, then turns into a smooth semisolid depot inside the joint at body temperature.",
-      "sense_note": ""
+      "ko": "A storage place where material is held for later use",
+      "l1": {
+        "en": "A storage place where material is held for later use"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A storage place where material is held for later use"
+        },
+        "example": {
+          "en": "ScienceDaily reports that the material starts as a liquid, then turns into a smooth semisolid depot inside the joint at body temperature."
+        }
+      },
+      "picture_prompt": "a clear photo of depot: A storage place where material is held for later use"
     },
     {
+      "id": "biologic",
       "en": "biologic",
-      "pos": "noun",
-      "def_en": "A medicine made from living cells or proteins",
-      "example_en": "Scientists at the University at Buffalo say a new injectable hydrogel could change how osteoarthritis is treated.",
-      "sense_note": ""
+      "ko": "A medicine made from living cells or proteins",
+      "l1": {
+        "en": "A medicine made from living cells or proteins"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A medicine made from living cells or proteins"
+        },
+        "example": {
+          "en": "Scientists at the University at Buffalo say a new injectable hydrogel could change how osteoarthritis is treated."
+        }
+      },
+      "picture_prompt": "a clear photo of biologic: A medicine made from living cells or proteins"
     },
     {
+      "id": "symptom",
       "en": "symptom",
-      "pos": "noun",
-      "def_en": "A sign of illness that a patient feels",
-      "example_en": "For English learners, this health story connects words like injection, lubrication, and symptom with a real attempt to make arthritis care last longer.",
-      "sense_note": ""
+      "ko": "A sign of illness that a patient feels",
+      "l1": {
+        "en": "A sign of illness that a patient feels"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A sign of illness that a patient feels"
+        },
+        "example": {
+          "en": "For English learners, this health story connects words like injection, lubrication, and symptom with a real attempt to make arthritis care last longer."
+        }
+      },
+      "picture_prompt": "a clear photo of symptom: A sign of illness that a patient feels"
     }
   ]
 }

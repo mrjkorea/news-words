@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-08-31",
+  "title": "News 2026-08-31",
   "date": "2026-08-31",
-  "timezone": "KST",
   "headline": "Spirulina grown under special light makes active vitamin B12 like beef",
-  "youtube_title": "Spirulina grown under special light makes active vitamin B12 like beef",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0831.txt",
   "words": [
     {
+      "id": "spirulina",
       "en": "spirulina",
-      "pos": "noun",
-      "def_en": "A blue-green algae grown as a protein-rich food",
-      "example_en": "Scientists say they have grown Spirulina algae that makes biologically active vitamin B twelve.",
-      "sense_note": ""
+      "ko": "A blue-green algae grown as a protein-rich food",
+      "l1": {
+        "en": "A blue-green algae grown as a protein-rich food"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A blue-green algae grown as a protein-rich food"
+        },
+        "example": {
+          "en": "Scientists say they have grown Spirulina algae that makes biologically active vitamin B twelve."
+        }
+      },
+      "picture_prompt": "a clear photo of spirulina: A blue-green algae grown as a protein-rich food"
     },
     {
+      "id": "vitamin",
       "en": "vitamin",
-      "pos": "noun",
-      "def_en": "A substance the body needs in small amounts to stay healthy",
-      "example_en": "Scientists say they have grown Spirulina algae that makes biologically active vitamin B twelve.",
-      "sense_note": ""
+      "ko": "A substance the body needs in small amounts to stay healthy",
+      "l1": {
+        "en": "A substance the body needs in small amounts to stay healthy"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A substance the body needs in small amounts to stay healthy"
+        },
+        "example": {
+          "en": "Scientists say they have grown Spirulina algae that makes biologically active vitamin B twelve."
+        }
+      },
+      "picture_prompt": "a clear photo of vitamin: A substance the body needs in small amounts to stay healthy"
     },
     {
+      "id": "algae",
       "en": "algae",
-      "pos": "noun",
-      "def_en": "Simple water plants that can make food from light",
-      "example_en": "Scientists say they have grown Spirulina algae that makes biologically active vitamin B twelve.",
-      "sense_note": ""
+      "ko": "Simple water plants that can make food from light",
+      "l1": {
+        "en": "Simple water plants that can make food from light"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Simple water plants that can make food from light"
+        },
+        "example": {
+          "en": "Scientists say they have grown Spirulina algae that makes biologically active vitamin B twelve."
+        }
+      },
+      "picture_prompt": "a clear photo of algae: Simple water plants that can make food from light"
     },
     {
+      "id": "active",
       "en": "active",
-      "pos": "adjective",
-      "def_en": "Able to work in the body in a useful way",
-      "example_en": "Scientists say they have grown Spirulina algae that makes biologically active vitamin B twelve.",
-      "sense_note": ""
+      "ko": "Able to work in the body in a useful way",
+      "l1": {
+        "en": "Able to work in the body in a useful way"
+      },
+      "ww": {
+        "pos": "adj",
+        "def": {
+          "en": "Able to work in the body in a useful way"
+        },
+        "example": {
+          "en": "Scientists say they have grown Spirulina algae that makes biologically active vitamin B twelve."
+        }
+      },
+      "picture_prompt": "a clear photo of active: Able to work in the body in a useful way"
     },
     {
+      "id": "biomass",
       "en": "biomass",
-      "pos": "noun",
-      "def_en": "Plant or algae material used as a source of energy or food",
-      "example_en": "Science Daily reports that the amount in the new biomass is comparable to beef.",
-      "sense_note": ""
+      "ko": "Plant or algae material used as a source of energy or food",
+      "l1": {
+        "en": "Plant or algae material used as a source of energy or food"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Plant or algae material used as a source of energy or food"
+        },
+        "example": {
+          "en": "Science Daily reports that the amount in the new biomass is comparable to beef."
+        }
+      },
+      "picture_prompt": "a clear photo of biomass: Plant or algae material used as a source of energy or food"
     },
     {
+      "id": "nutrient",
       "en": "nutrient",
-      "pos": "noun",
-      "def_en": "A substance in food that helps the body grow and work",
-      "example_en": "Scientists say they have grown Spirulina algae that makes biologically active vitamin B twelve.",
-      "sense_note": ""
+      "ko": "A substance in food that helps the body grow and work",
+      "l1": {
+        "en": "A substance in food that helps the body grow and work"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A substance in food that helps the body grow and work"
+        },
+        "example": {
+          "en": "Scientists say they have grown Spirulina algae that makes biologically active vitamin B twelve."
+        }
+      },
+      "picture_prompt": "a clear photo of nutrient: A substance in food that helps the body grow and work"
     },
     {
+      "id": "deficiency",
       "en": "deficiency",
-      "pos": "noun",
-      "def_en": "A lack of something the body needs",
-      "example_en": "Scientists say they have grown Spirulina algae that makes biologically active vitamin B twelve.",
-      "sense_note": ""
+      "ko": "A lack of something the body needs",
+      "l1": {
+        "en": "A lack of something the body needs"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A lack of something the body needs"
+        },
+        "example": {
+          "en": "Scientists say they have grown Spirulina algae that makes biologically active vitamin B twelve."
+        }
+      },
+      "picture_prompt": "a clear photo of deficiency: A lack of something the body needs"
     },
     {
+      "id": "sustainable",
       "en": "sustainable",
-      "pos": "adjective",
-      "def_en": "Able to continue without harming the planet too much",
-      "example_en": "Tzachor said photosynthetically controlled Spirulina can offer a sustainable alternative to animal-source foods.",
-      "sense_note": ""
+      "ko": "Able to continue without harming the planet too much",
+      "l1": {
+        "en": "Able to continue without harming the planet too much"
+      },
+      "ww": {
+        "pos": "adj",
+        "def": {
+          "en": "Able to continue without harming the planet too much"
+        },
+        "example": {
+          "en": "Tzachor said photosynthetically controlled Spirulina can offer a sustainable alternative to animal-source foods."
+        }
+      },
+      "picture_prompt": "a clear photo of sustainable: Able to continue without harming the planet too much"
     },
     {
+      "id": "cultivation",
       "en": "cultivation",
-      "pos": "verb",
-      "def_en": "The process of growing plants or algae on purpose",
-      "example_en": "Scientists say they have grown Spirulina algae that makes biologically active vitamin B twelve.",
-      "sense_note": ""
+      "ko": "The process of growing plants or algae on purpose",
+      "l1": {
+        "en": "The process of growing plants or algae on purpose"
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "The process of growing plants or algae on purpose"
+        },
+        "example": {
+          "en": "Scientists say they have grown Spirulina algae that makes biologically active vitamin B twelve."
+        }
+      },
+      "picture_prompt": "a clear photo of cultivation: The process of growing plants or algae on purpose"
     },
     {
+      "id": "protein",
       "en": "protein",
-      "pos": "noun",
-      "def_en": "A nutrient that helps build muscle and body tissue",
-      "example_en": "Scientists say they have grown Spirulina algae that makes biologically active vitamin B twelve.",
-      "sense_note": ""
+      "ko": "A nutrient that helps build muscle and body tissue",
+      "l1": {
+        "en": "A nutrient that helps build muscle and body tissue"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A nutrient that helps build muscle and body tissue"
+        },
+        "example": {
+          "en": "Scientists say they have grown Spirulina algae that makes biologically active vitamin B twelve."
+        }
+      },
+      "picture_prompt": "a clear photo of protein: A nutrient that helps build muscle and body tissue"
     }
   ]
 }

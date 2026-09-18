@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-07-31",
+  "title": "News 2026-07-31",
   "date": "2026-07-31",
-  "timezone": "KST",
   "headline": "AI completely unwraps and reads 2,000-year-old Herculaneum scroll",
-  "youtube_title": "AI completely unwraps and reads 2,000-year-old Herculaneum scroll",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0731.txt",
   "words": [
     {
+      "id": "papyrus",
       "en": "papyrus",
-      "pos": "noun",
-      "def_en": "A material made from a water plant",
-      "example_en": "Using advanced artificial intelligence, researchers have fully unwrapped and read an entire carbonized papyrus scroll from the ancient Roman city of Herculaneum.",
-      "sense_note": ""
+      "ko": "A material made from a water plant",
+      "l1": {
+        "en": "A material made from a water plant"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A material made from a water plant"
+        },
+        "example": {
+          "en": "Using advanced artificial intelligence, researchers have fully unwrapped and read an entire carbonized papyrus scroll from the ancient Roman city of Herculaneum."
+        }
+      },
+      "picture_prompt": "a clear photo of papyrus: A material made from a water plant"
     },
     {
+      "id": "carbonized",
       "en": "carbonized",
-      "pos": "noun",
-      "def_en": "Reduced to carbon or charcoal by burning or heating in the absence of air.",
-      "example_en": "Using advanced artificial intelligence, researchers have fully unwrapped and read an entire carbonized papyrus scroll from the ancient Roman city of Herculaneum.",
-      "sense_note": ""
+      "ko": "Reduced to carbon or charcoal by burning or heating in the absence of air.",
+      "l1": {
+        "en": "Reduced to carbon or charcoal by burning or heating in the absence of air."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Reduced to carbon or charcoal by burning or heating in the absence of air."
+        },
+        "example": {
+          "en": "Using advanced artificial intelligence, researchers have fully unwrapped and read an entire carbonized papyrus scroll from the ancient Roman city of Herculaneum."
+        }
+      },
+      "picture_prompt": "a clear photo of carbonized: Reduced to carbon or charcoal by burning or heating in the absence of air."
     },
     {
+      "id": "eruption",
       "en": "eruption",
-      "pos": "noun",
-      "def_en": "A sudden and violent outburst",
-      "example_en": "The scroll was buried and burned by the eruption of Mount Vesuvius in the year seventy-nine AD.",
-      "sense_note": ""
+      "ko": "A sudden and violent outburst",
+      "l1": {
+        "en": "A sudden and violent outburst"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A sudden and violent outburst"
+        },
+        "example": {
+          "en": "The scroll was buried and burned by the eruption of Mount Vesuvius in the year seventy-nine AD."
+        }
+      },
+      "picture_prompt": "a clear photo of eruption: A sudden and violent outburst"
     },
     {
+      "id": "artificial",
       "en": "artificial",
-      "pos": "noun",
-      "def_en": "Made or produced by humans rather than occurring naturally.",
-      "example_en": "Using advanced artificial intelligence, researchers have fully unwrapped and read an entire carbonized papyrus scroll from the ancient Roman city of Herculaneum.",
-      "sense_note": ""
+      "ko": "Made or produced by humans rather than occurring naturally.",
+      "l1": {
+        "en": "Made or produced by humans rather than occurring naturally."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Made or produced by humans rather than occurring naturally."
+        },
+        "example": {
+          "en": "Using advanced artificial intelligence, researchers have fully unwrapped and read an entire carbonized papyrus scroll from the ancient Roman city of Herculaneum."
+        }
+      },
+      "picture_prompt": "a clear photo of artificial: Made or produced by humans rather than occurring naturally."
     },
     {
+      "id": "challenge",
       "en": "challenge",
-      "pos": "noun",
-      "def_en": "A difficult task or problem that tests a person's abilities.",
-      "example_en": "That changed with the Vesuvius Challenge, a contest launched in twenty twenty-three by researcher Brent Seales of the University of Kentucky and his team.",
-      "sense_note": ""
+      "ko": "A difficult task or problem that tests a person's abilities.",
+      "l1": {
+        "en": "A difficult task or problem that tests a person's abilities."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A difficult task or problem that tests a person's abilities."
+        },
+        "example": {
+          "en": "That changed with the Vesuvius Challenge, a contest launched in twenty twenty-three by researcher Brent Seales of the University of Kentucky and his team."
+        }
+      },
+      "picture_prompt": "a clear photo of challenge: A difficult task or problem that tests a person's abilities."
     },
     {
+      "id": "manuscript",
       "en": "manuscript",
-      "pos": "noun",
-      "def_en": "A handwritten document",
-      "example_en": "Scientists have achieved something once thought impossible.",
-      "sense_note": ""
+      "ko": "A handwritten document",
+      "l1": {
+        "en": "A handwritten document"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A handwritten document"
+        },
+        "example": {
+          "en": "Scientists have achieved something once thought impossible."
+        }
+      },
+      "picture_prompt": "a clear photo of manuscript: A handwritten document"
     },
     {
+      "id": "philosophy",
       "en": "philosophy",
-      "pos": "noun",
-      "def_en": "The study of fundamental questions about existence",
-      "example_en": "It may reflect Stoic thought, a philosophy that emphasized virtue and self-control.",
-      "sense_note": ""
+      "ko": "The study of fundamental questions about existence",
+      "l1": {
+        "en": "The study of fundamental questions about existence"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The study of fundamental questions about existence"
+        },
+        "example": {
+          "en": "It may reflect Stoic thought, a philosophy that emphasized virtue and self-control."
+        }
+      },
+      "picture_prompt": "a clear photo of philosophy: The study of fundamental questions about existence"
     },
     {
+      "id": "interpret",
       "en": "interpret",
-      "pos": "verb",
-      "def_en": "To explain the meaning of something.",
-      "example_en": "Now scholars need to interpret what these ancient words actually mean.",
-      "sense_note": ""
+      "ko": "To explain the meaning of something.",
+      "l1": {
+        "en": "To explain the meaning of something."
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "To explain the meaning of something."
+        },
+        "example": {
+          "en": "Now scholars need to interpret what these ancient words actually mean."
+        }
+      },
+      "picture_prompt": "a clear photo of interpret: To explain the meaning of something."
     },
     {
+      "id": "ancient",
       "en": "ancient",
-      "pos": "noun",
-      "def_en": "Belonging to the very distant past.",
-      "example_en": "Using advanced artificial intelligence, researchers have fully unwrapped and read an entire carbonized papyrus scroll from the ancient Roman city of Herculaneum.",
-      "sense_note": ""
+      "ko": "Belonging to the very distant past.",
+      "l1": {
+        "en": "Belonging to the very distant past."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Belonging to the very distant past."
+        },
+        "example": {
+          "en": "Using advanced artificial intelligence, researchers have fully unwrapped and read an entire carbonized papyrus scroll from the ancient Roman city of Herculaneum."
+        }
+      },
+      "picture_prompt": "a clear photo of ancient: Belonging to the very distant past."
     },
     {
+      "id": "virtual",
       "en": "virtual",
-      "pos": "noun",
-      "def_en": "Simulated by a computer; not physically existing as such but made to appear so.",
-      "example_en": "Scientists have achieved something once thought impossible.",
-      "sense_note": ""
+      "ko": "Simulated by a computer; not physically existing as such but made to appear so.",
+      "l1": {
+        "en": "Simulated by a computer; not physically existing as such but made to appear so."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Simulated by a computer; not physically existing as such but made to appear so."
+        },
+        "example": {
+          "en": "Scientists have achieved something once thought impossible."
+        }
+      },
+      "picture_prompt": "a clear photo of virtual: Simulated by a computer; not physically existing as such but made to appear so."
     }
   ]
 }

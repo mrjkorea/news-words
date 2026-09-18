@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-09-08",
+  "title": "News 2026-09-08",
   "date": "2026-09-08",
-  "timezone": "KST",
   "headline": "Australia's economy grows two point one percent in the second quarter, beating forecasts",
-  "youtube_title": "Australia's economy grows two point one percent in the second quarter, beating forecasts",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0908.txt",
   "words": [
     {
+      "id": "economy",
       "en": "economy",
-      "pos": "noun",
-      "def_en": "The system of money",
-      "example_en": "Australia's economy grew faster than economists expected in the second quarter.",
-      "sense_note": ""
+      "ko": "The system of money",
+      "l1": {
+        "en": "The system of money"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The system of money"
+        },
+        "example": {
+          "en": "Australia's economy grew faster than economists expected in the second quarter."
+        }
+      },
+      "picture_prompt": "a clear photo of economy: The system of money"
     },
     {
+      "id": "growth",
       "en": "growth",
-      "pos": "noun",
-      "def_en": "An increase in size",
-      "example_en": "At its August meeting, some board members had already argued for additional rate increases because price growth was still too high.",
-      "sense_note": ""
+      "ko": "An increase in size",
+      "l1": {
+        "en": "An increase in size"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "An increase in size"
+        },
+        "example": {
+          "en": "At its August meeting, some board members had already argued for additional rate increases because price growth was still too high."
+        }
+      },
+      "picture_prompt": "a clear photo of growth: An increase in size"
     },
     {
+      "id": "inflation",
       "en": "inflation",
-      "pos": "noun",
-      "def_en": "A general rise in prices over time",
-      "example_en": "The stronger print gives the Reserve Bank of Australia more room to tighten policy as it fights inflation.",
-      "sense_note": ""
+      "ko": "A general rise in prices over time",
+      "l1": {
+        "en": "A general rise in prices over time"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A general rise in prices over time"
+        },
+        "example": {
+          "en": "The stronger print gives the Reserve Bank of Australia more room to tighten policy as it fights inflation."
+        }
+      },
+      "picture_prompt": "a clear photo of inflation: A general rise in prices over time"
     },
     {
+      "id": "household",
       "en": "household",
-      "pos": "noun",
-      "def_en": "A home and the people who live there",
-      "example_en": "Australia's economy grew faster than economists expected in the second quarter.",
-      "sense_note": ""
+      "ko": "A home and the people who live there",
+      "l1": {
+        "en": "A home and the people who live there"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A home and the people who live there"
+        },
+        "example": {
+          "en": "Australia's economy grew faster than economists expected in the second quarter."
+        }
+      },
+      "picture_prompt": "a clear photo of household: A home and the people who live there"
     },
     {
+      "id": "export",
       "en": "export",
-      "pos": "noun",
-      "def_en": "A product sold to another country",
-      "example_en": "Australia's economy grew faster than economists expected in the second quarter.",
-      "sense_note": ""
+      "ko": "A product sold to another country",
+      "l1": {
+        "en": "A product sold to another country"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A product sold to another country"
+        },
+        "example": {
+          "en": "Australia's economy grew faster than economists expected in the second quarter."
+        }
+      },
+      "picture_prompt": "a clear photo of export: A product sold to another country"
     },
     {
+      "id": "mining",
       "en": "mining",
-      "pos": "noun",
-      "def_en": "The business of digging valuable materials from the earth",
-      "example_en": "The Australian Bureau of Statistics said private demand and mining exports helped drive the modest quarterly gain.",
-      "sense_note": ""
+      "ko": "The business of digging valuable materials from the earth",
+      "l1": {
+        "en": "The business of digging valuable materials from the earth"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The business of digging valuable materials from the earth"
+        },
+        "example": {
+          "en": "The Australian Bureau of Statistics said private demand and mining exports helped drive the modest quarterly gain."
+        }
+      },
+      "picture_prompt": "a clear photo of mining: The business of digging valuable materials from the earth"
     },
     {
+      "id": "forecast",
       "en": "forecast",
-      "pos": "noun",
-      "def_en": "A prediction about future numbers or events",
-      "example_en": "CNBC says gross domestic product rose two point one percent from a year earlier, beating the one point eight percent forecast.",
-      "sense_note": ""
+      "ko": "A prediction about future numbers or events",
+      "l1": {
+        "en": "A prediction about future numbers or events"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A prediction about future numbers or events"
+        },
+        "example": {
+          "en": "CNBC says gross domestic product rose two point one percent from a year earlier, beating the one point eight percent forecast."
+        }
+      },
+      "picture_prompt": "a clear photo of forecast: A prediction about future numbers or events"
     },
     {
+      "id": "demand",
       "en": "demand",
-      "pos": "noun",
-      "def_en": "How much people want to buy something",
-      "example_en": "The Australian Bureau of Statistics said private demand and mining exports helped drive the modest quarterly gain.",
-      "sense_note": ""
+      "ko": "How much people want to buy something",
+      "l1": {
+        "en": "How much people want to buy something"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "How much people want to buy something"
+        },
+        "example": {
+          "en": "The Australian Bureau of Statistics said private demand and mining exports helped drive the modest quarterly gain."
+        }
+      },
+      "picture_prompt": "a clear photo of demand: How much people want to buy something"
     },
     {
+      "id": "spending",
       "en": "spending",
-      "pos": "noun",
-      "def_en": "Money used to pay for goods and services",
-      "example_en": "Consumer spending rose only zero point four percent as families trimmed fuel use because of higher prices linked to Middle East conflict tensions.",
-      "sense_note": ""
+      "ko": "Money used to pay for goods and services",
+      "l1": {
+        "en": "Money used to pay for goods and services"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Money used to pay for goods and services"
+        },
+        "example": {
+          "en": "Consumer spending rose only zero point four percent as families trimmed fuel use because of higher prices linked to Middle East conflict tensions."
+        }
+      },
+      "picture_prompt": "a clear photo of spending: Money used to pay for goods and services"
     },
     {
+      "id": "reserve",
       "en": "reserve",
-      "pos": "noun",
-      "def_en": "Money or policy tools kept back for future use",
-      "example_en": "The stronger print gives the Reserve Bank of Australia more room to tighten policy as it fights inflation.",
-      "sense_note": ""
+      "ko": "Money or policy tools kept back for future use",
+      "l1": {
+        "en": "Money or policy tools kept back for future use"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Money or policy tools kept back for future use"
+        },
+        "example": {
+          "en": "The stronger print gives the Reserve Bank of Australia more room to tighten policy as it fights inflation."
+        }
+      },
+      "picture_prompt": "a clear photo of reserve: Money or policy tools kept back for future use"
     }
   ]
 }

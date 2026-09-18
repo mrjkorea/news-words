@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-09-18",
+  "title": "News 2026-09-18",
   "date": "2026-09-18",
-  "timezone": "KST",
   "headline": "A metal detectorist finds Finland's largest Viking Age silver hoard",
-  "youtube_title": "A metal detectorist finds Finland's largest Viking Age silver hoard",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0918.txt",
   "words": [
     {
+      "id": "detector",
       "en": "detector",
-      "pos": "noun",
-      "def_en": "A device that finds metal hidden in the ground",
-      "example_en": "Kalle Lappinen was searching ground in his hometown when his detector gave a strong signal.",
-      "sense_note": ""
+      "ko": "A device that finds metal hidden in the ground",
+      "l1": {
+        "en": "A device that finds metal hidden in the ground"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A device that finds metal hidden in the ground"
+        },
+        "example": {
+          "en": "Kalle Lappinen was searching ground in his hometown when his detector gave a strong signal."
+        }
+      },
+      "picture_prompt": "a clear photo of detector: A device that finds metal hidden in the ground"
     },
     {
+      "id": "hoard",
       "en": "hoard",
-      "pos": "noun",
-      "def_en": "A large secret store of valuable objects",
-      "example_en": "A hobby metal detectorist in southern Finland has found the country's largest hoard of Late Iron Age silver coins.",
-      "sense_note": ""
+      "ko": "A large secret store of valuable objects",
+      "l1": {
+        "en": "A large secret store of valuable objects"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A large secret store of valuable objects"
+        },
+        "example": {
+          "en": "A hobby metal detectorist in southern Finland has found the country's largest hoard of Late Iron Age silver coins."
+        }
+      },
+      "picture_prompt": "a clear photo of hoard: A large secret store of valuable objects"
     },
     {
+      "id": "silver",
       "en": "silver",
-      "pos": "noun",
-      "def_en": "A shiny grey precious metal used for coins and jewelry",
-      "example_en": "A hobby metal detectorist in southern Finland has found the country's largest hoard of Late Iron Age silver coins.",
-      "sense_note": ""
+      "ko": "A shiny grey precious metal used for coins and jewelry",
+      "l1": {
+        "en": "A shiny grey precious metal used for coins and jewelry"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A shiny grey precious metal used for coins and jewelry"
+        },
+        "example": {
+          "en": "A hobby metal detectorist in southern Finland has found the country's largest hoard of Late Iron Age silver coins."
+        }
+      },
+      "picture_prompt": "a clear photo of silver: A shiny grey precious metal used for coins and jewelry"
     },
     {
+      "id": "coin",
       "en": "coin",
-      "pos": "noun",
-      "def_en": "A flat piece of metal used as money",
-      "example_en": "A hobby metal detectorist in southern Finland has found the country's largest hoard of Late Iron Age silver coins.",
-      "sense_note": ""
+      "ko": "A flat piece of metal used as money",
+      "l1": {
+        "en": "A flat piece of metal used as money"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A flat piece of metal used as money"
+        },
+        "example": {
+          "en": "A hobby metal detectorist in southern Finland has found the country's largest hoard of Late Iron Age silver coins."
+        }
+      },
+      "picture_prompt": "a clear photo of coin: A flat piece of metal used as money"
     },
     {
+      "id": "jewelry",
       "en": "jewelry",
-      "pos": "noun",
-      "def_en": "Decorative objects worn on the body like rings or beads",
-      "example_en": "A hobby metal detectorist in southern Finland has found the country's largest hoard of Late Iron Age silver coins.",
-      "sense_note": ""
+      "ko": "Decorative objects worn on the body like rings or beads",
+      "l1": {
+        "en": "Decorative objects worn on the body like rings or beads"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Decorative objects worn on the body like rings or beads"
+        },
+        "example": {
+          "en": "A hobby metal detectorist in southern Finland has found the country's largest hoard of Late Iron Age silver coins."
+        }
+      },
+      "picture_prompt": "a clear photo of jewelry: Decorative objects worn on the body like rings or beads"
     },
     {
+      "id": "treasure",
       "en": "treasure",
-      "pos": "noun",
-      "def_en": "Valuable objects such as gold silver or gems",
-      "example_en": "For English learners, this story links history vocabulary, such as hoard, ancient and treasure, with an everyday modern hobby that can still turn up something remarkable.",
-      "sense_note": ""
+      "ko": "Valuable objects such as gold silver or gems",
+      "l1": {
+        "en": "Valuable objects such as gold silver or gems"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Valuable objects such as gold silver or gems"
+        },
+        "example": {
+          "en": "For English learners, this story links history vocabulary, such as hoard, ancient and treasure, with an everyday modern hobby that can still turn up something remarkable."
+        }
+      },
+      "picture_prompt": "a clear photo of treasure: Valuable objects such as gold silver or gems"
     },
     {
+      "id": "ancient",
       "en": "ancient",
-      "pos": "adjective",
-      "def_en": "Very old from a long time ago",
-      "example_en": "For English learners, this story links history vocabulary, such as hoard, ancient and treasure, with an everyday modern hobby that can still turn up something remarkable.",
-      "sense_note": ""
+      "ko": "Very old from a long time ago",
+      "l1": {
+        "en": "Very old from a long time ago"
+      },
+      "ww": {
+        "pos": "adj",
+        "def": {
+          "en": "Very old from a long time ago"
+        },
+        "example": {
+          "en": "For English learners, this story links history vocabulary, such as hoard, ancient and treasure, with an everyday modern hobby that can still turn up something remarkable."
+        }
+      },
+      "picture_prompt": "a clear photo of ancient: Very old from a long time ago"
     },
     {
+      "id": "museum",
       "en": "museum",
-      "pos": "noun",
-      "def_en": "A place where important objects are kept and shown",
-      "example_en": "A hobby metal detectorist in southern Finland has found the country's largest hoard of Late Iron Age silver coins.",
-      "sense_note": ""
+      "ko": "A place where important objects are kept and shown",
+      "l1": {
+        "en": "A place where important objects are kept and shown"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A place where important objects are kept and shown"
+        },
+        "example": {
+          "en": "A hobby metal detectorist in southern Finland has found the country's largest hoard of Late Iron Age silver coins."
+        }
+      },
+      "picture_prompt": "a clear photo of museum: A place where important objects are kept and shown"
     },
     {
+      "id": "container",
       "en": "container",
-      "pos": "noun",
-      "def_en": "Something used to hold or carry other things",
-      "example_en": "A hobby metal detectorist in southern Finland has found the country's largest hoard of Late Iron Age silver coins.",
-      "sense_note": ""
+      "ko": "Something used to hold or carry other things",
+      "l1": {
+        "en": "Something used to hold or carry other things"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Something used to hold or carry other things"
+        },
+        "example": {
+          "en": "A hobby metal detectorist in southern Finland has found the country's largest hoard of Late Iron Age silver coins."
+        }
+      },
+      "picture_prompt": "a clear photo of container: Something used to hold or carry other things"
     },
     {
+      "id": "discover",
       "en": "discover",
-      "pos": "verb",
-      "def_en": "To find something for the first time",
-      "example_en": "A hobby metal detectorist in southern Finland has found the country's largest hoard of Late Iron Age silver coins.",
-      "sense_note": ""
+      "ko": "To find something for the first time",
+      "l1": {
+        "en": "To find something for the first time"
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "To find something for the first time"
+        },
+        "example": {
+          "en": "A hobby metal detectorist in southern Finland has found the country's largest hoard of Late Iron Age silver coins."
+        }
+      },
+      "picture_prompt": "a clear photo of discover: To find something for the first time"
     }
   ]
 }

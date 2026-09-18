@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-07-28",
+  "title": "News 2026-07-28",
   "date": "2026-07-28",
-  "timezone": "KST",
   "headline": "Venus is still geologically active",
-  "youtube_title": "Venus is still geologically active",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0728.txt",
   "words": [
     {
+      "id": "geological",
       "en": "geological",
-      "pos": "noun",
-      "def_en": "Relating to the study of the earth's physical structure and substance.",
-      "example_en": "By comparing their model results to images of the Venusian surface taken by NASA's Magellan probe in the nineteen-nineties, the researchers found rifts with wide, high flanks, suggesting recent geological activity.",
-      "sense_note": ""
+      "ko": "Relating to the study of the earth's physical structure and substance.",
+      "l1": {
+        "en": "Relating to the study of the earth's physical structure and substance."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Relating to the study of the earth's physical structure and substance."
+        },
+        "example": {
+          "en": "By comparing their model results to images of the Venusian surface taken by NASA's Magellan probe in the nineteen-nineties, the researchers found rifts with wide, high flanks, suggesting recent geological activity."
+        }
+      },
+      "picture_prompt": "a clear photo of geological: Relating to the study of the earth's physical structure and substance."
     },
     {
+      "id": "planetary",
       "en": "planetary",
-      "pos": "noun",
-      "def_en": "Relating to or belonging to a planet or planets.",
-      "example_en": "For decades, planetary scientists believed Venus was a dead planet.",
-      "sense_note": ""
+      "ko": "Relating to or belonging to a planet or planets.",
+      "l1": {
+        "en": "Relating to or belonging to a planet or planets."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Relating to or belonging to a planet or planets."
+        },
+        "example": {
+          "en": "For decades, planetary scientists believed Venus was a dead planet."
+        }
+      },
+      "picture_prompt": "a clear photo of planetary: Relating to or belonging to a planet or planets."
     },
     {
+      "id": "simulation",
       "en": "simulation",
-      "pos": "noun",
-      "def_en": "An imitation of a real-world process or system using a computer model.",
-      "example_en": "For decades, planetary scientists believed Venus was a dead planet.",
-      "sense_note": ""
+      "ko": "An imitation of a real-world process or system using a computer model.",
+      "l1": {
+        "en": "An imitation of a real-world process or system using a computer model."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "An imitation of a real-world process or system using a computer model."
+        },
+        "example": {
+          "en": "For decades, planetary scientists believed Venus was a dead planet."
+        }
+      },
+      "picture_prompt": "a clear photo of simulation: An imitation of a real-world process or system using a computer model."
     },
     {
+      "id": "tectonic",
       "en": "tectonic",
-      "pos": "noun",
-      "def_en": "Relating to the structure and movement of the earth's crust.",
-      "example_en": "That speed is similar to the movement of tectonic plates on Earth.",
-      "sense_note": ""
+      "ko": "Relating to the structure and movement of the earth's crust.",
+      "l1": {
+        "en": "Relating to the structure and movement of the earth's crust."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Relating to the structure and movement of the earth's crust."
+        },
+        "example": {
+          "en": "That speed is similar to the movement of tectonic plates on Earth."
+        }
+      },
+      "picture_prompt": "a clear photo of tectonic: Relating to the structure and movement of the earth's crust."
     },
     {
+      "id": "crust",
       "en": "crust",
-      "pos": "noun",
-      "def_en": "The outermost solid layer of a planet or moon.",
-      "example_en": "Previous models were mostly two-dimensional and relied on simplified assumptions about the planet's crust.",
-      "sense_note": ""
+      "ko": "The outermost solid layer of a planet or moon.",
+      "l1": {
+        "en": "The outermost solid layer of a planet or moon."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The outermost solid layer of a planet or moon."
+        },
+        "example": {
+          "en": "Previous models were mostly two-dimensional and relied on simplified assumptions about the planet's crust."
+        }
+      },
+      "picture_prompt": "a clear photo of crust: The outermost solid layer of a planet or moon."
     },
     {
+      "id": "probe",
       "en": "probe",
-      "pos": "noun",
-      "def_en": "An unmanned spacecraft designed to explore and gather data.",
-      "example_en": "By comparing their model results to images of the Venusian surface taken by NASA's Magellan probe in the nineteen-nineties, the researchers found rifts with wide, high flanks, suggesting recent geological activity.",
-      "sense_note": ""
+      "ko": "An unmanned spacecraft designed to explore and gather data.",
+      "l1": {
+        "en": "An unmanned spacecraft designed to explore and gather data."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "An unmanned spacecraft designed to explore and gather data."
+        },
+        "example": {
+          "en": "By comparing their model results to images of the Venusian surface taken by NASA's Magellan probe in the nineteen-nineties, the researchers found rifts with wide, high flanks, suggesting recent geological activity."
+        }
+      },
+      "picture_prompt": "a clear photo of probe: An unmanned spacecraft designed to explore and gather data."
     },
     {
+      "id": "rift",
       "en": "rift",
-      "pos": "noun",
-      "def_en": "A crack",
-      "example_en": "Computer simulations show that massive rift valleys on the planet's surface may be actively expanding today.",
-      "sense_note": ""
+      "ko": "A crack",
+      "l1": {
+        "en": "A crack"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A crack"
+        },
+        "example": {
+          "en": "Computer simulations show that massive rift valleys on the planet's surface may be actively expanding today."
+        }
+      },
+      "picture_prompt": "a clear photo of rift: A crack"
     },
     {
+      "id": "dynamic",
       "en": "dynamic",
-      "pos": "noun",
-      "def_en": "Characterized by constant change",
-      "example_en": "The findings reshape our understanding of Earth's sister planet and suggest Venus has a more dynamic interior than scientists once thought.",
-      "sense_note": ""
+      "ko": "Characterized by constant change",
+      "l1": {
+        "en": "Characterized by constant change"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Characterized by constant change"
+        },
+        "example": {
+          "en": "The findings reshape our understanding of Earth's sister planet and suggest Venus has a more dynamic interior than scientists once thought."
+        }
+      },
+      "picture_prompt": "a clear photo of dynamic: Characterized by constant change"
     },
     {
+      "id": "interior",
       "en": "interior",
-      "pos": "noun",
-      "def_en": "The inner part or inside of something.",
-      "example_en": "The findings reshape our understanding of Earth's sister planet and suggest Venus has a more dynamic interior than scientists once thought.",
-      "sense_note": ""
+      "ko": "The inner part or inside of something.",
+      "l1": {
+        "en": "The inner part or inside of something."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The inner part or inside of something."
+        },
+        "example": {
+          "en": "The findings reshape our understanding of Earth's sister planet and suggest Venus has a more dynamic interior than scientists once thought."
+        }
+      },
+      "picture_prompt": "a clear photo of interior: The inner part or inside of something."
     },
     {
+      "id": "mission",
       "en": "mission",
-      "pos": "noun",
-      "def_en": "An important assignment or expedition",
-      "example_en": "The ESA's EnVision mission, scheduled for launch in the early twenty-thirties, will carry instruments developed partly by ETH Zurich researchers.",
-      "sense_note": ""
+      "ko": "An important assignment or expedition",
+      "l1": {
+        "en": "An important assignment or expedition"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "An important assignment or expedition"
+        },
+        "example": {
+          "en": "The ESA's EnVision mission, scheduled for launch in the early twenty-thirties, will carry instruments developed partly by ETH Zurich researchers."
+        }
+      },
+      "picture_prompt": "a clear photo of mission: An important assignment or expedition"
     }
   ]
 }

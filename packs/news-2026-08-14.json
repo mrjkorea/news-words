@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-08-14",
+  "title": "News 2026-08-14",
   "date": "2026-08-14",
-  "timezone": "KST",
   "headline": "He's been frozen on Everest for thirty years, now 'Green Boots' may finally be coming home",
-  "youtube_title": "He's been frozen on Everest for thirty years, now 'Green Boots' may finally be coming home",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0814.txt",
   "words": [
     {
+      "id": "summit",
       "en": "summit",
-      "pos": "noun",
-      "def_en": "The highest point of a mountain.",
-      "example_en": "For thirty years, a dead body known as Green Boots has been lying in the snow, nestled under an overhanging rock, not far from Mount Everest's summit.",
-      "sense_note": ""
+      "ko": "The highest point of a mountain.",
+      "l1": {
+        "en": "The highest point of a mountain."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The highest point of a mountain."
+        },
+        "example": {
+          "en": "For thirty years, a dead body known as Green Boots has been lying in the snow, nestled under an overhanging rock, not far from Mount Everest's summit."
+        }
+      },
+      "picture_prompt": "a clear photo of summit: The highest point of a mountain."
     },
     {
+      "id": "expedition",
       "en": "expedition",
-      "pos": "noun",
-      "def_en": "An organized journey with a specific purpose",
-      "example_en": "Morup was a forty-eight-year-old officer in the Indo Tibetan Border Police, and he was part of a historic Indian expedition that tried to climb Everest from the Chinese side in nineteen ninety-six.",
-      "sense_note": ""
+      "ko": "An organized journey with a specific purpose",
+      "l1": {
+        "en": "An organized journey with a specific purpose"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "An organized journey with a specific purpose"
+        },
+        "example": {
+          "en": "Morup was a forty-eight-year-old officer in the Indo Tibetan Border Police, and he was part of a historic Indian expedition that tried to climb Everest from the Chinese side in nineteen ninety-six."
+        }
+      },
+      "picture_prompt": "a clear photo of expedition: An organized journey with a specific purpose"
     },
     {
+      "id": "altitude",
       "en": "altitude",
-      "pos": "noun",
-      "def_en": "The height of a place above sea level.",
-      "example_en": "Now India is looking for a specialist high-altitude recovery team to undertake a complex and risky mission to retrieve the body, which they believe belongs to Dorje Morup.",
-      "sense_note": ""
+      "ko": "The height of a place above sea level.",
+      "l1": {
+        "en": "The height of a place above sea level."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The height of a place above sea level."
+        },
+        "example": {
+          "en": "Now India is looking for a specialist high-altitude recovery team to undertake a complex and risky mission to retrieve the body, which they believe belongs to Dorje Morup."
+        }
+      },
+      "picture_prompt": "a clear photo of altitude: The height of a place above sea level."
     },
     {
+      "id": "recovery",
       "en": "recovery",
-      "pos": "verb",
-      "def_en": "The process of getting back something lost or returning to a normal state.",
-      "example_en": "Now India is looking for a specialist high-altitude recovery team to undertake a complex and risky mission to retrieve the body, which they believe belongs to Dorje Morup.",
-      "sense_note": ""
+      "ko": "The process of getting back something lost or returning to a normal state.",
+      "l1": {
+        "en": "The process of getting back something lost or returning to a normal state."
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "The process of getting back something lost or returning to a normal state."
+        },
+        "example": {
+          "en": "Now India is looking for a specialist high-altitude recovery team to undertake a complex and risky mission to retrieve the body, which they believe belongs to Dorje Morup."
+        }
+      },
+      "picture_prompt": "a clear photo of recovery: The process of getting back something lost or returning to a normal state."
     },
     {
+      "id": "descent",
       "en": "descent",
-      "pos": "verb",
-      "def_en": "The act of moving down from a higher place.",
-      "example_en": "For thirty years, a dead body known as Green Boots has been lying in the snow, nestled under an overhanging rock, not far from Mount Everest's summit.",
-      "sense_note": ""
+      "ko": "The act of moving down from a higher place.",
+      "l1": {
+        "en": "The act of moving down from a higher place."
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "The act of moving down from a higher place."
+        },
+        "example": {
+          "en": "For thirty years, a dead body known as Green Boots has been lying in the snow, nestled under an overhanging rock, not far from Mount Everest's summit."
+        }
+      },
+      "picture_prompt": "a clear photo of descent: The act of moving down from a higher place."
     },
     {
+      "id": "blizzard",
       "en": "blizzard",
-      "pos": "noun",
-      "def_en": "A severe snowstorm with strong winds and low visibility.",
-      "example_en": "A blizzard struck as the climbers descended and killed all three men who had reached the summit.",
-      "sense_note": ""
+      "ko": "A severe snowstorm with strong winds and low visibility.",
+      "l1": {
+        "en": "A severe snowstorm with strong winds and low visibility."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A severe snowstorm with strong winds and low visibility."
+        },
+        "example": {
+          "en": "A blizzard struck as the climbers descended and killed all three men who had reached the summit."
+        }
+      },
+      "picture_prompt": "a clear photo of blizzard: A severe snowstorm with strong winds and low visibility."
     },
     {
+      "id": "remains",
       "en": "remains",
-      "pos": "noun",
-      "def_en": "The parts of a dead body that are left after death.",
-      "example_en": "But testimony from survivors of the nineteen ninety-six expedition and the location of the last radio contact have now led authorities to believe the remains belong to Morup.",
-      "sense_note": ""
+      "ko": "The parts of a dead body that are left after death.",
+      "l1": {
+        "en": "The parts of a dead body that are left after death."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The parts of a dead body that are left after death."
+        },
+        "example": {
+          "en": "But testimony from survivors of the nineteen ninety-six expedition and the location of the last radio contact have now led authorities to believe the remains belong to Morup."
+        }
+      },
+      "picture_prompt": "a clear photo of remains: The parts of a dead body that are left after death."
     },
     {
+      "id": "crevasse",
       "en": "crevasse",
-      "pos": "noun",
-      "def_en": "A deep open crack in a glacier or ice field.",
-      "example_en": "For thirty years, a dead body known as Green Boots has been lying in the snow, nestled under an overhanging rock, not far from Mount Everest's summit.",
-      "sense_note": ""
+      "ko": "A deep open crack in a glacier or ice field.",
+      "l1": {
+        "en": "A deep open crack in a glacier or ice field."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A deep open crack in a glacier or ice field."
+        },
+        "example": {
+          "en": "For thirty years, a dead body known as Green Boots has been lying in the snow, nestled under an overhanging rock, not far from Mount Everest's summit."
+        }
+      },
+      "picture_prompt": "a clear photo of crevasse: A deep open crack in a glacier or ice field."
     },
     {
+      "id": "treacherous",
       "en": "treacherous",
-      "pos": "noun",
-      "def_en": "Dangerous because of hidden risks.",
-      "example_en": "For thirty years, a dead body known as Green Boots has been lying in the snow, nestled under an overhanging rock, not far from Mount Everest's summit.",
-      "sense_note": ""
+      "ko": "Dangerous because of hidden risks.",
+      "l1": {
+        "en": "Dangerous because of hidden risks."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Dangerous because of hidden risks."
+        },
+        "example": {
+          "en": "For thirty years, a dead body known as Green Boots has been lying in the snow, nestled under an overhanging rock, not far from Mount Everest's summit."
+        }
+      },
+      "picture_prompt": "a clear photo of treacherous: Dangerous because of hidden risks."
     },
     {
+      "id": "retrieval",
       "en": "retrieval",
-      "pos": "verb",
-      "def_en": "The act of getting something back from a place.",
-      "example_en": "For thirty years, a dead body known as Green Boots has been lying in the snow, nestled under an overhanging rock, not far from Mount Everest's summit.",
-      "sense_note": ""
+      "ko": "The act of getting something back from a place.",
+      "l1": {
+        "en": "The act of getting something back from a place."
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "The act of getting something back from a place."
+        },
+        "example": {
+          "en": "For thirty years, a dead body known as Green Boots has been lying in the snow, nestled under an overhanging rock, not far from Mount Everest's summit."
+        }
+      },
+      "picture_prompt": "a clear photo of retrieval: The act of getting something back from a place."
     }
   ]
 }

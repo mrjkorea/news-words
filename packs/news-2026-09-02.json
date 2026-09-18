@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-09-02",
+  "title": "News 2026-09-02",
   "date": "2026-09-02",
-  "timezone": "KST",
   "headline": "Four Renaissance paintings stolen from a museum in Sicily during a holiday",
-  "youtube_title": "Four Renaissance paintings stolen from a museum in Sicily during a holiday",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0902.txt",
   "words": [
     {
+      "id": "renaissance",
       "en": "renaissance",
-      "pos": "noun",
-      "def_en": "A period of European art and learning in the fifteenth century",
-      "example_en": "Four important Renaissance paintings were stolen from a museum in Messina, Sicily, during a national holiday.",
-      "sense_note": ""
+      "ko": "A period of European art and learning in the fifteenth century",
+      "l1": {
+        "en": "A period of European art and learning in the fifteenth century"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A period of European art and learning in the fifteenth century"
+        },
+        "example": {
+          "en": "Four important Renaissance paintings were stolen from a museum in Messina, Sicily, during a national holiday."
+        }
+      },
+      "picture_prompt": "a clear photo of renaissance: A period of European art and learning in the fifteenth century"
     },
     {
+      "id": "painting",
       "en": "painting",
-      "pos": "noun",
-      "def_en": "A picture made with paint on a surface",
-      "example_en": "Four important Renaissance paintings were stolen from a museum in Messina, Sicily, during a national holiday.",
-      "sense_note": ""
+      "ko": "A picture made with paint on a surface",
+      "l1": {
+        "en": "A picture made with paint on a surface"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A picture made with paint on a surface"
+        },
+        "example": {
+          "en": "Four important Renaissance paintings were stolen from a museum in Messina, Sicily, during a national holiday."
+        }
+      },
+      "picture_prompt": "a clear photo of painting: A picture made with paint on a surface"
     },
     {
+      "id": "museum",
       "en": "museum",
-      "pos": "noun",
-      "def_en": "A building that keeps and shows art or history",
-      "example_en": "Four important Renaissance paintings were stolen from a museum in Messina, Sicily, during a national holiday.",
-      "sense_note": ""
+      "ko": "A building that keeps and shows art or history",
+      "l1": {
+        "en": "A building that keeps and shows art or history"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A building that keeps and shows art or history"
+        },
+        "example": {
+          "en": "Four important Renaissance paintings were stolen from a museum in Messina, Sicily, during a national holiday."
+        }
+      },
+      "picture_prompt": "a clear photo of museum: A building that keeps and shows art or history"
     },
     {
+      "id": "altarpiece",
       "en": "altarpiece",
-      "pos": "noun",
-      "def_en": "A painted artwork made for the front of a church altar",
-      "example_en": "They took three of the five surviving panels of an altarpiece called the Polittico di San Gregorio, dated fourteen seventy-three.",
-      "sense_note": ""
+      "ko": "A painted artwork made for the front of a church altar",
+      "l1": {
+        "en": "A painted artwork made for the front of a church altar"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A painted artwork made for the front of a church altar"
+        },
+        "example": {
+          "en": "They took three of the five surviving panels of an altarpiece called the Polittico di San Gregorio, dated fourteen seventy-three."
+        }
+      },
+      "picture_prompt": "a clear photo of altarpiece: A painted artwork made for the front of a church altar"
     },
     {
+      "id": "panel",
       "en": "panel",
-      "pos": "noun",
-      "def_en": "A flat piece of wood used as part of a larger painting",
-      "example_en": "They also took a small double-sided panel of the Madonna and Christ in Pieta from an armored case.",
-      "sense_note": ""
+      "ko": "A flat piece of wood used as part of a larger painting",
+      "l1": {
+        "en": "A flat piece of wood used as part of a larger painting"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A flat piece of wood used as part of a larger painting"
+        },
+        "example": {
+          "en": "They also took a small double-sided panel of the Madonna and Christ in Pieta from an armored case."
+        }
+      },
+      "picture_prompt": "a clear photo of panel: A flat piece of wood used as part of a larger painting"
     },
     {
+      "id": "thief",
       "en": "thief",
-      "pos": "noun",
-      "def_en": "A person who steals something",
-      "example_en": "Four important Renaissance paintings were stolen from a museum in Messina, Sicily, during a national holiday.",
-      "sense_note": ""
+      "ko": "A person who steals something",
+      "l1": {
+        "en": "A person who steals something"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A person who steals something"
+        },
+        "example": {
+          "en": "Four important Renaissance paintings were stolen from a museum in Messina, Sicily, during a national holiday."
+        }
+      },
+      "picture_prompt": "a clear photo of thief: A person who steals something"
     },
     {
+      "id": "holiday",
       "en": "holiday",
-      "pos": "noun",
-      "def_en": "A special day of rest or celebration",
-      "example_en": "Four important Renaissance paintings were stolen from a museum in Messina, Sicily, during a national holiday.",
-      "sense_note": ""
+      "ko": "A special day of rest or celebration",
+      "l1": {
+        "en": "A special day of rest or celebration"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A special day of rest or celebration"
+        },
+        "example": {
+          "en": "Four important Renaissance paintings were stolen from a museum in Messina, Sicily, during a national holiday."
+        }
+      },
+      "picture_prompt": "a clear photo of holiday: A special day of rest or celebration"
     },
     {
+      "id": "security",
       "en": "security",
-      "pos": "noun",
-      "def_en": "Systems and rules that protect a place from crime",
-      "example_en": "The gang bypassed alarm systems and broke into a security display.",
-      "sense_note": ""
+      "ko": "Systems and rules that protect a place from crime",
+      "l1": {
+        "en": "Systems and rules that protect a place from crime"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Systems and rules that protect a place from crime"
+        },
+        "example": {
+          "en": "The gang bypassed alarm systems and broke into a security display."
+        }
+      },
+      "picture_prompt": "a clear photo of security: Systems and rules that protect a place from crime"
     },
     {
+      "id": "investigation",
       "en": "investigation",
-      "pos": "noun",
-      "def_en": "A careful official search for facts about a crime",
-      "example_en": "Prosecutors in Messina opened an investigation.",
-      "sense_note": ""
+      "ko": "A careful official search for facts about a crime",
+      "l1": {
+        "en": "A careful official search for facts about a crime"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A careful official search for facts about a crime"
+        },
+        "example": {
+          "en": "Prosecutors in Messina opened an investigation."
+        }
+      },
+      "picture_prompt": "a clear photo of investigation: A careful official search for facts about a crime"
     },
     {
+      "id": "masterpiece",
       "en": "masterpiece",
-      "pos": "noun",
-      "def_en": "A work of art of the highest quality",
-      "example_en": "Four important Renaissance paintings were stolen from a museum in Messina, Sicily, during a national holiday.",
-      "sense_note": ""
+      "ko": "A work of art of the highest quality",
+      "l1": {
+        "en": "A work of art of the highest quality"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A work of art of the highest quality"
+        },
+        "example": {
+          "en": "Four important Renaissance paintings were stolen from a museum in Messina, Sicily, during a national holiday."
+        }
+      },
+      "picture_prompt": "a clear photo of masterpiece: A work of art of the highest quality"
     }
   ]
 }

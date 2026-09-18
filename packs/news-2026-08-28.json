@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-08-28",
+  "title": "News 2026-08-28",
   "date": "2026-08-28",
-  "timezone": "KST",
   "headline": "3D X-ray imaging unlocks the secrets of the narwhal's spiral tusk",
-  "youtube_title": "3D X-ray imaging unlocks the secrets of the narwhal's spiral tusk",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0828.txt",
   "words": [
     {
+      "id": "narwhal",
       "en": "narwhal",
-      "pos": "noun",
-      "def_en": "A medium whale of the Arctic with a long spiral tusk",
-      "example_en": "In the Middle Ages, narwhal tusks were sold as unicorn horns.",
-      "sense_note": ""
+      "ko": "A medium whale of the Arctic with a long spiral tusk",
+      "l1": {
+        "en": "A medium whale of the Arctic with a long spiral tusk"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A medium whale of the Arctic with a long spiral tusk"
+        },
+        "example": {
+          "en": "In the Middle Ages, narwhal tusks were sold as unicorn horns."
+        }
+      },
+      "picture_prompt": "a clear photo of narwhal: A medium whale of the Arctic with a long spiral tusk"
     },
     {
+      "id": "tusk",
       "en": "tusk",
-      "pos": "noun",
-      "def_en": "A long pointed tooth that grows outside the mouth of some animals",
-      "example_en": "A narwhal tusk is not a horn.",
-      "sense_note": ""
+      "ko": "A long pointed tooth that grows outside the mouth of some animals",
+      "l1": {
+        "en": "A long pointed tooth that grows outside the mouth of some animals"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A long pointed tooth that grows outside the mouth of some animals"
+        },
+        "example": {
+          "en": "A narwhal tusk is not a horn."
+        }
+      },
+      "picture_prompt": "a clear photo of tusk: A long pointed tooth that grows outside the mouth of some animals"
     },
     {
+      "id": "unicorn",
       "en": "unicorn",
-      "pos": "noun",
-      "def_en": "A mythical horse with a single horn on its forehead",
-      "example_en": "In the Middle Ages, narwhal tusks were sold as unicorn horns.",
-      "sense_note": ""
+      "ko": "A mythical horse with a single horn on its forehead",
+      "l1": {
+        "en": "A mythical horse with a single horn on its forehead"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A mythical horse with a single horn on its forehead"
+        },
+        "example": {
+          "en": "In the Middle Ages, narwhal tusks were sold as unicorn horns."
+        }
+      },
+      "picture_prompt": "a clear photo of unicorn: A mythical horse with a single horn on its forehead"
     },
     {
+      "id": "dentine",
       "en": "dentine",
-      "pos": "noun",
-      "def_en": "The hard inner tissue of a tooth below the enamel",
-      "example_en": "The inner tissue is dentine, and it shows a right-handed spiral.",
-      "sense_note": ""
+      "ko": "The hard inner tissue of a tooth below the enamel",
+      "l1": {
+        "en": "The hard inner tissue of a tooth below the enamel"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The hard inner tissue of a tooth below the enamel"
+        },
+        "example": {
+          "en": "The inner tissue is dentine, and it shows a right-handed spiral."
+        }
+      },
+      "picture_prompt": "a clear photo of dentine: The hard inner tissue of a tooth below the enamel"
     },
     {
+      "id": "cementum",
       "en": "cementum",
-      "pos": "noun",
-      "def_en": "The outer dental tissue that covers the root of a tooth",
-      "example_en": "The outer layer is a dental tissue called cementum, and it shows a left-handed spiral.",
-      "sense_note": ""
+      "ko": "The outer dental tissue that covers the root of a tooth",
+      "l1": {
+        "en": "The outer dental tissue that covers the root of a tooth"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The outer dental tissue that covers the root of a tooth"
+        },
+        "example": {
+          "en": "The outer layer is a dental tissue called cementum, and it shows a left-handed spiral."
+        }
+      },
+      "picture_prompt": "a clear photo of cementum: The outer dental tissue that covers the root of a tooth"
     },
     {
+      "id": "imaging",
       "en": "imaging",
-      "pos": "verb",
-      "def_en": "The process of making pictures of the inside of something",
-      "example_en": "Researchers used advanced three-dimensional X-ray imaging to look inside.",
-      "sense_note": ""
+      "ko": "The process of making pictures of the inside of something",
+      "l1": {
+        "en": "The process of making pictures of the inside of something"
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "The process of making pictures of the inside of something"
+        },
+        "example": {
+          "en": "Researchers used advanced three-dimensional X-ray imaging to look inside."
+        }
+      },
+      "picture_prompt": "a clear photo of imaging: The process of making pictures of the inside of something"
     },
     {
+      "id": "canine",
       "en": "canine",
-      "pos": "noun",
-      "def_en": "A long pointed tooth used for holding or tearing food",
-      "example_en": "It is a long, straight canine tooth that grows out of the whale's mouth.",
-      "sense_note": ""
+      "ko": "A long pointed tooth used for holding or tearing food",
+      "l1": {
+        "en": "A long pointed tooth used for holding or tearing food"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A long pointed tooth used for holding or tearing food"
+        },
+        "example": {
+          "en": "It is a long, straight canine tooth that grows out of the whale's mouth."
+        }
+      },
+      "picture_prompt": "a clear photo of canine: A long pointed tooth used for holding or tearing food"
     },
     {
+      "id": "arctic",
       "en": "arctic",
-      "pos": "noun",
-      "def_en": "The very cold northern region around the North Pole",
-      "example_en": "Narwhals live in the cold Arctic Ocean, mainly near Canada, Greenland, Norway, and Russia.",
-      "sense_note": ""
+      "ko": "The very cold northern region around the North Pole",
+      "l1": {
+        "en": "The very cold northern region around the North Pole"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The very cold northern region around the North Pole"
+        },
+        "example": {
+          "en": "Narwhals live in the cold Arctic Ocean, mainly near Canada, Greenland, Norway, and Russia."
+        }
+      },
+      "picture_prompt": "a clear photo of arctic: The very cold northern region around the North Pole"
     },
     {
+      "id": "hierarchy",
       "en": "hierarchy",
-      "pos": "noun",
-      "def_en": "A system that ranks people or animals by importance or power",
-      "example_en": "In the Middle Ages, narwhal tusks were sold as unicorn horns.",
-      "sense_note": ""
+      "ko": "A system that ranks people or animals by importance or power",
+      "l1": {
+        "en": "A system that ranks people or animals by importance or power"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A system that ranks people or animals by importance or power"
+        },
+        "example": {
+          "en": "In the Middle Ages, narwhal tusks were sold as unicorn horns."
+        }
+      },
+      "picture_prompt": "a clear photo of hierarchy: A system that ranks people or animals by importance or power"
     },
     {
+      "id": "whale",
       "en": "whale",
-      "pos": "noun",
-      "def_en": "A very large sea animal that breathes air and feeds its young milk",
-      "example_en": "It is a long, straight canine tooth that grows out of the whale's mouth.",
-      "sense_note": ""
+      "ko": "A very large sea animal that breathes air and feeds its young milk",
+      "l1": {
+        "en": "A very large sea animal that breathes air and feeds its young milk"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A very large sea animal that breathes air and feeds its young milk"
+        },
+        "example": {
+          "en": "It is a long, straight canine tooth that grows out of the whale's mouth."
+        }
+      },
+      "picture_prompt": "a clear photo of whale: A very large sea animal that breathes air and feeds its young milk"
     }
   ]
 }

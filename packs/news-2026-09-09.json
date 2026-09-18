@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-09-09",
+  "title": "News 2026-09-09",
   "date": "2026-09-09",
-  "timezone": "KST",
   "headline": "Isar Aerospace Spectrum rocket reaches orbit from Norway in a European first",
-  "youtube_title": "Isar Aerospace Spectrum rocket reaches orbit from Norway in a European first",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0909.txt",
   "words": [
     {
+      "id": "rocket",
       "en": "rocket",
-      "pos": "noun",
-      "def_en": "A vehicle that pushes itself through space by burning fuel",
-      "example_en": "Germany's Isar Aerospace has put a Spectrum rocket into orbit from Norway, a milestone for European spaceflight.",
-      "sense_note": ""
+      "ko": "A vehicle that pushes itself through space by burning fuel",
+      "l1": {
+        "en": "A vehicle that pushes itself through space by burning fuel"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A vehicle that pushes itself through space by burning fuel"
+        },
+        "example": {
+          "en": "Germany's Isar Aerospace has put a Spectrum rocket into orbit from Norway, a milestone for European spaceflight."
+        }
+      },
+      "picture_prompt": "a clear photo of rocket: A vehicle that pushes itself through space by burning fuel"
     },
     {
+      "id": "satellite",
       "en": "satellite",
-      "pos": "noun",
-      "def_en": "A machine sent into orbit to collect data or relay signals",
-      "example_en": "Germany's Isar Aerospace has put a Spectrum rocket into orbit from Norway, a milestone for European spaceflight.",
-      "sense_note": ""
+      "ko": "A machine sent into orbit to collect data or relay signals",
+      "l1": {
+        "en": "A machine sent into orbit to collect data or relay signals"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A machine sent into orbit to collect data or relay signals"
+        },
+        "example": {
+          "en": "Germany's Isar Aerospace has put a Spectrum rocket into orbit from Norway, a milestone for European spaceflight."
+        }
+      },
+      "picture_prompt": "a clear photo of satellite: A machine sent into orbit to collect data or relay signals"
     },
     {
+      "id": "launch",
       "en": "launch",
-      "pos": "noun",
-      "def_en": "The moment a rocket lifts off and begins its flight",
-      "example_en": "Europe wants cheaper access to space as competition with SpaceX reshapes the launch market.",
-      "sense_note": ""
+      "ko": "The moment a rocket lifts off and begins its flight",
+      "l1": {
+        "en": "The moment a rocket lifts off and begins its flight"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The moment a rocket lifts off and begins its flight"
+        },
+        "example": {
+          "en": "Europe wants cheaper access to space as competition with SpaceX reshapes the launch market."
+        }
+      },
+      "picture_prompt": "a clear photo of launch: The moment a rocket lifts off and begins its flight"
     },
     {
+      "id": "payload",
       "en": "payload",
-      "pos": "noun",
-      "def_en": "The cargo a rocket carries into space",
-      "example_en": "The rocket can haul about one tonne of payload.",
-      "sense_note": ""
+      "ko": "The cargo a rocket carries into space",
+      "l1": {
+        "en": "The cargo a rocket carries into space"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The cargo a rocket carries into space"
+        },
+        "example": {
+          "en": "The rocket can haul about one tonne of payload."
+        }
+      },
+      "picture_prompt": "a clear photo of payload: The cargo a rocket carries into space"
     },
     {
+      "id": "stage",
       "en": "stage",
-      "pos": "noun",
-      "def_en": "One section of a multi-part rocket",
-      "example_en": "ABC News says the twenty-eight-metre two-stage rocket lifted off from Andoya spaceport north of the Arctic Circle.",
-      "sense_note": ""
+      "ko": "One section of a multi-part rocket",
+      "l1": {
+        "en": "One section of a multi-part rocket"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "One section of a multi-part rocket"
+        },
+        "example": {
+          "en": "ABC News says the twenty-eight-metre two-stage rocket lifted off from Andoya spaceport north of the Arctic Circle."
+        }
+      },
+      "picture_prompt": "a clear photo of stage: One section of a multi-part rocket"
     },
     {
+      "id": "spaceport",
       "en": "spaceport",
-      "pos": "noun",
-      "def_en": "A facility built for launching rockets",
-      "example_en": "ABC News says the twenty-eight-metre two-stage rocket lifted off from Andoya spaceport north of the Arctic Circle.",
-      "sense_note": ""
+      "ko": "A facility built for launching rockets",
+      "l1": {
+        "en": "A facility built for launching rockets"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A facility built for launching rockets"
+        },
+        "example": {
+          "en": "ABC News says the twenty-eight-metre two-stage rocket lifted off from Andoya spaceport north of the Arctic Circle."
+        }
+      },
+      "picture_prompt": "a clear photo of spaceport: A facility built for launching rockets"
     },
     {
+      "id": "private",
       "en": "private",
-      "pos": "noun",
-      "def_en": "Owned or run by a company rather than a government",
-      "example_en": "Germany's Isar Aerospace has put a Spectrum rocket into orbit from Norway, a milestone for European spaceflight.",
-      "sense_note": ""
+      "ko": "Owned or run by a company rather than a government",
+      "l1": {
+        "en": "Owned or run by a company rather than a government"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Owned or run by a company rather than a government"
+        },
+        "example": {
+          "en": "Germany's Isar Aerospace has put a Spectrum rocket into orbit from Norway, a milestone for European spaceflight."
+        }
+      },
+      "picture_prompt": "a clear photo of private: Owned or run by a company rather than a government"
     },
     {
+      "id": "capacity",
       "en": "capacity",
-      "pos": "noun",
-      "def_en": "The ability to produce or carry a certain amount",
-      "example_en": "Germany's Isar Aerospace has put a Spectrum rocket into orbit from Norway, a milestone for European spaceflight.",
-      "sense_note": ""
+      "ko": "The ability to produce or carry a certain amount",
+      "l1": {
+        "en": "The ability to produce or carry a certain amount"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The ability to produce or carry a certain amount"
+        },
+        "example": {
+          "en": "Germany's Isar Aerospace has put a Spectrum rocket into orbit from Norway, a milestone for European spaceflight."
+        }
+      },
+      "picture_prompt": "a clear photo of capacity: The ability to produce or carry a certain amount"
     },
     {
+      "id": "independence",
       "en": "independence",
-      "pos": "noun",
-      "def_en": "Freedom from relying on others",
-      "example_en": "For English learners, this story links words like launch, payload, and independence with a real shift in who can send satellites to orbit from European soil.",
-      "sense_note": ""
+      "ko": "Freedom from relying on others",
+      "l1": {
+        "en": "Freedom from relying on others"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Freedom from relying on others"
+        },
+        "example": {
+          "en": "For English learners, this story links words like launch, payload, and independence with a real shift in who can send satellites to orbit from European soil."
+        }
+      },
+      "picture_prompt": "a clear photo of independence: Freedom from relying on others"
     },
     {
+      "id": "mission",
       "en": "mission",
-      "pos": "noun",
-      "def_en": "A planned operation with a clear goal",
-      "example_en": "The mission called Onward and Upward followed months of delays from technical and safety checks.",
-      "sense_note": ""
+      "ko": "A planned operation with a clear goal",
+      "l1": {
+        "en": "A planned operation with a clear goal"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A planned operation with a clear goal"
+        },
+        "example": {
+          "en": "The mission called Onward and Upward followed months of delays from technical and safety checks."
+        }
+      },
+      "picture_prompt": "a clear photo of mission: A planned operation with a clear goal"
     }
   ]
 }

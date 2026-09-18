@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-07-06",
+  "title": "News 2026-07-06",
   "date": "2026-07-06",
-  "timezone": "KST",
   "headline": "2026 07 06",
-  "youtube_title": "2026 07 06",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0706.txt",
   "words": [
     {
+      "id": "resignation",
       "en": "resignation",
-      "pos": "verb",
-      "def_en": "The act of officially leaving a job or position of power",
-      "example_en": "Today's news uses the word resignation.",
-      "sense_note": ""
+      "ko": "The act of officially leaving a job or position of power",
+      "l1": {
+        "en": "The act of officially leaving a job or position of power"
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "The act of officially leaving a job or position of power"
+        },
+        "example": {
+          "en": "Today's news uses the word resignation."
+        }
+      },
+      "picture_prompt": "a clear photo of resignation: The act of officially leaving a job or position of power"
     },
     {
+      "id": "prime",
       "en": "prime",
-      "pos": "noun",
-      "def_en": "First in importance rank or quality",
-      "example_en": "Today's news uses the word prime.",
-      "sense_note": ""
+      "ko": "First in importance rank or quality",
+      "l1": {
+        "en": "First in importance rank or quality"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "First in importance rank or quality"
+        },
+        "example": {
+          "en": "Today's news uses the word prime."
+        }
+      },
+      "picture_prompt": "a clear photo of prime: First in importance rank or quality"
     },
     {
+      "id": "minister",
       "en": "minister",
-      "pos": "noun",
-      "def_en": "A senior government official in charge of a department",
-      "example_en": "Today's news uses the word minister.",
-      "sense_note": ""
+      "ko": "A senior government official in charge of a department",
+      "l1": {
+        "en": "A senior government official in charge of a department"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A senior government official in charge of a department"
+        },
+        "example": {
+          "en": "Today's news uses the word minister."
+        }
+      },
+      "picture_prompt": "a clear photo of minister: A senior government official in charge of a department"
     },
     {
+      "id": "parliament",
       "en": "parliament",
-      "pos": "noun",
-      "def_en": "The group of people who make laws for a country",
-      "example_en": "Today's news uses the word parliament.",
-      "sense_note": ""
+      "ko": "The group of people who make laws for a country",
+      "l1": {
+        "en": "The group of people who make laws for a country"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The group of people who make laws for a country"
+        },
+        "example": {
+          "en": "Today's news uses the word parliament."
+        }
+      },
+      "picture_prompt": "a clear photo of parliament: The group of people who make laws for a country"
     },
     {
+      "id": "crisis",
       "en": "crisis",
-      "pos": "noun",
-      "def_en": "A time of great danger difficulty or uncertainty",
-      "example_en": "Today's news uses the word crisis.",
-      "sense_note": ""
+      "ko": "A time of great danger difficulty or uncertainty",
+      "l1": {
+        "en": "A time of great danger difficulty or uncertainty"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A time of great danger difficulty or uncertainty"
+        },
+        "example": {
+          "en": "Today's news uses the word crisis."
+        }
+      },
+      "picture_prompt": "a clear photo of crisis: A time of great danger difficulty or uncertainty"
     },
     {
+      "id": "candidate",
       "en": "candidate",
-      "pos": "noun",
-      "def_en": "A person who is competing for a position or office",
-      "example_en": "Today's news uses the word candidate.",
-      "sense_note": ""
+      "ko": "A person who is competing for a position or office",
+      "l1": {
+        "en": "A person who is competing for a position or office"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A person who is competing for a position or office"
+        },
+        "example": {
+          "en": "Today's news uses the word candidate."
+        }
+      },
+      "picture_prompt": "a clear photo of candidate: A person who is competing for a position or office"
     },
     {
+      "id": "cabinet",
       "en": "cabinet",
-      "pos": "noun",
-      "def_en": "The group of senior ministers who advise the head of government",
-      "example_en": "Today's news uses the word cabinet.",
-      "sense_note": ""
+      "ko": "The group of senior ministers who advise the head of government",
+      "l1": {
+        "en": "The group of senior ministers who advise the head of government"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The group of senior ministers who advise the head of government"
+        },
+        "example": {
+          "en": "Today's news uses the word cabinet."
+        }
+      },
+      "picture_prompt": "a clear photo of cabinet: The group of senior ministers who advise the head of government"
     },
     {
+      "id": "govern",
       "en": "govern",
-      "pos": "verb",
-      "def_en": "To officially control and manage a country or organization",
-      "example_en": "Today's news uses the word govern.",
-      "sense_note": ""
+      "ko": "To officially control and manage a country or organization",
+      "l1": {
+        "en": "To officially control and manage a country or organization"
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "To officially control and manage a country or organization"
+        },
+        "example": {
+          "en": "Today's news uses the word govern."
+        }
+      },
+      "picture_prompt": "a clear photo of govern: To officially control and manage a country or organization"
     },
     {
+      "id": "mandate",
       "en": "mandate",
-      "pos": "noun",
-      "def_en": "The authority given to a leader by the people who elected them",
-      "example_en": "Today's news uses the word mandate.",
-      "sense_note": ""
+      "ko": "The authority given to a leader by the people who elected them",
+      "l1": {
+        "en": "The authority given to a leader by the people who elected them"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The authority given to a leader by the people who elected them"
+        },
+        "example": {
+          "en": "Today's news uses the word mandate."
+        }
+      },
+      "picture_prompt": "a clear photo of mandate: The authority given to a leader by the people who elected them"
     },
     {
+      "id": "scandal",
       "en": "scandal",
-      "pos": "noun",
-      "def_en": "An event that causes public shock and damage to someone's reputation",
-      "example_en": "Today's news uses the word scandal.",
-      "sense_note": ""
+      "ko": "An event that causes public shock and damage to someone's reputation",
+      "l1": {
+        "en": "An event that causes public shock and damage to someone's reputation"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "An event that causes public shock and damage to someone's reputation"
+        },
+        "example": {
+          "en": "Today's news uses the word scandal."
+        }
+      },
+      "picture_prompt": "a clear photo of scandal: An event that causes public shock and damage to someone's reputation"
     }
   ]
 }

@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-07-21",
+  "title": "News 2026-07-21",
   "date": "2026-07-21",
-  "timezone": "KST",
   "headline": "2026 07 21",
-  "youtube_title": "2026 07 21",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0721.txt",
   "words": [
     {
+      "id": "phenomenon",
       "en": "phenomenon",
-      "pos": "noun",
-      "def_en": "An observable fact or event that can be studied scientifically.",
-      "example_en": "Today's news uses the word phenomenon.",
-      "sense_note": ""
+      "ko": "An observable fact or event that can be studied scientifically.",
+      "l1": {
+        "en": "An observable fact or event that can be studied scientifically."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "An observable fact or event that can be studied scientifically."
+        },
+        "example": {
+          "en": "Today's news uses the word phenomenon."
+        }
+      },
+      "picture_prompt": "a clear photo of phenomenon: An observable fact or event that can be studied scientifically."
     },
     {
+      "id": "optical",
       "en": "optical",
-      "pos": "noun",
-      "def_en": "Relating to sight or light.",
-      "example_en": "Today's news uses the word optical.",
-      "sense_note": ""
+      "ko": "Relating to sight or light.",
+      "l1": {
+        "en": "Relating to sight or light."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Relating to sight or light."
+        },
+        "example": {
+          "en": "Today's news uses the word optical."
+        }
+      },
+      "picture_prompt": "a clear photo of optical: Relating to sight or light."
     },
     {
+      "id": "swirl",
       "en": "swirl",
-      "pos": "verb",
-      "def_en": "To move in a twisting or spiraling pattern.",
-      "example_en": "Today's news uses the word swirl.",
-      "sense_note": ""
+      "ko": "To move in a twisting or spiraling pattern.",
+      "l1": {
+        "en": "To move in a twisting or spiraling pattern."
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "To move in a twisting or spiraling pattern."
+        },
+        "example": {
+          "en": "Today's news uses the word swirl."
+        }
+      },
+      "picture_prompt": "a clear photo of swirl: To move in a twisting or spiraling pattern."
     },
     {
+      "id": "particle",
       "en": "particle",
-      "pos": "noun",
-      "def_en": "A tiny piece of matter.",
-      "example_en": "Today's news uses the word particle.",
-      "sense_note": ""
+      "ko": "A tiny piece of matter.",
+      "l1": {
+        "en": "A tiny piece of matter."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A tiny piece of matter."
+        },
+        "example": {
+          "en": "Today's news uses the word particle."
+        }
+      },
+      "picture_prompt": "a clear photo of particle: A tiny piece of matter."
     },
     {
+      "id": "diffraction",
       "en": "diffraction",
-      "pos": "noun",
-      "def_en": "The bending of waves around obstacles or through small openings.",
-      "example_en": "Today's news uses the word diffraction.",
-      "sense_note": ""
+      "ko": "The bending of waves around obstacles or through small openings.",
+      "l1": {
+        "en": "The bending of waves around obstacles or through small openings."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The bending of waves around obstacles or through small openings."
+        },
+        "example": {
+          "en": "Today's news uses the word diffraction."
+        }
+      },
+      "picture_prompt": "a clear photo of diffraction: The bending of waves around obstacles or through small openings."
     },
     {
+      "id": "polarization",
       "en": "polarization",
-      "pos": "noun",
-      "def_en": "The direction in which light waves vibrate as they travel.",
-      "example_en": "Today's news uses the word polarization.",
-      "sense_note": ""
+      "ko": "The direction in which light waves vibrate as they travel.",
+      "l1": {
+        "en": "The direction in which light waves vibrate as they travel."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The direction in which light waves vibrate as they travel."
+        },
+        "example": {
+          "en": "Today's news uses the word polarization."
+        }
+      },
+      "picture_prompt": "a clear photo of polarization: The direction in which light waves vibrate as they travel."
     },
     {
+      "id": "photon",
       "en": "photon",
-      "pos": "noun",
-      "def_en": "A single particle of light.",
-      "example_en": "Today's news uses the word photon.",
-      "sense_note": ""
+      "ko": "A single particle of light.",
+      "l1": {
+        "en": "A single particle of light."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A single particle of light."
+        },
+        "example": {
+          "en": "Today's news uses the word photon."
+        }
+      },
+      "picture_prompt": "a clear photo of photon: A single particle of light."
     },
     {
+      "id": "simulate",
       "en": "simulate",
-      "pos": "verb",
-      "def_en": "To imitate or reproduce the conditions of a situation.",
-      "example_en": "Today's news uses the word simulate.",
-      "sense_note": ""
+      "ko": "To imitate or reproduce the conditions of a situation.",
+      "l1": {
+        "en": "To imitate or reproduce the conditions of a situation."
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "To imitate or reproduce the conditions of a situation."
+        },
+        "example": {
+          "en": "Today's news uses the word simulate."
+        }
+      },
+      "picture_prompt": "a clear photo of simulate: To imitate or reproduce the conditions of a situation."
     },
     {
+      "id": "barrier",
       "en": "barrier",
-      "pos": "noun",
-      "def_en": "An obstacle that prevents progress or access.",
-      "example_en": "Today's news uses the word barrier.",
-      "sense_note": ""
+      "ko": "An obstacle that prevents progress or access.",
+      "l1": {
+        "en": "An obstacle that prevents progress or access."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "An obstacle that prevents progress or access."
+        },
+        "example": {
+          "en": "Today's news uses the word barrier."
+        }
+      },
+      "picture_prompt": "a clear photo of barrier: An obstacle that prevents progress or access."
     },
     {
+      "id": "computing",
       "en": "computing",
-      "pos": "noun",
-      "def_en": "The use or operation of computers to process data.",
-      "example_en": "Today's news uses the word computing.",
-      "sense_note": ""
+      "ko": "The use or operation of computers to process data.",
+      "l1": {
+        "en": "The use or operation of computers to process data."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The use or operation of computers to process data."
+        },
+        "example": {
+          "en": "Today's news uses the word computing."
+        }
+      },
+      "picture_prompt": "a clear photo of computing: The use or operation of computers to process data."
     }
   ]
 }

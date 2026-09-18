@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-07-20",
+  "title": "News 2026-07-20",
   "date": "2026-07-20",
-  "timezone": "KST",
   "headline": "2026 07 20",
-  "youtube_title": "2026 07 20",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0720.txt",
   "words": [
     {
+      "id": "proposal",
       "en": "proposal",
-      "pos": "noun",
-      "def_en": "A formal plan or suggestion put forward for consideration or discussion.",
-      "example_en": "Today's news uses the word proposal.",
-      "sense_note": ""
+      "ko": "A formal plan or suggestion put forward for consideration or discussion.",
+      "l1": {
+        "en": "A formal plan or suggestion put forward for consideration or discussion."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A formal plan or suggestion put forward for consideration or discussion."
+        },
+        "example": {
+          "en": "Today's news uses the word proposal."
+        }
+      },
+      "picture_prompt": "a clear photo of proposal: A formal plan or suggestion put forward for consideration or discussion."
     },
     {
+      "id": "commercial",
       "en": "commercial",
-      "pos": "noun",
-      "def_en": "Related to or engaged in commerce; intended to make a profit.",
-      "example_en": "Today's news uses the word commercial.",
-      "sense_note": ""
+      "ko": "Related to or engaged in commerce; intended to make a profit.",
+      "l1": {
+        "en": "Related to or engaged in commerce; intended to make a profit."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Related to or engaged in commerce; intended to make a profit."
+        },
+        "example": {
+          "en": "Today's news uses the word commercial."
+        }
+      },
+      "picture_prompt": "a clear photo of commercial: Related to or engaged in commerce; intended to make a profit."
     },
     {
+      "id": "collaboration",
       "en": "collaboration",
-      "pos": "noun",
-      "def_en": "The action of working with someone to produce or create something.",
-      "example_en": "Today's news uses the word collaboration.",
-      "sense_note": ""
+      "ko": "The action of working with someone to produce or create something.",
+      "l1": {
+        "en": "The action of working with someone to produce or create something."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The action of working with someone to produce or create something."
+        },
+        "example": {
+          "en": "Today's news uses the word collaboration."
+        }
+      },
+      "picture_prompt": "a clear photo of collaboration: The action of working with someone to produce or create something."
     },
     {
+      "id": "navigation",
       "en": "navigation",
-      "pos": "noun",
-      "def_en": "The process or activity of accurately finding one's way and planning routes.",
-      "example_en": "Today's news uses the word navigation.",
-      "sense_note": ""
+      "ko": "The process or activity of accurately finding one's way and planning routes.",
+      "l1": {
+        "en": "The process or activity of accurately finding one's way and planning routes."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The process or activity of accurately finding one's way and planning routes."
+        },
+        "example": {
+          "en": "Today's news uses the word navigation."
+        }
+      },
+      "picture_prompt": "a clear photo of navigation: The process or activity of accurately finding one's way and planning routes."
     },
     {
+      "id": "modular",
       "en": "modular",
-      "pos": "noun",
-      "def_en": "Constructed using standardized units or sections for easy assembly and flexible arrangement.",
-      "example_en": "Today's news uses the word modular.",
-      "sense_note": ""
+      "ko": "Constructed using standardized units or sections for easy assembly and flexible arrangement.",
+      "l1": {
+        "en": "Constructed using standardized units or sections for easy assembly and flexible arrangement."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Constructed using standardized units or sections for easy assembly and flexible arrangement."
+        },
+        "example": {
+          "en": "Today's news uses the word modular."
+        }
+      },
+      "picture_prompt": "a clear photo of modular: Constructed using standardized units or sections for easy assembly and flexib..."
     },
     {
+      "id": "abrasive",
       "en": "abrasive",
-      "pos": "noun",
-      "def_en": "A substance or material capable of polishing",
-      "example_en": "Today's news uses the word abrasive.",
-      "sense_note": ""
+      "ko": "A substance or material capable of polishing",
+      "l1": {
+        "en": "A substance or material capable of polishing"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A substance or material capable of polishing"
+        },
+        "example": {
+          "en": "Today's news uses the word abrasive."
+        }
+      },
+      "picture_prompt": "a clear photo of abrasive: A substance or material capable of polishing"
     },
     {
+      "id": "orbital",
       "en": "orbital",
-      "pos": "noun",
-      "def_en": "Relating to an orbit or the path of an object moving around a planet",
-      "example_en": "Today's news uses the word orbital.",
-      "sense_note": ""
+      "ko": "Relating to an orbit or the path of an object moving around a planet",
+      "l1": {
+        "en": "Relating to an orbit or the path of an object moving around a planet"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Relating to an orbit or the path of an object moving around a planet"
+        },
+        "example": {
+          "en": "Today's news uses the word orbital."
+        }
+      },
+      "picture_prompt": "a clear photo of orbital: Relating to an orbit or the path of an object moving around a planet"
     },
     {
+      "id": "payload",
       "en": "payload",
-      "pos": "noun",
-      "def_en": "The part of a vehicle load",
-      "example_en": "Today's news uses the word payload.",
-      "sense_note": ""
+      "ko": "The part of a vehicle load",
+      "l1": {
+        "en": "The part of a vehicle load"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The part of a vehicle load"
+        },
+        "example": {
+          "en": "Today's news uses the word payload."
+        }
+      },
+      "picture_prompt": "a clear photo of payload: The part of a vehicle load"
     },
     {
+      "id": "partnership",
       "en": "partnership",
-      "pos": "noun",
-      "def_en": "An arrangement where two or more parties agree to cooperate to advance their mutual interests.",
-      "example_en": "Today's news uses the word partnership.",
-      "sense_note": ""
+      "ko": "An arrangement where two or more parties agree to cooperate to advance their mutual interests.",
+      "l1": {
+        "en": "An arrangement where two or more parties agree to cooperate to advance their mutual interests."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "An arrangement where two or more parties agree to cooperate to advance their mutual interests."
+        },
+        "example": {
+          "en": "Today's news uses the word partnership."
+        }
+      },
+      "picture_prompt": "a clear photo of partnership: An arrangement where two or more parties agree to cooperate to advance their ..."
     },
     {
+      "id": "mature",
       "en": "mature",
-      "pos": "noun",
-      "def_en": "Fully developed physically or mentally; having reached an advanced stage of development.",
-      "example_en": "Today's news uses the word mature.",
-      "sense_note": ""
+      "ko": "Fully developed physically or mentally; having reached an advanced stage of development.",
+      "l1": {
+        "en": "Fully developed physically or mentally; having reached an advanced stage of development."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Fully developed physically or mentally; having reached an advanced stage of development."
+        },
+        "example": {
+          "en": "Today's news uses the word mature."
+        }
+      },
+      "picture_prompt": "a clear photo of mature: Fully developed physically or mentally; having reached an advanced stage of d..."
     }
   ]
 }

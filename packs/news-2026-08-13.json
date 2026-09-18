@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-08-13",
+  "title": "News 2026-08-13",
   "date": "2026-08-13",
-  "timezone": "KST",
   "headline": "How a schoolteacher's son became Kashmir's first India Test cricketer",
-  "youtube_title": "How a schoolteacher's son became Kashmir's first India Test cricketer",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0813.txt",
   "words": [
     {
+      "id": "cricketer",
       "en": "cricketer",
-      "pos": "noun",
-      "def_en": "A person who plays the sport of cricket.",
-      "example_en": "A twenty-nine-year-old all-rounder named Auqib Nabi has become the first cricketer from Jammu and Kashmir to earn a call-up to India's Test team.",
-      "sense_note": ""
+      "ko": "A person who plays the sport of cricket.",
+      "l1": {
+        "en": "A person who plays the sport of cricket."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A person who plays the sport of cricket."
+        },
+        "example": {
+          "en": "A twenty-nine-year-old all-rounder named Auqib Nabi has become the first cricketer from Jammu and Kashmir to earn a call-up to India's Test team."
+        }
+      },
+      "picture_prompt": "a clear photo of cricketer: A person who plays the sport of cricket."
     },
     {
+      "id": "allrounder",
       "en": "all-rounder",
-      "pos": "noun",
-      "def_en": "A cricket player who is good at both batting and bowling.",
-      "example_en": "A twenty-nine-year-old all-rounder named Auqib Nabi has become the first cricketer from Jammu and Kashmir to earn a call-up to India's Test team.",
-      "sense_note": ""
+      "ko": "A cricket player who is good at both batting and bowling.",
+      "l1": {
+        "en": "A cricket player who is good at both batting and bowling."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A cricket player who is good at both batting and bowling."
+        },
+        "example": {
+          "en": "A twenty-nine-year-old all-rounder named Auqib Nabi has become the first cricketer from Jammu and Kashmir to earn a call-up to India's Test team."
+        }
+      },
+      "picture_prompt": "a clear photo of all-rounder: A cricket player who is good at both batting and bowling."
     },
     {
+      "id": "squad",
       "en": "squad",
-      "pos": "noun",
-      "def_en": "A team of players selected for a sport.",
-      "example_en": "He replaced Jasprit Bumrah in the squad for the two-match series against Sri Lanka, which begins on August fifteenth.",
-      "sense_note": ""
+      "ko": "A team of players selected for a sport.",
+      "l1": {
+        "en": "A team of players selected for a sport."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A team of players selected for a sport."
+        },
+        "example": {
+          "en": "He replaced Jasprit Bumrah in the squad for the two-match series against Sri Lanka, which begins on August fifteenth."
+        }
+      },
+      "picture_prompt": "a clear photo of squad: A team of players selected for a sport."
     },
     {
+      "id": "debut",
       "en": "debut",
-      "pos": "noun",
-      "def_en": "A first public performance or first appearance in a competition.",
-      "example_en": "His breakthrough came in twenty twenty when he made his Ranji Trophy debut for Jammu and Kashmir, taking a five-wicket haul against Jharkhand.",
-      "sense_note": ""
+      "ko": "A first public performance or first appearance in a competition.",
+      "l1": {
+        "en": "A first public performance or first appearance in a competition."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A first public performance or first appearance in a competition."
+        },
+        "example": {
+          "en": "His breakthrough came in twenty twenty when he made his Ranji Trophy debut for Jammu and Kashmir, taking a five-wicket haul against Jharkhand."
+        }
+      },
+      "picture_prompt": "a clear photo of debut: A first public performance or first appearance in a competition."
     },
     {
+      "id": "wicket",
       "en": "wicket",
-      "pos": "noun",
-      "def_en": "In cricket",
-      "example_en": "His breakthrough came in twenty twenty when he made his Ranji Trophy debut for Jammu and Kashmir, taking a five-wicket haul against Jharkhand.",
-      "sense_note": ""
+      "ko": "In cricket",
+      "l1": {
+        "en": "In cricket"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "In cricket"
+        },
+        "example": {
+          "en": "His breakthrough came in twenty twenty when he made his Ranji Trophy debut for Jammu and Kashmir, taking a five-wicket haul against Jharkhand."
+        }
+      },
+      "picture_prompt": "a clear photo of wicket: In cricket"
     },
     {
+      "id": "tournament",
       "en": "tournament",
-      "pos": "noun",
-      "def_en": "A series of competitions in which teams play to find a winner.",
-      "example_en": "A twenty-nine-year-old all-rounder named Auqib Nabi has become the first cricketer from Jammu and Kashmir to earn a call-up to India's Test team.",
-      "sense_note": ""
+      "ko": "A series of competitions in which teams play to find a winner.",
+      "l1": {
+        "en": "A series of competitions in which teams play to find a winner."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A series of competitions in which teams play to find a winner."
+        },
+        "example": {
+          "en": "A twenty-nine-year-old all-rounder named Auqib Nabi has become the first cricketer from Jammu and Kashmir to earn a call-up to India's Test team."
+        }
+      },
+      "picture_prompt": "a clear photo of tournament: A series of competitions in which teams play to find a winner."
     },
     {
+      "id": "infrastructure",
       "en": "infrastructure",
-      "pos": "noun",
-      "def_en": "The basic systems and structures needed for a place to work",
-      "example_en": "For a region where conflict, harsh winters and limited infrastructure have long restricted sporting opportunities, Auqib's selection is being seen as a landmark moment.",
-      "sense_note": ""
+      "ko": "The basic systems and structures needed for a place to work",
+      "l1": {
+        "en": "The basic systems and structures needed for a place to work"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The basic systems and structures needed for a place to work"
+        },
+        "example": {
+          "en": "For a region where conflict, harsh winters and limited infrastructure have long restricted sporting opportunities, Auqib's selection is being seen as a landmark moment."
+        }
+      },
+      "picture_prompt": "a clear photo of infrastructure: The basic systems and structures needed for a place to work"
     },
     {
+      "id": "obstacle",
       "en": "obstacle",
-      "pos": "noun",
-      "def_en": "Something that blocks the way or makes progress difficult.",
-      "example_en": "A twenty-nine-year-old all-rounder named Auqib Nabi has become the first cricketer from Jammu and Kashmir to earn a call-up to India's Test team.",
-      "sense_note": ""
+      "ko": "Something that blocks the way or makes progress difficult.",
+      "l1": {
+        "en": "Something that blocks the way or makes progress difficult."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Something that blocks the way or makes progress difficult."
+        },
+        "example": {
+          "en": "A twenty-nine-year-old all-rounder named Auqib Nabi has become the first cricketer from Jammu and Kashmir to earn a call-up to India's Test team."
+        }
+      },
+      "picture_prompt": "a clear photo of obstacle: Something that blocks the way or makes progress difficult."
     },
     {
+      "id": "landmark",
       "en": "landmark",
-      "pos": "noun",
-      "def_en": "An important event or a famous place that is easy to recognize.",
-      "example_en": "For a region where conflict, harsh winters and limited infrastructure have long restricted sporting opportunities, Auqib's selection is being seen as a landmark moment.",
-      "sense_note": ""
+      "ko": "An important event or a famous place that is easy to recognize.",
+      "l1": {
+        "en": "An important event or a famous place that is easy to recognize."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "An important event or a famous place that is easy to recognize."
+        },
+        "example": {
+          "en": "For a region where conflict, harsh winters and limited infrastructure have long restricted sporting opportunities, Auqib's selection is being seen as a landmark moment."
+        }
+      },
+      "picture_prompt": "a clear photo of landmark: An important event or a famous place that is easy to recognize."
     },
     {
+      "id": "select",
       "en": "select",
-      "pos": "verb",
-      "def_en": "To choose someone or something from a group.",
-      "example_en": "A twenty-nine-year-old all-rounder named Auqib Nabi has become the first cricketer from Jammu and Kashmir to earn a call-up to India's Test team.",
-      "sense_note": ""
+      "ko": "To choose someone or something from a group.",
+      "l1": {
+        "en": "To choose someone or something from a group."
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "To choose someone or something from a group."
+        },
+        "example": {
+          "en": "A twenty-nine-year-old all-rounder named Auqib Nabi has become the first cricketer from Jammu and Kashmir to earn a call-up to India's Test team."
+        }
+      },
+      "picture_prompt": "a clear photo of select: To choose someone or something from a group."
     }
   ]
 }

@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-08-10",
+  "title": "News 2026-08-10",
   "date": "2026-08-10",
-  "timezone": "KST",
   "headline": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China's east coast",
-  "youtube_title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China's east coast",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0810.txt",
   "words": [
     {
+      "id": "typhoon",
       "en": "typhoon",
-      "pos": "noun",
-      "def_en": "A violent tropical storm with very strong winds and heavy rain.",
-      "example_en": "Typhoon Dolphin, the most powerful tropical cyclone to hit China this year, made landfall on the country's eastern coast on Sunday, bringing torrential rain and strong winds and triggering warnings of flooding and landslides.",
-      "sense_note": ""
+      "ko": "A violent tropical storm with very strong winds and heavy rain.",
+      "l1": {
+        "en": "A violent tropical storm with very strong winds and heavy rain."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A violent tropical storm with very strong winds and heavy rain."
+        },
+        "example": {
+          "en": "Typhoon Dolphin, the most powerful tropical cyclone to hit China this year, made landfall on the country's eastern coast on Sunday, bringing torrential rain and strong winds and triggering warnings of flooding and landslides."
+        }
+      },
+      "picture_prompt": "a clear photo of typhoon: A violent tropical storm with very strong winds and heavy rain."
     },
     {
+      "id": "landfall",
       "en": "landfall",
-      "pos": "noun",
-      "def_en": "The moment when a storm or ship reaches land.",
-      "example_en": "Typhoon Dolphin, the most powerful tropical cyclone to hit China this year, made landfall on the country's eastern coast on Sunday, bringing torrential rain and strong winds and triggering warnings of flooding and landslides.",
-      "sense_note": ""
+      "ko": "The moment when a storm or ship reaches land.",
+      "l1": {
+        "en": "The moment when a storm or ship reaches land."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The moment when a storm or ship reaches land."
+        },
+        "example": {
+          "en": "Typhoon Dolphin, the most powerful tropical cyclone to hit China this year, made landfall on the country's eastern coast on Sunday, bringing torrential rain and strong winds and triggering warnings of flooding and landslides."
+        }
+      },
+      "picture_prompt": "a clear photo of landfall: The moment when a storm or ship reaches land."
     },
     {
+      "id": "evacuate",
       "en": "evacuate",
-      "pos": "verb",
-      "def_en": "To move people from a dangerous place to a safer place.",
-      "example_en": "Typhoon Dolphin, the most powerful tropical cyclone to hit China this year, made landfall on the country's eastern coast on Sunday, bringing torrential rain and strong winds and triggering warnings of flooding and landslides.",
-      "sense_note": ""
+      "ko": "To move people from a dangerous place to a safer place.",
+      "l1": {
+        "en": "To move people from a dangerous place to a safer place."
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "To move people from a dangerous place to a safer place."
+        },
+        "example": {
+          "en": "Typhoon Dolphin, the most powerful tropical cyclone to hit China this year, made landfall on the country's eastern coast on Sunday, bringing torrential rain and strong winds and triggering warnings of flooding and landslides."
+        }
+      },
+      "picture_prompt": "a clear photo of evacuate: To move people from a dangerous place to a safer place."
     },
     {
+      "id": "torrential",
       "en": "torrential",
-      "pos": "adjective",
-      "def_en": "Very heavy and fast-flowing",
-      "example_en": "Typhoon Dolphin, the most powerful tropical cyclone to hit China this year, made landfall on the country's eastern coast on Sunday, bringing torrential rain and strong winds and triggering warnings of flooding and landslides.",
-      "sense_note": ""
+      "ko": "Very heavy and fast-flowing",
+      "l1": {
+        "en": "Very heavy and fast-flowing"
+      },
+      "ww": {
+        "pos": "adj",
+        "def": {
+          "en": "Very heavy and fast-flowing"
+        },
+        "example": {
+          "en": "Typhoon Dolphin, the most powerful tropical cyclone to hit China this year, made landfall on the country's eastern coast on Sunday, bringing torrential rain and strong winds and triggering warnings of flooding and landslides."
+        }
+      },
+      "picture_prompt": "a clear photo of torrential: Very heavy and fast-flowing"
     },
     {
+      "id": "forecaster",
       "en": "forecaster",
-      "pos": "noun",
-      "def_en": "A person who predicts what the weather will be.",
-      "example_en": "Typhoon Dolphin, the most powerful tropical cyclone to hit China this year, made landfall on the country's eastern coast on Sunday, bringing torrential rain and strong winds and triggering warnings of flooding and landslides.",
-      "sense_note": ""
+      "ko": "A person who predicts what the weather will be.",
+      "l1": {
+        "en": "A person who predicts what the weather will be."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A person who predicts what the weather will be."
+        },
+        "example": {
+          "en": "Typhoon Dolphin, the most powerful tropical cyclone to hit China this year, made landfall on the country's eastern coast on Sunday, bringing torrential rain and strong winds and triggering warnings of flooding and landslides."
+        }
+      },
+      "picture_prompt": "a clear photo of forecaster: A person who predicts what the weather will be."
     },
     {
+      "id": "coastal",
       "en": "coastal",
-      "pos": "noun",
-      "def_en": "Located on or near a coast or seashore.",
-      "example_en": "Typhoon Dolphin, the most powerful tropical cyclone to hit China this year, made landfall on the country's eastern coast on Sunday, bringing torrential rain and strong winds and triggering warnings of flooding and landslides.",
-      "sense_note": ""
+      "ko": "Located on or near a coast or seashore.",
+      "l1": {
+        "en": "Located on or near a coast or seashore."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Located on or near a coast or seashore."
+        },
+        "example": {
+          "en": "Typhoon Dolphin, the most powerful tropical cyclone to hit China this year, made landfall on the country's eastern coast on Sunday, bringing torrential rain and strong winds and triggering warnings of flooding and landslides."
+        }
+      },
+      "picture_prompt": "a clear photo of coastal: Located on or near a coast or seashore."
     },
     {
+      "id": "flood",
       "en": "flood",
-      "pos": "noun",
-      "def_en": "A large amount of water covering land that is usually dry.",
-      "example_en": "Typhoon Dolphin, the most powerful tropical cyclone to hit China this year, made landfall on the country's eastern coast on Sunday, bringing torrential rain and strong winds and triggering warnings of flooding and landslides.",
-      "sense_note": ""
+      "ko": "A large amount of water covering land that is usually dry.",
+      "l1": {
+        "en": "A large amount of water covering land that is usually dry."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A large amount of water covering land that is usually dry."
+        },
+        "example": {
+          "en": "Typhoon Dolphin, the most powerful tropical cyclone to hit China this year, made landfall on the country's eastern coast on Sunday, bringing torrential rain and strong winds and triggering warnings of flooding and landslides."
+        }
+      },
+      "picture_prompt": "a clear photo of flood: A large amount of water covering land that is usually dry."
     },
     {
+      "id": "warning",
       "en": "warning",
-      "pos": "noun",
-      "def_en": "A statement telling people about possible danger.",
-      "example_en": "The water resources ministry said several major rivers could see serious flooding, while smaller rivers in the hardest-hit areas could rise above warning levels.",
-      "sense_note": ""
+      "ko": "A statement telling people about possible danger.",
+      "l1": {
+        "en": "A statement telling people about possible danger."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A statement telling people about possible danger."
+        },
+        "example": {
+          "en": "The water resources ministry said several major rivers could see serious flooding, while smaller rivers in the hardest-hit areas could rise above warning levels."
+        }
+      },
+      "picture_prompt": "a clear photo of warning: A statement telling people about possible danger."
     },
     {
+      "id": "vessel",
       "en": "vessel",
-      "pos": "noun",
-      "def_en": "A ship or large boat.",
-      "example_en": "Typhoon Dolphin, the most powerful tropical cyclone to hit China this year, made landfall on the country's eastern coast on Sunday, bringing torrential rain and strong winds and triggering warnings of flooding and landslides.",
-      "sense_note": ""
+      "ko": "A ship or large boat.",
+      "l1": {
+        "en": "A ship or large boat."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A ship or large boat."
+        },
+        "example": {
+          "en": "Typhoon Dolphin, the most powerful tropical cyclone to hit China this year, made landfall on the country's eastern coast on Sunday, bringing torrential rain and strong winds and triggering warnings of flooding and landslides."
+        }
+      },
+      "picture_prompt": "a clear photo of vessel: A ship or large boat."
     },
     {
+      "id": "disrupt",
       "en": "disrupt",
-      "pos": "verb",
-      "def_en": "To interrupt or stop something from continuing normally.",
-      "example_en": "Typhoon Dolphin, the most powerful tropical cyclone to hit China this year, made landfall on the country's eastern coast on Sunday, bringing torrential rain and strong winds and triggering warnings of flooding and landslides.",
-      "sense_note": ""
+      "ko": "To interrupt or stop something from continuing normally.",
+      "l1": {
+        "en": "To interrupt or stop something from continuing normally."
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "To interrupt or stop something from continuing normally."
+        },
+        "example": {
+          "en": "Typhoon Dolphin, the most powerful tropical cyclone to hit China this year, made landfall on the country's eastern coast on Sunday, bringing torrential rain and strong winds and triggering warnings of flooding and landslides."
+        }
+      },
+      "picture_prompt": "a clear photo of disrupt: To interrupt or stop something from continuing normally."
     }
   ]
 }

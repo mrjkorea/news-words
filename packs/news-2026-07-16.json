@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-07-16",
+  "title": "News 2026-07-16",
   "date": "2026-07-16",
-  "timezone": "KST",
   "headline": "2026 07 16",
-  "youtube_title": "2026 07 16",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0716.txt",
   "words": [
     {
+      "id": "diagnosis",
       "en": "diagnosis",
-      "pos": "noun",
-      "def_en": "The identification of a disease or medical condition through examination and testing.",
-      "example_en": "Today's news uses the word diagnosis.",
-      "sense_note": ""
+      "ko": "The identification of a disease or medical condition through examination and testing.",
+      "l1": {
+        "en": "The identification of a disease or medical condition through examination and testing."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The identification of a disease or medical condition through examination and testing."
+        },
+        "example": {
+          "en": "Today's news uses the word diagnosis."
+        }
+      },
+      "picture_prompt": "a clear photo of diagnosis: The identification of a disease or medical condition through examination and ..."
     },
     {
+      "id": "prevention",
       "en": "prevention",
-      "pos": "noun",
-      "def_en": "Action taken to stop something from happening especially to avoid disease or injury.",
-      "example_en": "Today's news uses the word prevention.",
-      "sense_note": ""
+      "ko": "Action taken to stop something from happening especially to avoid disease or injury.",
+      "l1": {
+        "en": "Action taken to stop something from happening especially to avoid disease or injury."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Action taken to stop something from happening especially to avoid disease or injury."
+        },
+        "example": {
+          "en": "Today's news uses the word prevention."
+        }
+      },
+      "picture_prompt": "a clear photo of prevention: Action taken to stop something from happening especially to avoid disease or ..."
     },
     {
+      "id": "survival",
       "en": "survival",
-      "pos": "noun",
-      "def_en": "The state of continuing to live or exist especially after a dangerous or difficult event.",
-      "example_en": "Today's news uses the word survival.",
-      "sense_note": ""
+      "ko": "The state of continuing to live or exist especially after a dangerous or difficult event.",
+      "l1": {
+        "en": "The state of continuing to live or exist especially after a dangerous or difficult event."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The state of continuing to live or exist especially after a dangerous or difficult event."
+        },
+        "example": {
+          "en": "Today's news uses the word survival."
+        }
+      },
+      "picture_prompt": "a clear photo of survival: The state of continuing to live or exist especially after a dangerous or diff..."
     },
     {
+      "id": "screening",
       "en": "screening",
-      "pos": "noun",
-      "def_en": "Testing a group of people for a disease or condition even if they have no symptoms.",
-      "example_en": "Today's news uses the word screening.",
-      "sense_note": ""
+      "ko": "Testing a group of people for a disease or condition even if they have no symptoms.",
+      "l1": {
+        "en": "Testing a group of people for a disease or condition even if they have no symptoms."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Testing a group of people for a disease or condition even if they have no symptoms."
+        },
+        "example": {
+          "en": "Today's news uses the word screening."
+        }
+      },
+      "picture_prompt": "a clear photo of screening: Testing a group of people for a disease or condition even if they have no sym..."
     },
     {
+      "id": "tobacco",
       "en": "tobacco",
-      "pos": "noun",
-      "def_en": "A plant whose leaves are dried and used for smoking in cigarettes cigars and pipes.",
-      "example_en": "Today's news uses the word tobacco.",
-      "sense_note": ""
+      "ko": "A plant whose leaves are dried and used for smoking in cigarettes cigars and pipes.",
+      "l1": {
+        "en": "A plant whose leaves are dried and used for smoking in cigarettes cigars and pipes."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A plant whose leaves are dried and used for smoking in cigarettes cigars and pipes."
+        },
+        "example": {
+          "en": "Today's news uses the word tobacco."
+        }
+      },
+      "picture_prompt": "a clear photo of tobacco: A plant whose leaves are dried and used for smoking in cigarettes cigars and ..."
     },
     {
+      "id": "obesity",
       "en": "obesity",
-      "pos": "noun",
-      "def_en": "The medical condition of being extremely overweight which increases health risks.",
-      "example_en": "Today's news uses the word obesity.",
-      "sense_note": ""
+      "ko": "The medical condition of being extremely overweight which increases health risks.",
+      "l1": {
+        "en": "The medical condition of being extremely overweight which increases health risks."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The medical condition of being extremely overweight which increases health risks."
+        },
+        "example": {
+          "en": "Today's news uses the word obesity."
+        }
+      },
+      "picture_prompt": "a clear photo of obesity: The medical condition of being extremely overweight which increases health ri..."
     },
     {
+      "id": "infectious",
       "en": "infectious",
-      "pos": "noun",
-      "def_en": "Capable of spreading from one person or organism to another such as a virus or bacteria.",
-      "example_en": "Today's news uses the word infectious.",
-      "sense_note": ""
+      "ko": "Capable of spreading from one person or organism to another such as a virus or bacteria.",
+      "l1": {
+        "en": "Capable of spreading from one person or organism to another such as a virus or bacteria."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Capable of spreading from one person or organism to another such as a virus or bacteria."
+        },
+        "example": {
+          "en": "Today's news uses the word infectious."
+        }
+      },
+      "picture_prompt": "a clear photo of infectious: Capable of spreading from one person or organism to another such as a virus o..."
     },
     {
+      "id": "mortality",
       "en": "mortality",
-      "pos": "noun",
-      "def_en": "The state of being subject to death; the death rate within a population.",
-      "example_en": "Today's news uses the word mortality.",
-      "sense_note": ""
+      "ko": "The state of being subject to death; the death rate within a population.",
+      "l1": {
+        "en": "The state of being subject to death; the death rate within a population."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The state of being subject to death; the death rate within a population."
+        },
+        "example": {
+          "en": "Today's news uses the word mortality."
+        }
+      },
+      "picture_prompt": "a clear photo of mortality: The state of being subject to death; the death rate within a population."
     },
     {
+      "id": "vaccine",
       "en": "vaccine",
-      "pos": "noun",
-      "def_en": "A substance that stimulates the body's immune system to protect against a specific disease.",
-      "example_en": "Today's news uses the word vaccine.",
-      "sense_note": ""
+      "ko": "A substance that stimulates the body's immune system to protect against a specific disease.",
+      "l1": {
+        "en": "A substance that stimulates the body's immune system to protect against a specific disease."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A substance that stimulates the body's immune system to protect against a specific disease."
+        },
+        "example": {
+          "en": "Today's news uses the word vaccine."
+        }
+      },
+      "picture_prompt": "a clear photo of vaccine: A substance that stimulates the body's immune system to protect against a spe..."
     },
     {
+      "id": "inequity",
       "en": "inequity",
-      "pos": "noun",
-      "def_en": "Lack of fairness or justice; an unfair difference between groups of people.",
-      "example_en": "Today's news uses the word inequity.",
-      "sense_note": ""
+      "ko": "Lack of fairness or justice; an unfair difference between groups of people.",
+      "l1": {
+        "en": "Lack of fairness or justice; an unfair difference between groups of people."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Lack of fairness or justice; an unfair difference between groups of people."
+        },
+        "example": {
+          "en": "Today's news uses the word inequity."
+        }
+      },
+      "picture_prompt": "a clear photo of inequity: Lack of fairness or justice; an unfair difference between groups of people."
     }
   ]
 }

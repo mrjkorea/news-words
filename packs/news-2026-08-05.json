@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-08-05",
+  "title": "News 2026-08-05",
   "date": "2026-08-05",
-  "timezone": "KST",
   "headline": "2026 08 05",
-  "youtube_title": "2026 08 05",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0805.txt",
   "words": [
     {
+      "id": "quantum",
       "en": "quantum",
-      "pos": "noun",
-      "def_en": "Relating to the smallest possible units of energy and matter in physics.",
-      "example_en": "Researchers have achieved the first real-world demonstration of quantum entanglement over a busy telecommunications fiber network.",
-      "sense_note": ""
+      "ko": "Relating to the smallest possible units of energy and matter in physics.",
+      "l1": {
+        "en": "Relating to the smallest possible units of energy and matter in physics."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Relating to the smallest possible units of energy and matter in physics."
+        },
+        "example": {
+          "en": "Researchers have achieved the first real-world demonstration of quantum entanglement over a busy telecommunications fiber network."
+        }
+      },
+      "picture_prompt": "a clear photo of quantum: Relating to the smallest possible units of energy and matter in physics."
     },
     {
+      "id": "photon",
       "en": "photon",
-      "pos": "noun",
-      "def_en": "A tiny particle of light energy.",
-      "example_en": "A single photon carrying quantum information traveled more than twenty-four kilometers through an optical fiber already crowded with powerful internet signals, and it reached downtown Chicago still entangled with its partner at Northwestern University.",
-      "sense_note": ""
+      "ko": "A tiny particle of light energy.",
+      "l1": {
+        "en": "A tiny particle of light energy."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A tiny particle of light energy."
+        },
+        "example": {
+          "en": "A single photon carrying quantum information traveled more than twenty-four kilometers through an optical fiber already crowded with powerful internet signals, and it reached downtown Chicago still entangled with its partner at Northwestern University."
+        }
+      },
+      "picture_prompt": "a clear photo of photon: A tiny particle of light energy."
     },
     {
+      "id": "fiber",
       "en": "fiber",
-      "pos": "noun",
-      "def_en": "A thin thread-like material especially a glass thread that carries light signals.",
-      "example_en": "Researchers have achieved the first real-world demonstration of quantum entanglement over a busy telecommunications fiber network.",
-      "sense_note": ""
+      "ko": "A thin thread-like material especially a glass thread that carries light signals.",
+      "l1": {
+        "en": "A thin thread-like material especially a glass thread that carries light signals."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A thin thread-like material especially a glass thread that carries light signals."
+        },
+        "example": {
+          "en": "Researchers have achieved the first real-world demonstration of quantum entanglement over a busy telecommunications fiber network."
+        }
+      },
+      "picture_prompt": "a clear photo of fiber: A thin thread-like material especially a glass thread that carries light sign..."
     },
     {
+      "id": "entangled",
       "en": "entangled",
-      "pos": "noun",
-      "def_en": "Connected in a way that the state of one particle affects another even at a distance.",
-      "example_en": "A single photon carrying quantum information traveled more than twenty-four kilometers through an optical fiber already crowded with powerful internet signals, and it reached downtown Chicago still entangled with its partner at Northwestern University.",
-      "sense_note": ""
+      "ko": "Connected in a way that the state of one particle affects another even at a distance.",
+      "l1": {
+        "en": "Connected in a way that the state of one particle affects another even at a distance."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Connected in a way that the state of one particle affects another even at a distance."
+        },
+        "example": {
+          "en": "A single photon carrying quantum information traveled more than twenty-four kilometers through an optical fiber already crowded with powerful internet signals, and it reached downtown Chicago still entangled with its partner at Northwestern University."
+        }
+      },
+      "picture_prompt": "a clear photo of entangled: Connected in a way that the state of one particle affects another even at a d..."
     },
     {
+      "id": "fidelity",
       "en": "fidelity",
-      "pos": "noun",
-      "def_en": "The degree of exactness with which something is copied or transmitted.",
-      "example_en": "The quantum connection retained more than ninety-four percent fidelity, showing that delicate quantum signals can survive alongside conventional data streams in existing infrastructure.",
-      "sense_note": ""
+      "ko": "The degree of exactness with which something is copied or transmitted.",
+      "l1": {
+        "en": "The degree of exactness with which something is copied or transmitted."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The degree of exactness with which something is copied or transmitted."
+        },
+        "example": {
+          "en": "The quantum connection retained more than ninety-four percent fidelity, showing that delicate quantum signals can survive alongside conventional data streams in existing infrastructure."
+        }
+      },
+      "picture_prompt": "a clear photo of fidelity: The degree of exactness with which something is copied or transmitted."
     },
     {
+      "id": "wavelength",
       "en": "wavelength",
-      "pos": "noun",
-      "def_en": "The distance between two peaks of a wave such as a light or sound wave.",
-      "example_en": "Researchers have achieved the first real-world demonstration of quantum entanglement over a busy telecommunications fiber network.",
-      "sense_note": ""
+      "ko": "The distance between two peaks of a wave such as a light or sound wave.",
+      "l1": {
+        "en": "The distance between two peaks of a wave such as a light or sound wave."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The distance between two peaks of a wave such as a light or sound wave."
+        },
+        "example": {
+          "en": "Researchers have achieved the first real-world demonstration of quantum entanglement over a busy telecommunications fiber network."
+        }
+      },
+      "picture_prompt": "a clear photo of wavelength: The distance between two peaks of a wave such as a light or sound wave."
     },
     {
+      "id": "interference",
       "en": "interference",
-      "pos": "noun",
-      "def_en": "Disruption that disturbs a signal or process.",
-      "example_en": "Researchers have achieved the first real-world demonstration of quantum entanglement over a busy telecommunications fiber network.",
-      "sense_note": ""
+      "ko": "Disruption that disturbs a signal or process.",
+      "l1": {
+        "en": "Disruption that disturbs a signal or process."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Disruption that disturbs a signal or process."
+        },
+        "example": {
+          "en": "Researchers have achieved the first real-world demonstration of quantum entanglement over a busy telecommunications fiber network."
+        }
+      },
+      "picture_prompt": "a clear photo of interference: Disruption that disturbs a signal or process."
     },
     {
+      "id": "teleportation",
       "en": "teleportation",
-      "pos": "noun",
-      "def_en": "The theoretical transfer of matter or information from one place to another instantly.",
-      "example_en": "The team now plans to attempt quantum teleportation between remote nodes through a real telecommunications network.",
-      "sense_note": ""
+      "ko": "The theoretical transfer of matter or information from one place to another instantly.",
+      "l1": {
+        "en": "The theoretical transfer of matter or information from one place to another instantly."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The theoretical transfer of matter or information from one place to another instantly."
+        },
+        "example": {
+          "en": "The team now plans to attempt quantum teleportation between remote nodes through a real telecommunications network."
+        }
+      },
+      "picture_prompt": "a clear photo of teleportation: The theoretical transfer of matter or information from one place to another i..."
     },
     {
+      "id": "network",
       "en": "network",
-      "pos": "noun",
-      "def_en": "A group of computers or devices connected to share information.",
-      "example_en": "Researchers have achieved the first real-world demonstration of quantum entanglement over a busy telecommunications fiber network.",
-      "sense_note": ""
+      "ko": "A group of computers or devices connected to share information.",
+      "l1": {
+        "en": "A group of computers or devices connected to share information."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A group of computers or devices connected to share information."
+        },
+        "example": {
+          "en": "Researchers have achieved the first real-world demonstration of quantum entanglement over a busy telecommunications fiber network."
+        }
+      },
+      "picture_prompt": "a clear photo of network: A group of computers or devices connected to share information."
     },
     {
+      "id": "metropolitan",
       "en": "metropolitan",
-      "pos": "noun",
-      "def_en": "Relating to a large city and its surrounding area.",
-      "example_en": "Researchers have achieved the first real-world demonstration of quantum entanglement over a busy telecommunications fiber network.",
-      "sense_note": ""
+      "ko": "Relating to a large city and its surrounding area.",
+      "l1": {
+        "en": "Relating to a large city and its surrounding area."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Relating to a large city and its surrounding area."
+        },
+        "example": {
+          "en": "Researchers have achieved the first real-world demonstration of quantum entanglement over a busy telecommunications fiber network."
+        }
+      },
+      "picture_prompt": "a clear photo of metropolitan: Relating to a large city and its surrounding area."
     }
   ]
 }

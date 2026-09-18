@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-08-25",
+  "title": "News 2026-08-25",
   "date": "2026-08-25",
-  "timezone": "KST",
   "headline": "China's robot games: a decade from college sport to 'Robot Olympics' national showcase",
-  "youtube_title": "China's robot games: a decade from college sport to 'Robot Olympics' national showcase",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0825.txt",
   "words": [
     {
+      "id": "robot",
       "en": "robot",
-      "pos": "noun",
-      "def_en": "A machine that can do tasks automatically; sometimes moving like a person",
-      "example_en": "People have called China's robot competitions the Robot Olympics.",
-      "sense_note": ""
+      "ko": "A machine that can do tasks automatically; sometimes moving like a person",
+      "l1": {
+        "en": "A machine that can do tasks automatically; sometimes moving like a person"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A machine that can do tasks automatically; sometimes moving like a person"
+        },
+        "example": {
+          "en": "People have called China's robot competitions the Robot Olympics."
+        }
+      },
+      "picture_prompt": "a clear photo of robot: A machine that can do tasks automatically; sometimes moving like a person"
     },
     {
+      "id": "humanoid",
       "en": "humanoid",
-      "pos": "noun",
-      "def_en": "A machine or creature shaped like a human body",
-      "example_en": "The five-day World Humanoid Robot Games, the biggest version yet, began on Saturday in Beijing.",
-      "sense_note": ""
+      "ko": "A machine or creature shaped like a human body",
+      "l1": {
+        "en": "A machine or creature shaped like a human body"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A machine or creature shaped like a human body"
+        },
+        "example": {
+          "en": "The five-day World Humanoid Robot Games, the biggest version yet, began on Saturday in Beijing."
+        }
+      },
+      "picture_prompt": "a clear photo of humanoid: A machine or creature shaped like a human body"
     },
     {
+      "id": "games",
       "en": "games",
-      "pos": "noun",
-      "def_en": "Organized competitions with rules; often for sport",
-      "example_en": "Unlike the human Games, Chinese teams are taking almost all the medals.",
-      "sense_note": ""
+      "ko": "Organized competitions with rules; often for sport",
+      "l1": {
+        "en": "Organized competitions with rules; often for sport"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Organized competitions with rules; often for sport"
+        },
+        "example": {
+          "en": "Unlike the human Games, Chinese teams are taking almost all the medals."
+        }
+      },
+      "picture_prompt": "a clear photo of games: Organized competitions with rules; often for sport"
     },
     {
+      "id": "marathon",
       "en": "marathon",
-      "pos": "noun",
-      "def_en": "A very long running race; usually over forty-two kilometers",
-      "example_en": "In April twenty twenty-five, humanoid robots lined up with people for the world's first robot half-marathon in Beijing.",
-      "sense_note": ""
+      "ko": "A very long running race; usually over forty-two kilometers",
+      "l1": {
+        "en": "A very long running race; usually over forty-two kilometers"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A very long running race; usually over forty-two kilometers"
+        },
+        "example": {
+          "en": "In April twenty twenty-five, humanoid robots lined up with people for the world's first robot half-marathon in Beijing."
+        }
+      },
+      "picture_prompt": "a clear photo of marathon: A very long running race; usually over forty-two kilometers"
     },
     {
+      "id": "autonomous",
       "en": "autonomous",
-      "pos": "adjective",
-      "def_en": "Able to act or move on its own without human control",
-      "example_en": "People have called China's robot competitions the Robot Olympics.",
-      "sense_note": ""
+      "ko": "Able to act or move on its own without human control",
+      "l1": {
+        "en": "Able to act or move on its own without human control"
+      },
+      "ww": {
+        "pos": "adj",
+        "def": {
+          "en": "Able to act or move on its own without human control"
+        },
+        "example": {
+          "en": "People have called China's robot competitions the Robot Olympics."
+        }
+      },
+      "picture_prompt": "a clear photo of autonomous: Able to act or move on its own without human control"
     },
     {
+      "id": "medal",
       "en": "medal",
-      "pos": "noun",
-      "def_en": "A flat piece of metal given to winners of a competition",
-      "example_en": "People have called China's robot competitions the Robot Olympics.",
-      "sense_note": ""
+      "ko": "A flat piece of metal given to winners of a competition",
+      "l1": {
+        "en": "A flat piece of metal given to winners of a competition"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A flat piece of metal given to winners of a competition"
+        },
+        "example": {
+          "en": "People have called China's robot competitions the Robot Olympics."
+        }
+      },
+      "picture_prompt": "a clear photo of medal: A flat piece of metal given to winners of a competition"
     },
     {
+      "id": "conference",
       "en": "conference",
-      "pos": "noun",
-      "def_en": "A large formal meeting where people discuss a topic",
-      "example_en": "In twenty fifteen, Beijing hosted the first World Robot Conference.",
-      "sense_note": ""
+      "ko": "A large formal meeting where people discuss a topic",
+      "l1": {
+        "en": "A large formal meeting where people discuss a topic"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A large formal meeting where people discuss a topic"
+        },
+        "example": {
+          "en": "In twenty fifteen, Beijing hosted the first World Robot Conference."
+        }
+      },
+      "picture_prompt": "a clear photo of conference: A large formal meeting where people discuss a topic"
     },
     {
+      "id": "showcase",
       "en": "showcase",
-      "pos": "noun",
-      "def_en": "An event or place that displays something at its best",
-      "example_en": "They have also become a national showcase for an industry that President Xi Jinping has named as strategic.",
-      "sense_note": ""
+      "ko": "An event or place that displays something at its best",
+      "l1": {
+        "en": "An event or place that displays something at its best"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "An event or place that displays something at its best"
+        },
+        "example": {
+          "en": "They have also become a national showcase for an industry that President Xi Jinping has named as strategic."
+        }
+      },
+      "picture_prompt": "a clear photo of showcase: An event or place that displays something at its best"
     },
     {
+      "id": "precision",
       "en": "precision",
-      "pos": "noun",
-      "def_en": "The quality of being exact and accurate",
-      "example_en": "People have called China's robot competitions the Robot Olympics.",
-      "sense_note": ""
+      "ko": "The quality of being exact and accurate",
+      "l1": {
+        "en": "The quality of being exact and accurate"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The quality of being exact and accurate"
+        },
+        "example": {
+          "en": "People have called China's robot competitions the Robot Olympics."
+        }
+      },
+      "picture_prompt": "a clear photo of precision: The quality of being exact and accurate"
     },
     {
+      "id": "industry",
       "en": "industry",
-      "pos": "noun",
-      "def_en": "All the businesses that make or provide a certain type of product",
-      "example_en": "They have also become a national showcase for an industry that President Xi Jinping has named as strategic.",
-      "sense_note": ""
+      "ko": "All the businesses that make or provide a certain type of product",
+      "l1": {
+        "en": "All the businesses that make or provide a certain type of product"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "All the businesses that make or provide a certain type of product"
+        },
+        "example": {
+          "en": "They have also become a national showcase for an industry that President Xi Jinping has named as strategic."
+        }
+      },
+      "picture_prompt": "a clear photo of industry: All the businesses that make or provide a certain type of product"
     }
   ]
 }

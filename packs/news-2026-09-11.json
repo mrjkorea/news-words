@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-09-11",
+  "title": "News 2026-09-11",
   "date": "2026-09-11",
-  "timezone": "KST",
   "headline": "Sardine shortage hits shelves as Gen Z demand rises and catches shrink",
-  "youtube_title": "Sardine shortage hits shelves as Gen Z demand rises and catches shrink",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0911.txt",
   "words": [
     {
+      "id": "sardine",
       "en": "sardine",
-      "pos": "noun",
-      "def_en": "A small oily fish often sold in tins",
-      "example_en": "Sardine brands that once looked old-fashioned now compete with trendy tinned seafood lines aimed at younger buyers.",
-      "sense_note": ""
+      "ko": "A small oily fish often sold in tins",
+      "l1": {
+        "en": "A small oily fish often sold in tins"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A small oily fish often sold in tins"
+        },
+        "example": {
+          "en": "Sardine brands that once looked old-fashioned now compete with trendy tinned seafood lines aimed at younger buyers."
+        }
+      },
+      "picture_prompt": "a clear photo of sardine: A small oily fish often sold in tins"
     },
     {
+      "id": "shortage",
       "en": "shortage",
-      "pos": "noun",
-      "def_en": "A situation where there is not enough of something",
-      "example_en": "The shortage is cultural as well as economic: a grandparent's pantry food has become a social-media star.",
-      "sense_note": ""
+      "ko": "A situation where there is not enough of something",
+      "l1": {
+        "en": "A situation where there is not enough of something"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A situation where there is not enough of something"
+        },
+        "example": {
+          "en": "The shortage is cultural as well as economic: a grandparent's pantry food has become a social-media star."
+        }
+      },
+      "picture_prompt": "a clear photo of shortage: A situation where there is not enough of something"
     },
     {
+      "id": "protein",
       "en": "protein",
-      "pos": "noun",
-      "def_en": "A nutrient that helps build muscle and tissue",
-      "example_en": "Sardines are rich in protein, omega-three fats, vitamin B twelve, and minerals like phosphorus and selenium.",
-      "sense_note": ""
+      "ko": "A nutrient that helps build muscle and tissue",
+      "l1": {
+        "en": "A nutrient that helps build muscle and tissue"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A nutrient that helps build muscle and tissue"
+        },
+        "example": {
+          "en": "Sardines are rich in protein, omega-three fats, vitamin B twelve, and minerals like phosphorus and selenium."
+        }
+      },
+      "picture_prompt": "a clear photo of protein: A nutrient that helps build muscle and tissue"
     },
     {
+      "id": "omega",
       "en": "omega",
-      "pos": "noun",
-      "def_en": "A type of healthy fat found in fish",
-      "example_en": "Sardines are rich in protein, omega-three fats, vitamin B twelve, and minerals like phosphorus and selenium.",
-      "sense_note": ""
+      "ko": "A type of healthy fat found in fish",
+      "l1": {
+        "en": "A type of healthy fat found in fish"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A type of healthy fat found in fish"
+        },
+        "example": {
+          "en": "Sardines are rich in protein, omega-three fats, vitamin B twelve, and minerals like phosphorus and selenium."
+        }
+      },
+      "picture_prompt": "a clear photo of omega: A type of healthy fat found in fish"
     },
     {
+      "id": "pantry",
       "en": "pantry",
-      "pos": "noun",
-      "def_en": "A cupboard where dry food is stored at home",
-      "example_en": "NBC News says the humble fish, once a cheap pantry staple, can be hard to find in some stores.",
-      "sense_note": ""
+      "ko": "A cupboard where dry food is stored at home",
+      "l1": {
+        "en": "A cupboard where dry food is stored at home"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A cupboard where dry food is stored at home"
+        },
+        "example": {
+          "en": "NBC News says the humble fish, once a cheap pantry staple, can be hard to find in some stores."
+        }
+      },
+      "picture_prompt": "a clear photo of pantry: A cupboard where dry food is stored at home"
     },
     {
+      "id": "supply",
       "en": "supply",
-      "pos": "adverb",
-      "def_en": "The amount of a product available to buy",
-      "example_en": "Fishing limits, changing ocean conditions, and processing bottlenecks all squeeze supply.",
-      "sense_note": ""
+      "ko": "The amount of a product available to buy",
+      "l1": {
+        "en": "The amount of a product available to buy"
+      },
+      "ww": {
+        "pos": "adv",
+        "def": {
+          "en": "The amount of a product available to buy"
+        },
+        "example": {
+          "en": "Fishing limits, changing ocean conditions, and processing bottlenecks all squeeze supply."
+        }
+      },
+      "picture_prompt": "a clear photo of supply: The amount of a product available to buy"
     },
     {
+      "id": "demand",
       "en": "demand",
-      "pos": "noun",
-      "def_en": "How much people want to buy a product",
-      "example_en": "Social media cooks and budget-conscious eaters have helped push demand higher.",
-      "sense_note": ""
+      "ko": "How much people want to buy a product",
+      "l1": {
+        "en": "How much people want to buy a product"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "How much people want to buy a product"
+        },
+        "example": {
+          "en": "Social media cooks and budget-conscious eaters have helped push demand higher."
+        }
+      },
+      "picture_prompt": "a clear photo of demand: How much people want to buy a product"
     },
     {
+      "id": "catch",
       "en": "catch",
-      "pos": "noun",
-      "def_en": "The amount of fish brought in by boats",
-      "example_en": "Shoppers are noticing empty spaces where tinned sardines used to sit.",
-      "sense_note": ""
+      "ko": "The amount of fish brought in by boats",
+      "l1": {
+        "en": "The amount of fish brought in by boats"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The amount of fish brought in by boats"
+        },
+        "example": {
+          "en": "Shoppers are noticing empty spaces where tinned sardines used to sit."
+        }
+      },
+      "picture_prompt": "a clear photo of catch: The amount of fish brought in by boats"
     },
     {
+      "id": "shelf",
       "en": "shelf",
-      "pos": "noun",
-      "def_en": "A flat board in a store where goods are displayed",
-      "example_en": "Shoppers are noticing empty spaces where tinned sardines used to sit.",
-      "sense_note": ""
+      "ko": "A flat board in a store where goods are displayed",
+      "l1": {
+        "en": "A flat board in a store where goods are displayed"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A flat board in a store where goods are displayed"
+        },
+        "example": {
+          "en": "Shoppers are noticing empty spaces where tinned sardines used to sit."
+        }
+      },
+      "picture_prompt": "a clear photo of shelf: A flat board in a store where goods are displayed"
     },
     {
+      "id": "staple",
       "en": "staple",
-      "pos": "noun",
-      "def_en": "A basic food that people use often",
-      "example_en": "NBC News says the humble fish, once a cheap pantry staple, can be hard to find in some stores.",
-      "sense_note": ""
+      "ko": "A basic food that people use often",
+      "l1": {
+        "en": "A basic food that people use often"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A basic food that people use often"
+        },
+        "example": {
+          "en": "NBC News says the humble fish, once a cheap pantry staple, can be hard to find in some stores."
+        }
+      },
+      "picture_prompt": "a clear photo of staple: A basic food that people use often"
     }
   ]
 }

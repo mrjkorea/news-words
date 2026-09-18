@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-09-04",
+  "title": "News 2026-09-04",
   "date": "2026-09-04",
-  "timezone": "KST",
   "headline": "Samsung launches the Galaxy S26 FE packed with Galaxy AI tools",
-  "youtube_title": "Samsung launches the Galaxy S26 FE packed with Galaxy AI tools",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0904.txt",
   "words": [
     {
+      "id": "galaxy",
       "en": "galaxy",
-      "pos": "noun",
-      "def_en": "Samsung's brand name for its main smartphone line",
-      "example_en": "Samsung has unveiled the Galaxy S twenty-six F E, a cheaper phone packed with Galaxy AI.",
-      "sense_note": ""
+      "ko": "Samsung's brand name for its main smartphone line",
+      "l1": {
+        "en": "Samsung's brand name for its main smartphone line"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Samsung's brand name for its main smartphone line"
+        },
+        "example": {
+          "en": "Samsung has unveiled the Galaxy S twenty-six F E, a cheaper phone packed with Galaxy AI."
+        }
+      },
+      "picture_prompt": "a clear photo of galaxy: Samsung's brand name for its main smartphone line"
     },
     {
+      "id": "feature",
       "en": "feature",
-      "pos": "noun",
-      "def_en": "A tool or function that a product offers",
-      "example_en": "Samsung has unveiled the Galaxy S twenty-six F E, a cheaper phone packed with Galaxy AI.",
-      "sense_note": ""
+      "ko": "A tool or function that a product offers",
+      "l1": {
+        "en": "A tool or function that a product offers"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A tool or function that a product offers"
+        },
+        "example": {
+          "en": "Samsung has unveiled the Galaxy S twenty-six F E, a cheaper phone packed with Galaxy AI."
+        }
+      },
+      "picture_prompt": "a clear photo of feature: A tool or function that a product offers"
     },
     {
+      "id": "assistant",
       "en": "assistant",
-      "pos": "noun",
-      "def_en": "Software that helps you write - call - or search",
-      "example_en": "Samsung has unveiled the Galaxy S twenty-six F E, a cheaper phone packed with Galaxy AI.",
-      "sense_note": ""
+      "ko": "Software that helps you write - call - or search",
+      "l1": {
+        "en": "Software that helps you write - call - or search"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Software that helps you write - call - or search"
+        },
+        "example": {
+          "en": "Samsung has unveiled the Galaxy S twenty-six F E, a cheaper phone packed with Galaxy AI."
+        }
+      },
+      "picture_prompt": "a clear photo of assistant: Software that helps you write - call - or search"
     },
     {
+      "id": "camera",
       "en": "camera",
-      "pos": "noun",
-      "def_en": "The part of a phone that takes photos and video",
-      "example_en": "The main camera is fifty megapixels.",
-      "sense_note": ""
+      "ko": "The part of a phone that takes photos and video",
+      "l1": {
+        "en": "The part of a phone that takes photos and video"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The part of a phone that takes photos and video"
+        },
+        "example": {
+          "en": "The main camera is fifty megapixels."
+        }
+      },
+      "picture_prompt": "a clear photo of camera: The part of a phone that takes photos and video"
     },
     {
+      "id": "launch",
       "en": "launch",
-      "pos": "noun",
-      "def_en": "The official day a product goes on sale",
-      "example_en": "The company showed it on August twenty-seventh, with a September fourth launch.",
-      "sense_note": ""
+      "ko": "The official day a product goes on sale",
+      "l1": {
+        "en": "The official day a product goes on sale"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The official day a product goes on sale"
+        },
+        "example": {
+          "en": "The company showed it on August twenty-seventh, with a September fourth launch."
+        }
+      },
+      "picture_prompt": "a clear photo of launch: The official day a product goes on sale"
     },
     {
+      "id": "software",
       "en": "software",
-      "pos": "noun",
-      "def_en": "The programs that run on a phone or computer",
-      "example_en": "For many buyers, the story is software, not a brand-new body.",
-      "sense_note": ""
+      "ko": "The programs that run on a phone or computer",
+      "l1": {
+        "en": "The programs that run on a phone or computer"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The programs that run on a phone or computer"
+        },
+        "example": {
+          "en": "For many buyers, the story is software, not a brand-new body."
+        }
+      },
+      "picture_prompt": "a clear photo of software: The programs that run on a phone or computer"
     },
     {
+      "id": "processor",
       "en": "processor",
-      "pos": "noun",
-      "def_en": "The main chip that runs a phone's calculations",
-      "example_en": "It uses Samsung's Exynos twenty-five hundred processor.",
-      "sense_note": ""
+      "ko": "The main chip that runs a phone's calculations",
+      "l1": {
+        "en": "The main chip that runs a phone's calculations"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The main chip that runs a phone's calculations"
+        },
+        "example": {
+          "en": "It uses Samsung's Exynos twenty-five hundred processor."
+        }
+      },
+      "picture_prompt": "a clear photo of processor: The main chip that runs a phone's calculations"
     },
     {
+      "id": "interpreter",
       "en": "interpreter",
-      "pos": "noun",
-      "def_en": "A tool that turns speech from one language into another",
-      "example_en": "Galaxy AI on this model includes Call Assist, Writing Assist, Interpreter, Photo Assist, and Audio Eraser.",
-      "sense_note": ""
+      "ko": "A tool that turns speech from one language into another",
+      "l1": {
+        "en": "A tool that turns speech from one language into another"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A tool that turns speech from one language into another"
+        },
+        "example": {
+          "en": "Galaxy AI on this model includes Call Assist, Writing Assist, Interpreter, Photo Assist, and Audio Eraser."
+        }
+      },
+      "picture_prompt": "a clear photo of interpreter: A tool that turns speech from one language into another"
     },
     {
+      "id": "update",
       "en": "update",
-      "pos": "noun",
-      "def_en": "A new version of software that adds fixes or features",
-      "example_en": "Samsung has unveiled the Galaxy S twenty-six F E, a cheaper phone packed with Galaxy AI.",
-      "sense_note": ""
+      "ko": "A new version of software that adds fixes or features",
+      "l1": {
+        "en": "A new version of software that adds fixes or features"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A new version of software that adds fixes or features"
+        },
+        "example": {
+          "en": "Samsung has unveiled the Galaxy S twenty-six F E, a cheaper phone packed with Galaxy AI."
+        }
+      },
+      "picture_prompt": "a clear photo of update: A new version of software that adds fixes or features"
     },
     {
+      "id": "smartphone",
       "en": "smartphone",
-      "pos": "noun",
-      "def_en": "A handheld computer that makes calls and runs apps",
-      "example_en": "Samsung has unveiled the Galaxy S twenty-six F E, a cheaper phone packed with Galaxy AI.",
-      "sense_note": ""
+      "ko": "A handheld computer that makes calls and runs apps",
+      "l1": {
+        "en": "A handheld computer that makes calls and runs apps"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A handheld computer that makes calls and runs apps"
+        },
+        "example": {
+          "en": "Samsung has unveiled the Galaxy S twenty-six F E, a cheaper phone packed with Galaxy AI."
+        }
+      },
+      "picture_prompt": "a clear photo of smartphone: A handheld computer that makes calls and runs apps"
     }
   ]
 }

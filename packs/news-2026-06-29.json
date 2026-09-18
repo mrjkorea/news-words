@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-06-29",
+  "title": "News 2026-06-29",
   "date": "2026-06-29",
-  "timezone": "KST",
   "headline": "2026 06 29",
-  "youtube_title": "2026 06 29",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0629.txt",
   "words": [
     {
+      "id": "microbial",
       "en": "microbial",
-      "pos": "noun",
-      "def_en": "relating to or caused by very small living things (microbes)",
-      "example_en": "Today's news uses the word microbial.",
-      "sense_note": ""
+      "ko": "relating to or caused by very small living things (microbes)",
+      "l1": {
+        "en": "relating to or caused by very small living things (microbes)"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "relating to or caused by very small living things (microbes)"
+        },
+        "example": {
+          "en": "Today's news uses the word microbial."
+        }
+      },
+      "picture_prompt": "a clear photo of microbial: relating to or caused by very small living things (microbes)"
     },
     {
+      "id": "organic",
       "en": "organic",
-      "pos": "noun",
-      "def_en": "coming from living matter; containing carbon compounds",
-      "example_en": "Today's news uses the word organic.",
-      "sense_note": ""
+      "ko": "coming from living matter; containing carbon compounds",
+      "l1": {
+        "en": "coming from living matter; containing carbon compounds"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "coming from living matter; containing carbon compounds"
+        },
+        "example": {
+          "en": "Today's news uses the word organic."
+        }
+      },
+      "picture_prompt": "a clear photo of organic: coming from living matter; containing carbon compounds"
     },
     {
+      "id": "carbon",
       "en": "carbon",
-      "pos": "noun",
-      "def_en": "a chemical element found in all living things and organic compounds",
-      "example_en": "Today's news uses the word carbon.",
-      "sense_note": ""
+      "ko": "a chemical element found in all living things and organic compounds",
+      "l1": {
+        "en": "a chemical element found in all living things and organic compounds"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "a chemical element found in all living things and organic compounds"
+        },
+        "example": {
+          "en": "Today's news uses the word carbon."
+        }
+      },
+      "picture_prompt": "a clear photo of carbon: a chemical element found in all living things and organic compounds"
     },
     {
+      "id": "molecule",
       "en": "molecule",
-      "pos": "noun",
-      "def_en": "the smallest unit of a chemical compound made of two or more atoms",
-      "example_en": "Today's news uses the word molecule.",
-      "sense_note": ""
+      "ko": "the smallest unit of a chemical compound made of two or more atoms",
+      "l1": {
+        "en": "the smallest unit of a chemical compound made of two or more atoms"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "the smallest unit of a chemical compound made of two or more atoms"
+        },
+        "example": {
+          "en": "Today's news uses the word molecule."
+        }
+      },
+      "picture_prompt": "a clear photo of molecule: the smallest unit of a chemical compound made of two or more atoms"
     },
     {
+      "id": "biosignature",
       "en": "biosignature",
-      "pos": "noun",
-      "def_en": "a chemical or physical marker that indicates past or present life",
-      "example_en": "Today's news uses the word biosignature.",
-      "sense_note": ""
+      "ko": "a chemical or physical marker that indicates past or present life",
+      "l1": {
+        "en": "a chemical or physical marker that indicates past or present life"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "a chemical or physical marker that indicates past or present life"
+        },
+        "example": {
+          "en": "Today's news uses the word biosignature."
+        }
+      },
+      "picture_prompt": "a clear photo of biosignature: a chemical or physical marker that indicates past or present life"
     },
     {
+      "id": "canyon",
       "en": "canyon",
-      "pos": "noun",
-      "def_en": "a deep valley with steep sides carved by a river or water",
-      "example_en": "Today's news uses the word canyon.",
-      "sense_note": ""
+      "ko": "a deep valley with steep sides carved by a river or water",
+      "l1": {
+        "en": "a deep valley with steep sides carved by a river or water"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "a deep valley with steep sides carved by a river or water"
+        },
+        "example": {
+          "en": "Today's news uses the word canyon."
+        }
+      },
+      "picture_prompt": "a clear photo of canyon: a deep valley with steep sides carved by a river or water"
     },
     {
+      "id": "sediment",
       "en": "sediment",
-      "pos": "noun",
-      "def_en": "small particles of rock and soil that settle at the bottom of liquid",
-      "example_en": "Today's news uses the word sediment.",
-      "sense_note": ""
+      "ko": "small particles of rock and soil that settle at the bottom of liquid",
+      "l1": {
+        "en": "small particles of rock and soil that settle at the bottom of liquid"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "small particles of rock and soil that settle at the bottom of liquid"
+        },
+        "example": {
+          "en": "Today's news uses the word sediment."
+        }
+      },
+      "picture_prompt": "a clear photo of sediment: small particles of rock and soil that settle at the bottom of liquid"
     },
     {
+      "id": "delta",
       "en": "delta",
-      "pos": "noun",
-      "def_en": "a fan-shaped area where a river splits before reaching the sea",
-      "example_en": "Today's news uses the word delta.",
-      "sense_note": ""
+      "ko": "a fan-shaped area where a river splits before reaching the sea",
+      "l1": {
+        "en": "a fan-shaped area where a river splits before reaching the sea"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "a fan-shaped area where a river splits before reaching the sea"
+        },
+        "example": {
+          "en": "Today's news uses the word delta."
+        }
+      },
+      "picture_prompt": "a clear photo of delta: a fan-shaped area where a river splits before reaching the sea"
     },
     {
+      "id": "habitable",
       "en": "habitable",
-      "pos": "noun",
-      "def_en": "suitable or good enough to live in",
-      "example_en": "Today's news uses the word habitable.",
-      "sense_note": ""
+      "ko": "suitable or good enough to live in",
+      "l1": {
+        "en": "suitable or good enough to live in"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "suitable or good enough to live in"
+        },
+        "example": {
+          "en": "Today's news uses the word habitable."
+        }
+      },
+      "picture_prompt": "a clear photo of habitable: suitable or good enough to live in"
     },
     {
+      "id": "fossilized",
       "en": "fossilized",
-      "pos": "noun",
-      "def_en": "preserved and turned into stone over millions of years",
-      "example_en": "Today's news uses the word fossilized.",
-      "sense_note": ""
+      "ko": "preserved and turned into stone over millions of years",
+      "l1": {
+        "en": "preserved and turned into stone over millions of years"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "preserved and turned into stone over millions of years"
+        },
+        "example": {
+          "en": "Today's news uses the word fossilized."
+        }
+      },
+      "picture_prompt": "a clear photo of fossilized: preserved and turned into stone over millions of years"
     }
   ]
 }

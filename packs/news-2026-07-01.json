@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-07-01",
+  "title": "News 2026-07-01",
   "date": "2026-07-01",
-  "timezone": "KST",
   "headline": "2026 07 01",
-  "youtube_title": "2026 07 01",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0701.txt",
   "words": [
     {
+      "id": "tournament",
       "en": "tournament",
-      "pos": "noun",
-      "def_en": "a competition with a series of games where losers are eliminated until one winner remains",
-      "example_en": "Today's news uses the word tournament.",
-      "sense_note": ""
+      "ko": "a competition with a series of games where losers are eliminated until one winner remains",
+      "l1": {
+        "en": "a competition with a series of games where losers are eliminated until one winner remains"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "a competition with a series of games where losers are eliminated until one winner remains"
+        },
+        "example": {
+          "en": "Today's news uses the word tournament."
+        }
+      },
+      "picture_prompt": "a clear photo of tournament: a competition with a series of games where losers are eliminated until one wi..."
     },
     {
+      "id": "knockout",
       "en": "knockout",
-      "pos": "noun",
-      "def_en": "a stage where the loser of a single match is eliminated from the competition",
-      "example_en": "Today's news uses the word knockout.",
-      "sense_note": ""
+      "ko": "a stage where the loser of a single match is eliminated from the competition",
+      "l1": {
+        "en": "a stage where the loser of a single match is eliminated from the competition"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "a stage where the loser of a single match is eliminated from the competition"
+        },
+        "example": {
+          "en": "Today's news uses the word knockout."
+        }
+      },
+      "picture_prompt": "a clear photo of knockout: a stage where the loser of a single match is eliminated from the competition"
     },
     {
+      "id": "qualify",
       "en": "qualify",
-      "pos": "verb",
-      "def_en": "to reach the required standard to enter a competition",
-      "example_en": "Today's news uses the word qualify.",
-      "sense_note": ""
+      "ko": "to reach the required standard to enter a competition",
+      "l1": {
+        "en": "to reach the required standard to enter a competition"
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "to reach the required standard to enter a competition"
+        },
+        "example": {
+          "en": "Today's news uses the word qualify."
+        }
+      },
+      "picture_prompt": "a clear photo of qualify: to reach the required standard to enter a competition"
     },
     {
+      "id": "squad",
       "en": "squad",
-      "pos": "noun",
-      "def_en": "a group of players selected to represent a team",
-      "example_en": "Today's news uses the word squad.",
-      "sense_note": ""
+      "ko": "a group of players selected to represent a team",
+      "l1": {
+        "en": "a group of players selected to represent a team"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "a group of players selected to represent a team"
+        },
+        "example": {
+          "en": "Today's news uses the word squad."
+        }
+      },
+      "picture_prompt": "a clear photo of squad: a group of players selected to represent a team"
     },
     {
+      "id": "defender",
       "en": "defender",
-      "pos": "noun",
-      "def_en": "a player whose job is to stop the opposing team from scoring",
-      "example_en": "Today's news uses the word defender.",
-      "sense_note": ""
+      "ko": "a player whose job is to stop the opposing team from scoring",
+      "l1": {
+        "en": "a player whose job is to stop the opposing team from scoring"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "a player whose job is to stop the opposing team from scoring"
+        },
+        "example": {
+          "en": "Today's news uses the word defender."
+        }
+      },
+      "picture_prompt": "a clear photo of defender: a player whose job is to stop the opposing team from scoring"
     },
     {
+      "id": "striker",
       "en": "striker",
-      "pos": "noun",
-      "def_en": "a player whose main job is to score goals",
-      "example_en": "Today's news uses the word striker.",
-      "sense_note": ""
+      "ko": "a player whose main job is to score goals",
+      "l1": {
+        "en": "a player whose main job is to score goals"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "a player whose main job is to score goals"
+        },
+        "example": {
+          "en": "Today's news uses the word striker."
+        }
+      },
+      "picture_prompt": "a clear photo of striker: a player whose main job is to score goals"
     },
     {
+      "id": "elimination",
       "en": "elimination",
-      "pos": "verb",
-      "def_en": "the process of being removed from a competition after losing",
-      "example_en": "Today's news uses the word elimination.",
-      "sense_note": ""
+      "ko": "the process of being removed from a competition after losing",
+      "l1": {
+        "en": "the process of being removed from a competition after losing"
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "the process of being removed from a competition after losing"
+        },
+        "example": {
+          "en": "Today's news uses the word elimination."
+        }
+      },
+      "picture_prompt": "a clear photo of elimination: the process of being removed from a competition after losing"
     },
     {
+      "id": "underdog",
       "en": "underdog",
-      "pos": "noun",
-      "def_en": "a competitor thought to have little chance of winning",
-      "example_en": "Today's news uses the word underdog.",
-      "sense_note": ""
+      "ko": "a competitor thought to have little chance of winning",
+      "l1": {
+        "en": "a competitor thought to have little chance of winning"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "a competitor thought to have little chance of winning"
+        },
+        "example": {
+          "en": "Today's news uses the word underdog."
+        }
+      },
+      "picture_prompt": "a clear photo of underdog: a competitor thought to have little chance of winning"
     },
     {
+      "id": "bracket",
       "en": "bracket",
-      "pos": "noun",
-      "def_en": "a chart showing the pairings and progress of teams in a tournament",
-      "example_en": "Today's news uses the word bracket.",
-      "sense_note": ""
+      "ko": "a chart showing the pairings and progress of teams in a tournament",
+      "l1": {
+        "en": "a chart showing the pairings and progress of teams in a tournament"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "a chart showing the pairings and progress of teams in a tournament"
+        },
+        "example": {
+          "en": "Today's news uses the word bracket."
+        }
+      },
+      "picture_prompt": "a clear photo of bracket: a chart showing the pairings and progress of teams in a tournament"
     },
     {
+      "id": "favourite",
       "en": "favourite",
-      "pos": "noun",
-      "def_en": "the team or player expected to win",
-      "example_en": "Today's news uses the word favourite.",
-      "sense_note": ""
+      "ko": "the team or player expected to win",
+      "l1": {
+        "en": "the team or player expected to win"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "the team or player expected to win"
+        },
+        "example": {
+          "en": "Today's news uses the word favourite."
+        }
+      },
+      "picture_prompt": "a clear photo of favourite: the team or player expected to win"
     }
   ]
 }

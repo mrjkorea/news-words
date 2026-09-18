@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-07-03",
+  "title": "News 2026-07-03",
   "date": "2026-07-03",
-  "timezone": "KST",
   "headline": "2026 07 03",
-  "youtube_title": "2026 07 03",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0703.txt",
   "words": [
     {
+      "id": "negotiators",
       "en": "negotiators",
-      "pos": "noun",
-      "def_en": "people who discuss an issue and try to reach an agreement",
-      "example_en": "Today's news uses the word negotiators.",
-      "sense_note": ""
+      "ko": "people who discuss an issue and try to reach an agreement",
+      "l1": {
+        "en": "people who discuss an issue and try to reach an agreement"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "people who discuss an issue and try to reach an agreement"
+        },
+        "example": {
+          "en": "Today's news uses the word negotiators."
+        }
+      },
+      "picture_prompt": "a clear photo of negotiators: people who discuss an issue and try to reach an agreement"
     },
     {
+      "id": "mediators",
       "en": "mediators",
-      "pos": "noun",
-      "def_en": "people or countries that help two sides communicate and solve a conflict",
-      "example_en": "Today's news uses the word mediators.",
-      "sense_note": ""
+      "ko": "people or countries that help two sides communicate and solve a conflict",
+      "l1": {
+        "en": "people or countries that help two sides communicate and solve a conflict"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "people or countries that help two sides communicate and solve a conflict"
+        },
+        "example": {
+          "en": "Today's news uses the word mediators."
+        }
+      },
+      "picture_prompt": "a clear photo of mediators: people or countries that help two sides communicate and solve a conflict"
     },
     {
+      "id": "discussions",
       "en": "discussions",
-      "pos": "noun",
-      "def_en": "serious conversations about an important topic",
-      "example_en": "Today's news uses the word discussions.",
-      "sense_note": ""
+      "ko": "serious conversations about an important topic",
+      "l1": {
+        "en": "serious conversations about an important topic"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "serious conversations about an important topic"
+        },
+        "example": {
+          "en": "Today's news uses the word discussions."
+        }
+      },
+      "picture_prompt": "a clear photo of discussions: serious conversations about an important topic"
     },
     {
+      "id": "agreement",
       "en": "agreement",
-      "pos": "noun",
-      "def_en": "a decision accepted by two or more sides",
-      "example_en": "Today's news uses the word agreement.",
-      "sense_note": ""
+      "ko": "a decision accepted by two or more sides",
+      "l1": {
+        "en": "a decision accepted by two or more sides"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "a decision accepted by two or more sides"
+        },
+        "example": {
+          "en": "Today's news uses the word agreement."
+        }
+      },
+      "picture_prompt": "a clear photo of agreement: a decision accepted by two or more sides"
     },
     {
+      "id": "strait",
       "en": "strait",
-      "pos": "noun",
-      "def_en": "a narrow passage of water connecting two larger bodies of water",
-      "example_en": "Today's news uses the word strait.",
-      "sense_note": ""
+      "ko": "a narrow passage of water connecting two larger bodies of water",
+      "l1": {
+        "en": "a narrow passage of water connecting two larger bodies of water"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "a narrow passage of water connecting two larger bodies of water"
+        },
+        "example": {
+          "en": "Today's news uses the word strait."
+        }
+      },
+      "picture_prompt": "a clear photo of strait: a narrow passage of water connecting two larger bodies of water"
     },
     {
+      "id": "waterway",
       "en": "waterway",
-      "pos": "noun",
-      "def_en": "a river canal or sea route used by boats and ships",
-      "example_en": "Today's news uses the word waterway.",
-      "sense_note": ""
+      "ko": "a river canal or sea route used by boats and ships",
+      "l1": {
+        "en": "a river canal or sea route used by boats and ships"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "a river canal or sea route used by boats and ships"
+        },
+        "example": {
+          "en": "Today's news uses the word waterway."
+        }
+      },
+      "picture_prompt": "a clear photo of waterway: a river canal or sea route used by boats and ships"
     },
     {
+      "id": "leverage",
       "en": "leverage",
-      "pos": "noun",
-      "def_en": "power or influence used to get what you want in a negotiation",
-      "example_en": "Today's news uses the word leverage.",
-      "sense_note": ""
+      "ko": "power or influence used to get what you want in a negotiation",
+      "l1": {
+        "en": "power or influence used to get what you want in a negotiation"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "power or influence used to get what you want in a negotiation"
+        },
+        "example": {
+          "en": "Today's news uses the word leverage."
+        }
+      },
+      "picture_prompt": "a clear photo of leverage: power or influence used to get what you want in a negotiation"
     },
     {
+      "id": "routes",
       "en": "routes",
-      "pos": "noun",
-      "def_en": "paths used to travel from one place to another",
-      "example_en": "Today's news uses the word routes.",
-      "sense_note": ""
+      "ko": "paths used to travel from one place to another",
+      "l1": {
+        "en": "paths used to travel from one place to another"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "paths used to travel from one place to another"
+        },
+        "example": {
+          "en": "Today's news uses the word routes."
+        }
+      },
+      "picture_prompt": "a clear photo of routes: paths used to travel from one place to another"
     },
     {
+      "id": "vessel",
       "en": "vessel",
-      "pos": "noun",
-      "def_en": "a ship or large boat",
-      "example_en": "Today's news uses the word vessel.",
-      "sense_note": ""
+      "ko": "a ship or large boat",
+      "l1": {
+        "en": "a ship or large boat"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "a ship or large boat"
+        },
+        "example": {
+          "en": "Today's news uses the word vessel."
+        }
+      },
+      "picture_prompt": "a clear photo of vessel: a ship or large boat"
     },
     {
+      "id": "tension",
       "en": "tension",
-      "pos": "noun",
-      "def_en": "stress pressure or conflict between people groups or countries",
-      "example_en": "Today's news uses the word tension.",
-      "sense_note": ""
+      "ko": "stress pressure or conflict between people groups or countries",
+      "l1": {
+        "en": "stress pressure or conflict between people groups or countries"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "stress pressure or conflict between people groups or countries"
+        },
+        "example": {
+          "en": "Today's news uses the word tension."
+        }
+      },
+      "picture_prompt": "a clear photo of tension: stress pressure or conflict between people groups or countries"
     }
   ]
 }

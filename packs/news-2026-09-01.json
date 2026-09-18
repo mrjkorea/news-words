@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-09-01",
+  "title": "News 2026-09-01",
   "date": "2026-09-01",
-  "timezone": "KST",
   "headline": "Two world records fall within an hour at Zurich Diamond League athletics",
-  "youtube_title": "Two world records fall within an hour at Zurich Diamond League athletics",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0901.txt",
   "words": [
     {
+      "id": "hurdles",
       "en": "hurdles",
-      "pos": "noun",
-      "def_en": "A race where runners jump over barriers on a track",
-      "example_en": "Dos Santos struck first in the men's four hundred meter hurdles.",
-      "sense_note": ""
+      "ko": "A race where runners jump over barriers on a track",
+      "l1": {
+        "en": "A race where runners jump over barriers on a track"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A race where runners jump over barriers on a track"
+        },
+        "example": {
+          "en": "Dos Santos struck first in the men's four hundred meter hurdles."
+        }
+      },
+      "picture_prompt": "a clear photo of hurdles: A race where runners jump over barriers on a track"
     },
     {
+      "id": "record",
       "en": "record",
-      "pos": "noun",
-      "def_en": "The best result ever officially measured in an event",
-      "example_en": "Each record breaker left Zurich with a cheque for eighty thousand dollars.",
-      "sense_note": ""
+      "ko": "The best result ever officially measured in an event",
+      "l1": {
+        "en": "The best result ever officially measured in an event"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The best result ever officially measured in an event"
+        },
+        "example": {
+          "en": "Each record breaker left Zurich with a cheque for eighty thousand dollars."
+        }
+      },
+      "picture_prompt": "a clear photo of record: The best result ever officially measured in an event"
     },
     {
+      "id": "stadium",
       "en": "stadium",
-      "pos": "noun",
-      "def_en": "A large outdoor place built for sports events",
-      "example_en": "The Guardian says Brazil's Alison dos Santos and America's Masai Russell both broke global marks at the Letzigrund Stadium.",
-      "sense_note": ""
+      "ko": "A large outdoor place built for sports events",
+      "l1": {
+        "en": "A large outdoor place built for sports events"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A large outdoor place built for sports events"
+        },
+        "example": {
+          "en": "The Guardian says Brazil's Alison dos Santos and America's Masai Russell both broke global marks at the Letzigrund Stadium."
+        }
+      },
+      "picture_prompt": "a clear photo of stadium: A large outdoor place built for sports events"
     },
     {
+      "id": "champion",
       "en": "champion",
-      "pos": "noun",
-      "def_en": "The winner of a major competition",
-      "example_en": "Later the same night, Olympic champion Masai Russell ran the women's one hundred meter hurdles in twelve point zero nine seconds.",
-      "sense_note": ""
+      "ko": "The winner of a major competition",
+      "l1": {
+        "en": "The winner of a major competition"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The winner of a major competition"
+        },
+        "example": {
+          "en": "Later the same night, Olympic champion Masai Russell ran the women's one hundred meter hurdles in twelve point zero nine seconds."
+        }
+      },
+      "picture_prompt": "a clear photo of champion: The winner of a major competition"
     },
     {
+      "id": "athlete",
       "en": "athlete",
-      "pos": "noun",
-      "def_en": "A person trained to compete in sports",
-      "example_en": "Two world records fell on a wild Thursday night at the Diamond League meeting in Zurich.",
-      "sense_note": ""
+      "ko": "A person trained to compete in sports",
+      "l1": {
+        "en": "A person trained to compete in sports"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A person trained to compete in sports"
+        },
+        "example": {
+          "en": "Two world records fell on a wild Thursday night at the Diamond League meeting in Zurich."
+        }
+      },
+      "picture_prompt": "a clear photo of athlete: A person trained to compete in sports"
     },
     {
+      "id": "vault",
       "en": "vault",
-      "pos": "noun",
-      "def_en": "A jump over a high bar using a long pole",
-      "example_en": "Mondo Duplantis won a tense pole vault duel.",
-      "sense_note": ""
+      "ko": "A jump over a high bar using a long pole",
+      "l1": {
+        "en": "A jump over a high bar using a long pole"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A jump over a high bar using a long pole"
+        },
+        "example": {
+          "en": "Mondo Duplantis won a tense pole vault duel."
+        }
+      },
+      "picture_prompt": "a clear photo of vault: A jump over a high bar using a long pole"
     },
     {
+      "id": "crowd",
       "en": "crowd",
-      "pos": "noun",
-      "def_en": "A large group of people watching an event",
-      "example_en": "A sold-out crowd of twenty-five thousand packed the stands.",
-      "sense_note": ""
+      "ko": "A large group of people watching an event",
+      "l1": {
+        "en": "A large group of people watching an event"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A large group of people watching an event"
+        },
+        "example": {
+          "en": "A sold-out crowd of twenty-five thousand packed the stands."
+        }
+      },
+      "picture_prompt": "a clear photo of crowd: A large group of people watching an event"
     },
     {
+      "id": "track",
       "en": "track",
-      "pos": "noun",
-      "def_en": "The oval running surface used in athletics",
-      "example_en": "Fans called it a crazy night of track and field.",
-      "sense_note": ""
+      "ko": "The oval running surface used in athletics",
+      "l1": {
+        "en": "The oval running surface used in athletics"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The oval running surface used in athletics"
+        },
+        "example": {
+          "en": "Fans called it a crazy night of track and field."
+        }
+      },
+      "picture_prompt": "a clear photo of track: The oval running surface used in athletics"
     },
     {
+      "id": "sportsmanship",
       "en": "sportsmanship",
-      "pos": "noun",
-      "def_en": "Fair and respectful behavior in sports",
-      "example_en": "Two world records fell on a wild Thursday night at the Diamond League meeting in Zurich.",
-      "sense_note": ""
+      "ko": "Fair and respectful behavior in sports",
+      "l1": {
+        "en": "Fair and respectful behavior in sports"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Fair and respectful behavior in sports"
+        },
+        "example": {
+          "en": "Two world records fell on a wild Thursday night at the Diamond League meeting in Zurich."
+        }
+      },
+      "picture_prompt": "a clear photo of sportsmanship: Fair and respectful behavior in sports"
     },
     {
+      "id": "meeting",
       "en": "meeting",
-      "pos": "noun",
-      "def_en": "A scheduled sports event with many races",
-      "example_en": "Two world records fell on a wild Thursday night at the Diamond League meeting in Zurich.",
-      "sense_note": ""
+      "ko": "A scheduled sports event with many races",
+      "l1": {
+        "en": "A scheduled sports event with many races"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A scheduled sports event with many races"
+        },
+        "example": {
+          "en": "Two world records fell on a wild Thursday night at the Diamond League meeting in Zurich."
+        }
+      },
+      "picture_prompt": "a clear photo of meeting: A scheduled sports event with many races"
     }
   ]
 }

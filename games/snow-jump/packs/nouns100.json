@@ -1,0 +1,1008 @@
+{
+  "pack_id": "nouns100",
+  "title": "A1 Nouns 1–100",
+  "module_id": "word_master",
+  "seconds": 15,
+  "items": [
+    {
+      "item_id": "time",
+      "question": "what clocks measure",
+      "correct": "time",
+      "wrong": [
+        "year",
+        "people"
+      ],
+      "word": "time"
+    },
+    {
+      "item_id": "year",
+      "question": "twelve months together",
+      "correct": "year",
+      "wrong": [
+        "time",
+        "people"
+      ],
+      "word": "year"
+    },
+    {
+      "item_id": "people",
+      "question": "many persons together",
+      "correct": "people",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "people"
+    },
+    {
+      "item_id": "way",
+      "question": "a path to walk on",
+      "correct": "way",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "way"
+    },
+    {
+      "item_id": "man",
+      "question": "an adult male person",
+      "correct": "man",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "man"
+    },
+    {
+      "item_id": "day",
+      "question": "time when the sun shines",
+      "correct": "day",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "day"
+    },
+    {
+      "item_id": "thing",
+      "question": "an object you can touch",
+      "correct": "thing",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "thing"
+    },
+    {
+      "item_id": "child",
+      "question": "a young boy or girl",
+      "correct": "child",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "child"
+    },
+    {
+      "item_id": "government",
+      "question": "people who run a country",
+      "correct": "government",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "government"
+    },
+    {
+      "item_id": "part",
+      "question": "a piece of something",
+      "correct": "part",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "part"
+    },
+    {
+      "item_id": "life",
+      "question": "being alive and living",
+      "correct": "life",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "life"
+    },
+    {
+      "item_id": "case",
+      "question": "a special situation or example",
+      "correct": "case",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "case"
+    },
+    {
+      "item_id": "woman",
+      "question": "an adult female person",
+      "correct": "woman",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "woman"
+    },
+    {
+      "item_id": "work",
+      "question": "a job or task to do",
+      "correct": "work",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "work"
+    },
+    {
+      "item_id": "system",
+      "question": "a set of connected parts",
+      "correct": "system",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "system"
+    },
+    {
+      "item_id": "group",
+      "question": "several people together",
+      "correct": "group",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "group"
+    },
+    {
+      "item_id": "number",
+      "question": "a word or sign for counting",
+      "correct": "number",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "number"
+    },
+    {
+      "item_id": "world",
+      "question": "the planet where we live",
+      "correct": "world",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "world"
+    },
+    {
+      "item_id": "area",
+      "question": "a piece of land or space",
+      "correct": "area",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "area"
+    },
+    {
+      "item_id": "course",
+      "question": "a path or series of lessons",
+      "correct": "course",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "course"
+    },
+    {
+      "item_id": "company",
+      "question": "a group of people working together",
+      "correct": "company",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "company"
+    },
+    {
+      "item_id": "problem",
+      "question": "something that needs to be fixed",
+      "correct": "problem",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "problem"
+    },
+    {
+      "item_id": "service",
+      "question": "help given to customers",
+      "correct": "service",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "service"
+    },
+    {
+      "item_id": "hand",
+      "question": "the part of the body at the end of the arm",
+      "correct": "hand",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "hand"
+    },
+    {
+      "item_id": "party",
+      "question": "a fun gathering with friends",
+      "correct": "party",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "party"
+    },
+    {
+      "item_id": "school",
+      "question": "a place for learning",
+      "correct": "school",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "school"
+    },
+    {
+      "item_id": "place",
+      "question": "a spot or area",
+      "correct": "place",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "place"
+    },
+    {
+      "item_id": "point",
+      "question": "a small dot or spot",
+      "correct": "point",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "point"
+    },
+    {
+      "item_id": "house",
+      "question": "a building where people live",
+      "correct": "house",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "house"
+    },
+    {
+      "item_id": "country",
+      "question": "a nation or land",
+      "correct": "country",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "country"
+    },
+    {
+      "item_id": "week",
+      "question": "seven days in a row",
+      "correct": "week",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "week"
+    },
+    {
+      "item_id": "member",
+      "question": "a person in a group",
+      "correct": "member",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "member"
+    },
+    {
+      "item_id": "end",
+      "question": "the last part of something",
+      "correct": "end",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "end"
+    },
+    {
+      "item_id": "word",
+      "question": "a sound we use to talk",
+      "correct": "word",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "word"
+    },
+    {
+      "item_id": "example",
+      "question": "a thing that shows an idea",
+      "correct": "example",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "example"
+    },
+    {
+      "item_id": "family",
+      "question": "people who live together",
+      "correct": "family",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "family"
+    },
+    {
+      "item_id": "fact",
+      "question": "a true piece of information",
+      "correct": "fact",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "fact"
+    },
+    {
+      "item_id": "state",
+      "question": "a part of a country",
+      "correct": "state",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "state"
+    },
+    {
+      "item_id": "percent",
+      "question": "a part out of one hundred",
+      "correct": "percent",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "percent"
+    },
+    {
+      "item_id": "home",
+      "question": "the place where you live",
+      "correct": "home",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "home"
+    },
+    {
+      "item_id": "month",
+      "question": "one of twelve parts of a year",
+      "correct": "month",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "month"
+    },
+    {
+      "item_id": "side",
+      "question": "a surface or edge of something",
+      "correct": "side",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "side"
+    },
+    {
+      "item_id": "night",
+      "question": "the dark time when we sleep",
+      "correct": "night",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "night"
+    },
+    {
+      "item_id": "eye",
+      "question": "the part of the face we see with",
+      "correct": "eye",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "eye"
+    },
+    {
+      "item_id": "head",
+      "question": "the top part of the body with the face",
+      "correct": "head",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "head"
+    },
+    {
+      "item_id": "information",
+      "question": "facts or details about something",
+      "correct": "information",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "information"
+    },
+    {
+      "item_id": "question",
+      "question": "something you ask to learn",
+      "correct": "question",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "question"
+    },
+    {
+      "item_id": "business",
+      "question": "work of buying and selling things",
+      "correct": "business",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "business"
+    },
+    {
+      "item_id": "power",
+      "question": "strength to move or control things",
+      "correct": "power",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "power"
+    },
+    {
+      "item_id": "money",
+      "question": "coins or paper used to buy things",
+      "correct": "money",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "money"
+    },
+    {
+      "item_id": "change",
+      "question": "money you get back",
+      "correct": "change",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "change"
+    },
+    {
+      "item_id": "interest",
+      "question": "extra money a bank pays you",
+      "correct": "interest",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "interest"
+    },
+    {
+      "item_id": "order",
+      "question": "a request for food or goods",
+      "correct": "order",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "order"
+    },
+    {
+      "item_id": "book",
+      "question": "pages with words and pictures",
+      "correct": "book",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "book"
+    },
+    {
+      "item_id": "development",
+      "question": "the process of growing bigger",
+      "correct": "development",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "development"
+    },
+    {
+      "item_id": "room",
+      "question": "a space inside a building",
+      "correct": "room",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "room"
+    },
+    {
+      "item_id": "water",
+      "question": "clear liquid we drink",
+      "correct": "water",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "water"
+    },
+    {
+      "item_id": "form",
+      "question": "a paper with questions",
+      "correct": "form",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "form"
+    },
+    {
+      "item_id": "car",
+      "question": "a vehicle with wheels",
+      "correct": "car",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "car"
+    },
+    {
+      "item_id": "other",
+      "question": "not this one but another",
+      "correct": "other",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "other"
+    },
+    {
+      "item_id": "level",
+      "question": "how high or deep something is",
+      "correct": "level",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "level"
+    },
+    {
+      "item_id": "policy",
+      "question": "a rule or plan made by leaders",
+      "correct": "policy",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "policy"
+    },
+    {
+      "item_id": "council",
+      "question": "a group of people who make decisions",
+      "correct": "council",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "council"
+    },
+    {
+      "item_id": "line",
+      "question": "a long thin mark on a surface",
+      "correct": "line",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "line"
+    },
+    {
+      "item_id": "need",
+      "question": "something you must have or do",
+      "correct": "need",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "need"
+    },
+    {
+      "item_id": "effect",
+      "question": "result of an action",
+      "correct": "effect",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "effect"
+    },
+    {
+      "item_id": "use",
+      "question": "the act of using something",
+      "correct": "use",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "use"
+    },
+    {
+      "item_id": "idea",
+      "question": "a thought or plan in mind",
+      "correct": "idea",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "idea"
+    },
+    {
+      "item_id": "study",
+      "question": "the act of learning about something",
+      "correct": "study",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "study"
+    },
+    {
+      "item_id": "lot",
+      "question": "a large amount or number",
+      "correct": "lot",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "lot"
+    },
+    {
+      "item_id": "job",
+      "question": "work a person does",
+      "correct": "job",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "job"
+    },
+    {
+      "item_id": "name",
+      "question": "word that calls a person",
+      "correct": "name",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "name"
+    },
+    {
+      "item_id": "result",
+      "question": "what happens at the end",
+      "correct": "result",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "result"
+    },
+    {
+      "item_id": "body",
+      "question": "whole person or animal",
+      "correct": "body",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "body"
+    },
+    {
+      "item_id": "friend",
+      "question": "person you like and trust",
+      "correct": "friend",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "friend"
+    },
+    {
+      "item_id": "right",
+      "question": "something you are allowed to do",
+      "correct": "right",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "right"
+    },
+    {
+      "item_id": "authority",
+      "question": "power to tell others what to do",
+      "correct": "authority",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "authority"
+    },
+    {
+      "item_id": "view",
+      "question": "what you think about something",
+      "correct": "view",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "view"
+    },
+    {
+      "item_id": "report",
+      "question": "a paper that tells facts or news",
+      "correct": "report",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "report"
+    },
+    {
+      "item_id": "bit",
+      "question": "a very small piece of something",
+      "correct": "bit",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "bit"
+    },
+    {
+      "item_id": "face",
+      "question": "the front of the head",
+      "correct": "face",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "face"
+    },
+    {
+      "item_id": "market",
+      "question": "a place to buy and sell things",
+      "correct": "market",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "market"
+    },
+    {
+      "item_id": "hour",
+      "question": "a period of sixty minutes",
+      "correct": "hour",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "hour"
+    },
+    {
+      "item_id": "rate",
+      "question": "how fast or often something happens",
+      "correct": "rate",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "rate"
+    },
+    {
+      "item_id": "law",
+      "question": "a rule made by the government",
+      "correct": "law",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "law"
+    },
+    {
+      "item_id": "door",
+      "question": "a way to enter a room",
+      "correct": "door",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "door"
+    },
+    {
+      "item_id": "court",
+      "question": "a place where a judge works",
+      "correct": "court",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "court"
+    },
+    {
+      "item_id": "office",
+      "question": "a room for doing work",
+      "correct": "office",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "office"
+    },
+    {
+      "item_id": "war",
+      "question": "a big fight between countries",
+      "correct": "war",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "war"
+    },
+    {
+      "item_id": "reason",
+      "question": "a cause or explanation",
+      "correct": "reason",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "reason"
+    },
+    {
+      "item_id": "minister",
+      "question": "government leader",
+      "correct": "minister",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "minister"
+    },
+    {
+      "item_id": "subject",
+      "question": "main topic or idea",
+      "correct": "subject",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "subject"
+    },
+    {
+      "item_id": "person",
+      "question": "one human being",
+      "correct": "person",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "person"
+    },
+    {
+      "item_id": "term",
+      "question": "a word or phrase",
+      "correct": "term",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "term"
+    },
+    {
+      "item_id": "sort",
+      "question": "a kind or type",
+      "correct": "sort",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "sort"
+    },
+    {
+      "item_id": "period",
+      "question": "a length of time",
+      "correct": "period",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "period"
+    },
+    {
+      "item_id": "society",
+      "question": "a group of people living together",
+      "correct": "society",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "society"
+    },
+    {
+      "item_id": "process",
+      "question": "a series of actions to do something",
+      "correct": "process",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "process"
+    },
+    {
+      "item_id": "mother",
+      "question": "a woman who has a child",
+      "correct": "mother",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "mother"
+    },
+    {
+      "item_id": "voice",
+      "question": "the sound a person makes when speaking",
+      "correct": "voice",
+      "wrong": [
+        "time",
+        "year"
+      ],
+      "word": "voice"
+    }
+  ]
+}

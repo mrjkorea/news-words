@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-09-07",
+  "title": "News 2026-09-07",
   "date": "2026-09-07",
-  "timezone": "KST",
   "headline": "LUX-ZEPLIN detector records one high-energy flash that could be dark matter",
-  "youtube_title": "LUX-ZEPLIN detector records one high-energy flash that could be dark matter",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0907.txt",
   "words": [
     {
+      "id": "detector",
       "en": "detector",
-      "pos": "noun",
-      "def_en": "A device that senses particles or signals",
-      "example_en": "Physicists are buzzing about a single energetic flash inside the LUX-ZEPLIN experiment in South Dakota.",
-      "sense_note": ""
+      "ko": "A device that senses particles or signals",
+      "l1": {
+        "en": "A device that senses particles or signals"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A device that senses particles or signals"
+        },
+        "example": {
+          "en": "Physicists are buzzing about a single energetic flash inside the LUX-ZEPLIN experiment in South Dakota."
+        }
+      },
+      "picture_prompt": "a clear photo of detector: A device that senses particles or signals"
     },
     {
+      "id": "xenon",
       "en": "xenon",
-      "pos": "noun",
-      "def_en": "A heavy noble gas used in physics experiments",
-      "example_en": "Nature reports that ten tonnes of ultra-pure liquid xenon recorded an unusual signal sometime in twenty twenty-three or twenty twenty-four.",
-      "sense_note": ""
+      "ko": "A heavy noble gas used in physics experiments",
+      "l1": {
+        "en": "A heavy noble gas used in physics experiments"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A heavy noble gas used in physics experiments"
+        },
+        "example": {
+          "en": "Nature reports that ten tonnes of ultra-pure liquid xenon recorded an unusual signal sometime in twenty twenty-three or twenty twenty-four."
+        }
+      },
+      "picture_prompt": "a clear photo of xenon: A heavy noble gas used in physics experiments"
     },
     {
+      "id": "particle",
       "en": "particle",
-      "pos": "noun",
-      "def_en": "A very small piece of matter",
-      "example_en": "The flash looked like what might happen if an invisible dark-matter particle struck a xenon nucleus.",
-      "sense_note": ""
+      "ko": "A very small piece of matter",
+      "l1": {
+        "en": "A very small piece of matter"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A very small piece of matter"
+        },
+        "example": {
+          "en": "The flash looked like what might happen if an invisible dark-matter particle struck a xenon nucleus."
+        }
+      },
+      "picture_prompt": "a clear photo of particle: A very small piece of matter"
     },
     {
+      "id": "collision",
       "en": "collision",
-      "pos": "noun",
-      "def_en": "When two objects hit each other",
-      "example_en": "Physicists are buzzing about a single energetic flash inside the LUX-ZEPLIN experiment in South Dakota.",
-      "sense_note": ""
+      "ko": "When two objects hit each other",
+      "l1": {
+        "en": "When two objects hit each other"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "When two objects hit each other"
+        },
+        "example": {
+          "en": "Physicists are buzzing about a single energetic flash inside the LUX-ZEPLIN experiment in South Dakota."
+        }
+      },
+      "picture_prompt": "a clear photo of collision: When two objects hit each other"
     },
     {
+      "id": "nucleus",
       "en": "nucleus",
-      "pos": "noun",
-      "def_en": "The dense center of an atom",
-      "example_en": "The flash looked like what might happen if an invisible dark-matter particle struck a xenon nucleus.",
-      "sense_note": ""
+      "ko": "The dense center of an atom",
+      "l1": {
+        "en": "The dense center of an atom"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The dense center of an atom"
+        },
+        "example": {
+          "en": "The flash looked like what might happen if an invisible dark-matter particle struck a xenon nucleus."
+        }
+      },
+      "picture_prompt": "a clear photo of nucleus: The dense center of an atom"
     },
     {
+      "id": "underground",
       "en": "underground",
-      "pos": "noun",
-      "def_en": "Below the surface of the ground",
-      "example_en": "Physicists are buzzing about a single energetic flash inside the LUX-ZEPLIN experiment in South Dakota.",
-      "sense_note": ""
+      "ko": "Below the surface of the ground",
+      "l1": {
+        "en": "Below the surface of the ground"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Below the surface of the ground"
+        },
+        "example": {
+          "en": "Physicists are buzzing about a single energetic flash inside the LUX-ZEPLIN experiment in South Dakota."
+        }
+      },
+      "picture_prompt": "a clear photo of underground: Below the surface of the ground"
     },
     {
+      "id": "experiment",
       "en": "experiment",
-      "pos": "noun",
-      "def_en": "A controlled test to learn something new",
-      "example_en": "Physicists are buzzing about a single energetic flash inside the LUX-ZEPLIN experiment in South Dakota.",
-      "sense_note": ""
+      "ko": "A controlled test to learn something new",
+      "l1": {
+        "en": "A controlled test to learn something new"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A controlled test to learn something new"
+        },
+        "example": {
+          "en": "Physicists are buzzing about a single energetic flash inside the LUX-ZEPLIN experiment in South Dakota."
+        }
+      },
+      "picture_prompt": "a clear photo of experiment: A controlled test to learn something new"
     },
     {
+      "id": "signal",
       "en": "signal",
-      "pos": "noun",
-      "def_en": "A sign or measurement that carries information",
-      "example_en": "Nature reports that ten tonnes of ultra-pure liquid xenon recorded an unusual signal sometime in twenty twenty-three or twenty twenty-four.",
-      "sense_note": ""
+      "ko": "A sign or measurement that carries information",
+      "l1": {
+        "en": "A sign or measurement that carries information"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A sign or measurement that carries information"
+        },
+        "example": {
+          "en": "Nature reports that ten tonnes of ultra-pure liquid xenon recorded an unusual signal sometime in twenty twenty-three or twenty twenty-four."
+        }
+      },
+      "picture_prompt": "a clear photo of signal: A sign or measurement that carries information"
     },
     {
+      "id": "invisible",
       "en": "invisible",
-      "pos": "noun",
-      "def_en": "Unable to be seen with the eyes",
-      "example_en": "The flash looked like what might happen if an invisible dark-matter particle struck a xenon nucleus.",
-      "sense_note": ""
+      "ko": "Unable to be seen with the eyes",
+      "l1": {
+        "en": "Unable to be seen with the eyes"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Unable to be seen with the eyes"
+        },
+        "example": {
+          "en": "The flash looked like what might happen if an invisible dark-matter particle struck a xenon nucleus."
+        }
+      },
+      "picture_prompt": "a clear photo of invisible: Unable to be seen with the eyes"
     },
     {
+      "id": "galaxy",
       "en": "galaxy",
-      "pos": "noun",
-      "def_en": "A huge system of stars gas and dark matter",
-      "example_en": "Physicists are buzzing about a single energetic flash inside the LUX-ZEPLIN experiment in South Dakota.",
-      "sense_note": ""
+      "ko": "A huge system of stars gas and dark matter",
+      "l1": {
+        "en": "A huge system of stars gas and dark matter"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A huge system of stars gas and dark matter"
+        },
+        "example": {
+          "en": "Physicists are buzzing about a single energetic flash inside the LUX-ZEPLIN experiment in South Dakota."
+        }
+      },
+      "picture_prompt": "a clear photo of galaxy: A huge system of stars gas and dark matter"
     }
   ]
 }

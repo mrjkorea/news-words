@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-08-27",
+  "title": "News 2026-08-27",
   "date": "2026-08-27",
-  "timezone": "KST",
   "headline": "Carbon pollution has fuelled 'massive expansion' of marine heatwaves in Europe, study finds",
-  "youtube_title": "Carbon pollution has fuelled 'massive expansion' of marine heatwaves in Europe, study finds",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0827.txt",
   "words": [
     {
+      "id": "marine",
       "en": "marine",
-      "pos": "noun",
-      "def_en": "Related to the sea or ocean",
-      "example_en": "A new analysis says carbon pollution has driven a massive expansion of marine heatwaves around Europe this summer.",
-      "sense_note": ""
+      "ko": "Related to the sea or ocean",
+      "l1": {
+        "en": "Related to the sea or ocean"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Related to the sea or ocean"
+        },
+        "example": {
+          "en": "A new analysis says carbon pollution has driven a massive expansion of marine heatwaves around Europe this summer."
+        }
+      },
+      "picture_prompt": "a clear photo of marine: Related to the sea or ocean"
     },
     {
+      "id": "heatwave",
       "en": "heatwave",
-      "pos": "noun",
-      "def_en": "A long period of unusually hot weather",
-      "example_en": "Taking human climate change out of the picture cut the expected heatwave area from seventy percent to nine percent in the eastern Mediterranean.",
-      "sense_note": ""
+      "ko": "A long period of unusually hot weather",
+      "l1": {
+        "en": "A long period of unusually hot weather"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A long period of unusually hot weather"
+        },
+        "example": {
+          "en": "Taking human climate change out of the picture cut the expected heatwave area from seventy percent to nine percent in the eastern Mediterranean."
+        }
+      },
+      "picture_prompt": "a clear photo of heatwave: A long period of unusually hot weather"
     },
     {
+      "id": "pollution",
       "en": "pollution",
-      "pos": "noun",
-      "def_en": "Harmful substances that damage air water or land",
-      "example_en": "A new analysis says carbon pollution has driven a massive expansion of marine heatwaves around Europe this summer.",
-      "sense_note": ""
+      "ko": "Harmful substances that damage air water or land",
+      "l1": {
+        "en": "Harmful substances that damage air water or land"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Harmful substances that damage air water or land"
+        },
+        "example": {
+          "en": "A new analysis says carbon pollution has driven a massive expansion of marine heatwaves around Europe this summer."
+        }
+      },
+      "picture_prompt": "a clear photo of pollution: Harmful substances that damage air water or land"
     },
     {
+      "id": "mediterranean",
       "en": "mediterranean",
-      "pos": "noun",
-      "def_en": "The sea between southern Europe and northern Africa",
-      "example_en": "That is about two degrees in the Mediterranean, one point four degrees in the Bay of Biscay and off Iberia, and one point three degrees around Ireland and the Channel.",
-      "sense_note": ""
+      "ko": "The sea between southern Europe and northern Africa",
+      "l1": {
+        "en": "The sea between southern Europe and northern Africa"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The sea between southern Europe and northern Africa"
+        },
+        "example": {
+          "en": "That is about two degrees in the Mediterranean, one point four degrees in the Bay of Biscay and off Iberia, and one point three degrees around Ireland and the Channel."
+        }
+      },
+      "picture_prompt": "a clear photo of mediterranean: The sea between southern Europe and northern Africa"
     },
     {
+      "id": "coral",
       "en": "coral",
-      "pos": "noun",
-      "def_en": "A small sea animal that builds hard limestone homes in reefs",
-      "example_en": "A new analysis says carbon pollution has driven a massive expansion of marine heatwaves around Europe this summer.",
-      "sense_note": ""
+      "ko": "A small sea animal that builds hard limestone homes in reefs",
+      "l1": {
+        "en": "A small sea animal that builds hard limestone homes in reefs"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A small sea animal that builds hard limestone homes in reefs"
+        },
+        "example": {
+          "en": "A new analysis says carbon pollution has driven a massive expansion of marine heatwaves around Europe this summer."
+        }
+      },
+      "picture_prompt": "a clear photo of coral: A small sea animal that builds hard limestone homes in reefs"
     },
     {
+      "id": "fossil",
       "en": "fossil",
-      "pos": "noun",
-      "def_en": "The remains of an ancient living thing preserved in rock",
-      "example_en": "This was the group's first study focused on how fossil-fuel burning heats the ocean, not just the air.",
-      "sense_note": ""
+      "ko": "The remains of an ancient living thing preserved in rock",
+      "l1": {
+        "en": "The remains of an ancient living thing preserved in rock"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The remains of an ancient living thing preserved in rock"
+        },
+        "example": {
+          "en": "This was the group's first study focused on how fossil-fuel burning heats the ocean, not just the air."
+        }
+      },
+      "picture_prompt": "a clear photo of fossil: The remains of an ancient living thing preserved in rock"
     },
     {
+      "id": "coastal",
       "en": "coastal",
-      "pos": "noun",
-      "def_en": "Located on or near a coast",
-      "example_en": "Warm water also keeps coastal nights hotter, because oceans cool more slowly than land.",
-      "sense_note": ""
+      "ko": "Located on or near a coast",
+      "l1": {
+        "en": "Located on or near a coast"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Located on or near a coast"
+        },
+        "example": {
+          "en": "Warm water also keeps coastal nights hotter, because oceans cool more slowly than land."
+        }
+      },
+      "picture_prompt": "a clear photo of coastal: Located on or near a coast"
     },
     {
+      "id": "temperature",
       "en": "temperature",
-      "pos": "noun",
-      "def_en": "A measure of how hot or cold something is",
-      "example_en": "A new analysis says carbon pollution has driven a massive expansion of marine heatwaves around Europe this summer.",
-      "sense_note": ""
+      "ko": "A measure of how hot or cold something is",
+      "l1": {
+        "en": "A measure of how hot or cold something is"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A measure of how hot or cold something is"
+        },
+        "example": {
+          "en": "A new analysis says carbon pollution has driven a massive expansion of marine heatwaves around Europe this summer."
+        }
+      },
+      "picture_prompt": "a clear photo of temperature: A measure of how hot or cold something is"
     },
     {
+      "id": "attribution",
       "en": "attribution",
-      "pos": "verb",
-      "def_en": "The act of deciding what caused a particular result",
-      "example_en": "Researchers at World Weather Attribution studied the hottest two-week stretches of the year.",
-      "sense_note": ""
+      "ko": "The act of deciding what caused a particular result",
+      "l1": {
+        "en": "The act of deciding what caused a particular result"
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "The act of deciding what caused a particular result"
+        },
+        "example": {
+          "en": "Researchers at World Weather Attribution studied the hottest two-week stretches of the year."
+        }
+      },
+      "picture_prompt": "a clear photo of attribution: The act of deciding what caused a particular result"
     },
     {
+      "id": "ecosystem",
       "en": "ecosystem",
-      "pos": "noun",
-      "def_en": "A community of living things and their environment working together",
-      "example_en": "A new analysis says carbon pollution has driven a massive expansion of marine heatwaves around Europe this summer.",
-      "sense_note": ""
+      "ko": "A community of living things and their environment working together",
+      "l1": {
+        "en": "A community of living things and their environment working together"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A community of living things and their environment working together"
+        },
+        "example": {
+          "en": "A new analysis says carbon pollution has driven a massive expansion of marine heatwaves around Europe this summer."
+        }
+      },
+      "picture_prompt": "a clear photo of ecosystem: A community of living things and their environment working together"
     }
   ]
 }

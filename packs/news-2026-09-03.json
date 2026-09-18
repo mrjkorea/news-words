@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-09-03",
+  "title": "News 2026-09-03",
   "date": "2026-09-03",
-  "timezone": "KST",
   "headline": "Louisiana opens its first recreational alligator hunt in more than fifty years",
-  "youtube_title": "Louisiana opens its first recreational alligator hunt in more than fifty years",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0903.txt",
   "words": [
     {
+      "id": "alligator",
       "en": "alligator",
-      "pos": "noun",
-      "def_en": "A large reptile with a wide snout that lives in swamps",
-      "example_en": "Louisiana is preparing its first recreational alligator hunt in more than fifty years.",
-      "sense_note": ""
+      "ko": "A large reptile with a wide snout that lives in swamps",
+      "l1": {
+        "en": "A large reptile with a wide snout that lives in swamps"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A large reptile with a wide snout that lives in swamps"
+        },
+        "example": {
+          "en": "Louisiana is preparing its first recreational alligator hunt in more than fifty years."
+        }
+      },
+      "picture_prompt": "a clear photo of alligator: A large reptile with a wide snout that lives in swamps"
     },
     {
+      "id": "recreational",
       "en": "recreational",
-      "pos": "noun",
-      "def_en": "Done for sport or fun - not for a job",
-      "example_en": "Louisiana is preparing its first recreational alligator hunt in more than fifty years.",
-      "sense_note": ""
+      "ko": "Done for sport or fun - not for a job",
+      "l1": {
+        "en": "Done for sport or fun - not for a job"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Done for sport or fun - not for a job"
+        },
+        "example": {
+          "en": "Louisiana is preparing its first recreational alligator hunt in more than fifty years."
+        }
+      },
+      "picture_prompt": "a clear photo of recreational: Done for sport or fun - not for a job"
     },
     {
+      "id": "hunt",
       "en": "hunt",
-      "pos": "verb",
-      "def_en": "The act of chasing and taking a wild animal",
-      "example_en": "Louisiana is preparing its first recreational alligator hunt in more than fifty years.",
-      "sense_note": ""
+      "ko": "The act of chasing and taking a wild animal",
+      "l1": {
+        "en": "The act of chasing and taking a wild animal"
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "The act of chasing and taking a wild animal"
+        },
+        "example": {
+          "en": "Louisiana is preparing its first recreational alligator hunt in more than fifty years."
+        }
+      },
+      "picture_prompt": "a clear photo of hunt: The act of chasing and taking a wild animal"
     },
     {
+      "id": "lottery",
       "en": "lottery",
-      "pos": "noun",
-      "def_en": "A drawing that chooses winners by chance",
-      "example_en": "Applicants enter a lottery for up to two tags each, with a cap of five thousand tags.",
-      "sense_note": ""
+      "ko": "A drawing that chooses winners by chance",
+      "l1": {
+        "en": "A drawing that chooses winners by chance"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A drawing that chooses winners by chance"
+        },
+        "example": {
+          "en": "Applicants enter a lottery for up to two tags each, with a cap of five thousand tags."
+        }
+      },
+      "picture_prompt": "a clear photo of lottery: A drawing that chooses winners by chance"
     },
     {
+      "id": "conservation",
       "en": "conservation",
-      "pos": "noun",
-      "def_en": "The protection of animals and wild places",
-      "example_en": "Florida opened a similar statewide recreational program in nineteen eighty-eight after its own conservation success.",
-      "sense_note": ""
+      "ko": "The protection of animals and wild places",
+      "l1": {
+        "en": "The protection of animals and wild places"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The protection of animals and wild places"
+        },
+        "example": {
+          "en": "Florida opened a similar statewide recreational program in nineteen eighty-eight after its own conservation success."
+        }
+      },
+      "picture_prompt": "a clear photo of conservation: The protection of animals and wild places"
     },
     {
+      "id": "population",
       "en": "population",
-      "pos": "noun",
-      "def_en": "The number of animals of one kind in an area",
-      "example_en": "Unregulated killing for meat and hides had dropped the wild population below one hundred thousand.",
-      "sense_note": ""
+      "ko": "The number of animals of one kind in an area",
+      "l1": {
+        "en": "The number of animals of one kind in an area"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The number of animals of one kind in an area"
+        },
+        "example": {
+          "en": "Unregulated killing for meat and hides had dropped the wild population below one hundred thousand."
+        }
+      },
+      "picture_prompt": "a clear photo of population: The number of animals of one kind in an area"
     },
     {
+      "id": "swamp",
       "en": "swamp",
-      "pos": "noun",
-      "def_en": "Wet land with trees - water - and mud",
-      "example_en": "Louisiana is preparing its first recreational alligator hunt in more than fifty years.",
-      "sense_note": ""
+      "ko": "Wet land with trees - water - and mud",
+      "l1": {
+        "en": "Wet land with trees - water - and mud"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Wet land with trees - water - and mud"
+        },
+        "example": {
+          "en": "Louisiana is preparing its first recreational alligator hunt in more than fifty years."
+        }
+      },
+      "picture_prompt": "a clear photo of swamp: Wet land with trees - water - and mud"
     },
     {
+      "id": "permit",
       "en": "permit",
-      "pos": "noun",
-      "def_en": "An official paper that allows an activity",
-      "example_en": "Louisiana is preparing its first recreational alligator hunt in more than fifty years.",
-      "sense_note": ""
+      "ko": "An official paper that allows an activity",
+      "l1": {
+        "en": "An official paper that allows an activity"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "An official paper that allows an activity"
+        },
+        "example": {
+          "en": "Louisiana is preparing its first recreational alligator hunt in more than fifty years."
+        }
+      },
+      "picture_prompt": "a clear photo of permit: An official paper that allows an activity"
     },
     {
+      "id": "harvest",
       "en": "harvest",
-      "pos": "noun",
-      "def_en": "Taking a limited number of animals under rules",
-      "example_en": "The Louisiana Department of Wildlife and Fisheries says the species can support a limited recreational harvest without hurting that commercial industry.",
-      "sense_note": ""
+      "ko": "Taking a limited number of animals under rules",
+      "l1": {
+        "en": "Taking a limited number of animals under rules"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Taking a limited number of animals under rules"
+        },
+        "example": {
+          "en": "The Louisiana Department of Wildlife and Fisheries says the species can support a limited recreational harvest without hurting that commercial industry."
+        }
+      },
+      "picture_prompt": "a clear photo of harvest: Taking a limited number of animals under rules"
     },
     {
+      "id": "wildlife",
       "en": "wildlife",
-      "pos": "noun",
-      "def_en": "Animals living in nature - not on farms",
-      "example_en": "The state's fish and wildlife commission banned alligator hunting in nineteen sixty-two.",
-      "sense_note": ""
+      "ko": "Animals living in nature - not on farms",
+      "l1": {
+        "en": "Animals living in nature - not on farms"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Animals living in nature - not on farms"
+        },
+        "example": {
+          "en": "The state's fish and wildlife commission banned alligator hunting in nineteen sixty-two."
+        }
+      },
+      "picture_prompt": "a clear photo of wildlife: Animals living in nature - not on farms"
     }
   ]
 }

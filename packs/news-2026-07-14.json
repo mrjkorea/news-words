@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-07-14",
+  "title": "News 2026-07-14",
   "date": "2026-07-14",
-  "timezone": "KST",
   "headline": "2026 07 14",
-  "youtube_title": "2026 07 14",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0714.txt",
   "words": [
     {
+      "id": "consensus",
       "en": "consensus",
-      "pos": "noun",
-      "def_en": "a general agreement among a group",
-      "example_en": "Today's news uses the word consensus.",
-      "sense_note": ""
+      "ko": "a general agreement among a group",
+      "l1": {
+        "en": "a general agreement among a group"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "a general agreement among a group"
+        },
+        "example": {
+          "en": "Today's news uses the word consensus."
+        }
+      },
+      "picture_prompt": "a clear photo of consensus: a general agreement among a group"
     },
     {
+      "id": "junta",
       "en": "junta",
-      "pos": "noun",
-      "def_en": "a military government that took power by force",
-      "example_en": "Today's news uses the word junta.",
-      "sense_note": ""
+      "ko": "a military government that took power by force",
+      "l1": {
+        "en": "a military government that took power by force"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "a military government that took power by force"
+        },
+        "example": {
+          "en": "Today's news uses the word junta."
+        }
+      },
+      "picture_prompt": "a clear photo of junta: a military government that took power by force"
     },
     {
+      "id": "legitimacy",
       "en": "legitimacy",
-      "pos": "noun",
-      "def_en": "the quality of being lawful or officially recognized",
-      "example_en": "Today's news uses the word legitimacy.",
-      "sense_note": ""
+      "ko": "the quality of being lawful or officially recognized",
+      "l1": {
+        "en": "the quality of being lawful or officially recognized"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "the quality of being lawful or officially recognized"
+        },
+        "example": {
+          "en": "Today's news uses the word legitimacy."
+        }
+      },
+      "picture_prompt": "a clear photo of legitimacy: the quality of being lawful or officially recognized"
     },
     {
+      "id": "diplomatic",
       "en": "diplomatic",
-      "pos": "noun",
-      "def_en": "relating to relations between countries",
-      "example_en": "Today's news uses the word diplomatic.",
-      "sense_note": ""
+      "ko": "relating to relations between countries",
+      "l1": {
+        "en": "relating to relations between countries"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "relating to relations between countries"
+        },
+        "example": {
+          "en": "Today's news uses the word diplomatic."
+        }
+      },
+      "picture_prompt": "a clear photo of diplomatic: relating to relations between countries"
     },
     {
+      "id": "boycott",
       "en": "boycott",
-      "pos": "verb",
-      "def_en": "to refuse to take part in something",
-      "example_en": "Today's news uses the word boycott.",
-      "sense_note": ""
+      "ko": "to refuse to take part in something",
+      "l1": {
+        "en": "to refuse to take part in something"
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "to refuse to take part in something"
+        },
+        "example": {
+          "en": "Today's news uses the word boycott."
+        }
+      },
+      "picture_prompt": "a clear photo of boycott: to refuse to take part in something"
     },
     {
+      "id": "summit",
       "en": "summit",
-      "pos": "noun",
-      "def_en": "a high-level meeting between leaders",
-      "example_en": "Today's news uses the word summit.",
-      "sense_note": ""
+      "ko": "a high-level meeting between leaders",
+      "l1": {
+        "en": "a high-level meeting between leaders"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "a high-level meeting between leaders"
+        },
+        "example": {
+          "en": "Today's news uses the word summit."
+        }
+      },
+      "picture_prompt": "a clear photo of summit: a high-level meeting between leaders"
     },
     {
+      "id": "sanction",
       "en": "sanction",
-      "pos": "noun",
-      "def_en": "an official punishment or restriction",
-      "example_en": "Today's news uses the word sanction.",
-      "sense_note": ""
+      "ko": "an official punishment or restriction",
+      "l1": {
+        "en": "an official punishment or restriction"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "an official punishment or restriction"
+        },
+        "example": {
+          "en": "Today's news uses the word sanction."
+        }
+      },
+      "picture_prompt": "a clear photo of sanction: an official punishment or restriction"
     },
     {
+      "id": "detention",
       "en": "detention",
-      "pos": "noun",
-      "def_en": "the state of being held in custody",
-      "example_en": "Today's news uses the word detention.",
-      "sense_note": ""
+      "ko": "the state of being held in custody",
+      "l1": {
+        "en": "the state of being held in custody"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "the state of being held in custody"
+        },
+        "example": {
+          "en": "Today's news uses the word detention."
+        }
+      },
+      "picture_prompt": "a clear photo of detention: the state of being held in custody"
     },
     {
+      "id": "ceasefire",
       "en": "ceasefire",
-      "pos": "noun",
-      "def_en": "an agreement to stop fighting",
-      "example_en": "Today's news uses the word ceasefire.",
-      "sense_note": ""
+      "ko": "an agreement to stop fighting",
+      "l1": {
+        "en": "an agreement to stop fighting"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "an agreement to stop fighting"
+        },
+        "example": {
+          "en": "Today's news uses the word ceasefire."
+        }
+      },
+      "picture_prompt": "a clear photo of ceasefire: an agreement to stop fighting"
     },
     {
+      "id": "regime",
       "en": "regime",
-      "pos": "noun",
-      "def_en": "a government or system of rule",
-      "example_en": "Today's news uses the word regime.",
-      "sense_note": ""
+      "ko": "a government or system of rule",
+      "l1": {
+        "en": "a government or system of rule"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "a government or system of rule"
+        },
+        "example": {
+          "en": "Today's news uses the word regime."
+        }
+      },
+      "picture_prompt": "a clear photo of regime: a government or system of rule"
     }
   ]
 }

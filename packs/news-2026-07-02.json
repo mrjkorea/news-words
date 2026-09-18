@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-07-02",
+  "title": "News 2026-07-02",
   "date": "2026-07-02",
-  "timezone": "KST",
   "headline": "2026 07 02",
-  "youtube_title": "2026 07 02",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0702.txt",
   "words": [
     {
+      "id": "earthquake",
       "en": "earthquake",
-      "pos": "noun",
-      "def_en": "A sudden violent shaking of the ground caused by movements within the Earth's crust",
-      "example_en": "Today's news uses the word earthquake.",
-      "sense_note": ""
+      "ko": "A sudden violent shaking of the ground caused by movements within the Earth's crust",
+      "l1": {
+        "en": "A sudden violent shaking of the ground caused by movements within the Earth's crust"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A sudden violent shaking of the ground caused by movements within the Earth's crust"
+        },
+        "example": {
+          "en": "Today's news uses the word earthquake."
+        }
+      },
+      "picture_prompt": "a clear photo of earthquake: A sudden violent shaking of the ground caused by movements within the Earth's..."
     },
     {
+      "id": "magnitude",
       "en": "magnitude",
-      "pos": "noun",
-      "def_en": "The size or strength of something especially an earthquake measured on a scientific scale",
-      "example_en": "Today's news uses the word magnitude.",
-      "sense_note": ""
+      "ko": "The size or strength of something especially an earthquake measured on a scientific scale",
+      "l1": {
+        "en": "The size or strength of something especially an earthquake measured on a scientific scale"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The size or strength of something especially an earthquake measured on a scientific scale"
+        },
+        "example": {
+          "en": "Today's news uses the word magnitude."
+        }
+      },
+      "picture_prompt": "a clear photo of magnitude: The size or strength of something especially an earthquake measured on a scie..."
     },
     {
+      "id": "aftershock",
       "en": "aftershock",
-      "pos": "noun",
-      "def_en": "A smaller earthquake that follows a larger one in the same area",
-      "example_en": "Today's news uses the word aftershock.",
-      "sense_note": ""
+      "ko": "A smaller earthquake that follows a larger one in the same area",
+      "l1": {
+        "en": "A smaller earthquake that follows a larger one in the same area"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A smaller earthquake that follows a larger one in the same area"
+        },
+        "example": {
+          "en": "Today's news uses the word aftershock."
+        }
+      },
+      "picture_prompt": "a clear photo of aftershock: A smaller earthquake that follows a larger one in the same area"
     },
     {
+      "id": "epicenter",
       "en": "epicenter",
-      "pos": "noun",
-      "def_en": "The point on the Earth's surface directly above where an earthquake starts underground",
-      "example_en": "Today's news uses the word epicenter.",
-      "sense_note": ""
+      "ko": "The point on the Earth's surface directly above where an earthquake starts underground",
+      "l1": {
+        "en": "The point on the Earth's surface directly above where an earthquake starts underground"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The point on the Earth's surface directly above where an earthquake starts underground"
+        },
+        "example": {
+          "en": "Today's news uses the word epicenter."
+        }
+      },
+      "picture_prompt": "a clear photo of epicenter: The point on the Earth's surface directly above where an earthquake starts un..."
     },
     {
+      "id": "casualty",
       "en": "casualty",
-      "pos": "noun",
-      "def_en": "A person killed or injured in a war accident or disaster",
-      "example_en": "Today's news uses the word casualty.",
-      "sense_note": ""
+      "ko": "A person killed or injured in a war accident or disaster",
+      "l1": {
+        "en": "A person killed or injured in a war accident or disaster"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A person killed or injured in a war accident or disaster"
+        },
+        "example": {
+          "en": "Today's news uses the word casualty."
+        }
+      },
+      "picture_prompt": "a clear photo of casualty: A person killed or injured in a war accident or disaster"
     },
     {
+      "id": "collapse",
       "en": "collapse",
-      "pos": "verb",
-      "def_en": "To fall down suddenly especially a building or structure",
-      "example_en": "Today's news uses the word collapse.",
-      "sense_note": ""
+      "ko": "To fall down suddenly especially a building or structure",
+      "l1": {
+        "en": "To fall down suddenly especially a building or structure"
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "To fall down suddenly especially a building or structure"
+        },
+        "example": {
+          "en": "Today's news uses the word collapse."
+        }
+      },
+      "picture_prompt": "a clear photo of collapse: To fall down suddenly especially a building or structure"
     },
     {
+      "id": "seismic",
       "en": "seismic",
-      "pos": "noun",
-      "def_en": "Relating to earthquakes or other vibrations of the Earth",
-      "example_en": "Today's news uses the word seismic.",
-      "sense_note": ""
+      "ko": "Relating to earthquakes or other vibrations of the Earth",
+      "l1": {
+        "en": "Relating to earthquakes or other vibrations of the Earth"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Relating to earthquakes or other vibrations of the Earth"
+        },
+        "example": {
+          "en": "Today's news uses the word seismic."
+        }
+      },
+      "picture_prompt": "a clear photo of seismic: Relating to earthquakes or other vibrations of the Earth"
     },
     {
+      "id": "rubble",
       "en": "rubble",
-      "pos": "noun",
-      "def_en": "Broken pieces of stone brick or concrete from destroyed buildings",
-      "example_en": "Today's news uses the word rubble.",
-      "sense_note": ""
+      "ko": "Broken pieces of stone brick or concrete from destroyed buildings",
+      "l1": {
+        "en": "Broken pieces of stone brick or concrete from destroyed buildings"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Broken pieces of stone brick or concrete from destroyed buildings"
+        },
+        "example": {
+          "en": "Today's news uses the word rubble."
+        }
+      },
+      "picture_prompt": "a clear photo of rubble: Broken pieces of stone brick or concrete from destroyed buildings"
     },
     {
+      "id": "tremor",
       "en": "tremor",
-      "pos": "noun",
-      "def_en": "A small earthquake or shaking movement of the ground",
-      "example_en": "Today's news uses the word tremor.",
-      "sense_note": ""
+      "ko": "A small earthquake or shaking movement of the ground",
+      "l1": {
+        "en": "A small earthquake or shaking movement of the ground"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A small earthquake or shaking movement of the ground"
+        },
+        "example": {
+          "en": "Today's news uses the word tremor."
+        }
+      },
+      "picture_prompt": "a clear photo of tremor: A small earthquake or shaking movement of the ground"
     },
     {
+      "id": "rescue",
       "en": "rescue",
-      "pos": "verb",
-      "def_en": "To save someone from a dangerous or difficult situation",
-      "example_en": "Today's news uses the word rescue.",
-      "sense_note": ""
+      "ko": "To save someone from a dangerous or difficult situation",
+      "l1": {
+        "en": "To save someone from a dangerous or difficult situation"
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "To save someone from a dangerous or difficult situation"
+        },
+        "example": {
+          "en": "Today's news uses the word rescue."
+        }
+      },
+      "picture_prompt": "a clear photo of rescue: To save someone from a dangerous or difficult situation"
     }
   ]
 }

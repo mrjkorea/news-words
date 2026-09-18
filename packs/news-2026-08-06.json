@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-08-06",
+  "title": "News 2026-08-06",
   "date": "2026-08-06",
-  "timezone": "KST",
   "headline": "2026 08 06",
-  "youtube_title": "2026 08 06",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0806.txt",
   "words": [
     {
+      "id": "volcano",
       "en": "volcano",
-      "pos": "noun",
-      "def_en": "A mountain with an opening through which hot rock and gas can escape.",
-      "example_en": "On land, a volcanic eruption is dramatic, with columns of ash, fountains of lava, and a complete remaking of the terrain.",
-      "sense_note": ""
+      "ko": "A mountain with an opening through which hot rock and gas can escape.",
+      "l1": {
+        "en": "A mountain with an opening through which hot rock and gas can escape."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A mountain with an opening through which hot rock and gas can escape."
+        },
+        "example": {
+          "en": "On land, a volcanic eruption is dramatic, with columns of ash, fountains of lava, and a complete remaking of the terrain."
+        }
+      },
+      "picture_prompt": "a clear photo of volcano: A mountain with an opening through which hot rock and gas can escape."
     },
     {
+      "id": "eruption",
       "en": "eruption",
-      "pos": "noun",
-      "def_en": "A sudden release of hot rock ash and gas from a volcano.",
-      "example_en": "On land, a volcanic eruption is dramatic, with columns of ash, fountains of lava, and a complete remaking of the terrain.",
-      "sense_note": ""
+      "ko": "A sudden release of hot rock ash and gas from a volcano.",
+      "l1": {
+        "en": "A sudden release of hot rock ash and gas from a volcano."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A sudden release of hot rock ash and gas from a volcano."
+        },
+        "example": {
+          "en": "On land, a volcanic eruption is dramatic, with columns of ash, fountains of lava, and a complete remaking of the terrain."
+        }
+      },
+      "picture_prompt": "a clear photo of eruption: A sudden release of hot rock ash and gas from a volcano."
     },
     {
+      "id": "pumice",
       "en": "pumice",
-      "pos": "noun",
-      "def_en": "A very light grey rock full of air holes formed from volcanic foam.",
-      "example_en": "By early June, satellite images showed that brownish-gray streaks, rafts of volcanic material called pumice, had begun to surround the Admiralty Islands.",
-      "sense_note": ""
+      "ko": "A very light grey rock full of air holes formed from volcanic foam.",
+      "l1": {
+        "en": "A very light grey rock full of air holes formed from volcanic foam."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A very light grey rock full of air holes formed from volcanic foam."
+        },
+        "example": {
+          "en": "By early June, satellite images showed that brownish-gray streaks, rafts of volcanic material called pumice, had begun to surround the Admiralty Islands."
+        }
+      },
+      "picture_prompt": "a clear photo of pumice: A very light grey rock full of air holes formed from volcanic foam."
     },
     {
+      "id": "submarine",
       "en": "submarine",
-      "pos": "noun",
-      "def_en": "Existing or happening below the surface of the sea.",
-      "example_en": "A secret submarine eruption made its presence known in the Bismarck Sea near Papua New Guinea.",
-      "sense_note": ""
+      "ko": "Existing or happening below the surface of the sea.",
+      "l1": {
+        "en": "Existing or happening below the surface of the sea."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Existing or happening below the surface of the sea."
+        },
+        "example": {
+          "en": "A secret submarine eruption made its presence known in the Bismarck Sea near Papua New Guinea."
+        }
+      },
+      "picture_prompt": "a clear photo of submarine: Existing or happening below the surface of the sea."
     },
     {
+      "id": "ridge",
       "en": "ridge",
-      "pos": "noun",
-      "def_en": "A long narrow raised area such as a line of mountains or hills underwater.",
-      "example_en": "The eruption is likely located along the Titan Ridge, a volcanic area that last saw an eruption in nineteen seventy-two.",
-      "sense_note": ""
+      "ko": "A long narrow raised area such as a line of mountains or hills underwater.",
+      "l1": {
+        "en": "A long narrow raised area such as a line of mountains or hills underwater."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A long narrow raised area such as a line of mountains or hills underwater."
+        },
+        "example": {
+          "en": "The eruption is likely located along the Titan Ridge, a volcanic area that last saw an eruption in nineteen seventy-two."
+        }
+      },
+      "picture_prompt": "a clear photo of ridge: A long narrow raised area such as a line of mountains or hills underwater."
     },
     {
+      "id": "magma",
       "en": "magma",
-      "pos": "noun",
-      "def_en": "Hot liquid rock below the surface of the Earth.",
-      "example_en": "If the magma contains enough gas and the eruption is shallow enough, the pumice can float up to the ocean surface, where it can linger for years.",
-      "sense_note": ""
+      "ko": "Hot liquid rock below the surface of the Earth.",
+      "l1": {
+        "en": "Hot liquid rock below the surface of the Earth."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Hot liquid rock below the surface of the Earth."
+        },
+        "example": {
+          "en": "If the magma contains enough gas and the eruption is shallow enough, the pumice can float up to the ocean surface, where it can linger for years."
+        }
+      },
+      "picture_prompt": "a clear photo of magma: Hot liquid rock below the surface of the Earth."
     },
     {
+      "id": "swarm",
       "en": "swarm",
-      "pos": "noun",
-      "def_en": "A large group of things moving together such as a swarm of earthquakes.",
-      "example_en": "The first hint came from a small swarm of earthquakes in early May, and NASA satellites spotted steamy volcanic plumes and discolored water the next day.",
-      "sense_note": ""
+      "ko": "A large group of things moving together such as a swarm of earthquakes.",
+      "l1": {
+        "en": "A large group of things moving together such as a swarm of earthquakes."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A large group of things moving together such as a swarm of earthquakes."
+        },
+        "example": {
+          "en": "The first hint came from a small swarm of earthquakes in early May, and NASA satellites spotted steamy volcanic plumes and discolored water the next day."
+        }
+      },
+      "picture_prompt": "a clear photo of swarm: A large group of things moving together such as a swarm of earthquakes."
     },
     {
+      "id": "satellite",
       "en": "satellite",
-      "pos": "noun",
-      "def_en": "A machine sent into space that orbits the Earth to collect information.",
-      "example_en": "By early June, satellite images showed that brownish-gray streaks, rafts of volcanic material called pumice, had begun to surround the Admiralty Islands.",
-      "sense_note": ""
+      "ko": "A machine sent into space that orbits the Earth to collect information.",
+      "l1": {
+        "en": "A machine sent into space that orbits the Earth to collect information."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A machine sent into space that orbits the Earth to collect information."
+        },
+        "example": {
+          "en": "By early June, satellite images showed that brownish-gray streaks, rafts of volcanic material called pumice, had begun to surround the Admiralty Islands."
+        }
+      },
+      "picture_prompt": "a clear photo of satellite: A machine sent into space that orbits the Earth to collect information."
     },
     {
+      "id": "survey",
       "en": "survey",
-      "pos": "verb",
-      "def_en": "To carefully examine and measure an area or situation.",
-      "example_en": "On land, a volcanic eruption is dramatic, with columns of ash, fountains of lava, and a complete remaking of the terrain.",
-      "sense_note": ""
+      "ko": "To carefully examine and measure an area or situation.",
+      "l1": {
+        "en": "To carefully examine and measure an area or situation."
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "To carefully examine and measure an area or situation."
+        },
+        "example": {
+          "en": "On land, a volcanic eruption is dramatic, with columns of ash, fountains of lava, and a complete remaking of the terrain."
+        }
+      },
+      "picture_prompt": "a clear photo of survey: To carefully examine and measure an area or situation."
     },
     {
+      "id": "crater",
       "en": "crater",
-      "pos": "noun",
-      "def_en": "A large bowl-shaped hole especially at the top of a volcano.",
-      "example_en": "They may find a new cone, a new crater, or pillow lava, rounded bulbous forms that you almost never see on land.",
-      "sense_note": ""
+      "ko": "A large bowl-shaped hole especially at the top of a volcano.",
+      "l1": {
+        "en": "A large bowl-shaped hole especially at the top of a volcano."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A large bowl-shaped hole especially at the top of a volcano."
+        },
+        "example": {
+          "en": "They may find a new cone, a new crater, or pillow lava, rounded bulbous forms that you almost never see on land."
+        }
+      },
+      "picture_prompt": "a clear photo of crater: A large bowl-shaped hole especially at the top of a volcano."
     }
   ]
 }

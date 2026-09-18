@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-07-27",
+  "title": "News 2026-07-27",
   "date": "2026-07-27",
-  "timezone": "KST",
   "headline": "2026 07 27",
-  "youtube_title": "2026 07 27",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0727.txt",
   "words": [
     {
+      "id": "species",
       "en": "species",
-      "pos": "noun",
-      "def_en": "A group of living organisms that share characteristics and can breed with each other.",
-      "example_en": "Today's news uses the word species.",
-      "sense_note": ""
+      "ko": "A group of living organisms that share characteristics and can breed with each other.",
+      "l1": {
+        "en": "A group of living organisms that share characteristics and can breed with each other."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A group of living organisms that share characteristics and can breed with each other."
+        },
+        "example": {
+          "en": "Today's news uses the word species."
+        }
+      },
+      "picture_prompt": "a clear photo of species: A group of living organisms that share characteristics and can breed with eac..."
     },
     {
+      "id": "rainforest",
       "en": "rainforest",
-      "pos": "noun",
-      "def_en": "A dense forest in a tropical region that receives a lot of rain.",
-      "example_en": "Today's news uses the word rainforest.",
-      "sense_note": ""
+      "ko": "A dense forest in a tropical region that receives a lot of rain.",
+      "l1": {
+        "en": "A dense forest in a tropical region that receives a lot of rain."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A dense forest in a tropical region that receives a lot of rain."
+        },
+        "example": {
+          "en": "Today's news uses the word rainforest."
+        }
+      },
+      "picture_prompt": "a clear photo of rainforest: A dense forest in a tropical region that receives a lot of rain."
     },
     {
+      "id": "distinctive",
       "en": "distinctive",
-      "pos": "adjective",
-      "def_en": "Having a special quality or feature that makes something different from others.",
-      "example_en": "Today's news uses the word distinctive.",
-      "sense_note": ""
+      "ko": "Having a special quality or feature that makes something different from others.",
+      "l1": {
+        "en": "Having a special quality or feature that makes something different from others."
+      },
+      "ww": {
+        "pos": "adj",
+        "def": {
+          "en": "Having a special quality or feature that makes something different from others."
+        },
+        "example": {
+          "en": "Today's news uses the word distinctive."
+        }
+      },
+      "picture_prompt": "a clear photo of distinctive: Having a special quality or feature that makes something different from others."
     },
     {
+      "id": "primate",
       "en": "primate",
-      "pos": "noun",
-      "def_en": "A member of the group of mammals that includes monkeys",
-      "example_en": "Today's news uses the word primate.",
-      "sense_note": ""
+      "ko": "A member of the group of mammals that includes monkeys",
+      "l1": {
+        "en": "A member of the group of mammals that includes monkeys"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A member of the group of mammals that includes monkeys"
+        },
+        "example": {
+          "en": "Today's news uses the word primate."
+        }
+      },
+      "picture_prompt": "a clear photo of primate: A member of the group of mammals that includes monkeys"
     },
     {
+      "id": "vocal",
       "en": "vocal",
-      "pos": "noun",
-      "def_en": "Relating to the voice or speaking.",
-      "example_en": "Today's news uses the word vocal.",
-      "sense_note": ""
+      "ko": "Relating to the voice or speaking.",
+      "l1": {
+        "en": "Relating to the voice or speaking."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Relating to the voice or speaking."
+        },
+        "example": {
+          "en": "Today's news uses the word vocal."
+        }
+      },
+      "picture_prompt": "a clear photo of vocal: Relating to the voice or speaking."
     },
     {
+      "id": "biodiversity",
       "en": "biodiversity",
-      "pos": "noun",
-      "def_en": "The variety of plant and animal life in a particular habitat.",
-      "example_en": "Today's news uses the word biodiversity.",
-      "sense_note": ""
+      "ko": "The variety of plant and animal life in a particular habitat.",
+      "l1": {
+        "en": "The variety of plant and animal life in a particular habitat."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The variety of plant and animal life in a particular habitat."
+        },
+        "example": {
+          "en": "Today's news uses the word biodiversity."
+        }
+      },
+      "picture_prompt": "a clear photo of biodiversity: The variety of plant and animal life in a particular habitat."
     },
     {
+      "id": "documented",
       "en": "documented",
-      "pos": "noun",
-      "def_en": "Recorded in written or other permanent form.",
-      "example_en": "Today's news uses the word documented.",
-      "sense_note": ""
+      "ko": "Recorded in written or other permanent form.",
+      "l1": {
+        "en": "Recorded in written or other permanent form."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Recorded in written or other permanent form."
+        },
+        "example": {
+          "en": "Today's news uses the word documented."
+        }
+      },
+      "picture_prompt": "a clear photo of documented: Recorded in written or other permanent form."
     },
     {
+      "id": "conservation",
       "en": "conservation",
-      "pos": "noun",
-      "def_en": "The protection and preservation of the natural environment.",
-      "example_en": "Today's news uses the word conservation.",
-      "sense_note": ""
+      "ko": "The protection and preservation of the natural environment.",
+      "l1": {
+        "en": "The protection and preservation of the natural environment."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The protection and preservation of the natural environment."
+        },
+        "example": {
+          "en": "Today's news uses the word conservation."
+        }
+      },
+      "picture_prompt": "a clear photo of conservation: The protection and preservation of the natural environment."
     },
     {
+      "id": "endangered",
       "en": "endangered",
-      "pos": "noun",
-      "def_en": "At serious risk of extinction or dying out.",
-      "example_en": "Today's news uses the word endangered.",
-      "sense_note": ""
+      "ko": "At serious risk of extinction or dying out.",
+      "l1": {
+        "en": "At serious risk of extinction or dying out."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "At serious risk of extinction or dying out."
+        },
+        "example": {
+          "en": "Today's news uses the word endangered."
+        }
+      },
+      "picture_prompt": "a clear photo of endangered: At serious risk of extinction or dying out."
     },
     {
+      "id": "population",
       "en": "population",
-      "pos": "noun",
-      "def_en": "All the inhabitants of a particular place.",
-      "example_en": "Today's news uses the word population.",
-      "sense_note": ""
+      "ko": "All the inhabitants of a particular place.",
+      "l1": {
+        "en": "All the inhabitants of a particular place."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "All the inhabitants of a particular place."
+        },
+        "example": {
+          "en": "Today's news uses the word population."
+        }
+      },
+      "picture_prompt": "a clear photo of population: All the inhabitants of a particular place."
     }
   ]
 }

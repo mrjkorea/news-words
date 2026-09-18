@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-09-15",
+  "title": "News 2026-09-15",
   "date": "2026-09-15",
-  "timezone": "KST",
   "headline": "One in nine migratory birds is threatened with extinction, a global report says",
-  "youtube_title": "One in nine migratory birds is threatened with extinction, a global report says",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0915.txt",
   "words": [
     {
+      "id": "migration",
       "en": "migration",
-      "pos": "noun",
-      "def_en": "The long journey that animals make each year",
-      "example_en": "At the summit, three development banks promised about six billion dollars for habitat protection and restoration along migration routes.",
-      "sense_note": ""
+      "ko": "The long journey that animals make each year",
+      "l1": {
+        "en": "The long journey that animals make each year"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The long journey that animals make each year"
+        },
+        "example": {
+          "en": "At the summit, three development banks promised about six billion dollars for habitat protection and restoration along migration routes."
+        }
+      },
+      "picture_prompt": "a clear photo of migration: The long journey that animals make each year"
     },
     {
+      "id": "species",
       "en": "species",
-      "pos": "noun",
-      "def_en": "A group of living things that can have young together",
-      "example_en": "One in nine migratory birds is threatened with extinction, and nearly half of all migratory bird species are in decline.",
-      "sense_note": ""
+      "ko": "A group of living things that can have young together",
+      "l1": {
+        "en": "A group of living things that can have young together"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A group of living things that can have young together"
+        },
+        "example": {
+          "en": "One in nine migratory birds is threatened with extinction, and nearly half of all migratory bird species are in decline."
+        }
+      },
+      "picture_prompt": "a clear photo of species: A group of living things that can have young together"
     },
     {
+      "id": "extinct",
       "en": "extinct",
-      "pos": "noun",
-      "def_en": "No longer existing anywhere on Earth",
-      "example_en": "The slender-billed curlew was officially declared extinct last year.",
-      "sense_note": ""
+      "ko": "No longer existing anywhere on Earth",
+      "l1": {
+        "en": "No longer existing anywhere on Earth"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "No longer existing anywhere on Earth"
+        },
+        "example": {
+          "en": "The slender-billed curlew was officially declared extinct last year."
+        }
+      },
+      "picture_prompt": "a clear photo of extinct: No longer existing anywhere on Earth"
     },
     {
+      "id": "habitat",
       "en": "habitat",
-      "pos": "noun",
-      "def_en": "The natural home of an animal or plant",
-      "example_en": "At the summit, three development banks promised about six billion dollars for habitat protection and restoration along migration routes.",
-      "sense_note": ""
+      "ko": "The natural home of an animal or plant",
+      "l1": {
+        "en": "The natural home of an animal or plant"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The natural home of an animal or plant"
+        },
+        "example": {
+          "en": "At the summit, three development banks promised about six billion dollars for habitat protection and restoration along migration routes."
+        }
+      },
+      "picture_prompt": "a clear photo of habitat: The natural home of an animal or plant"
     },
     {
+      "id": "wetland",
       "en": "wetland",
-      "pos": "noun",
-      "def_en": "Land that is often covered with shallow water",
-      "example_en": "One in nine migratory birds is threatened with extinction, and nearly half of all migratory bird species are in decline.",
-      "sense_note": ""
+      "ko": "Land that is often covered with shallow water",
+      "l1": {
+        "en": "Land that is often covered with shallow water"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Land that is often covered with shallow water"
+        },
+        "example": {
+          "en": "One in nine migratory birds is threatened with extinction, and nearly half of all migratory bird species are in decline."
+        }
+      },
+      "picture_prompt": "a clear photo of wetland: Land that is often covered with shallow water"
     },
     {
+      "id": "pollution",
       "en": "pollution",
-      "pos": "noun",
-      "def_en": "Harmful waste that damages air water or land",
-      "example_en": "The threats come mostly from human activity: intensive farming, hunting, pollution, invasive animals such as rats on small islands, and a warming climate.",
-      "sense_note": ""
+      "ko": "Harmful waste that damages air water or land",
+      "l1": {
+        "en": "Harmful waste that damages air water or land"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Harmful waste that damages air water or land"
+        },
+        "example": {
+          "en": "The threats come mostly from human activity: intensive farming, hunting, pollution, invasive animals such as rats on small islands, and a warming climate."
+        }
+      },
+      "picture_prompt": "a clear photo of pollution: Harmful waste that damages air water or land"
     },
     {
+      "id": "decline",
       "en": "decline",
-      "pos": "verb",
-      "def_en": "To become smaller or fewer over time",
-      "example_en": "One in nine migratory birds is threatened with extinction, and nearly half of all migratory bird species are in decline.",
-      "sense_note": ""
+      "ko": "To become smaller or fewer over time",
+      "l1": {
+        "en": "To become smaller or fewer over time"
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "To become smaller or fewer over time"
+        },
+        "example": {
+          "en": "One in nine migratory birds is threatened with extinction, and nearly half of all migratory bird species are in decline."
+        }
+      },
+      "picture_prompt": "a clear photo of decline: To become smaller or fewer over time"
     },
     {
+      "id": "conservation",
       "en": "conservation",
-      "pos": "noun",
-      "def_en": "Protecting nature so it is not lost",
-      "example_en": "The report was released at a Global Flyways summit in Nairobi, Kenya, where governments, scientists, conservation groups and banks signed a new promise to protect the routes that billions of birds follow between continents.",
-      "sense_note": ""
+      "ko": "Protecting nature so it is not lost",
+      "l1": {
+        "en": "Protecting nature so it is not lost"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Protecting nature so it is not lost"
+        },
+        "example": {
+          "en": "The report was released at a Global Flyways summit in Nairobi, Kenya, where governments, scientists, conservation groups and banks signed a new promise to protect the routes that billions of birds follow between continents."
+        }
+      },
+      "picture_prompt": "a clear photo of conservation: Protecting nature so it is not lost"
     },
     {
+      "id": "sanctuary",
       "en": "sanctuary",
-      "pos": "noun",
-      "def_en": "A safe protected place for animals",
-      "example_en": "One in nine migratory birds is threatened with extinction, and nearly half of all migratory bird species are in decline.",
-      "sense_note": ""
+      "ko": "A safe protected place for animals",
+      "l1": {
+        "en": "A safe protected place for animals"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A safe protected place for animals"
+        },
+        "example": {
+          "en": "One in nine migratory birds is threatened with extinction, and nearly half of all migratory bird species are in decline."
+        }
+      },
+      "picture_prompt": "a clear photo of sanctuary: A safe protected place for animals"
     },
     {
+      "id": "recovery",
       "en": "recovery",
-      "pos": "noun",
-      "def_en": "A return to a healthy state after harm",
-      "example_en": "One in nine migratory birds is threatened with extinction, and nearly half of all migratory bird species are in decline.",
-      "sense_note": ""
+      "ko": "A return to a healthy state after harm",
+      "l1": {
+        "en": "A return to a healthy state after harm"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A return to a healthy state after harm"
+        },
+        "example": {
+          "en": "One in nine migratory birds is threatened with extinction, and nearly half of all migratory bird species are in decline."
+        }
+      },
+      "picture_prompt": "a clear photo of recovery: A return to a healthy state after harm"
     }
   ]
 }

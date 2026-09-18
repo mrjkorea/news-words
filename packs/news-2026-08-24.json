@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-08-24",
+  "title": "News 2026-08-24",
   "date": "2026-08-24",
-  "timezone": "KST",
   "headline": "NASA-led study shows some Earth microbes could survive on the moon",
-  "youtube_title": "NASA-led study shows some Earth microbes could survive on the moon",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0824.txt",
   "words": [
     {
+      "id": "microbe",
       "en": "microbe",
-      "pos": "noun",
-      "def_en": "A very small living thing that cannot be seen without a microscope",
-      "example_en": "A NASA-led study says some Earth microbes could survive for a time on the moon.",
-      "sense_note": ""
+      "ko": "A very small living thing that cannot be seen without a microscope",
+      "l1": {
+        "en": "A very small living thing that cannot be seen without a microscope"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A very small living thing that cannot be seen without a microscope"
+        },
+        "example": {
+          "en": "A NASA-led study says some Earth microbes could survive for a time on the moon."
+        }
+      },
+      "picture_prompt": "a clear photo of microbe: A very small living thing that cannot be seen without a microscope"
     },
     {
+      "id": "fungus",
       "en": "fungus",
-      "pos": "noun",
-      "def_en": "A living thing such as mold or a mushroom that grows in damp places",
-      "example_en": "The researchers also studied Fusarium, a common soil fungus.",
-      "sense_note": ""
+      "ko": "A living thing such as mold or a mushroom that grows in damp places",
+      "l1": {
+        "en": "A living thing such as mold or a mushroom that grows in damp places"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A living thing such as mold or a mushroom that grows in damp places"
+        },
+        "example": {
+          "en": "The researchers also studied Fusarium, a common soil fungus."
+        }
+      },
+      "picture_prompt": "a clear photo of fungus: A living thing such as mold or a mushroom that grows in damp places"
     },
     {
+      "id": "survive",
       "en": "survive",
-      "pos": "verb",
-      "def_en": "To continue to live or exist after a difficult situation",
-      "example_en": "A NASA-led study says some Earth microbes could survive for a time on the moon.",
-      "sense_note": ""
+      "ko": "To continue to live or exist after a difficult situation",
+      "l1": {
+        "en": "To continue to live or exist after a difficult situation"
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "To continue to live or exist after a difficult situation"
+        },
+        "example": {
+          "en": "A NASA-led study says some Earth microbes could survive for a time on the moon."
+        }
+      },
+      "picture_prompt": "a clear photo of survive: To continue to live or exist after a difficult situation"
     },
     {
+      "id": "crater",
       "en": "crater",
-      "pos": "noun",
-      "def_en": "A large round hole in the ground made by an impact or explosion",
-      "example_en": "Still, the models mapped survivable niches as large as crater floors miles wide.",
-      "sense_note": ""
+      "ko": "A large round hole in the ground made by an impact or explosion",
+      "l1": {
+        "en": "A large round hole in the ground made by an impact or explosion"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A large round hole in the ground made by an impact or explosion"
+        },
+        "example": {
+          "en": "Still, the models mapped survivable niches as large as crater floors miles wide."
+        }
+      },
+      "picture_prompt": "a clear photo of crater: A large round hole in the ground made by an impact or explosion"
     },
     {
+      "id": "radiation",
       "en": "radiation",
-      "pos": "noun",
-      "def_en": "Energy that travels in waves or particles",
-      "example_en": "The moon has no breathable air, extreme heat and cold, and strong space radiation.",
-      "sense_note": ""
+      "ko": "Energy that travels in waves or particles",
+      "l1": {
+        "en": "Energy that travels in waves or particles"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Energy that travels in waves or particles"
+        },
+        "example": {
+          "en": "The moon has no breathable air, extreme heat and cold, and strong space radiation."
+        }
+      },
+      "picture_prompt": "a clear photo of radiation: Energy that travels in waves or particles"
     },
     {
+      "id": "simulation",
       "en": "simulation",
-      "pos": "noun",
-      "def_en": "A computer model that copies a real situation for study",
-      "example_en": "A NASA-led study says some Earth microbes could survive for a time on the moon.",
-      "sense_note": ""
+      "ko": "A computer model that copies a real situation for study",
+      "l1": {
+        "en": "A computer model that copies a real situation for study"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A computer model that copies a real situation for study"
+        },
+        "example": {
+          "en": "A NASA-led study says some Earth microbes could survive for a time on the moon."
+        }
+      },
+      "picture_prompt": "a clear photo of simulation: A computer model that copies a real situation for study"
     },
     {
+      "id": "bacteria",
       "en": "bacteria",
-      "pos": "adjective",
-      "def_en": "Very small single-celled living things",
-      "example_en": "Researchers modeled five kinds of fungi and bacteria under harsh lunar conditions.",
-      "sense_note": ""
+      "ko": "Very small single-celled living things",
+      "l1": {
+        "en": "Very small single-celled living things"
+      },
+      "ww": {
+        "pos": "adj",
+        "def": {
+          "en": "Very small single-celled living things"
+        },
+        "example": {
+          "en": "Researchers modeled five kinds of fungi and bacteria under harsh lunar conditions."
+        }
+      },
+      "picture_prompt": "a clear photo of bacteria: Very small single-celled living things"
     },
     {
+      "id": "astronaut",
       "en": "astronaut",
-      "pos": "noun",
-      "def_en": "A person trained to travel and work in space",
-      "example_en": "A NASA-led study says some Earth microbes could survive for a time on the moon.",
-      "sense_note": ""
+      "ko": "A person trained to travel and work in space",
+      "l1": {
+        "en": "A person trained to travel and work in space"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A person trained to travel and work in space"
+        },
+        "example": {
+          "en": "A NASA-led study says some Earth microbes could survive for a time on the moon."
+        }
+      },
+      "picture_prompt": "a clear photo of astronaut: A person trained to travel and work in space"
     },
     {
+      "id": "contamination",
       "en": "contamination",
-      "pos": "verb",
-      "def_en": "The act of making something dirty or unsafe by adding a harmful substance",
-      "example_en": "A NASA-led study says some Earth microbes could survive for a time on the moon.",
-      "sense_note": ""
+      "ko": "The act of making something dirty or unsafe by adding a harmful substance",
+      "l1": {
+        "en": "The act of making something dirty or unsafe by adding a harmful substance"
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "The act of making something dirty or unsafe by adding a harmful substance"
+        },
+        "example": {
+          "en": "A NASA-led study says some Earth microbes could survive for a time on the moon."
+        }
+      },
+      "picture_prompt": "a clear photo of contamination: The act of making something dirty or unsafe by adding a harmful substance"
     },
     {
+      "id": "shadow",
       "en": "shadow",
-      "pos": "noun",
-      "def_en": "A dark area made when light is blocked by something",
-      "example_en": "A NASA-led study says some Earth microbes could survive for a time on the moon.",
-      "sense_note": ""
+      "ko": "A dark area made when light is blocked by something",
+      "l1": {
+        "en": "A dark area made when light is blocked by something"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A dark area made when light is blocked by something"
+        },
+        "example": {
+          "en": "A NASA-led study says some Earth microbes could survive for a time on the moon."
+        }
+      },
+      "picture_prompt": "a clear photo of shadow: A dark area made when light is blocked by something"
     }
   ]
 }

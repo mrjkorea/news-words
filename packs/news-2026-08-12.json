@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-08-12",
+  "title": "News 2026-08-12",
   "date": "2026-08-12",
-  "timezone": "KST",
   "headline": "EasyJet agrees to five-point-seven-billion-pound takeover by US firm Apollo",
-  "youtube_title": "EasyJet agrees to five-point-seven-billion-pound takeover by US firm Apollo",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0812.txt",
   "words": [
     {
+      "id": "airline",
       "en": "airline",
-      "pos": "noun",
-      "def_en": "A company that provides regular flights for passengers and cargo.",
-      "example_en": "The British airline EasyJet has agreed to be taken over in a five-point-seven-billion-pound deal by the American firm Apollo, after a rival bidder dropped out.",
-      "sense_note": ""
+      "ko": "A company that provides regular flights for passengers and cargo.",
+      "l1": {
+        "en": "A company that provides regular flights for passengers and cargo."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A company that provides regular flights for passengers and cargo."
+        },
+        "example": {
+          "en": "The British airline EasyJet has agreed to be taken over in a five-point-seven-billion-pound deal by the American firm Apollo, after a rival bidder dropped out."
+        }
+      },
+      "picture_prompt": "a clear photo of airline: A company that provides regular flights for passengers and cargo."
     },
     {
+      "id": "merger",
       "en": "merger",
-      "pos": "noun",
-      "def_en": "The joining of two companies into one larger company.",
-      "example_en": "The British airline EasyJet has agreed to be taken over in a five-point-seven-billion-pound deal by the American firm Apollo, after a rival bidder dropped out.",
-      "sense_note": ""
+      "ko": "The joining of two companies into one larger company.",
+      "l1": {
+        "en": "The joining of two companies into one larger company."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The joining of two companies into one larger company."
+        },
+        "example": {
+          "en": "The British airline EasyJet has agreed to be taken over in a five-point-seven-billion-pound deal by the American firm Apollo, after a rival bidder dropped out."
+        }
+      },
+      "picture_prompt": "a clear photo of merger: The joining of two companies into one larger company."
     },
     {
+      "id": "bidder",
       "en": "bidder",
-      "pos": "noun",
-      "def_en": "A person or company that offers to buy something in an auction or deal.",
-      "example_en": "The British airline EasyJet has agreed to be taken over in a five-point-seven-billion-pound deal by the American firm Apollo, after a rival bidder dropped out.",
-      "sense_note": ""
+      "ko": "A person or company that offers to buy something in an auction or deal.",
+      "l1": {
+        "en": "A person or company that offers to buy something in an auction or deal."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A person or company that offers to buy something in an auction or deal."
+        },
+        "example": {
+          "en": "The British airline EasyJet has agreed to be taken over in a five-point-seven-billion-pound deal by the American firm Apollo, after a rival bidder dropped out."
+        }
+      },
+      "picture_prompt": "a clear photo of bidder: A person or company that offers to buy something in an auction or deal."
     },
     {
+      "id": "shareholder",
       "en": "shareholder",
-      "pos": "noun",
-      "def_en": "A person who owns shares in a company.",
-      "example_en": "The British airline EasyJet has agreed to be taken over in a five-point-seven-billion-pound deal by the American firm Apollo, after a rival bidder dropped out.",
-      "sense_note": ""
+      "ko": "A person who owns shares in a company.",
+      "l1": {
+        "en": "A person who owns shares in a company."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A person who owns shares in a company."
+        },
+        "example": {
+          "en": "The British airline EasyJet has agreed to be taken over in a five-point-seven-billion-pound deal by the American firm Apollo, after a rival bidder dropped out."
+        }
+      },
+      "picture_prompt": "a clear photo of shareholder: A person who owns shares in a company."
     },
     {
+      "id": "regulator",
       "en": "regulator",
-      "pos": "noun",
-      "def_en": "An official organization that checks that companies follow the rules.",
-      "example_en": "The British airline EasyJet has agreed to be taken over in a five-point-seven-billion-pound deal by the American firm Apollo, after a rival bidder dropped out.",
-      "sense_note": ""
+      "ko": "An official organization that checks that companies follow the rules.",
+      "l1": {
+        "en": "An official organization that checks that companies follow the rules."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "An official organization that checks that companies follow the rules."
+        },
+        "example": {
+          "en": "The British airline EasyJet has agreed to be taken over in a five-point-seven-billion-pound deal by the American firm Apollo, after a rival bidder dropped out."
+        }
+      },
+      "picture_prompt": "a clear photo of regulator: An official organization that checks that companies follow the rules."
     },
     {
+      "id": "investment",
       "en": "investment",
-      "pos": "noun",
-      "def_en": "Money put into a business or project to earn a profit.",
-      "example_en": "The takeover was agreed after Castlelake, an American investment firm that had made a series of offers for the carrier, said it was withdrawing from the bid battle.",
-      "sense_note": ""
+      "ko": "Money put into a business or project to earn a profit.",
+      "l1": {
+        "en": "Money put into a business or project to earn a profit."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Money put into a business or project to earn a profit."
+        },
+        "example": {
+          "en": "The takeover was agreed after Castlelake, an American investment firm that had made a series of offers for the carrier, said it was withdrawing from the bid battle."
+        }
+      },
+      "picture_prompt": "a clear photo of investment: Money put into a business or project to earn a profit."
     },
     {
+      "id": "strategy",
       "en": "strategy",
-      "pos": "noun",
-      "def_en": "A plan designed to achieve a particular goal.",
-      "example_en": "Apollo said it was highly supportive of the airline's existing strategy and saw a significant opportunity to accelerate its operational and commercial ambitions.",
-      "sense_note": ""
+      "ko": "A plan designed to achieve a particular goal.",
+      "l1": {
+        "en": "A plan designed to achieve a particular goal."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A plan designed to achieve a particular goal."
+        },
+        "example": {
+          "en": "Apollo said it was highly supportive of the airline's existing strategy and saw a significant opportunity to accelerate its operational and commercial ambitions."
+        }
+      },
+      "picture_prompt": "a clear photo of strategy: A plan designed to achieve a particular goal."
     },
     {
+      "id": "delist",
       "en": "delist",
-      "pos": "verb",
-      "def_en": "To remove a company's shares from a stock exchange.",
-      "example_en": "The British airline EasyJet has agreed to be taken over in a five-point-seven-billion-pound deal by the American firm Apollo, after a rival bidder dropped out.",
-      "sense_note": ""
+      "ko": "To remove a company's shares from a stock exchange.",
+      "l1": {
+        "en": "To remove a company's shares from a stock exchange."
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "To remove a company's shares from a stock exchange."
+        },
+        "example": {
+          "en": "The British airline EasyJet has agreed to be taken over in a five-point-seven-billion-pound deal by the American firm Apollo, after a rival bidder dropped out."
+        }
+      },
+      "picture_prompt": "a clear photo of delist: To remove a company's shares from a stock exchange."
     },
     {
+      "id": "withdraw",
       "en": "withdraw",
-      "pos": "verb",
-      "def_en": "To stop taking part in something or to pull back.",
-      "example_en": "The British airline EasyJet has agreed to be taken over in a five-point-seven-billion-pound deal by the American firm Apollo, after a rival bidder dropped out.",
-      "sense_note": ""
+      "ko": "To stop taking part in something or to pull back.",
+      "l1": {
+        "en": "To stop taking part in something or to pull back."
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "To stop taking part in something or to pull back."
+        },
+        "example": {
+          "en": "The British airline EasyJet has agreed to be taken over in a five-point-seven-billion-pound deal by the American firm Apollo, after a rival bidder dropped out."
+        }
+      },
+      "picture_prompt": "a clear photo of withdraw: To stop taking part in something or to pull back."
     },
     {
+      "id": "carrier",
       "en": "carrier",
-      "pos": "noun",
-      "def_en": "A company that transports people or goods",
-      "example_en": "The takeover was agreed after Castlelake, an American investment firm that had made a series of offers for the carrier, said it was withdrawing from the bid battle.",
-      "sense_note": ""
+      "ko": "A company that transports people or goods",
+      "l1": {
+        "en": "A company that transports people or goods"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A company that transports people or goods"
+        },
+        "example": {
+          "en": "The takeover was agreed after Castlelake, an American investment firm that had made a series of offers for the carrier, said it was withdrawing from the bid battle."
+        }
+      },
+      "picture_prompt": "a clear photo of carrier: A company that transports people or goods"
     }
   ]
 }

@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-09-14",
+  "title": "News 2026-09-14",
   "date": "2026-09-14",
-  "timezone": "KST",
   "headline": "IBM and NASA release an open-source artificial intelligence model to map the Moon",
-  "youtube_title": "IBM and NASA release an open-source artificial intelligence model to map the Moon",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0914.txt",
   "words": [
     {
+      "id": "foundation",
       "en": "foundation",
-      "pos": "noun",
-      "def_en": "The basic idea or base that something is built on",
-      "example_en": "It is one of the first publicly available foundation models built for scientific exploration of the Moon.",
-      "sense_note": ""
+      "ko": "The basic idea or base that something is built on",
+      "l1": {
+        "en": "The basic idea or base that something is built on"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The basic idea or base that something is built on"
+        },
+        "example": {
+          "en": "It is one of the first publicly available foundation models built for scientific exploration of the Moon."
+        }
+      },
+      "picture_prompt": "a clear photo of foundation: The basic idea or base that something is built on"
     },
     {
+      "id": "model",
       "en": "model",
-      "pos": "noun",
-      "def_en": "A computer program that learns patterns from examples",
-      "example_en": "IBM and NASA have released a new open-source artificial intelligence model for studying the Moon.",
-      "sense_note": ""
+      "ko": "A computer program that learns patterns from examples",
+      "l1": {
+        "en": "A computer program that learns patterns from examples"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A computer program that learns patterns from examples"
+        },
+        "example": {
+          "en": "IBM and NASA have released a new open-source artificial intelligence model for studying the Moon."
+        }
+      },
+      "picture_prompt": "a clear photo of model: A computer program that learns patterns from examples"
     },
     {
+      "id": "crater",
       "en": "crater",
-      "pos": "noun",
-      "def_en": "A large round hole in the ground or on a planet",
-      "example_en": "IBM and NASA have released a new open-source artificial intelligence model for studying the Moon.",
-      "sense_note": ""
+      "ko": "A large round hole in the ground or on a planet",
+      "l1": {
+        "en": "A large round hole in the ground or on a planet"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A large round hole in the ground or on a planet"
+        },
+        "example": {
+          "en": "IBM and NASA have released a new open-source artificial intelligence model for studying the Moon."
+        }
+      },
+      "picture_prompt": "a clear photo of crater: A large round hole in the ground or on a planet"
     },
     {
+      "id": "volcanic",
       "en": "volcanic",
-      "pos": "noun",
-      "def_en": "Related to volcanoes and hot melted rock",
-      "example_en": "Over billions of years its surface has collected craters, spread ice into cold shadows, and produced volcanic rock.",
-      "sense_note": ""
+      "ko": "Related to volcanoes and hot melted rock",
+      "l1": {
+        "en": "Related to volcanoes and hot melted rock"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Related to volcanoes and hot melted rock"
+        },
+        "example": {
+          "en": "Over billions of years its surface has collected craters, spread ice into cold shadows, and produced volcanic rock."
+        }
+      },
+      "picture_prompt": "a clear photo of volcanic: Related to volcanoes and hot melted rock"
     },
     {
+      "id": "satellite",
       "en": "satellite",
-      "pos": "noun",
-      "def_en": "A machine that travels around a planet in space",
-      "example_en": "IBM and NASA have released a new open-source artificial intelligence model for studying the Moon.",
-      "sense_note": ""
+      "ko": "A machine that travels around a planet in space",
+      "l1": {
+        "en": "A machine that travels around a planet in space"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A machine that travels around a planet in space"
+        },
+        "example": {
+          "en": "IBM and NASA have released a new open-source artificial intelligence model for studying the Moon."
+        }
+      },
+      "picture_prompt": "a clear photo of satellite: A machine that travels around a planet in space"
     },
     {
+      "id": "dataset",
       "en": "dataset",
-      "pos": "noun",
-      "def_en": "A large organized collection of information",
-      "example_en": "The team also shared the first open lunar dataset of its kind, bringing together more than thirty aligned layers from nine instruments across four missions, including data from the Japanese Kaguya spacecraft.",
-      "sense_note": ""
+      "ko": "A large organized collection of information",
+      "l1": {
+        "en": "A large organized collection of information"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A large organized collection of information"
+        },
+        "example": {
+          "en": "The team also shared the first open lunar dataset of its kind, bringing together more than thirty aligned layers from nine instruments across four missions, including data from the Japanese Kaguya spacecraft."
+        }
+      },
+      "picture_prompt": "a clear photo of dataset: A large organized collection of information"
     },
     {
+      "id": "mission",
       "en": "mission",
-      "pos": "noun",
-      "def_en": "An important planned job or trip into space",
-      "example_en": "IBM and NASA have released a new open-source artificial intelligence model for studying the Moon.",
-      "sense_note": ""
+      "ko": "An important planned job or trip into space",
+      "l1": {
+        "en": "An important planned job or trip into space"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "An important planned job or trip into space"
+        },
+        "example": {
+          "en": "IBM and NASA have released a new open-source artificial intelligence model for studying the Moon."
+        }
+      },
+      "picture_prompt": "a clear photo of mission: An important planned job or trip into space"
     },
     {
+      "id": "surface",
       "en": "surface",
-      "pos": "noun",
-      "def_en": "The outside or top layer of something",
-      "example_en": "The model was trained on decades of lunar observations collected by many different instruments, and it helps researchers turn a huge amount of data into clear scientific answers about the surface of the Moon.",
-      "sense_note": ""
+      "ko": "The outside or top layer of something",
+      "l1": {
+        "en": "The outside or top layer of something"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The outside or top layer of something"
+        },
+        "example": {
+          "en": "The model was trained on decades of lunar observations collected by many different instruments, and it helps researchers turn a huge amount of data into clear scientific answers about the surface of the Moon."
+        }
+      },
+      "picture_prompt": "a clear photo of surface: The outside or top layer of something"
     },
     {
+      "id": "resolution",
       "en": "resolution",
-      "pos": "noun",
-      "def_en": "How much small detail an image or screen shows",
-      "example_en": "IBM and NASA have released a new open-source artificial intelligence model for studying the Moon.",
-      "sense_note": ""
+      "ko": "How much small detail an image or screen shows",
+      "l1": {
+        "en": "How much small detail an image or screen shows"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "How much small detail an image or screen shows"
+        },
+        "example": {
+          "en": "IBM and NASA have released a new open-source artificial intelligence model for studying the Moon."
+        }
+      },
+      "picture_prompt": "a clear photo of resolution: How much small detail an image or screen shows"
     },
     {
+      "id": "discover",
       "en": "discover",
-      "pos": "verb",
-      "def_en": "To find something that was not known before",
-      "example_en": "IBM and NASA have released a new open-source artificial intelligence model for studying the Moon.",
-      "sense_note": ""
+      "ko": "To find something that was not known before",
+      "l1": {
+        "en": "To find something that was not known before"
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "To find something that was not known before"
+        },
+        "example": {
+          "en": "IBM and NASA have released a new open-source artificial intelligence model for studying the Moon."
+        }
+      },
+      "picture_prompt": "a clear photo of discover: To find something that was not known before"
     }
   ]
 }

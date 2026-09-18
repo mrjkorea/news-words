@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-08-03",
+  "title": "News 2026-08-03",
   "date": "2026-08-03",
-  "timezone": "KST",
   "headline": "2026 08 03",
-  "youtube_title": "2026 08 03",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0803.txt",
   "words": [
     {
+      "id": "enclave",
       "en": "enclave",
-      "pos": "noun",
-      "def_en": "A part of a country that is completely surrounded by another country.",
-      "example_en": "Spain said it reversed a huge rush of migrants into Ceuta, its Spanish enclave in North Africa.",
-      "sense_note": ""
+      "ko": "A part of a country that is completely surrounded by another country.",
+      "l1": {
+        "en": "A part of a country that is completely surrounded by another country."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A part of a country that is completely surrounded by another country."
+        },
+        "example": {
+          "en": "Spain said it reversed a huge rush of migrants into Ceuta, its Spanish enclave in North Africa."
+        }
+      },
+      "picture_prompt": "a clear photo of enclave: A part of a country that is completely surrounded by another country."
     },
     {
+      "id": "migrant",
       "en": "migrant",
-      "pos": "noun",
-      "def_en": "A person who moves from one place to another often to find work or better conditions.",
-      "example_en": "Spain said it reversed a huge rush of migrants into Ceuta, its Spanish enclave in North Africa.",
-      "sense_note": ""
+      "ko": "A person who moves from one place to another often to find work or better conditions.",
+      "l1": {
+        "en": "A person who moves from one place to another often to find work or better conditions."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A person who moves from one place to another often to find work or better conditions."
+        },
+        "example": {
+          "en": "Spain said it reversed a huge rush of migrants into Ceuta, its Spanish enclave in North Africa."
+        }
+      },
+      "picture_prompt": "a clear photo of migrant: A person who moves from one place to another often to find work or better con..."
     },
     {
+      "id": "border",
       "en": "border",
-      "pos": "noun",
-      "def_en": "The official line that separates two countries or regions.",
-      "example_en": "Most of the more than fifty thousand people who crossed the border by land and sea were already heading back voluntarily.",
-      "sense_note": ""
+      "ko": "The official line that separates two countries or regions.",
+      "l1": {
+        "en": "The official line that separates two countries or regions."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The official line that separates two countries or regions."
+        },
+        "example": {
+          "en": "Most of the more than fifty thousand people who crossed the border by land and sea were already heading back voluntarily."
+        }
+      },
+      "picture_prompt": "a clear photo of border: The official line that separates two countries or regions."
     },
     {
+      "id": "sovereignty",
       "en": "sovereignty",
-      "pos": "noun",
-      "def_en": "The full right and power of a country to govern itself.",
-      "example_en": "He called the mass crossing a violation of Spain's territorial sovereignty and said authorities were speeding up the repatriation of those who had entered illegally, with full cooperation from Morocco.",
-      "sense_note": ""
+      "ko": "The full right and power of a country to govern itself.",
+      "l1": {
+        "en": "The full right and power of a country to govern itself."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The full right and power of a country to govern itself."
+        },
+        "example": {
+          "en": "He called the mass crossing a violation of Spain's territorial sovereignty and said authorities were speeding up the repatriation of those who had entered illegally, with full cooperation from Morocco."
+        }
+      },
+      "picture_prompt": "a clear photo of sovereignty: The full right and power of a country to govern itself."
     },
     {
+      "id": "surge",
       "en": "surge",
-      "pos": "noun",
-      "def_en": "A sudden powerful forward movement or increase.",
-      "example_en": "Spain said it reversed a huge rush of migrants into Ceuta, its Spanish enclave in North Africa.",
-      "sense_note": ""
+      "ko": "A sudden powerful forward movement or increase.",
+      "l1": {
+        "en": "A sudden powerful forward movement or increase."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A sudden powerful forward movement or increase."
+        },
+        "example": {
+          "en": "Spain said it reversed a huge rush of migrants into Ceuta, its Spanish enclave in North Africa."
+        }
+      },
+      "picture_prompt": "a clear photo of surge: A sudden powerful forward movement or increase."
     },
     {
+      "id": "repatriation",
       "en": "repatriation",
-      "pos": "verb",
-      "def_en": "The act of sending someone back to their own country.",
-      "example_en": "He called the mass crossing a violation of Spain's territorial sovereignty and said authorities were speeding up the repatriation of those who had entered illegally, with full cooperation from Morocco.",
-      "sense_note": ""
+      "ko": "The act of sending someone back to their own country.",
+      "l1": {
+        "en": "The act of sending someone back to their own country."
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "The act of sending someone back to their own country."
+        },
+        "example": {
+          "en": "He called the mass crossing a violation of Spain's territorial sovereignty and said authorities were speeding up the repatriation of those who had entered illegally, with full cooperation from Morocco."
+        }
+      },
+      "picture_prompt": "a clear photo of repatriation: The act of sending someone back to their own country."
     },
     {
+      "id": "territory",
       "en": "territory",
-      "pos": "noun",
-      "def_en": "Land that is controlled by a particular country or ruler.",
-      "example_en": "Moroccan forces beat back crowds with batons and tear gas at the gates to Ceuta, trying to prevent more people from entering the tiny Spanish territory.",
-      "sense_note": ""
+      "ko": "Land that is controlled by a particular country or ruler.",
+      "l1": {
+        "en": "Land that is controlled by a particular country or ruler."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Land that is controlled by a particular country or ruler."
+        },
+        "example": {
+          "en": "Moroccan forces beat back crowds with batons and tear gas at the gates to Ceuta, trying to prevent more people from entering the tiny Spanish territory."
+        }
+      },
+      "picture_prompt": "a clear photo of territory: Land that is controlled by a particular country or ruler."
     },
     {
+      "id": "crush",
       "en": "crush",
-      "pos": "verb",
-      "def_en": "To press something so hard that it breaks or is damaged.",
-      "example_en": "Spain said it reversed a huge rush of migrants into Ceuta, its Spanish enclave in North Africa.",
-      "sense_note": ""
+      "ko": "To press something so hard that it breaks or is damaged.",
+      "l1": {
+        "en": "To press something so hard that it breaks or is damaged."
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "To press something so hard that it breaks or is damaged."
+        },
+        "example": {
+          "en": "Spain said it reversed a huge rush of migrants into Ceuta, its Spanish enclave in North Africa."
+        }
+      },
+      "picture_prompt": "a clear photo of crush: To press something so hard that it breaks or is damaged."
     },
     {
+      "id": "violate",
       "en": "violate",
-      "pos": "verb",
-      "def_en": "To break a rule law or agreement.",
-      "example_en": "Spain said it reversed a huge rush of migrants into Ceuta, its Spanish enclave in North Africa.",
-      "sense_note": ""
+      "ko": "To break a rule law or agreement.",
+      "l1": {
+        "en": "To break a rule law or agreement."
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "To break a rule law or agreement."
+        },
+        "example": {
+          "en": "Spain said it reversed a huge rush of migrants into Ceuta, its Spanish enclave in North Africa."
+        }
+      },
+      "picture_prompt": "a clear photo of violate: To break a rule law or agreement."
     },
     {
+      "id": "voluntary",
       "en": "voluntary",
-      "pos": "noun",
-      "def_en": "Done willingly without being forced.",
-      "example_en": "Spain said it reversed a huge rush of migrants into Ceuta, its Spanish enclave in North Africa.",
-      "sense_note": ""
+      "ko": "Done willingly without being forced.",
+      "l1": {
+        "en": "Done willingly without being forced."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Done willingly without being forced."
+        },
+        "example": {
+          "en": "Spain said it reversed a huge rush of migrants into Ceuta, its Spanish enclave in North Africa."
+        }
+      },
+      "picture_prompt": "a clear photo of voluntary: Done willingly without being forced."
     }
   ]
 }

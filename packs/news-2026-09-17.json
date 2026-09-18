@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-09-17",
+  "title": "News 2026-09-17",
   "date": "2026-09-17",
-  "timezone": "KST",
   "headline": "The first World Athletics Ultimate Championship in Budapest pays out a record prize pot",
-  "youtube_title": "The first World Athletics Ultimate Championship in Budapest pays out a record prize pot",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0917.txt",
   "words": [
     {
+      "id": "championship",
       "en": "championship",
-      "pos": "noun",
-      "def_en": "An important competition to find the best competitor",
-      "example_en": "Budapest in Hungary hosted the first ever World Athletics Ultimate Championship from the eleventh to the thirteenth of September.",
-      "sense_note": ""
+      "ko": "An important competition to find the best competitor",
+      "l1": {
+        "en": "An important competition to find the best competitor"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "An important competition to find the best competitor"
+        },
+        "example": {
+          "en": "Budapest in Hungary hosted the first ever World Athletics Ultimate Championship from the eleventh to the thirteenth of September."
+        }
+      },
+      "picture_prompt": "a clear photo of championship: An important competition to find the best competitor"
     },
     {
+      "id": "athletics",
       "en": "athletics",
-      "pos": "noun",
-      "def_en": "The sports of running jumping and throwing",
-      "example_en": "Budapest in Hungary hosted the first ever World Athletics Ultimate Championship from the eleventh to the thirteenth of September.",
-      "sense_note": ""
+      "ko": "The sports of running jumping and throwing",
+      "l1": {
+        "en": "The sports of running jumping and throwing"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The sports of running jumping and throwing"
+        },
+        "example": {
+          "en": "Budapest in Hungary hosted the first ever World Athletics Ultimate Championship from the eleventh to the thirteenth of September."
+        }
+      },
+      "picture_prompt": "a clear photo of athletics: The sports of running jumping and throwing"
     },
     {
+      "id": "hurdles",
       "en": "hurdles",
-      "pos": "noun",
-      "def_en": "Races in which runners jump over barriers",
-      "example_en": "The short hurdles races produced two close finishes.",
-      "sense_note": ""
+      "ko": "Races in which runners jump over barriers",
+      "l1": {
+        "en": "Races in which runners jump over barriers"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Races in which runners jump over barriers"
+        },
+        "example": {
+          "en": "The short hurdles races produced two close finishes."
+        }
+      },
+      "picture_prompt": "a clear photo of hurdles: Races in which runners jump over barriers"
     },
     {
+      "id": "vault",
       "en": "vault",
-      "pos": "verb",
-      "def_en": "The act of jumping over something using a pole or your hands",
-      "example_en": "Sweden's Armand Duplantis, known to fans as Mondo, won the men's pole vault by clearing six point two metres, ahead of Greek rival Emmanouil Karalis.",
-      "sense_note": ""
+      "ko": "The act of jumping over something using a pole or your hands",
+      "l1": {
+        "en": "The act of jumping over something using a pole or your hands"
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "The act of jumping over something using a pole or your hands"
+        },
+        "example": {
+          "en": "Sweden's Armand Duplantis, known to fans as Mondo, won the men's pole vault by clearing six point two metres, ahead of Greek rival Emmanouil Karalis."
+        }
+      },
+      "picture_prompt": "a clear photo of vault: The act of jumping over something using a pole or your hands"
     },
     {
+      "id": "sprint",
       "en": "sprint",
-      "pos": "noun",
-      "def_en": "A short race run at top speed",
-      "example_en": "American Melissa Jefferson-Wooden ran ten point six two seconds to win the women's one hundred metres, and her teammate Kenny Bednarek took the men's sprint in an upset.",
-      "sense_note": ""
+      "ko": "A short race run at top speed",
+      "l1": {
+        "en": "A short race run at top speed"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A short race run at top speed"
+        },
+        "example": {
+          "en": "American Melissa Jefferson-Wooden ran ten point six two seconds to win the women's one hundred metres, and her teammate Kenny Bednarek took the men's sprint in an upset."
+        }
+      },
+      "picture_prompt": "a clear photo of sprint: A short race run at top speed"
     },
     {
+      "id": "medal",
       "en": "medal",
-      "pos": "noun",
-      "def_en": "A metal award given to top competitors",
-      "example_en": "Budapest in Hungary hosted the first ever World Athletics Ultimate Championship from the eleventh to the thirteenth of September.",
-      "sense_note": ""
+      "ko": "A metal award given to top competitors",
+      "l1": {
+        "en": "A metal award given to top competitors"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A metal award given to top competitors"
+        },
+        "example": {
+          "en": "Budapest in Hungary hosted the first ever World Athletics Ultimate Championship from the eleventh to the thirteenth of September."
+        }
+      },
+      "picture_prompt": "a clear photo of medal: A metal award given to top competitors"
     },
     {
+      "id": "prize",
       "en": "prize",
-      "pos": "noun",
-      "def_en": "Something valuable given to a winner",
-      "example_en": "Organizers offered a record ten million dollars in prize money across twenty-eight disciplines, and every event winner received one hundred and fifty thousand dollars.",
-      "sense_note": ""
+      "ko": "Something valuable given to a winner",
+      "l1": {
+        "en": "Something valuable given to a winner"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Something valuable given to a winner"
+        },
+        "example": {
+          "en": "Organizers offered a record ten million dollars in prize money across twenty-eight disciplines, and every event winner received one hundred and fifty thousand dollars."
+        }
+      },
+      "picture_prompt": "a clear photo of prize: Something valuable given to a winner"
     },
     {
+      "id": "record",
       "en": "record",
-      "pos": "noun",
-      "def_en": "The best result ever achieved in a sport",
-      "example_en": "Organizers offered a record ten million dollars in prize money across twenty-eight disciplines, and every event winner received one hundred and fifty thousand dollars.",
-      "sense_note": ""
+      "ko": "The best result ever achieved in a sport",
+      "l1": {
+        "en": "The best result ever achieved in a sport"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The best result ever achieved in a sport"
+        },
+        "example": {
+          "en": "Organizers offered a record ten million dollars in prize money across twenty-eight disciplines, and every event winner received one hundred and fifty thousand dollars."
+        }
+      },
+      "picture_prompt": "a clear photo of record: The best result ever achieved in a sport"
     },
     {
+      "id": "injury",
       "en": "injury",
-      "pos": "noun",
-      "def_en": "Physical harm to the body",
-      "example_en": "Budapest in Hungary hosted the first ever World Athletics Ultimate Championship from the eleventh to the thirteenth of September.",
-      "sense_note": ""
+      "ko": "Physical harm to the body",
+      "l1": {
+        "en": "Physical harm to the body"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Physical harm to the body"
+        },
+        "example": {
+          "en": "Budapest in Hungary hosted the first ever World Athletics Ultimate Championship from the eleventh to the thirteenth of September."
+        }
+      },
+      "picture_prompt": "a clear photo of injury: Physical harm to the body"
     },
     {
+      "id": "stadium",
       "en": "stadium",
-      "pos": "noun",
-      "def_en": "A large sports ground with seats for spectators",
-      "example_en": "Budapest in Hungary hosted the first ever World Athletics Ultimate Championship from the eleventh to the thirteenth of September.",
-      "sense_note": ""
+      "ko": "A large sports ground with seats for spectators",
+      "l1": {
+        "en": "A large sports ground with seats for spectators"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A large sports ground with seats for spectators"
+        },
+        "example": {
+          "en": "Budapest in Hungary hosted the first ever World Athletics Ultimate Championship from the eleventh to the thirteenth of September."
+        }
+      },
+      "picture_prompt": "a clear photo of stadium: A large sports ground with seats for spectators"
     }
   ]
 }

@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-07-09",
+  "title": "News 2026-07-09",
   "date": "2026-07-09",
-  "timezone": "KST",
   "headline": "South Korea’s New “Fake News” Law Raises Press Freedom Concerns",
-  "youtube_title": "South Korea’s New “Fake News” Law Raises Press Freedom Concerns",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0709.txt",
   "words": [
     {
+      "id": "uranium",
       "en": "uranium",
-      "pos": "noun",
-      "def_en": "A heavy metal used as fuel for nuclear power.",
-      "example_en": "Today's news uses the word uranium.",
-      "sense_note": ""
+      "ko": "A heavy metal used as fuel for nuclear power.",
+      "l1": {
+        "en": "A heavy metal used as fuel for nuclear power."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A heavy metal used as fuel for nuclear power."
+        },
+        "example": {
+          "en": "Today's news uses the word uranium."
+        }
+      },
+      "picture_prompt": "a clear photo of uranium: A heavy metal used as fuel for nuclear power."
     },
     {
+      "id": "export",
       "en": "export",
-      "pos": "verb",
-      "def_en": "To send goods to another country for sale or use.",
-      "example_en": "Today's news uses the word export.",
-      "sense_note": ""
+      "ko": "To send goods to another country for sale or use.",
+      "l1": {
+        "en": "To send goods to another country for sale or use."
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "To send goods to another country for sale or use."
+        },
+        "example": {
+          "en": "Today's news uses the word export."
+        }
+      },
+      "picture_prompt": "a clear photo of export: To send goods to another country for sale or use."
     },
     {
+      "id": "nuclear",
       "en": "nuclear",
-      "pos": "noun",
-      "def_en": "Related to energy released from the center of atoms.",
-      "example_en": "Today's news uses the word nuclear.",
-      "sense_note": ""
+      "ko": "Related to energy released from the center of atoms.",
+      "l1": {
+        "en": "Related to energy released from the center of atoms."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Related to energy released from the center of atoms."
+        },
+        "example": {
+          "en": "Today's news uses the word nuclear."
+        }
+      },
+      "picture_prompt": "a clear photo of nuclear: Related to energy released from the center of atoms."
     },
     {
+      "id": "renewables",
       "en": "renewables",
-      "pos": "noun",
-      "def_en": "Energy sources that can be naturally replaced such as wind or solar power.",
-      "example_en": "Today's news uses the word renewables.",
-      "sense_note": ""
+      "ko": "Energy sources that can be naturally replaced such as wind or solar power.",
+      "l1": {
+        "en": "Energy sources that can be naturally replaced such as wind or solar power."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Energy sources that can be naturally replaced such as wind or solar power."
+        },
+        "example": {
+          "en": "Today's news uses the word renewables."
+        }
+      },
+      "picture_prompt": "a clear photo of renewables: Energy sources that can be naturally replaced such as wind or solar power."
     },
     {
+      "id": "minerals",
       "en": "minerals",
-      "pos": "noun",
-      "def_en": "Natural substances found in rocks or the ground.",
-      "example_en": "Today's news uses the word minerals.",
-      "sense_note": ""
+      "ko": "Natural substances found in rocks or the ground.",
+      "l1": {
+        "en": "Natural substances found in rocks or the ground."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Natural substances found in rocks or the ground."
+        },
+        "example": {
+          "en": "Today's news uses the word minerals."
+        }
+      },
+      "picture_prompt": "a clear photo of minerals: Natural substances found in rocks or the ground."
     },
     {
+      "id": "cooperation",
       "en": "cooperation",
-      "pos": "noun",
-      "def_en": "Working together toward a shared goal.",
-      "example_en": "Today's news uses the word cooperation.",
-      "sense_note": ""
+      "ko": "Working together toward a shared goal.",
+      "l1": {
+        "en": "Working together toward a shared goal."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Working together toward a shared goal."
+        },
+        "example": {
+          "en": "Today's news uses the word cooperation."
+        }
+      },
+      "picture_prompt": "a clear photo of cooperation: Working together toward a shared goal."
     },
     {
+      "id": "infrastructure",
       "en": "infrastructure",
-      "pos": "noun",
-      "def_en": "Basic systems a country or city needs such as roads ports railways and power systems.",
-      "example_en": "Today's news uses the word infrastructure.",
-      "sense_note": ""
+      "ko": "Basic systems a country or city needs such as roads ports railways and power systems.",
+      "l1": {
+        "en": "Basic systems a country or city needs such as roads ports railways and power systems."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Basic systems a country or city needs such as roads ports railways and power systems."
+        },
+        "example": {
+          "en": "Today's news uses the word infrastructure."
+        }
+      },
+      "picture_prompt": "a clear photo of infrastructure: Basic systems a country or city needs such as roads ports railways and power ..."
     },
     {
+      "id": "investment",
       "en": "investment",
-      "pos": "noun",
-      "def_en": "Money put into a project business or country with hope of future benefit.",
-      "example_en": "Today's news uses the word investment.",
-      "sense_note": ""
+      "ko": "Money put into a project business or country with hope of future benefit.",
+      "l1": {
+        "en": "Money put into a project business or country with hope of future benefit."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Money put into a project business or country with hope of future benefit."
+        },
+        "example": {
+          "en": "Today's news uses the word investment."
+        }
+      },
+      "picture_prompt": "a clear photo of investment: Money put into a project business or country with hope of future benefit."
     },
     {
+      "id": "diversify",
       "en": "diversify",
-      "pos": "verb",
-      "def_en": "To add variety or reduce risk by not depending on only one thing.",
-      "example_en": "Today's news uses the word diversify.",
-      "sense_note": ""
+      "ko": "To add variety or reduce risk by not depending on only one thing.",
+      "l1": {
+        "en": "To add variety or reduce risk by not depending on only one thing."
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "To add variety or reduce risk by not depending on only one thing."
+        },
+        "example": {
+          "en": "Today's news uses the word diversify."
+        }
+      },
+      "picture_prompt": "a clear photo of diversify: To add variety or reduce risk by not depending on only one thing."
     },
     {
+      "id": "transition",
       "en": "transition",
-      "pos": "noun",
-      "def_en": "A change from one state system or way of doing things to another.",
-      "example_en": "Today's news uses the word transition.",
-      "sense_note": ""
+      "ko": "A change from one state system or way of doing things to another.",
+      "l1": {
+        "en": "A change from one state system or way of doing things to another."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A change from one state system or way of doing things to another."
+        },
+        "example": {
+          "en": "Today's news uses the word transition."
+        }
+      },
+      "picture_prompt": "a clear photo of transition: A change from one state system or way of doing things to another."
     }
   ]
 }

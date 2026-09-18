@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-09-16",
+  "title": "News 2026-09-16",
   "date": "2026-09-16",
-  "timezone": "KST",
   "headline": "A drug designed by artificial intelligence reverses biological age in a clinical study",
-  "youtube_title": "A drug designed by artificial intelligence reverses biological age in a clinical study",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0916.txt",
   "words": [
     {
+      "id": "biological",
       "en": "biological",
-      "pos": "noun",
-      "def_en": "Related to living things and life processes",
-      "example_en": "Here, both the biological target, a protein called TNIK that is linked to aging and to fibrosis, and the molecule itself came from generative artificial intelligence.",
-      "sense_note": ""
+      "ko": "Related to living things and life processes",
+      "l1": {
+        "en": "Related to living things and life processes"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Related to living things and life processes"
+        },
+        "example": {
+          "en": "Here, both the biological target, a protein called TNIK that is linked to aging and to fibrosis, and the molecule itself came from generative artificial intelligence."
+        }
+      },
+      "picture_prompt": "a clear photo of biological: Related to living things and life processes"
     },
     {
+      "id": "protein",
       "en": "protein",
-      "pos": "noun",
-      "def_en": "A substance in the body that builds and controls cells",
-      "example_en": "They studied more than two thousand eight hundred proteins and applied six different protein-based aging clocks, each one built by a separate group of scientists.",
-      "sense_note": ""
+      "ko": "A substance in the body that builds and controls cells",
+      "l1": {
+        "en": "A substance in the body that builds and controls cells"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A substance in the body that builds and controls cells"
+        },
+        "example": {
+          "en": "They studied more than two thousand eight hundred proteins and applied six different protein-based aging clocks, each one built by a separate group of scientists."
+        }
+      },
+      "picture_prompt": "a clear photo of protein: A substance in the body that builds and controls cells"
     },
     {
+      "id": "trial",
       "en": "trial",
-      "pos": "noun",
-      "def_en": "A test of a new medicine in people",
-      "example_en": "To measure aging, the researchers used blood samples from forty-two people who took part in an earlier mid-stage trial.",
-      "sense_note": ""
+      "ko": "A test of a new medicine in people",
+      "l1": {
+        "en": "A test of a new medicine in people"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A test of a new medicine in people"
+        },
+        "example": {
+          "en": "To measure aging, the researchers used blood samples from forty-two people who took part in an earlier mid-stage trial."
+        }
+      },
+      "picture_prompt": "a clear photo of trial: A test of a new medicine in people"
     },
     {
+      "id": "aging",
       "en": "aging",
-      "pos": "verb",
-      "def_en": "The process of growing older",
-      "example_en": "A drug that was designed with artificial intelligence may be able to slow part of the aging process, according to a new clinical study.",
-      "sense_note": ""
+      "ko": "The process of growing older",
+      "l1": {
+        "en": "The process of growing older"
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "The process of growing older"
+        },
+        "example": {
+          "en": "A drug that was designed with artificial intelligence may be able to slow part of the aging process, according to a new clinical study."
+        }
+      },
+      "picture_prompt": "a clear photo of aging: The process of growing older"
     },
     {
+      "id": "molecule",
       "en": "molecule",
-      "pos": "noun",
-      "def_en": "A very small group of atoms joined together",
-      "example_en": "Here, both the biological target, a protein called TNIK that is linked to aging and to fibrosis, and the molecule itself came from generative artificial intelligence.",
-      "sense_note": ""
+      "ko": "A very small group of atoms joined together",
+      "l1": {
+        "en": "A very small group of atoms joined together"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A very small group of atoms joined together"
+        },
+        "example": {
+          "en": "Here, both the biological target, a protein called TNIK that is linked to aging and to fibrosis, and the molecule itself came from generative artificial intelligence."
+        }
+      },
+      "picture_prompt": "a clear photo of molecule: A very small group of atoms joined together"
     },
     {
+      "id": "reverse",
       "en": "reverse",
-      "pos": "verb",
-      "def_en": "To change something back to an earlier state",
-      "example_en": "A drug that was designed with artificial intelligence may be able to slow part of the aging process, according to a new clinical study.",
-      "sense_note": ""
+      "ko": "To change something back to an earlier state",
+      "l1": {
+        "en": "To change something back to an earlier state"
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "To change something back to an earlier state"
+        },
+        "example": {
+          "en": "A drug that was designed with artificial intelligence may be able to slow part of the aging process, according to a new clinical study."
+        }
+      },
+      "picture_prompt": "a clear photo of reverse: To change something back to an earlier state"
     },
     {
+      "id": "biomarker",
       "en": "biomarker",
-      "pos": "noun",
-      "def_en": "A measurable sign of what is happening in the body",
-      "example_en": "A drug that was designed with artificial intelligence may be able to slow part of the aging process, according to a new clinical study.",
-      "sense_note": ""
+      "ko": "A measurable sign of what is happening in the body",
+      "l1": {
+        "en": "A measurable sign of what is happening in the body"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A measurable sign of what is happening in the body"
+        },
+        "example": {
+          "en": "A drug that was designed with artificial intelligence may be able to slow part of the aging process, according to a new clinical study."
+        }
+      },
+      "picture_prompt": "a clear photo of biomarker: A measurable sign of what is happening in the body"
     },
     {
+      "id": "patient",
       "en": "patient",
-      "pos": "noun",
-      "def_en": "A person who receives medical care",
-      "example_en": "A drug that was designed with artificial intelligence may be able to slow part of the aging process, according to a new clinical study.",
-      "sense_note": ""
+      "ko": "A person who receives medical care",
+      "l1": {
+        "en": "A person who receives medical care"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A person who receives medical care"
+        },
+        "example": {
+          "en": "A drug that was designed with artificial intelligence may be able to slow part of the aging process, according to a new clinical study."
+        }
+      },
+      "picture_prompt": "a clear photo of patient: A person who receives medical care"
     },
     {
+      "id": "dose",
       "en": "dose",
-      "pos": "noun",
-      "def_en": "The measured amount of medicine taken at one time",
-      "example_en": "In the trial, lung function improved in the treated group while it dropped in the placebo group, and the effect grew as the dose increased.",
-      "sense_note": ""
+      "ko": "The measured amount of medicine taken at one time",
+      "l1": {
+        "en": "The measured amount of medicine taken at one time"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The measured amount of medicine taken at one time"
+        },
+        "example": {
+          "en": "In the trial, lung function improved in the treated group while it dropped in the placebo group, and the effect grew as the dose increased."
+        }
+      },
+      "picture_prompt": "a clear photo of dose: The measured amount of medicine taken at one time"
     },
     {
+      "id": "clock",
       "en": "clock",
-      "pos": "noun",
-      "def_en": "A device that measures and shows time",
-      "example_en": "A drug that was designed with artificial intelligence may be able to slow part of the aging process, according to a new clinical study.",
-      "sense_note": ""
+      "ko": "A device that measures and shows time",
+      "l1": {
+        "en": "A device that measures and shows time"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A device that measures and shows time"
+        },
+        "example": {
+          "en": "A drug that was designed with artificial intelligence may be able to slow part of the aging process, according to a new clinical study."
+        }
+      },
+      "picture_prompt": "a clear photo of clock: A device that measures and shows time"
     }
   ]
 }

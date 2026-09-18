@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-06-26",
+  "title": "News 2026-06-26",
   "date": "2026-06-26",
-  "timezone": "KST",
   "headline": "2026 06 26",
-  "youtube_title": "2026 06 26",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0626.txt",
   "words": [
     {
+      "id": "ancient",
       "en": "ancient",
-      "pos": "adjective",
-      "def_en": "very old; from a long time ago",
-      "example_en": "Today's news uses the word ancient.",
-      "sense_note": ""
+      "ko": "very old; from a long time ago",
+      "l1": {
+        "en": "very old; from a long time ago"
+      },
+      "ww": {
+        "pos": "adj",
+        "def": {
+          "en": "very old; from a long time ago"
+        },
+        "example": {
+          "en": "Today's news uses the word ancient."
+        }
+      },
+      "picture_prompt": "a clear photo of ancient: very old; from a long time ago"
     },
     {
+      "id": "charcoal",
       "en": "charcoal",
-      "pos": "noun",
-      "def_en": "black carbon material made from burned wood",
-      "example_en": "Today's news uses the word charcoal.",
-      "sense_note": ""
+      "ko": "black carbon material made from burned wood",
+      "l1": {
+        "en": "black carbon material made from burned wood"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "black carbon material made from burned wood"
+        },
+        "example": {
+          "en": "Today's news uses the word charcoal."
+        }
+      },
+      "picture_prompt": "a clear photo of charcoal: black carbon material made from burned wood"
     },
     {
+      "id": "pigment",
       "en": "pigment",
-      "pos": "noun",
-      "def_en": "a substance that gives color to paint or material",
-      "example_en": "Today's news uses the word pigment.",
-      "sense_note": ""
+      "ko": "a substance that gives color to paint or material",
+      "l1": {
+        "en": "a substance that gives color to paint or material"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "a substance that gives color to paint or material"
+        },
+        "example": {
+          "en": "Today's news uses the word pigment."
+        }
+      },
+      "picture_prompt": "a clear photo of pigment: a substance that gives color to paint or material"
     },
     {
+      "id": "radiocarbon",
       "en": "radiocarbon",
-      "pos": "noun",
-      "def_en": "carbon-14 used for dating ancient organic material",
-      "example_en": "Today's news uses the word radiocarbon.",
-      "sense_note": ""
+      "ko": "carbon-14 used for dating ancient organic material",
+      "l1": {
+        "en": "carbon-14 used for dating ancient organic material"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "carbon-14 used for dating ancient organic material"
+        },
+        "example": {
+          "en": "Today's news uses the word radiocarbon."
+        }
+      },
+      "picture_prompt": "a clear photo of radiocarbon: carbon-14 used for dating ancient organic material"
     },
     {
+      "id": "spectrometry",
       "en": "spectrometry",
-      "pos": "noun",
-      "def_en": "technique that measures light to identify materials",
-      "example_en": "Today's news uses the word spectrometry.",
-      "sense_note": ""
+      "ko": "technique that measures light to identify materials",
+      "l1": {
+        "en": "technique that measures light to identify materials"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "technique that measures light to identify materials"
+        },
+        "example": {
+          "en": "Today's news uses the word spectrometry."
+        }
+      },
+      "picture_prompt": "a clear photo of spectrometry: technique that measures light to identify materials"
     },
     {
+      "id": "contamination",
       "en": "contamination",
-      "pos": "noun",
-      "def_en": "the presence of unwanted or foreign material",
-      "example_en": "Today's news uses the word contamination.",
-      "sense_note": ""
+      "ko": "the presence of unwanted or foreign material",
+      "l1": {
+        "en": "the presence of unwanted or foreign material"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "the presence of unwanted or foreign material"
+        },
+        "example": {
+          "en": "Today's news uses the word contamination."
+        }
+      },
+      "picture_prompt": "a clear photo of contamination: the presence of unwanted or foreign material"
     },
     {
+      "id": "chronology",
       "en": "chronology",
-      "pos": "noun",
-      "def_en": "the order or sequence of events in time",
-      "example_en": "Today's news uses the word chronology.",
-      "sense_note": ""
+      "ko": "the order or sequence of events in time",
+      "l1": {
+        "en": "the order or sequence of events in time"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "the order or sequence of events in time"
+        },
+        "example": {
+          "en": "Today's news uses the word chronology."
+        }
+      },
+      "picture_prompt": "a clear photo of chronology: the order or sequence of events in time"
     },
     {
+      "id": "excavation",
       "en": "excavation",
-      "pos": "verb",
-      "def_en": "the process of digging up ancient remains",
-      "example_en": "Today's news uses the word excavation.",
-      "sense_note": ""
+      "ko": "the process of digging up ancient remains",
+      "l1": {
+        "en": "the process of digging up ancient remains"
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "the process of digging up ancient remains"
+        },
+        "example": {
+          "en": "Today's news uses the word excavation."
+        }
+      },
+      "picture_prompt": "a clear photo of excavation: the process of digging up ancient remains"
     },
     {
+      "id": "preservation",
       "en": "preservation",
-      "pos": "noun",
-      "def_en": "keeping something in its original state",
-      "example_en": "Today's news uses the word preservation.",
-      "sense_note": ""
+      "ko": "keeping something in its original state",
+      "l1": {
+        "en": "keeping something in its original state"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "keeping something in its original state"
+        },
+        "example": {
+          "en": "Today's news uses the word preservation."
+        }
+      },
+      "picture_prompt": "a clear photo of preservation: keeping something in its original state"
     },
     {
+      "id": "symbolic",
       "en": "symbolic",
-      "pos": "noun",
-      "def_en": "representing an idea",
-      "example_en": "Today's news uses the word symbolic.",
-      "sense_note": ""
+      "ko": "representing an idea",
+      "l1": {
+        "en": "representing an idea"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "representing an idea"
+        },
+        "example": {
+          "en": "Today's news uses the word symbolic."
+        }
+      },
+      "picture_prompt": "a clear photo of symbolic: representing an idea"
     }
   ]
 }

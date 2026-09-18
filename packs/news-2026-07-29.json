@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-07-29",
+  "title": "News 2026-07-29",
   "date": "2026-07-29",
-  "timezone": "KST",
   "headline": "First room-temperature quantum material sorts light by its quantum statistics",
-  "youtube_title": "First room-temperature quantum material sorts light by its quantum statistics",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0729.txt",
   "words": [
     {
+      "id": "quantum",
       "en": "quantum",
-      "pos": "noun",
-      "def_en": "The smallest possible amount of something",
-      "example_en": "Physicists at Louisiana State University have created the world's first room-temperature quantum material that can sort light by its quantum properties.",
-      "sense_note": ""
+      "ko": "The smallest possible amount of something",
+      "l1": {
+        "en": "The smallest possible amount of something"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The smallest possible amount of something"
+        },
+        "example": {
+          "en": "Physicists at Louisiana State University have created the world's first room-temperature quantum material that can sort light by its quantum properties."
+        }
+      },
+      "picture_prompt": "a clear photo of quantum: The smallest possible amount of something"
     },
     {
+      "id": "photon",
       "en": "photon",
-      "pos": "noun",
-      "def_en": "A single particle of light.",
-      "example_en": "Physicists at Louisiana State University have created the world's first room-temperature quantum material that can sort light by its quantum properties.",
-      "sense_note": ""
+      "ko": "A single particle of light.",
+      "l1": {
+        "en": "A single particle of light."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A single particle of light."
+        },
+        "example": {
+          "en": "Physicists at Louisiana State University have created the world's first room-temperature quantum material that can sort light by its quantum properties."
+        }
+      },
+      "picture_prompt": "a clear photo of photon: A single particle of light."
     },
     {
+      "id": "crystal",
       "en": "crystal",
-      "pos": "noun",
-      "def_en": "A solid substance with a regular",
-      "example_en": "Arranged together, these structures form a crystal unlike anything found in nature.",
-      "sense_note": ""
+      "ko": "A solid substance with a regular",
+      "l1": {
+        "en": "A solid substance with a regular"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A solid substance with a regular"
+        },
+        "example": {
+          "en": "Arranged together, these structures form a crystal unlike anything found in nature."
+        }
+      },
+      "picture_prompt": "a clear photo of crystal: A solid substance with a regular"
     },
     {
+      "id": "artificial",
       "en": "artificial",
-      "pos": "noun",
-      "def_en": "Made by humans rather than occurring in nature.",
-      "example_en": "Each slit acts like an artificial atom.",
-      "sense_note": ""
+      "ko": "Made by humans rather than occurring in nature.",
+      "l1": {
+        "en": "Made by humans rather than occurring in nature."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Made by humans rather than occurring in nature."
+        },
+        "example": {
+          "en": "Each slit acts like an artificial atom."
+        }
+      },
+      "picture_prompt": "a clear photo of artificial: Made by humans rather than occurring in nature."
     },
     {
+      "id": "microscopic",
       "en": "microscopic",
-      "pos": "noun",
-      "def_en": "Extremely small",
-      "example_en": "They coated a glass chip with a thin layer of gold, then used focused ion beams to cut hundreds of microscopic slits into the metal.",
-      "sense_note": ""
+      "ko": "Extremely small",
+      "l1": {
+        "en": "Extremely small"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Extremely small"
+        },
+        "example": {
+          "en": "They coated a glass chip with a thin layer of gold, then used focused ion beams to cut hundreds of microscopic slits into the metal."
+        }
+      },
+      "picture_prompt": "a clear photo of microscopic: Extremely small"
     },
     {
+      "id": "semiconductor",
       "en": "semiconductor",
-      "pos": "noun",
-      "def_en": "A material that can conduct electricity better than an insulator but not as well as a metal.",
-      "example_en": "Physicists at Louisiana State University have created the world's first room-temperature quantum material that can sort light by its quantum properties.",
-      "sense_note": ""
+      "ko": "A material that can conduct electricity better than an insulator but not as well as a metal.",
+      "l1": {
+        "en": "A material that can conduct electricity better than an insulator but not as well as a metal."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A material that can conduct electricity better than an insulator but not as well as a metal."
+        },
+        "example": {
+          "en": "Physicists at Louisiana State University have created the world's first room-temperature quantum material that can sort light by its quantum properties."
+        }
+      },
+      "picture_prompt": "a clear photo of semiconductor: A material that can conduct electricity better than an insulator but not as w..."
     },
     {
+      "id": "statistic",
       "en": "statistic",
-      "pos": "noun",
-      "def_en": "A fact or piece of data expressed in numbers.",
-      "example_en": "Physicists at Louisiana State University have created the world's first room-temperature quantum material that can sort light by its quantum properties.",
-      "sense_note": ""
+      "ko": "A fact or piece of data expressed in numbers.",
+      "l1": {
+        "en": "A fact or piece of data expressed in numbers."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A fact or piece of data expressed in numbers."
+        },
+        "example": {
+          "en": "Physicists at Louisiana State University have created the world's first room-temperature quantum material that can sort light by its quantum properties."
+        }
+      },
+      "picture_prompt": "a clear photo of statistic: A fact or piece of data expressed in numbers."
     },
     {
+      "id": "geometry",
       "en": "geometry",
-      "pos": "noun",
-      "def_en": "The branch of mathematics dealing with shapes",
-      "example_en": "By adjusting the size, geometry, and spacing of the slits, the researchers can control which quantum states of light pass through and which are blocked.",
-      "sense_note": ""
+      "ko": "The branch of mathematics dealing with shapes",
+      "l1": {
+        "en": "The branch of mathematics dealing with shapes"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The branch of mathematics dealing with shapes"
+        },
+        "example": {
+          "en": "By adjusting the size, geometry, and spacing of the slits, the researchers can control which quantum states of light pass through and which are blocked."
+        }
+      },
+      "picture_prompt": "a clear photo of geometry: The branch of mathematics dealing with shapes"
     },
     {
+      "id": "efficient",
       "en": "efficient",
-      "pos": "noun",
-      "def_en": "Working in a way that uses time or resources well without waste.",
-      "example_en": "It could help move fragile quantum information inside quantum computers, support more practical quantum communication networks, and even improve solar cells by guiding light along more efficient pathways.",
-      "sense_note": ""
+      "ko": "Working in a way that uses time or resources well without waste.",
+      "l1": {
+        "en": "Working in a way that uses time or resources well without waste."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Working in a way that uses time or resources well without waste."
+        },
+        "example": {
+          "en": "It could help move fragile quantum information inside quantum computers, support more practical quantum communication networks, and even improve solar cells by guiding light along more efficient pathways."
+        }
+      },
+      "picture_prompt": "a clear photo of efficient: Working in a way that uses time or resources well without waste."
     },
     {
+      "id": "pathway",
       "en": "pathway",
-      "pos": "noun",
-      "def_en": "A route or way that allows movement or progress from one place to another.",
-      "example_en": "Physicists at Louisiana State University have created the world's first room-temperature quantum material that can sort light by its quantum properties.",
-      "sense_note": ""
+      "ko": "A route or way that allows movement or progress from one place to another.",
+      "l1": {
+        "en": "A route or way that allows movement or progress from one place to another."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A route or way that allows movement or progress from one place to another."
+        },
+        "example": {
+          "en": "Physicists at Louisiana State University have created the world's first room-temperature quantum material that can sort light by its quantum properties."
+        }
+      },
+      "picture_prompt": "a clear photo of pathway: A route or way that allows movement or progress from one place to another."
     }
   ]
 }

@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-07-13",
+  "title": "News 2026-07-13",
   "date": "2026-07-13",
-  "timezone": "KST",
   "headline": "2026 07 13",
-  "youtube_title": "2026 07 13",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0713.txt",
   "words": [
     {
+      "id": "missile",
       "en": "missile",
-      "pos": "noun",
-      "def_en": "A weapon that is sent through the air toward a target.",
-      "example_en": "Today's news uses the word missile.",
-      "sense_note": ""
+      "ko": "A weapon that is sent through the air toward a target.",
+      "l1": {
+        "en": "A weapon that is sent through the air toward a target."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A weapon that is sent through the air toward a target."
+        },
+        "example": {
+          "en": "Today's news uses the word missile."
+        }
+      },
+      "picture_prompt": "a clear photo of missile: A weapon that is sent through the air toward a target."
     },
     {
+      "id": "drone",
       "en": "drone",
-      "pos": "noun",
-      "def_en": "An aircraft that is controlled remotely and has no pilot inside.",
-      "example_en": "Today's news uses the word drone.",
-      "sense_note": ""
+      "ko": "An aircraft that is controlled remotely and has no pilot inside.",
+      "l1": {
+        "en": "An aircraft that is controlled remotely and has no pilot inside."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "An aircraft that is controlled remotely and has no pilot inside."
+        },
+        "example": {
+          "en": "Today's news uses the word drone."
+        }
+      },
+      "picture_prompt": "a clear photo of drone: An aircraft that is controlled remotely and has no pilot inside."
     },
     {
+      "id": "escalation",
       "en": "escalation",
-      "pos": "noun",
-      "def_en": "An increase in the seriousness or intensity of a conflict.",
-      "example_en": "Today's news uses the word escalation.",
-      "sense_note": ""
+      "ko": "An increase in the seriousness or intensity of a conflict.",
+      "l1": {
+        "en": "An increase in the seriousness or intensity of a conflict."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "An increase in the seriousness or intensity of a conflict."
+        },
+        "example": {
+          "en": "Today's news uses the word escalation."
+        }
+      },
+      "picture_prompt": "a clear photo of escalation: An increase in the seriousness or intensity of a conflict."
     },
     {
+      "id": "strike",
       "en": "strike",
-      "pos": "noun",
-      "def_en": "An attack; especially by military forces.",
-      "example_en": "Today's news uses the word strike.",
-      "sense_note": ""
+      "ko": "An attack; especially by military forces.",
+      "l1": {
+        "en": "An attack; especially by military forces."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "An attack; especially by military forces."
+        },
+        "example": {
+          "en": "Today's news uses the word strike."
+        }
+      },
+      "picture_prompt": "a clear photo of strike: An attack; especially by military forces."
     },
     {
+      "id": "defence",
       "en": "defence",
-      "pos": "noun",
-      "def_en": "The action or systems used to protect a country or place from attack.",
-      "example_en": "Today's news uses the word defence.",
-      "sense_note": ""
+      "ko": "The action or systems used to protect a country or place from attack.",
+      "l1": {
+        "en": "The action or systems used to protect a country or place from attack."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The action or systems used to protect a country or place from attack."
+        },
+        "example": {
+          "en": "Today's news uses the word defence."
+        }
+      },
+      "picture_prompt": "a clear photo of defence: The action or systems used to protect a country or place from attack."
     },
     {
+      "id": "shrapnel",
       "en": "shrapnel",
-      "pos": "noun",
-      "def_en": "Small sharp pieces of metal thrown out by an explosion.",
-      "example_en": "Today's news uses the word shrapnel.",
-      "sense_note": ""
+      "ko": "Small sharp pieces of metal thrown out by an explosion.",
+      "l1": {
+        "en": "Small sharp pieces of metal thrown out by an explosion."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Small sharp pieces of metal thrown out by an explosion."
+        },
+        "example": {
+          "en": "Today's news uses the word shrapnel."
+        }
+      },
+      "picture_prompt": "a clear photo of shrapnel: Small sharp pieces of metal thrown out by an explosion."
     },
     {
+      "id": "intercept",
       "en": "intercept",
-      "pos": "verb",
-      "def_en": "To stop or catch something before it reaches its target.",
-      "example_en": "Today's news uses the word intercept.",
-      "sense_note": ""
+      "ko": "To stop or catch something before it reaches its target.",
+      "l1": {
+        "en": "To stop or catch something before it reaches its target."
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "To stop or catch something before it reaches its target."
+        },
+        "example": {
+          "en": "Today's news uses the word intercept."
+        }
+      },
+      "picture_prompt": "a clear photo of intercept: To stop or catch something before it reaches its target."
     },
     {
+      "id": "navigation",
       "en": "navigation",
-      "pos": "verb",
-      "def_en": "The process of planning and controlling the route of a ship or aircraft.",
-      "example_en": "Today's news uses the word navigation.",
-      "sense_note": ""
+      "ko": "The process of planning and controlling the route of a ship or aircraft.",
+      "l1": {
+        "en": "The process of planning and controlling the route of a ship or aircraft."
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "The process of planning and controlling the route of a ship or aircraft."
+        },
+        "example": {
+          "en": "Today's news uses the word navigation."
+        }
+      },
+      "picture_prompt": "a clear photo of navigation: The process of planning and controlling the route of a ship or aircraft."
     },
     {
+      "id": "strategic",
       "en": "strategic",
-      "pos": "noun",
-      "def_en": "Related to a plan that is important for achieving a major goal.",
-      "example_en": "Today's news uses the word strategic.",
-      "sense_note": ""
+      "ko": "Related to a plan that is important for achieving a major goal.",
+      "l1": {
+        "en": "Related to a plan that is important for achieving a major goal."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Related to a plan that is important for achieving a major goal."
+        },
+        "example": {
+          "en": "Today's news uses the word strategic."
+        }
+      },
+      "picture_prompt": "a clear photo of strategic: Related to a plan that is important for achieving a major goal."
     },
     {
+      "id": "diplomacy",
       "en": "diplomacy",
-      "pos": "noun",
-      "def_en": "The management of relations and negotiations between countries.",
-      "example_en": "Today's news uses the word diplomacy.",
-      "sense_note": ""
+      "ko": "The management of relations and negotiations between countries.",
+      "l1": {
+        "en": "The management of relations and negotiations between countries."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The management of relations and negotiations between countries."
+        },
+        "example": {
+          "en": "Today's news uses the word diplomacy."
+        }
+      },
+      "picture_prompt": "a clear photo of diplomacy: The management of relations and negotiations between countries."
     }
   ]
 }

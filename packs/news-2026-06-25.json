@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-06-25",
+  "title": "News 2026-06-25",
   "date": "2026-06-25",
-  "timezone": "KST",
   "headline": "2026 06 25",
-  "youtube_title": "2026 06 25",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0625.txt",
   "words": [
     {
+      "id": "medication",
       "en": "medication",
-      "pos": "noun",
-      "def_en": "a drug or medicine used for medical treatment",
-      "example_en": "Today's news uses the word medication.",
-      "sense_note": ""
+      "ko": "a drug or medicine used for medical treatment",
+      "l1": {
+        "en": "a drug or medicine used for medical treatment"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "a drug or medicine used for medical treatment"
+        },
+        "example": {
+          "en": "Today's news uses the word medication."
+        }
+      },
+      "picture_prompt": "a clear photo of medication: a drug or medicine used for medical treatment"
     },
     {
+      "id": "significant",
       "en": "significant",
-      "pos": "noun",
-      "def_en": "important",
-      "example_en": "Today's news uses the word significant.",
-      "sense_note": ""
+      "ko": "important",
+      "l1": {
+        "en": "important"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "important"
+        },
+        "example": {
+          "en": "Today's news uses the word significant."
+        }
+      },
+      "picture_prompt": "a clear photo of significant: important"
     },
     {
+      "id": "likelihood",
       "en": "likelihood",
-      "pos": "noun",
-      "def_en": "the chance or probability that something will happen",
-      "example_en": "Today's news uses the word likelihood.",
-      "sense_note": ""
+      "ko": "the chance or probability that something will happen",
+      "l1": {
+        "en": "the chance or probability that something will happen"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "the chance or probability that something will happen"
+        },
+        "example": {
+          "en": "Today's news uses the word likelihood."
+        }
+      },
+      "picture_prompt": "a clear photo of likelihood: the chance or probability that something will happen"
     },
     {
+      "id": "observational",
       "en": "observational",
-      "pos": "noun",
-      "def_en": "based on watching and recording",
-      "example_en": "Today's news uses the word observational.",
-      "sense_note": ""
+      "ko": "based on watching and recording",
+      "l1": {
+        "en": "based on watching and recording"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "based on watching and recording"
+        },
+        "example": {
+          "en": "Today's news uses the word observational."
+        }
+      },
+      "picture_prompt": "a clear photo of observational: based on watching and recording"
     },
     {
+      "id": "definitively",
       "en": "definitively",
-      "pos": "adverb",
-      "def_en": "in a way that is certain",
-      "example_en": "Today's news uses the word definitively.",
-      "sense_note": ""
+      "ko": "in a way that is certain",
+      "l1": {
+        "en": "in a way that is certain"
+      },
+      "ww": {
+        "pos": "adv",
+        "def": {
+          "en": "in a way that is certain"
+        },
+        "example": {
+          "en": "Today's news uses the word definitively."
+        }
+      },
+      "picture_prompt": "a clear photo of definitively: in a way that is certain"
     },
     {
+      "id": "prevention",
       "en": "prevention",
-      "pos": "verb",
-      "def_en": "the act of stopping something from happening before it starts",
-      "example_en": "Today's news uses the word prevention.",
-      "sense_note": ""
+      "ko": "the act of stopping something from happening before it starts",
+      "l1": {
+        "en": "the act of stopping something from happening before it starts"
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "the act of stopping something from happening before it starts"
+        },
+        "example": {
+          "en": "Today's news uses the word prevention."
+        }
+      },
+      "picture_prompt": "a clear photo of prevention: the act of stopping something from happening before it starts"
     },
     {
+      "id": "incidence",
       "en": "incidence",
-      "pos": "noun",
-      "def_en": "the number of new cases of a disease in a specific population",
-      "example_en": "Today's news uses the word incidence.",
-      "sense_note": ""
+      "ko": "the number of new cases of a disease in a specific population",
+      "l1": {
+        "en": "the number of new cases of a disease in a specific population"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "the number of new cases of a disease in a specific population"
+        },
+        "example": {
+          "en": "Today's news uses the word incidence."
+        }
+      },
+      "picture_prompt": "a clear photo of incidence: the number of new cases of a disease in a specific population"
     },
     {
+      "id": "inflammation",
       "en": "inflammation",
-      "pos": "noun",
-      "def_en": "redness",
-      "example_en": "Today's news uses the word inflammation.",
-      "sense_note": ""
+      "ko": "redness",
+      "l1": {
+        "en": "redness"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "redness"
+        },
+        "example": {
+          "en": "Today's news uses the word inflammation."
+        }
+      },
+      "picture_prompt": "a clear photo of inflammation: redness"
     },
     {
+      "id": "mechanism",
       "en": "mechanism",
-      "pos": "noun",
-      "def_en": "the way something works — the process or system behind an effect",
-      "example_en": "Today's news uses the word mechanism.",
-      "sense_note": ""
+      "ko": "the way something works — the process or system behind an effect",
+      "l1": {
+        "en": "the way something works — the process or system behind an effect"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "the way something works — the process or system behind an effect"
+        },
+        "example": {
+          "en": "Today's news uses the word mechanism."
+        }
+      },
+      "picture_prompt": "a clear photo of mechanism: the way something works — the process or system behind an effect"
     },
     {
+      "id": "clinical",
       "en": "clinical",
-      "pos": "noun",
-      "def_en": "relating to the treatment and observation of real patients",
-      "example_en": "Today's news uses the word clinical.",
-      "sense_note": ""
+      "ko": "relating to the treatment and observation of real patients",
+      "l1": {
+        "en": "relating to the treatment and observation of real patients"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "relating to the treatment and observation of real patients"
+        },
+        "example": {
+          "en": "Today's news uses the word clinical."
+        }
+      },
+      "picture_prompt": "a clear photo of clinical: relating to the treatment and observation of real patients"
     }
   ]
 }

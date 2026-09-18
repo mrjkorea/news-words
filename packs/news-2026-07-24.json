@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-07-24",
+  "title": "News 2026-07-24",
   "date": "2026-07-24",
-  "timezone": "KST",
   "headline": "2026 07 24",
-  "youtube_title": "2026 07 24",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0724.txt",
   "words": [
     {
+      "id": "landslide",
       "en": "landslide",
-      "pos": "noun",
-      "def_en": "A large amount of rock or earth that slides down a slope.",
-      "example_en": "Today's news uses the word landslide.",
-      "sense_note": ""
+      "ko": "A large amount of rock or earth that slides down a slope.",
+      "l1": {
+        "en": "A large amount of rock or earth that slides down a slope."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A large amount of rock or earth that slides down a slope."
+        },
+        "example": {
+          "en": "Today's news uses the word landslide."
+        }
+      },
+      "picture_prompt": "a clear photo of landslide: A large amount of rock or earth that slides down a slope."
     },
     {
+      "id": "crater",
       "en": "crater",
-      "pos": "noun",
-      "def_en": "A large bowl-shaped hole in the ground or on a planet's surface.",
-      "example_en": "Today's news uses the word crater.",
-      "sense_note": ""
+      "ko": "A large bowl-shaped hole in the ground or on a planet's surface.",
+      "l1": {
+        "en": "A large bowl-shaped hole in the ground or on a planet's surface."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A large bowl-shaped hole in the ground or on a planet's surface."
+        },
+        "example": {
+          "en": "Today's news uses the word crater."
+        }
+      },
+      "picture_prompt": "a clear photo of crater: A large bowl-shaped hole in the ground or on a planet's surface."
     },
     {
+      "id": "debris",
       "en": "debris",
-      "pos": "noun",
-      "def_en": "Broken pieces of something such as rocks or ice that have been destroyed.",
-      "example_en": "Today's news uses the word debris.",
-      "sense_note": ""
+      "ko": "Broken pieces of something such as rocks or ice that have been destroyed.",
+      "l1": {
+        "en": "Broken pieces of something such as rocks or ice that have been destroyed."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Broken pieces of something such as rocks or ice that have been destroyed."
+        },
+        "example": {
+          "en": "Today's news uses the word debris."
+        }
+      },
+      "picture_prompt": "a clear photo of debris: Broken pieces of something such as rocks or ice that have been destroyed."
     },
     {
+      "id": "terrain",
       "en": "terrain",
-      "pos": "noun",
-      "def_en": "The physical features of an area of land including hills valleys and mountains.",
-      "example_en": "Today's news uses the word terrain.",
-      "sense_note": ""
+      "ko": "The physical features of an area of land including hills valleys and mountains.",
+      "l1": {
+        "en": "The physical features of an area of land including hills valleys and mountains."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The physical features of an area of land including hills valleys and mountains."
+        },
+        "example": {
+          "en": "Today's news uses the word terrain."
+        }
+      },
+      "picture_prompt": "a clear photo of terrain: The physical features of an area of land including hills valleys and mountains."
     },
     {
+      "id": "massive",
       "en": "massive",
-      "pos": "noun",
-      "def_en": "Extremely large or heavy.",
-      "example_en": "Today's news uses the word massive.",
-      "sense_note": ""
+      "ko": "Extremely large or heavy.",
+      "l1": {
+        "en": "Extremely large or heavy."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Extremely large or heavy."
+        },
+        "example": {
+          "en": "Today's news uses the word massive."
+        }
+      },
+      "picture_prompt": "a clear photo of massive: Extremely large or heavy."
     },
     {
+      "id": "mission",
       "en": "mission",
-      "pos": "noun",
-      "def_en": "An important journey or task often used for space exploration.",
-      "example_en": "Today's news uses the word mission.",
-      "sense_note": ""
+      "ko": "An important journey or task often used for space exploration.",
+      "l1": {
+        "en": "An important journey or task often used for space exploration."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "An important journey or task often used for space exploration."
+        },
+        "example": {
+          "en": "Today's news uses the word mission."
+        }
+      },
+      "picture_prompt": "a clear photo of mission: An important journey or task often used for space exploration."
     },
     {
+      "id": "deposit",
       "en": "deposit",
-      "pos": "verb",
-      "def_en": "To leave or lay down material in a new place.",
-      "example_en": "Today's news uses the word deposit.",
-      "sense_note": ""
+      "ko": "To leave or lay down material in a new place.",
+      "l1": {
+        "en": "To leave or lay down material in a new place."
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "To leave or lay down material in a new place."
+        },
+        "example": {
+          "en": "Today's news uses the word deposit."
+        }
+      },
+      "picture_prompt": "a clear photo of deposit: To leave or lay down material in a new place."
     },
     {
+      "id": "crescent",
       "en": "crescent",
-      "pos": "noun",
-      "def_en": "A shape that is curved like a thin moon.",
-      "example_en": "Today's news uses the word crescent.",
-      "sense_note": ""
+      "ko": "A shape that is curved like a thin moon.",
+      "l1": {
+        "en": "A shape that is curved like a thin moon."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A shape that is curved like a thin moon."
+        },
+        "example": {
+          "en": "Today's news uses the word crescent."
+        }
+      },
+      "picture_prompt": "a clear photo of crescent: A shape that is curved like a thin moon."
     },
     {
+      "id": "feature",
       "en": "feature",
-      "pos": "noun",
-      "def_en": "A distinctive part or characteristic of something.",
-      "example_en": "Today's news uses the word feature.",
-      "sense_note": ""
+      "ko": "A distinctive part or characteristic of something.",
+      "l1": {
+        "en": "A distinctive part or characteristic of something."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A distinctive part or characteristic of something."
+        },
+        "example": {
+          "en": "Today's news uses the word feature."
+        }
+      },
+      "picture_prompt": "a clear photo of feature: A distinctive part or characteristic of something."
     },
     {
+      "id": "evidence",
       "en": "evidence",
-      "pos": "noun",
-      "def_en": "Facts or information that show whether something is true.",
-      "example_en": "Today's news uses the word evidence.",
-      "sense_note": ""
+      "ko": "Facts or information that show whether something is true.",
+      "l1": {
+        "en": "Facts or information that show whether something is true."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Facts or information that show whether something is true."
+        },
+        "example": {
+          "en": "Today's news uses the word evidence."
+        }
+      },
+      "picture_prompt": "a clear photo of evidence: Facts or information that show whether something is true."
     }
   ]
 }

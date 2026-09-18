@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-07-08",
+  "title": "News 2026-07-08",
   "date": "2026-07-08",
-  "timezone": "KST",
   "headline": "2026 07 08",
-  "youtube_title": "2026 07 08",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0708.txt",
   "words": [
     {
+      "id": "heatwave",
       "en": "heatwave",
-      "pos": "noun",
-      "def_en": "A long period of unusually hot weather",
-      "example_en": "Today's news uses the word heatwave.",
-      "sense_note": ""
+      "ko": "A long period of unusually hot weather",
+      "l1": {
+        "en": "A long period of unusually hot weather"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A long period of unusually hot weather"
+        },
+        "example": {
+          "en": "Today's news uses the word heatwave."
+        }
+      },
+      "picture_prompt": "a clear photo of heatwave: A long period of unusually hot weather"
     },
     {
+      "id": "excess",
       "en": "excess",
-      "pos": "noun",
-      "def_en": "More than normal or expected",
-      "example_en": "Today's news uses the word excess.",
-      "sense_note": ""
+      "ko": "More than normal or expected",
+      "l1": {
+        "en": "More than normal or expected"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "More than normal or expected"
+        },
+        "example": {
+          "en": "Today's news uses the word excess."
+        }
+      },
+      "picture_prompt": "a clear photo of excess: More than normal or expected"
     },
     {
+      "id": "continent",
       "en": "continent",
-      "pos": "noun",
-      "def_en": "A very large area of land such as Europe or Asia",
-      "example_en": "Today's news uses the word continent.",
-      "sense_note": ""
+      "ko": "A very large area of land such as Europe or Asia",
+      "l1": {
+        "en": "A very large area of land such as Europe or Asia"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A very large area of land such as Europe or Asia"
+        },
+        "example": {
+          "en": "Today's news uses the word continent."
+        }
+      },
+      "picture_prompt": "a clear photo of continent: A very large area of land such as Europe or Asia"
     },
     {
+      "id": "wildfire",
       "en": "wildfire",
-      "pos": "noun",
-      "def_en": "An uncontrolled fire that burns in forests or grassland",
-      "example_en": "Today's news uses the word wildfire.",
-      "sense_note": ""
+      "ko": "An uncontrolled fire that burns in forests or grassland",
+      "l1": {
+        "en": "An uncontrolled fire that burns in forests or grassland"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "An uncontrolled fire that burns in forests or grassland"
+        },
+        "example": {
+          "en": "Today's news uses the word wildfire."
+        }
+      },
+      "picture_prompt": "a clear photo of wildfire: An uncontrolled fire that burns in forests or grassland"
     },
     {
+      "id": "infrastructure",
       "en": "infrastructure",
-      "pos": "noun",
-      "def_en": "The basic systems a place needs such as roads power and railways",
-      "example_en": "Today's news uses the word infrastructure.",
-      "sense_note": ""
+      "ko": "The basic systems a place needs such as roads power and railways",
+      "l1": {
+        "en": "The basic systems a place needs such as roads power and railways"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The basic systems a place needs such as roads power and railways"
+        },
+        "example": {
+          "en": "Today's news uses the word infrastructure."
+        }
+      },
+      "picture_prompt": "a clear photo of infrastructure: The basic systems a place needs such as roads power and railways"
     },
     {
+      "id": "lightning",
       "en": "lightning",
-      "pos": "noun",
-      "def_en": "A bright flash of electricity in the sky during a storm",
-      "example_en": "Today's news uses the word lightning.",
-      "sense_note": ""
+      "ko": "A bright flash of electricity in the sky during a storm",
+      "l1": {
+        "en": "A bright flash of electricity in the sky during a storm"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A bright flash of electricity in the sky during a storm"
+        },
+        "example": {
+          "en": "Today's news uses the word lightning."
+        }
+      },
+      "picture_prompt": "a clear photo of lightning: A bright flash of electricity in the sky during a storm"
     },
     {
+      "id": "record",
       "en": "record",
-      "pos": "noun",
-      "def_en": "The highest or lowest amount ever officially measured",
-      "example_en": "Today's news uses the word record.",
-      "sense_note": ""
+      "ko": "The highest or lowest amount ever officially measured",
+      "l1": {
+        "en": "The highest or lowest amount ever officially measured"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The highest or lowest amount ever officially measured"
+        },
+        "example": {
+          "en": "Today's news uses the word record."
+        }
+      },
+      "picture_prompt": "a clear photo of record: The highest or lowest amount ever officially measured"
     },
     {
+      "id": "emergency",
       "en": "emergency",
-      "pos": "noun",
-      "def_en": "A serious dangerous situation that needs quick action",
-      "example_en": "Today's news uses the word emergency.",
-      "sense_note": ""
+      "ko": "A serious dangerous situation that needs quick action",
+      "l1": {
+        "en": "A serious dangerous situation that needs quick action"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A serious dangerous situation that needs quick action"
+        },
+        "example": {
+          "en": "Today's news uses the word emergency."
+        }
+      },
+      "picture_prompt": "a clear photo of emergency: A serious dangerous situation that needs quick action"
     },
     {
+      "id": "additional",
       "en": "additional",
-      "pos": "noun",
-      "def_en": "Extra or more than what was already there",
-      "example_en": "Today's news uses the word additional.",
-      "sense_note": ""
+      "ko": "Extra or more than what was already there",
+      "l1": {
+        "en": "Extra or more than what was already there"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Extra or more than what was already there"
+        },
+        "example": {
+          "en": "Today's news uses the word additional."
+        }
+      },
+      "picture_prompt": "a clear photo of additional: Extra or more than what was already there"
     },
     {
+      "id": "elderly",
       "en": "elderly",
-      "pos": "adverb",
-      "def_en": "Older people especially senior citizens",
-      "example_en": "Today's news uses the word elderly.",
-      "sense_note": ""
+      "ko": "Older people especially senior citizens",
+      "l1": {
+        "en": "Older people especially senior citizens"
+      },
+      "ww": {
+        "pos": "adv",
+        "def": {
+          "en": "Older people especially senior citizens"
+        },
+        "example": {
+          "en": "Today's news uses the word elderly."
+        }
+      },
+      "picture_prompt": "a clear photo of elderly: Older people especially senior citizens"
     }
   ]
 }

@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-07-15",
+  "title": "News 2026-07-15",
   "date": "2026-07-15",
-  "timezone": "KST",
   "headline": "2026 07 15",
-  "youtube_title": "2026 07 15",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0715.txt",
   "words": [
     {
+      "id": "governance",
       "en": "governance",
-      "pos": "noun",
-      "def_en": "The system of rules and practices that guide how an organization is managed",
-      "example_en": "Today's news uses the word governance.",
-      "sense_note": ""
+      "ko": "The system of rules and practices that guide how an organization is managed",
+      "l1": {
+        "en": "The system of rules and practices that guide how an organization is managed"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The system of rules and practices that guide how an organization is managed"
+        },
+        "example": {
+          "en": "Today's news uses the word governance."
+        }
+      },
+      "picture_prompt": "a clear photo of governance: The system of rules and practices that guide how an organization is managed"
     },
     {
+      "id": "catastrophic",
       "en": "catastrophic",
-      "pos": "noun",
-      "def_en": "Extremely harmful or causing terrible damage",
-      "example_en": "Today's news uses the word catastrophic.",
-      "sense_note": ""
+      "ko": "Extremely harmful or causing terrible damage",
+      "l1": {
+        "en": "Extremely harmful or causing terrible damage"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Extremely harmful or causing terrible damage"
+        },
+        "example": {
+          "en": "Today's news uses the word catastrophic."
+        }
+      },
+      "picture_prompt": "a clear photo of catastrophic: Extremely harmful or causing terrible damage"
     },
     {
+      "id": "regulate",
       "en": "regulate",
-      "pos": "verb",
-      "def_en": "To control something with official rules",
-      "example_en": "Today's news uses the word regulate.",
-      "sense_note": ""
+      "ko": "To control something with official rules",
+      "l1": {
+        "en": "To control something with official rules"
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "To control something with official rules"
+        },
+        "example": {
+          "en": "Today's news uses the word regulate."
+        }
+      },
+      "picture_prompt": "a clear photo of regulate: To control something with official rules"
     },
     {
+      "id": "multilateral",
       "en": "multilateral",
-      "pos": "noun",
-      "def_en": "Involving many countries working together",
-      "example_en": "Today's news uses the word multilateral.",
-      "sense_note": ""
+      "ko": "Involving many countries working together",
+      "l1": {
+        "en": "Involving many countries working together"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Involving many countries working together"
+        },
+        "example": {
+          "en": "Today's news uses the word multilateral."
+        }
+      },
+      "picture_prompt": "a clear photo of multilateral: Involving many countries working together"
     },
     {
+      "id": "summit",
       "en": "summit",
-      "pos": "noun",
-      "def_en": "A high-level meeting between leaders",
-      "example_en": "Today's news uses the word summit.",
-      "sense_note": ""
+      "ko": "A high-level meeting between leaders",
+      "l1": {
+        "en": "A high-level meeting between leaders"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A high-level meeting between leaders"
+        },
+        "example": {
+          "en": "Today's news uses the word summit."
+        }
+      },
+      "picture_prompt": "a clear photo of summit: A high-level meeting between leaders"
     },
     {
+      "id": "integrity",
       "en": "integrity",
-      "pos": "noun",
-      "def_en": "Being honest and truthful",
-      "example_en": "Today's news uses the word integrity.",
-      "sense_note": ""
+      "ko": "Being honest and truthful",
+      "l1": {
+        "en": "Being honest and truthful"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Being honest and truthful"
+        },
+        "example": {
+          "en": "Today's news uses the word integrity."
+        }
+      },
+      "picture_prompt": "a clear photo of integrity: Being honest and truthful"
     },
     {
+      "id": "propaganda",
       "en": "propaganda",
-      "pos": "noun",
-      "def_en": "False or misleading information spread to influence people",
-      "example_en": "Today's news uses the word propaganda.",
-      "sense_note": ""
+      "ko": "False or misleading information spread to influence people",
+      "l1": {
+        "en": "False or misleading information spread to influence people"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "False or misleading information spread to influence people"
+        },
+        "example": {
+          "en": "Today's news uses the word propaganda."
+        }
+      },
+      "picture_prompt": "a clear photo of propaganda: False or misleading information spread to influence people"
     },
     {
+      "id": "surpass",
       "en": "surpass",
-      "pos": "verb",
-      "def_en": "To go beyond or do better than something",
-      "example_en": "Today's news uses the word surpass.",
-      "sense_note": ""
+      "ko": "To go beyond or do better than something",
+      "l1": {
+        "en": "To go beyond or do better than something"
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "To go beyond or do better than something"
+        },
+        "example": {
+          "en": "Today's news uses the word surpass."
+        }
+      },
+      "picture_prompt": "a clear photo of surpass: To go beyond or do better than something"
     },
     {
+      "id": "capabilities",
       "en": "capabilities",
-      "pos": "noun",
-      "def_en": "The things that someone or something is able to do",
-      "example_en": "Today's news uses the word capabilities.",
-      "sense_note": ""
+      "ko": "The things that someone or something is able to do",
+      "l1": {
+        "en": "The things that someone or something is able to do"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The things that someone or something is able to do"
+        },
+        "example": {
+          "en": "Today's news uses the word capabilities."
+        }
+      },
+      "picture_prompt": "a clear photo of capabilities: The things that someone or something is able to do"
     },
     {
+      "id": "divide",
       "en": "divide",
-      "pos": "noun",
-      "def_en": "A gap or separation between two groups",
-      "example_en": "Today's news uses the word divide.",
-      "sense_note": ""
+      "ko": "A gap or separation between two groups",
+      "l1": {
+        "en": "A gap or separation between two groups"
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A gap or separation between two groups"
+        },
+        "example": {
+          "en": "Today's news uses the word divide."
+        }
+      },
+      "picture_prompt": "a clear photo of divide: A gap or separation between two groups"
     }
   ]
 }

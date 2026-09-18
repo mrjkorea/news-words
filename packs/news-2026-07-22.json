@@ -1,81 +1,189 @@
 {
+  "id": "news-2026-07-22",
+  "title": "News 2026-07-22",
   "date": "2026-07-22",
-  "timezone": "KST",
   "headline": "2026 07 22",
-  "youtube_title": "2026 07 22",
   "youtube_url": "",
-  "word_count": 10,
-  "source_quizlet": "quizlet_0722.txt",
   "words": [
     {
+      "id": "drought",
       "en": "drought",
-      "pos": "noun",
-      "def_en": "A long period with little or no rain.",
-      "example_en": "Today's news uses the word drought.",
-      "sense_note": ""
+      "ko": "A long period with little or no rain.",
+      "l1": {
+        "en": "A long period with little or no rain."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A long period with little or no rain."
+        },
+        "example": {
+          "en": "Today's news uses the word drought."
+        }
+      },
+      "picture_prompt": "a clear photo of drought: A long period with little or no rain."
     },
     {
+      "id": "spread",
       "en": "spread",
-      "pos": "verb",
-      "def_en": "To extend over a larger area.",
-      "example_en": "Today's news uses the word spread.",
-      "sense_note": ""
+      "ko": "To extend over a larger area.",
+      "l1": {
+        "en": "To extend over a larger area."
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "To extend over a larger area."
+        },
+        "example": {
+          "en": "Today's news uses the word spread."
+        }
+      },
+      "picture_prompt": "a clear photo of spread: To extend over a larger area."
     },
     {
+      "id": "ocean",
       "en": "ocean",
-      "pos": "noun",
-      "def_en": "A very large body of salt water.",
-      "example_en": "Today's news uses the word ocean.",
-      "sense_note": ""
+      "ko": "A very large body of salt water.",
+      "l1": {
+        "en": "A very large body of salt water."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A very large body of salt water."
+        },
+        "example": {
+          "en": "Today's news uses the word ocean."
+        }
+      },
+      "picture_prompt": "a clear photo of ocean: A very large body of salt water."
     },
     {
+      "id": "temperature",
       "en": "temperature",
-      "pos": "noun",
-      "def_en": "A measurement of how hot or cold something is.",
-      "example_en": "Today's news uses the word temperature.",
-      "sense_note": ""
+      "ko": "A measurement of how hot or cold something is.",
+      "l1": {
+        "en": "A measurement of how hot or cold something is."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A measurement of how hot or cold something is."
+        },
+        "example": {
+          "en": "Today's news uses the word temperature."
+        }
+      },
+      "picture_prompt": "a clear photo of temperature: A measurement of how hot or cold something is."
     },
     {
+      "id": "pattern",
       "en": "pattern",
-      "pos": "noun",
-      "def_en": "A regular or repeated arrangement or behavior.",
-      "example_en": "Today's news uses the word pattern.",
-      "sense_note": ""
+      "ko": "A regular or repeated arrangement or behavior.",
+      "l1": {
+        "en": "A regular or repeated arrangement or behavior."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A regular or repeated arrangement or behavior."
+        },
+        "example": {
+          "en": "Today's news uses the word pattern."
+        }
+      },
+      "picture_prompt": "a clear photo of pattern: A regular or repeated arrangement or behavior."
     },
     {
+      "id": "suppress",
       "en": "suppress",
-      "pos": "verb",
-      "def_en": "To stop or limit something from developing.",
-      "example_en": "Today's news uses the word suppress.",
-      "sense_note": ""
+      "ko": "To stop or limit something from developing.",
+      "l1": {
+        "en": "To stop or limit something from developing."
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "To stop or limit something from developing."
+        },
+        "example": {
+          "en": "Today's news uses the word suppress."
+        }
+      },
+      "picture_prompt": "a clear photo of suppress: To stop or limit something from developing."
     },
     {
+      "id": "amplify",
       "en": "amplify",
-      "pos": "verb",
-      "def_en": "To make something stronger or greater.",
-      "example_en": "Today's news uses the word amplify.",
-      "sense_note": ""
+      "ko": "To make something stronger or greater.",
+      "l1": {
+        "en": "To make something stronger or greater."
+      },
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "To make something stronger or greater."
+        },
+        "example": {
+          "en": "Today's news uses the word amplify."
+        }
+      },
+      "picture_prompt": "a clear photo of amplify: To make something stronger or greater."
     },
     {
+      "id": "hemisphere",
       "en": "hemisphere",
-      "pos": "noun",
-      "def_en": "One half of Earth.",
-      "example_en": "Today's news uses the word hemisphere.",
-      "sense_note": ""
+      "ko": "One half of Earth.",
+      "l1": {
+        "en": "One half of Earth."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "One half of Earth."
+        },
+        "example": {
+          "en": "Today's news uses the word hemisphere."
+        }
+      },
+      "picture_prompt": "a clear photo of hemisphere: One half of Earth."
     },
     {
+      "id": "boundary",
       "en": "boundary",
-      "pos": "noun",
-      "def_en": "A line or limit separating areas.",
-      "example_en": "Today's news uses the word boundary.",
-      "sense_note": ""
+      "ko": "A line or limit separating areas.",
+      "l1": {
+        "en": "A line or limit separating areas."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A line or limit separating areas."
+        },
+        "example": {
+          "en": "Today's news uses the word boundary."
+        }
+      },
+      "picture_prompt": "a clear photo of boundary: A line or limit separating areas."
     },
     {
+      "id": "forecast",
       "en": "forecast",
-      "pos": "noun",
-      "def_en": "A statement about what is expected to happen.",
-      "example_en": "Today's news uses the word forecast.",
-      "sense_note": ""
+      "ko": "A statement about what is expected to happen.",
+      "l1": {
+        "en": "A statement about what is expected to happen."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A statement about what is expected to happen."
+        },
+        "example": {
+          "en": "Today's news uses the word forecast."
+        }
+      },
+      "picture_prompt": "a clear photo of forecast: A statement about what is expected to happen."
     }
   ]
 }
