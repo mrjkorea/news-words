@@ -32,7 +32,14 @@ curl -sI 'https://mrjkorea.github.io/news-words/index.html?date=2026-09-18'
 curl -sI 'https://mrjkorea.github.io/news-words/packs/news-2026-09-18/detector.png'
 ```
 
-(Fill HTTP status lines below after deploy.)
+```
+$ curl -sI 'https://mrjkorea.github.io/news-words/index.html?date=2026-09-18' | head -1
+HTTP/2 200
+$ curl -sI 'https://mrjkorea.github.io/news-words/js/app.js' | head -1
+HTTP/2 200
+$ curl -sI 'https://mrjkorea.github.io/news-words/packs/news-2026-09-18/detector.png' | head -1
+HTTP/2 200
+```
 
 ## Picture library register
 
