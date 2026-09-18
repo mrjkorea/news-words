@@ -1,0 +1,81 @@
+{
+  "date": "2026-09-08",
+  "timezone": "KST",
+  "headline": "Australia's economy grows two point one percent in the second quarter, beating forecasts",
+  "youtube_title": "Australia's economy grows two point one percent in the second quarter, beating forecasts",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0908.txt",
+  "words": [
+    {
+      "en": "economy",
+      "pos": "noun",
+      "def_en": "The system of money",
+      "example_en": "Australia's economy grew faster than economists expected in the second quarter.",
+      "sense_note": ""
+    },
+    {
+      "en": "growth",
+      "pos": "noun",
+      "def_en": "An increase in size",
+      "example_en": "At its August meeting, some board members had already argued for additional rate increases because price growth was still too high.",
+      "sense_note": ""
+    },
+    {
+      "en": "inflation",
+      "pos": "noun",
+      "def_en": "A general rise in prices over time",
+      "example_en": "The stronger print gives the Reserve Bank of Australia more room to tighten policy as it fights inflation.",
+      "sense_note": ""
+    },
+    {
+      "en": "household",
+      "pos": "noun",
+      "def_en": "A home and the people who live there",
+      "example_en": "Australia's economy grew faster than economists expected in the second quarter.",
+      "sense_note": ""
+    },
+    {
+      "en": "export",
+      "pos": "noun",
+      "def_en": "A product sold to another country",
+      "example_en": "Australia's economy grew faster than economists expected in the second quarter.",
+      "sense_note": ""
+    },
+    {
+      "en": "mining",
+      "pos": "noun",
+      "def_en": "The business of digging valuable materials from the earth",
+      "example_en": "The Australian Bureau of Statistics said private demand and mining exports helped drive the modest quarterly gain.",
+      "sense_note": ""
+    },
+    {
+      "en": "forecast",
+      "pos": "noun",
+      "def_en": "A prediction about future numbers or events",
+      "example_en": "CNBC says gross domestic product rose two point one percent from a year earlier, beating the one point eight percent forecast.",
+      "sense_note": ""
+    },
+    {
+      "en": "demand",
+      "pos": "noun",
+      "def_en": "How much people want to buy something",
+      "example_en": "The Australian Bureau of Statistics said private demand and mining exports helped drive the modest quarterly gain.",
+      "sense_note": ""
+    },
+    {
+      "en": "spending",
+      "pos": "noun",
+      "def_en": "Money used to pay for goods and services",
+      "example_en": "Consumer spending rose only zero point four percent as families trimmed fuel use because of higher prices linked to Middle East conflict tensions.",
+      "sense_note": ""
+    },
+    {
+      "en": "reserve",
+      "pos": "noun",
+      "def_en": "Money or policy tools kept back for future use",
+      "example_en": "The stronger print gives the Reserve Bank of Australia more room to tighten policy as it fights inflation.",
+      "sense_note": ""
+    }
+  ]
+}

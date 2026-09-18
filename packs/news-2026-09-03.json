@@ -1,0 +1,81 @@
+{
+  "date": "2026-09-03",
+  "timezone": "KST",
+  "headline": "Louisiana opens its first recreational alligator hunt in more than fifty years",
+  "youtube_title": "Louisiana opens its first recreational alligator hunt in more than fifty years",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0903.txt",
+  "words": [
+    {
+      "en": "alligator",
+      "pos": "noun",
+      "def_en": "A large reptile with a wide snout that lives in swamps",
+      "example_en": "Louisiana is preparing its first recreational alligator hunt in more than fifty years.",
+      "sense_note": ""
+    },
+    {
+      "en": "recreational",
+      "pos": "noun",
+      "def_en": "Done for sport or fun - not for a job",
+      "example_en": "Louisiana is preparing its first recreational alligator hunt in more than fifty years.",
+      "sense_note": ""
+    },
+    {
+      "en": "hunt",
+      "pos": "verb",
+      "def_en": "The act of chasing and taking a wild animal",
+      "example_en": "Louisiana is preparing its first recreational alligator hunt in more than fifty years.",
+      "sense_note": ""
+    },
+    {
+      "en": "lottery",
+      "pos": "noun",
+      "def_en": "A drawing that chooses winners by chance",
+      "example_en": "Applicants enter a lottery for up to two tags each, with a cap of five thousand tags.",
+      "sense_note": ""
+    },
+    {
+      "en": "conservation",
+      "pos": "noun",
+      "def_en": "The protection of animals and wild places",
+      "example_en": "Florida opened a similar statewide recreational program in nineteen eighty-eight after its own conservation success.",
+      "sense_note": ""
+    },
+    {
+      "en": "population",
+      "pos": "noun",
+      "def_en": "The number of animals of one kind in an area",
+      "example_en": "Unregulated killing for meat and hides had dropped the wild population below one hundred thousand.",
+      "sense_note": ""
+    },
+    {
+      "en": "swamp",
+      "pos": "noun",
+      "def_en": "Wet land with trees - water - and mud",
+      "example_en": "Louisiana is preparing its first recreational alligator hunt in more than fifty years.",
+      "sense_note": ""
+    },
+    {
+      "en": "permit",
+      "pos": "noun",
+      "def_en": "An official paper that allows an activity",
+      "example_en": "Louisiana is preparing its first recreational alligator hunt in more than fifty years.",
+      "sense_note": ""
+    },
+    {
+      "en": "harvest",
+      "pos": "noun",
+      "def_en": "Taking a limited number of animals under rules",
+      "example_en": "The Louisiana Department of Wildlife and Fisheries says the species can support a limited recreational harvest without hurting that commercial industry.",
+      "sense_note": ""
+    },
+    {
+      "en": "wildlife",
+      "pos": "noun",
+      "def_en": "Animals living in nature - not on farms",
+      "example_en": "The state's fish and wildlife commission banned alligator hunting in nineteen sixty-two.",
+      "sense_note": ""
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "date": "2026-07-30",
+  "timezone": "KST",
+  "headline": "Coffee linked to dramatically lower risk of liver disease and liver cancer",
+  "youtube_title": "Coffee linked to dramatically lower risk of liver disease and liver cancer",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0730.txt",
+  "words": [
+    {
+      "en": "cirrhosis",
+      "pos": "noun",
+      "def_en": "A chronic liver disease marked by permanent scarring and damage to the liver.",
+      "example_en": "A large new study has found that drinking coffee is linked to a significantly lower risk of liver disease, cirrhosis, and liver cancer.",
+      "sense_note": ""
+    },
+    {
+      "en": "antioxidant",
+      "pos": "noun",
+      "def_en": "A substance that prevents or slows damage to cells caused by harmful molecules.",
+      "example_en": "Your daily cup of coffee may be doing more than just waking you up.",
+      "sense_note": ""
+    },
+    {
+      "en": "caffeine",
+      "pos": "noun",
+      "def_en": "A natural stimulant found in coffee",
+      "example_en": "The benefits appear to come from antioxidants in coffee rather than caffeine.",
+      "sense_note": ""
+    },
+    {
+      "en": "compound",
+      "pos": "noun",
+      "def_en": "A substance formed from two or more elements chemically combined.",
+      "example_en": "Your daily cup of coffee may be doing more than just waking you up.",
+      "sense_note": ""
+    },
+    {
+      "en": "inflammation",
+      "pos": "noun",
+      "def_en": "A localized physical condition where part of the body becomes red",
+      "example_en": "However, those who used sweeteners showed an elevated marker for liver inflammation, which can contribute to fatty liver disease.",
+      "sense_note": ""
+    },
+    {
+      "en": "consumption",
+      "pos": "verb",
+      "def_en": "The act of eating",
+      "example_en": "Still, the findings add to a growing body of evidence that moderate coffee consumption can be part of a healthy lifestyle.",
+      "sense_note": ""
+    },
+    {
+      "en": "moderate",
+      "pos": "noun",
+      "def_en": "Not extreme or excessive; within reasonable limits.",
+      "example_en": "Still, the findings add to a growing body of evidence that moderate coffee consumption can be part of a healthy lifestyle.",
+      "sense_note": ""
+    },
+    {
+      "en": "chronic",
+      "pos": "noun",
+      "def_en": "Persisting for a long time or constantly recurring.",
+      "example_en": "Your daily cup of coffee may be doing more than just waking you up.",
+      "sense_note": ""
+    },
+    {
+      "en": "beneficial",
+      "pos": "noun",
+      "def_en": "Producing good results or helpful effects.",
+      "example_en": "Your daily cup of coffee may be doing more than just waking you up.",
+      "sense_note": ""
+    },
+    {
+      "en": "decaffeinated",
+      "pos": "adjective",
+      "def_en": "Having had most or all of the caffeine removed.",
+      "example_en": "Hyunseok Kim of Cedars-Sinai Medical Center says decaffeinated drinkers showed similar benefits.",
+      "sense_note": ""
+    }
+  ]
+}

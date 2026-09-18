@@ -1,0 +1,81 @@
+{
+  "date": "2026-07-03",
+  "timezone": "KST",
+  "headline": "2026 07 03",
+  "youtube_title": "2026 07 03",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0703.txt",
+  "words": [
+    {
+      "en": "negotiators",
+      "pos": "noun",
+      "def_en": "people who discuss an issue and try to reach an agreement",
+      "example_en": "Today's news uses the word negotiators.",
+      "sense_note": ""
+    },
+    {
+      "en": "mediators",
+      "pos": "noun",
+      "def_en": "people or countries that help two sides communicate and solve a conflict",
+      "example_en": "Today's news uses the word mediators.",
+      "sense_note": ""
+    },
+    {
+      "en": "discussions",
+      "pos": "noun",
+      "def_en": "serious conversations about an important topic",
+      "example_en": "Today's news uses the word discussions.",
+      "sense_note": ""
+    },
+    {
+      "en": "agreement",
+      "pos": "noun",
+      "def_en": "a decision accepted by two or more sides",
+      "example_en": "Today's news uses the word agreement.",
+      "sense_note": ""
+    },
+    {
+      "en": "strait",
+      "pos": "noun",
+      "def_en": "a narrow passage of water connecting two larger bodies of water",
+      "example_en": "Today's news uses the word strait.",
+      "sense_note": ""
+    },
+    {
+      "en": "waterway",
+      "pos": "noun",
+      "def_en": "a river canal or sea route used by boats and ships",
+      "example_en": "Today's news uses the word waterway.",
+      "sense_note": ""
+    },
+    {
+      "en": "leverage",
+      "pos": "noun",
+      "def_en": "power or influence used to get what you want in a negotiation",
+      "example_en": "Today's news uses the word leverage.",
+      "sense_note": ""
+    },
+    {
+      "en": "routes",
+      "pos": "noun",
+      "def_en": "paths used to travel from one place to another",
+      "example_en": "Today's news uses the word routes.",
+      "sense_note": ""
+    },
+    {
+      "en": "vessel",
+      "pos": "noun",
+      "def_en": "a ship or large boat",
+      "example_en": "Today's news uses the word vessel.",
+      "sense_note": ""
+    },
+    {
+      "en": "tension",
+      "pos": "noun",
+      "def_en": "stress pressure or conflict between people groups or countries",
+      "example_en": "Today's news uses the word tension.",
+      "sense_note": ""
+    }
+  ]
+}

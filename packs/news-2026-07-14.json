@@ -1,0 +1,81 @@
+{
+  "date": "2026-07-14",
+  "timezone": "KST",
+  "headline": "2026 07 14",
+  "youtube_title": "2026 07 14",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0714.txt",
+  "words": [
+    {
+      "en": "consensus",
+      "pos": "noun",
+      "def_en": "a general agreement among a group",
+      "example_en": "Today's news uses the word consensus.",
+      "sense_note": ""
+    },
+    {
+      "en": "junta",
+      "pos": "noun",
+      "def_en": "a military government that took power by force",
+      "example_en": "Today's news uses the word junta.",
+      "sense_note": ""
+    },
+    {
+      "en": "legitimacy",
+      "pos": "noun",
+      "def_en": "the quality of being lawful or officially recognized",
+      "example_en": "Today's news uses the word legitimacy.",
+      "sense_note": ""
+    },
+    {
+      "en": "diplomatic",
+      "pos": "noun",
+      "def_en": "relating to relations between countries",
+      "example_en": "Today's news uses the word diplomatic.",
+      "sense_note": ""
+    },
+    {
+      "en": "boycott",
+      "pos": "verb",
+      "def_en": "to refuse to take part in something",
+      "example_en": "Today's news uses the word boycott.",
+      "sense_note": ""
+    },
+    {
+      "en": "summit",
+      "pos": "noun",
+      "def_en": "a high-level meeting between leaders",
+      "example_en": "Today's news uses the word summit.",
+      "sense_note": ""
+    },
+    {
+      "en": "sanction",
+      "pos": "noun",
+      "def_en": "an official punishment or restriction",
+      "example_en": "Today's news uses the word sanction.",
+      "sense_note": ""
+    },
+    {
+      "en": "detention",
+      "pos": "noun",
+      "def_en": "the state of being held in custody",
+      "example_en": "Today's news uses the word detention.",
+      "sense_note": ""
+    },
+    {
+      "en": "ceasefire",
+      "pos": "noun",
+      "def_en": "an agreement to stop fighting",
+      "example_en": "Today's news uses the word ceasefire.",
+      "sense_note": ""
+    },
+    {
+      "en": "regime",
+      "pos": "noun",
+      "def_en": "a government or system of rule",
+      "example_en": "Today's news uses the word regime.",
+      "sense_note": ""
+    }
+  ]
+}

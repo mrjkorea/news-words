@@ -1,0 +1,81 @@
+{
+  "date": "2026-07-21",
+  "timezone": "KST",
+  "headline": "2026 07 21",
+  "youtube_title": "2026 07 21",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0721.txt",
+  "words": [
+    {
+      "en": "phenomenon",
+      "pos": "noun",
+      "def_en": "An observable fact or event that can be studied scientifically.",
+      "example_en": "Today's news uses the word phenomenon.",
+      "sense_note": ""
+    },
+    {
+      "en": "optical",
+      "pos": "noun",
+      "def_en": "Relating to sight or light.",
+      "example_en": "Today's news uses the word optical.",
+      "sense_note": ""
+    },
+    {
+      "en": "swirl",
+      "pos": "verb",
+      "def_en": "To move in a twisting or spiraling pattern.",
+      "example_en": "Today's news uses the word swirl.",
+      "sense_note": ""
+    },
+    {
+      "en": "particle",
+      "pos": "noun",
+      "def_en": "A tiny piece of matter.",
+      "example_en": "Today's news uses the word particle.",
+      "sense_note": ""
+    },
+    {
+      "en": "diffraction",
+      "pos": "noun",
+      "def_en": "The bending of waves around obstacles or through small openings.",
+      "example_en": "Today's news uses the word diffraction.",
+      "sense_note": ""
+    },
+    {
+      "en": "polarization",
+      "pos": "noun",
+      "def_en": "The direction in which light waves vibrate as they travel.",
+      "example_en": "Today's news uses the word polarization.",
+      "sense_note": ""
+    },
+    {
+      "en": "photon",
+      "pos": "noun",
+      "def_en": "A single particle of light.",
+      "example_en": "Today's news uses the word photon.",
+      "sense_note": ""
+    },
+    {
+      "en": "simulate",
+      "pos": "verb",
+      "def_en": "To imitate or reproduce the conditions of a situation.",
+      "example_en": "Today's news uses the word simulate.",
+      "sense_note": ""
+    },
+    {
+      "en": "barrier",
+      "pos": "noun",
+      "def_en": "An obstacle that prevents progress or access.",
+      "example_en": "Today's news uses the word barrier.",
+      "sense_note": ""
+    },
+    {
+      "en": "computing",
+      "pos": "noun",
+      "def_en": "The use or operation of computers to process data.",
+      "example_en": "Today's news uses the word computing.",
+      "sense_note": ""
+    }
+  ]
+}

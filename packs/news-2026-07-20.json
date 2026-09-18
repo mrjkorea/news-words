@@ -1,0 +1,81 @@
+{
+  "date": "2026-07-20",
+  "timezone": "KST",
+  "headline": "2026 07 20",
+  "youtube_title": "2026 07 20",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0720.txt",
+  "words": [
+    {
+      "en": "proposal",
+      "pos": "noun",
+      "def_en": "A formal plan or suggestion put forward for consideration or discussion.",
+      "example_en": "Today's news uses the word proposal.",
+      "sense_note": ""
+    },
+    {
+      "en": "commercial",
+      "pos": "noun",
+      "def_en": "Related to or engaged in commerce; intended to make a profit.",
+      "example_en": "Today's news uses the word commercial.",
+      "sense_note": ""
+    },
+    {
+      "en": "collaboration",
+      "pos": "noun",
+      "def_en": "The action of working with someone to produce or create something.",
+      "example_en": "Today's news uses the word collaboration.",
+      "sense_note": ""
+    },
+    {
+      "en": "navigation",
+      "pos": "noun",
+      "def_en": "The process or activity of accurately finding one's way and planning routes.",
+      "example_en": "Today's news uses the word navigation.",
+      "sense_note": ""
+    },
+    {
+      "en": "modular",
+      "pos": "noun",
+      "def_en": "Constructed using standardized units or sections for easy assembly and flexible arrangement.",
+      "example_en": "Today's news uses the word modular.",
+      "sense_note": ""
+    },
+    {
+      "en": "abrasive",
+      "pos": "noun",
+      "def_en": "A substance or material capable of polishing",
+      "example_en": "Today's news uses the word abrasive.",
+      "sense_note": ""
+    },
+    {
+      "en": "orbital",
+      "pos": "noun",
+      "def_en": "Relating to an orbit or the path of an object moving around a planet",
+      "example_en": "Today's news uses the word orbital.",
+      "sense_note": ""
+    },
+    {
+      "en": "payload",
+      "pos": "noun",
+      "def_en": "The part of a vehicle load",
+      "example_en": "Today's news uses the word payload.",
+      "sense_note": ""
+    },
+    {
+      "en": "partnership",
+      "pos": "noun",
+      "def_en": "An arrangement where two or more parties agree to cooperate to advance their mutual interests.",
+      "example_en": "Today's news uses the word partnership.",
+      "sense_note": ""
+    },
+    {
+      "en": "mature",
+      "pos": "noun",
+      "def_en": "Fully developed physically or mentally; having reached an advanced stage of development.",
+      "example_en": "Today's news uses the word mature.",
+      "sense_note": ""
+    }
+  ]
+}

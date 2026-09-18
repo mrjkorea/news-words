@@ -1,0 +1,81 @@
+{
+  "date": "2026-07-24",
+  "timezone": "KST",
+  "headline": "2026 07 24",
+  "youtube_title": "2026 07 24",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0724.txt",
+  "words": [
+    {
+      "en": "landslide",
+      "pos": "noun",
+      "def_en": "A large amount of rock or earth that slides down a slope.",
+      "example_en": "Today's news uses the word landslide.",
+      "sense_note": ""
+    },
+    {
+      "en": "crater",
+      "pos": "noun",
+      "def_en": "A large bowl-shaped hole in the ground or on a planet's surface.",
+      "example_en": "Today's news uses the word crater.",
+      "sense_note": ""
+    },
+    {
+      "en": "debris",
+      "pos": "noun",
+      "def_en": "Broken pieces of something such as rocks or ice that have been destroyed.",
+      "example_en": "Today's news uses the word debris.",
+      "sense_note": ""
+    },
+    {
+      "en": "terrain",
+      "pos": "noun",
+      "def_en": "The physical features of an area of land including hills valleys and mountains.",
+      "example_en": "Today's news uses the word terrain.",
+      "sense_note": ""
+    },
+    {
+      "en": "massive",
+      "pos": "noun",
+      "def_en": "Extremely large or heavy.",
+      "example_en": "Today's news uses the word massive.",
+      "sense_note": ""
+    },
+    {
+      "en": "mission",
+      "pos": "noun",
+      "def_en": "An important journey or task often used for space exploration.",
+      "example_en": "Today's news uses the word mission.",
+      "sense_note": ""
+    },
+    {
+      "en": "deposit",
+      "pos": "verb",
+      "def_en": "To leave or lay down material in a new place.",
+      "example_en": "Today's news uses the word deposit.",
+      "sense_note": ""
+    },
+    {
+      "en": "crescent",
+      "pos": "noun",
+      "def_en": "A shape that is curved like a thin moon.",
+      "example_en": "Today's news uses the word crescent.",
+      "sense_note": ""
+    },
+    {
+      "en": "feature",
+      "pos": "noun",
+      "def_en": "A distinctive part or characteristic of something.",
+      "example_en": "Today's news uses the word feature.",
+      "sense_note": ""
+    },
+    {
+      "en": "evidence",
+      "pos": "noun",
+      "def_en": "Facts or information that show whether something is true.",
+      "example_en": "Today's news uses the word evidence.",
+      "sense_note": ""
+    }
+  ]
+}

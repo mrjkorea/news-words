@@ -1,0 +1,81 @@
+{
+  "date": "2026-08-21",
+  "timezone": "KST",
+  "headline": "Personalised mRNA vaccine stops high-risk melanoma returning in a phase-three trial",
+  "youtube_title": "Personalised mRNA vaccine stops high-risk melanoma returning in a phase-three trial",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0821.txt",
+  "words": [
+    {
+      "en": "vaccine",
+      "pos": "noun",
+      "def_en": "A medical treatment that helps the body prepare to fight a disease.",
+      "example_en": "A new personalised vaccine given with a cancer drug has stopped skin cancer returning in patients during a major trial.",
+      "sense_note": ""
+    },
+    {
+      "en": "melanoma",
+      "pos": "noun",
+      "def_en": "A serious type of skin cancer.",
+      "example_en": "The vaccine was developed by Merck and Moderna and was given to people with high-risk melanoma after surgery.",
+      "sense_note": ""
+    },
+    {
+      "en": "trial",
+      "pos": "noun",
+      "def_en": "A scientific test of a new treatment in a group of people.",
+      "example_en": "A new personalised vaccine given with a cancer drug has stopped skin cancer returning in patients during a major trial.",
+      "sense_note": ""
+    },
+    {
+      "en": "personalised",
+      "pos": "noun",
+      "def_en": "Made for one specific person rather than for everyone.",
+      "example_en": "A new personalised vaccine given with a cancer drug has stopped skin cancer returning in patients during a major trial.",
+      "sense_note": ""
+    },
+    {
+      "en": "surgery",
+      "pos": "noun",
+      "def_en": "A medical operation that cuts into the body to treat a problem.",
+      "example_en": "The vaccine was developed by Merck and Moderna and was given to people with high-risk melanoma after surgery.",
+      "sense_note": ""
+    },
+    {
+      "en": "immunotherapy",
+      "pos": "noun",
+      "def_en": "A cancer treatment that uses the body immune system.",
+      "example_en": "The vaccine, called Intismeran, was given in combination with Keytruda, an immunotherapy drug already used in cancer treatment.",
+      "sense_note": ""
+    },
+    {
+      "en": "tumour",
+      "pos": "noun",
+      "def_en": "A lump of abnormal cells that can be cancer.",
+      "example_en": "Merck and Moderna call this a personalised vaccine because it is built from an individual patient's tumour.",
+      "sense_note": ""
+    },
+    {
+      "en": "immune",
+      "pos": "adjective",
+      "def_en": "Able to resist or fight a disease.",
+      "example_en": "It instructs the immune system to recognise and attack any tumour cells that remain after surgery.",
+      "sense_note": ""
+    },
+    {
+      "en": "mutation",
+      "pos": "noun",
+      "def_en": "A change in the DNA of a cell.",
+      "example_en": "A new personalised vaccine given with a cancer drug has stopped skin cancer returning in patients during a major trial.",
+      "sense_note": ""
+    },
+    {
+      "en": "combination",
+      "pos": "noun",
+      "def_en": "Two or more things used together.",
+      "example_en": "The vaccine, called Intismeran, was given in combination with Keytruda, an immunotherapy drug already used in cancer treatment.",
+      "sense_note": ""
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "date": "2026-07-16",
+  "timezone": "KST",
+  "headline": "2026 07 16",
+  "youtube_title": "2026 07 16",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0716.txt",
+  "words": [
+    {
+      "en": "diagnosis",
+      "pos": "noun",
+      "def_en": "The identification of a disease or medical condition through examination and testing.",
+      "example_en": "Today's news uses the word diagnosis.",
+      "sense_note": ""
+    },
+    {
+      "en": "prevention",
+      "pos": "noun",
+      "def_en": "Action taken to stop something from happening especially to avoid disease or injury.",
+      "example_en": "Today's news uses the word prevention.",
+      "sense_note": ""
+    },
+    {
+      "en": "survival",
+      "pos": "noun",
+      "def_en": "The state of continuing to live or exist especially after a dangerous or difficult event.",
+      "example_en": "Today's news uses the word survival.",
+      "sense_note": ""
+    },
+    {
+      "en": "screening",
+      "pos": "noun",
+      "def_en": "Testing a group of people for a disease or condition even if they have no symptoms.",
+      "example_en": "Today's news uses the word screening.",
+      "sense_note": ""
+    },
+    {
+      "en": "tobacco",
+      "pos": "noun",
+      "def_en": "A plant whose leaves are dried and used for smoking in cigarettes cigars and pipes.",
+      "example_en": "Today's news uses the word tobacco.",
+      "sense_note": ""
+    },
+    {
+      "en": "obesity",
+      "pos": "noun",
+      "def_en": "The medical condition of being extremely overweight which increases health risks.",
+      "example_en": "Today's news uses the word obesity.",
+      "sense_note": ""
+    },
+    {
+      "en": "infectious",
+      "pos": "noun",
+      "def_en": "Capable of spreading from one person or organism to another such as a virus or bacteria.",
+      "example_en": "Today's news uses the word infectious.",
+      "sense_note": ""
+    },
+    {
+      "en": "mortality",
+      "pos": "noun",
+      "def_en": "The state of being subject to death; the death rate within a population.",
+      "example_en": "Today's news uses the word mortality.",
+      "sense_note": ""
+    },
+    {
+      "en": "vaccine",
+      "pos": "noun",
+      "def_en": "A substance that stimulates the body's immune system to protect against a specific disease.",
+      "example_en": "Today's news uses the word vaccine.",
+      "sense_note": ""
+    },
+    {
+      "en": "inequity",
+      "pos": "noun",
+      "def_en": "Lack of fairness or justice; an unfair difference between groups of people.",
+      "example_en": "Today's news uses the word inequity.",
+      "sense_note": ""
+    }
+  ]
+}

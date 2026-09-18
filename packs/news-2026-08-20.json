@@ -1,0 +1,81 @@
+{
+  "date": "2026-08-20",
+  "timezone": "KST",
+  "headline": "Vietnam proposes ending the death penalty for six offences, keeping it for only four crimes",
+  "youtube_title": "Vietnam proposes ending the death penalty for six offences, keeping it for only four crimes",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0820.txt",
+  "words": [
+    {
+      "en": "penalty",
+      "pos": "noun",
+      "def_en": "A punishment given for breaking a law.",
+      "example_en": "Vietnam's government has proposed to abolish the death penalty for six offences, including drug trafficking.",
+      "sense_note": ""
+    },
+    {
+      "en": "offence",
+      "pos": "noun",
+      "def_en": "A crime or illegal act.",
+      "example_en": "Each offence on the new list would no longer carry a death sentence.",
+      "sense_note": ""
+    },
+    {
+      "en": "assembly",
+      "pos": "noun",
+      "def_en": "A group of lawmakers who meet to make decisions.",
+      "example_en": "Public Security Minister Luong Tam Quang told the National Assembly that the draft code would keep the death penalty for only four crimes.",
+      "sense_note": ""
+    },
+    {
+      "en": "draft",
+      "pos": "noun",
+      "def_en": "An early written version of a law or document.",
+      "example_en": "The draft revision of the criminal code was presented to parliament on Thursday, Reuters reported, citing state media.",
+      "sense_note": ""
+    },
+    {
+      "en": "treason",
+      "pos": "noun",
+      "def_en": "The crime of betraying your country.",
+      "example_en": "Those remaining crimes are treason, murder, terrorism, and the illegal production of narcotics.",
+      "sense_note": ""
+    },
+    {
+      "en": "murder",
+      "pos": "noun",
+      "def_en": "The crime of killing a person on purpose.",
+      "example_en": "Those remaining crimes are treason, murder, terrorism, and the illegal production of narcotics.",
+      "sense_note": ""
+    },
+    {
+      "en": "terrorism",
+      "pos": "noun",
+      "def_en": "The use of violence to frighten people for a political goal.",
+      "example_en": "Those remaining crimes are treason, murder, terrorism, and the illegal production of narcotics.",
+      "sense_note": ""
+    },
+    {
+      "en": "narcotics",
+      "pos": "noun",
+      "def_en": "Illegal drugs that are controlled by law.",
+      "example_en": "Those remaining crimes are treason, murder, terrorism, and the illegal production of narcotics.",
+      "sense_note": ""
+    },
+    {
+      "en": "abolish",
+      "pos": "verb",
+      "def_en": "To officially end a law or system.",
+      "example_en": "Vietnam's government has proposed to abolish the death penalty for six offences, including drug trafficking.",
+      "sense_note": ""
+    },
+    {
+      "en": "injection",
+      "pos": "verb",
+      "def_en": "The act of putting a liquid into the body with a needle.",
+      "example_en": "Lethal injection is now the only method of execution, after firing squads were abolished in twenty eleven.",
+      "sense_note": ""
+    }
+  ]
+}

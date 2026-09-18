@@ -1,0 +1,81 @@
+{
+  "date": "2026-07-01",
+  "timezone": "KST",
+  "headline": "2026 07 01",
+  "youtube_title": "2026 07 01",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0701.txt",
+  "words": [
+    {
+      "en": "tournament",
+      "pos": "noun",
+      "def_en": "a competition with a series of games where losers are eliminated until one winner remains",
+      "example_en": "Today's news uses the word tournament.",
+      "sense_note": ""
+    },
+    {
+      "en": "knockout",
+      "pos": "noun",
+      "def_en": "a stage where the loser of a single match is eliminated from the competition",
+      "example_en": "Today's news uses the word knockout.",
+      "sense_note": ""
+    },
+    {
+      "en": "qualify",
+      "pos": "verb",
+      "def_en": "to reach the required standard to enter a competition",
+      "example_en": "Today's news uses the word qualify.",
+      "sense_note": ""
+    },
+    {
+      "en": "squad",
+      "pos": "noun",
+      "def_en": "a group of players selected to represent a team",
+      "example_en": "Today's news uses the word squad.",
+      "sense_note": ""
+    },
+    {
+      "en": "defender",
+      "pos": "noun",
+      "def_en": "a player whose job is to stop the opposing team from scoring",
+      "example_en": "Today's news uses the word defender.",
+      "sense_note": ""
+    },
+    {
+      "en": "striker",
+      "pos": "noun",
+      "def_en": "a player whose main job is to score goals",
+      "example_en": "Today's news uses the word striker.",
+      "sense_note": ""
+    },
+    {
+      "en": "elimination",
+      "pos": "verb",
+      "def_en": "the process of being removed from a competition after losing",
+      "example_en": "Today's news uses the word elimination.",
+      "sense_note": ""
+    },
+    {
+      "en": "underdog",
+      "pos": "noun",
+      "def_en": "a competitor thought to have little chance of winning",
+      "example_en": "Today's news uses the word underdog.",
+      "sense_note": ""
+    },
+    {
+      "en": "bracket",
+      "pos": "noun",
+      "def_en": "a chart showing the pairings and progress of teams in a tournament",
+      "example_en": "Today's news uses the word bracket.",
+      "sense_note": ""
+    },
+    {
+      "en": "favourite",
+      "pos": "noun",
+      "def_en": "the team or player expected to win",
+      "example_en": "Today's news uses the word favourite.",
+      "sense_note": ""
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "date": "2026-07-08",
+  "timezone": "KST",
+  "headline": "2026 07 08",
+  "youtube_title": "2026 07 08",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0708.txt",
+  "words": [
+    {
+      "en": "heatwave",
+      "pos": "noun",
+      "def_en": "A long period of unusually hot weather",
+      "example_en": "Today's news uses the word heatwave.",
+      "sense_note": ""
+    },
+    {
+      "en": "excess",
+      "pos": "noun",
+      "def_en": "More than normal or expected",
+      "example_en": "Today's news uses the word excess.",
+      "sense_note": ""
+    },
+    {
+      "en": "continent",
+      "pos": "noun",
+      "def_en": "A very large area of land such as Europe or Asia",
+      "example_en": "Today's news uses the word continent.",
+      "sense_note": ""
+    },
+    {
+      "en": "wildfire",
+      "pos": "noun",
+      "def_en": "An uncontrolled fire that burns in forests or grassland",
+      "example_en": "Today's news uses the word wildfire.",
+      "sense_note": ""
+    },
+    {
+      "en": "infrastructure",
+      "pos": "noun",
+      "def_en": "The basic systems a place needs such as roads power and railways",
+      "example_en": "Today's news uses the word infrastructure.",
+      "sense_note": ""
+    },
+    {
+      "en": "lightning",
+      "pos": "noun",
+      "def_en": "A bright flash of electricity in the sky during a storm",
+      "example_en": "Today's news uses the word lightning.",
+      "sense_note": ""
+    },
+    {
+      "en": "record",
+      "pos": "noun",
+      "def_en": "The highest or lowest amount ever officially measured",
+      "example_en": "Today's news uses the word record.",
+      "sense_note": ""
+    },
+    {
+      "en": "emergency",
+      "pos": "noun",
+      "def_en": "A serious dangerous situation that needs quick action",
+      "example_en": "Today's news uses the word emergency.",
+      "sense_note": ""
+    },
+    {
+      "en": "additional",
+      "pos": "noun",
+      "def_en": "Extra or more than what was already there",
+      "example_en": "Today's news uses the word additional.",
+      "sense_note": ""
+    },
+    {
+      "en": "elderly",
+      "pos": "adverb",
+      "def_en": "Older people especially senior citizens",
+      "example_en": "Today's news uses the word elderly.",
+      "sense_note": ""
+    }
+  ]
+}

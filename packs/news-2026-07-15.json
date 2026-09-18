@@ -1,0 +1,81 @@
+{
+  "date": "2026-07-15",
+  "timezone": "KST",
+  "headline": "2026 07 15",
+  "youtube_title": "2026 07 15",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0715.txt",
+  "words": [
+    {
+      "en": "governance",
+      "pos": "noun",
+      "def_en": "The system of rules and practices that guide how an organization is managed",
+      "example_en": "Today's news uses the word governance.",
+      "sense_note": ""
+    },
+    {
+      "en": "catastrophic",
+      "pos": "noun",
+      "def_en": "Extremely harmful or causing terrible damage",
+      "example_en": "Today's news uses the word catastrophic.",
+      "sense_note": ""
+    },
+    {
+      "en": "regulate",
+      "pos": "verb",
+      "def_en": "To control something with official rules",
+      "example_en": "Today's news uses the word regulate.",
+      "sense_note": ""
+    },
+    {
+      "en": "multilateral",
+      "pos": "noun",
+      "def_en": "Involving many countries working together",
+      "example_en": "Today's news uses the word multilateral.",
+      "sense_note": ""
+    },
+    {
+      "en": "summit",
+      "pos": "noun",
+      "def_en": "A high-level meeting between leaders",
+      "example_en": "Today's news uses the word summit.",
+      "sense_note": ""
+    },
+    {
+      "en": "integrity",
+      "pos": "noun",
+      "def_en": "Being honest and truthful",
+      "example_en": "Today's news uses the word integrity.",
+      "sense_note": ""
+    },
+    {
+      "en": "propaganda",
+      "pos": "noun",
+      "def_en": "False or misleading information spread to influence people",
+      "example_en": "Today's news uses the word propaganda.",
+      "sense_note": ""
+    },
+    {
+      "en": "surpass",
+      "pos": "verb",
+      "def_en": "To go beyond or do better than something",
+      "example_en": "Today's news uses the word surpass.",
+      "sense_note": ""
+    },
+    {
+      "en": "capabilities",
+      "pos": "noun",
+      "def_en": "The things that someone or something is able to do",
+      "example_en": "Today's news uses the word capabilities.",
+      "sense_note": ""
+    },
+    {
+      "en": "divide",
+      "pos": "noun",
+      "def_en": "A gap or separation between two groups",
+      "example_en": "Today's news uses the word divide.",
+      "sense_note": ""
+    }
+  ]
+}

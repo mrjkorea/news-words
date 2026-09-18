@@ -1,0 +1,81 @@
+{
+  "date": "2026-07-27",
+  "timezone": "KST",
+  "headline": "2026 07 27",
+  "youtube_title": "2026 07 27",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0727.txt",
+  "words": [
+    {
+      "en": "species",
+      "pos": "noun",
+      "def_en": "A group of living organisms that share characteristics and can breed with each other.",
+      "example_en": "Today's news uses the word species.",
+      "sense_note": ""
+    },
+    {
+      "en": "rainforest",
+      "pos": "noun",
+      "def_en": "A dense forest in a tropical region that receives a lot of rain.",
+      "example_en": "Today's news uses the word rainforest.",
+      "sense_note": ""
+    },
+    {
+      "en": "distinctive",
+      "pos": "adjective",
+      "def_en": "Having a special quality or feature that makes something different from others.",
+      "example_en": "Today's news uses the word distinctive.",
+      "sense_note": ""
+    },
+    {
+      "en": "primate",
+      "pos": "noun",
+      "def_en": "A member of the group of mammals that includes monkeys",
+      "example_en": "Today's news uses the word primate.",
+      "sense_note": ""
+    },
+    {
+      "en": "vocal",
+      "pos": "noun",
+      "def_en": "Relating to the voice or speaking.",
+      "example_en": "Today's news uses the word vocal.",
+      "sense_note": ""
+    },
+    {
+      "en": "biodiversity",
+      "pos": "noun",
+      "def_en": "The variety of plant and animal life in a particular habitat.",
+      "example_en": "Today's news uses the word biodiversity.",
+      "sense_note": ""
+    },
+    {
+      "en": "documented",
+      "pos": "noun",
+      "def_en": "Recorded in written or other permanent form.",
+      "example_en": "Today's news uses the word documented.",
+      "sense_note": ""
+    },
+    {
+      "en": "conservation",
+      "pos": "noun",
+      "def_en": "The protection and preservation of the natural environment.",
+      "example_en": "Today's news uses the word conservation.",
+      "sense_note": ""
+    },
+    {
+      "en": "endangered",
+      "pos": "noun",
+      "def_en": "At serious risk of extinction or dying out.",
+      "example_en": "Today's news uses the word endangered.",
+      "sense_note": ""
+    },
+    {
+      "en": "population",
+      "pos": "noun",
+      "def_en": "All the inhabitants of a particular place.",
+      "example_en": "Today's news uses the word population.",
+      "sense_note": ""
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "date": "2026-08-26",
+  "timezone": "KST",
+  "headline": "Alibaba proposes record $10.2 billion Hong Kong share placement to fund AI",
+  "youtube_title": "Alibaba proposes record $10.2 billion Hong Kong share placement to fund AI",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0826.txt",
+  "words": [
+    {
+      "en": "placement",
+      "pos": "noun",
+      "def_en": "The sale of new shares by a company to raise money",
+      "example_en": "The company told Reuters the placement would raise eighty billion Hong Kong dollars.",
+      "sense_note": ""
+    },
+    {
+      "en": "billion",
+      "pos": "noun",
+      "def_en": "The number one thousand million",
+      "example_en": "The company told Reuters the placement would raise eighty billion Hong Kong dollars.",
+      "sense_note": ""
+    },
+    {
+      "en": "offering",
+      "pos": "noun",
+      "def_en": "Shares or securities made available for sale",
+      "example_en": "The firm said the deal would be the largest primary follow-on offering ever by a Hong Kong-listed company.",
+      "sense_note": ""
+    },
+    {
+      "en": "proceeds",
+      "pos": "noun",
+      "def_en": "The money received from a sale or event",
+      "example_en": "Alibaba said one hundred percent of the net proceeds would go into its full-stack AI work.",
+      "sense_note": ""
+    },
+    {
+      "en": "infrastructure",
+      "pos": "noun",
+      "def_en": "The basic systems and structures needed for something to work",
+      "example_en": "That includes expanding and improving the computers, data centers, and other infrastructure that AI needs.",
+      "sense_note": ""
+    },
+    {
+      "en": "company",
+      "pos": "noun",
+      "def_en": "A business organization that makes or sells goods or services",
+      "example_en": "The company told Reuters the placement would raise eighty billion Hong Kong dollars.",
+      "sense_note": ""
+    },
+    {
+      "en": "market",
+      "pos": "noun",
+      "def_en": "A place or system where things are bought and sold",
+      "example_en": "A company that already sells goods online is asking the market for a huge pile of new money.",
+      "sense_note": ""
+    },
+    {
+      "en": "equity",
+      "pos": "noun",
+      "def_en": "Ownership shares in a company",
+      "example_en": "It would also be the biggest Regulation S equity offering on record.",
+      "sense_note": ""
+    },
+    {
+      "en": "invest",
+      "pos": "verb",
+      "def_en": "To put money into something to make a profit",
+      "example_en": "China's Alibaba said on Sunday that it wants to sell new shares in Hong Kong.",
+      "sense_note": ""
+    },
+    {
+      "en": "record",
+      "pos": "noun",
+      "def_en": "The best or largest amount ever achieved",
+      "example_en": "It would also be the biggest Regulation S equity offering on record.",
+      "sense_note": ""
+    }
+  ]
+}

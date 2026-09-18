@@ -1,0 +1,81 @@
+{
+  "date": "2026-07-28",
+  "timezone": "KST",
+  "headline": "Venus is still geologically active",
+  "youtube_title": "Venus is still geologically active",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0728.txt",
+  "words": [
+    {
+      "en": "geological",
+      "pos": "noun",
+      "def_en": "Relating to the study of the earth's physical structure and substance.",
+      "example_en": "By comparing their model results to images of the Venusian surface taken by NASA's Magellan probe in the nineteen-nineties, the researchers found rifts with wide, high flanks, suggesting recent geological activity.",
+      "sense_note": ""
+    },
+    {
+      "en": "planetary",
+      "pos": "noun",
+      "def_en": "Relating to or belonging to a planet or planets.",
+      "example_en": "For decades, planetary scientists believed Venus was a dead planet.",
+      "sense_note": ""
+    },
+    {
+      "en": "simulation",
+      "pos": "noun",
+      "def_en": "An imitation of a real-world process or system using a computer model.",
+      "example_en": "For decades, planetary scientists believed Venus was a dead planet.",
+      "sense_note": ""
+    },
+    {
+      "en": "tectonic",
+      "pos": "noun",
+      "def_en": "Relating to the structure and movement of the earth's crust.",
+      "example_en": "That speed is similar to the movement of tectonic plates on Earth.",
+      "sense_note": ""
+    },
+    {
+      "en": "crust",
+      "pos": "noun",
+      "def_en": "The outermost solid layer of a planet or moon.",
+      "example_en": "Previous models were mostly two-dimensional and relied on simplified assumptions about the planet's crust.",
+      "sense_note": ""
+    },
+    {
+      "en": "probe",
+      "pos": "noun",
+      "def_en": "An unmanned spacecraft designed to explore and gather data.",
+      "example_en": "By comparing their model results to images of the Venusian surface taken by NASA's Magellan probe in the nineteen-nineties, the researchers found rifts with wide, high flanks, suggesting recent geological activity.",
+      "sense_note": ""
+    },
+    {
+      "en": "rift",
+      "pos": "noun",
+      "def_en": "A crack",
+      "example_en": "Computer simulations show that massive rift valleys on the planet's surface may be actively expanding today.",
+      "sense_note": ""
+    },
+    {
+      "en": "dynamic",
+      "pos": "noun",
+      "def_en": "Characterized by constant change",
+      "example_en": "The findings reshape our understanding of Earth's sister planet and suggest Venus has a more dynamic interior than scientists once thought.",
+      "sense_note": ""
+    },
+    {
+      "en": "interior",
+      "pos": "noun",
+      "def_en": "The inner part or inside of something.",
+      "example_en": "The findings reshape our understanding of Earth's sister planet and suggest Venus has a more dynamic interior than scientists once thought.",
+      "sense_note": ""
+    },
+    {
+      "en": "mission",
+      "pos": "noun",
+      "def_en": "An important assignment or expedition",
+      "example_en": "The ESA's EnVision mission, scheduled for launch in the early twenty-thirties, will carry instruments developed partly by ETH Zurich researchers.",
+      "sense_note": ""
+    }
+  ]
+}

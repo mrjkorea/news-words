@@ -1,0 +1,81 @@
+{
+  "date": "2026-08-05",
+  "timezone": "KST",
+  "headline": "2026 08 05",
+  "youtube_title": "2026 08 05",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0805.txt",
+  "words": [
+    {
+      "en": "quantum",
+      "pos": "noun",
+      "def_en": "Relating to the smallest possible units of energy and matter in physics.",
+      "example_en": "Researchers have achieved the first real-world demonstration of quantum entanglement over a busy telecommunications fiber network.",
+      "sense_note": ""
+    },
+    {
+      "en": "photon",
+      "pos": "noun",
+      "def_en": "A tiny particle of light energy.",
+      "example_en": "A single photon carrying quantum information traveled more than twenty-four kilometers through an optical fiber already crowded with powerful internet signals, and it reached downtown Chicago still entangled with its partner at Northwestern University.",
+      "sense_note": ""
+    },
+    {
+      "en": "fiber",
+      "pos": "noun",
+      "def_en": "A thin thread-like material especially a glass thread that carries light signals.",
+      "example_en": "Researchers have achieved the first real-world demonstration of quantum entanglement over a busy telecommunications fiber network.",
+      "sense_note": ""
+    },
+    {
+      "en": "entangled",
+      "pos": "noun",
+      "def_en": "Connected in a way that the state of one particle affects another even at a distance.",
+      "example_en": "A single photon carrying quantum information traveled more than twenty-four kilometers through an optical fiber already crowded with powerful internet signals, and it reached downtown Chicago still entangled with its partner at Northwestern University.",
+      "sense_note": ""
+    },
+    {
+      "en": "fidelity",
+      "pos": "noun",
+      "def_en": "The degree of exactness with which something is copied or transmitted.",
+      "example_en": "The quantum connection retained more than ninety-four percent fidelity, showing that delicate quantum signals can survive alongside conventional data streams in existing infrastructure.",
+      "sense_note": ""
+    },
+    {
+      "en": "wavelength",
+      "pos": "noun",
+      "def_en": "The distance between two peaks of a wave such as a light or sound wave.",
+      "example_en": "Researchers have achieved the first real-world demonstration of quantum entanglement over a busy telecommunications fiber network.",
+      "sense_note": ""
+    },
+    {
+      "en": "interference",
+      "pos": "noun",
+      "def_en": "Disruption that disturbs a signal or process.",
+      "example_en": "Researchers have achieved the first real-world demonstration of quantum entanglement over a busy telecommunications fiber network.",
+      "sense_note": ""
+    },
+    {
+      "en": "teleportation",
+      "pos": "noun",
+      "def_en": "The theoretical transfer of matter or information from one place to another instantly.",
+      "example_en": "The team now plans to attempt quantum teleportation between remote nodes through a real telecommunications network.",
+      "sense_note": ""
+    },
+    {
+      "en": "network",
+      "pos": "noun",
+      "def_en": "A group of computers or devices connected to share information.",
+      "example_en": "Researchers have achieved the first real-world demonstration of quantum entanglement over a busy telecommunications fiber network.",
+      "sense_note": ""
+    },
+    {
+      "en": "metropolitan",
+      "pos": "noun",
+      "def_en": "Relating to a large city and its surrounding area.",
+      "example_en": "Researchers have achieved the first real-world demonstration of quantum entanglement over a busy telecommunications fiber network.",
+      "sense_note": ""
+    }
+  ]
+}

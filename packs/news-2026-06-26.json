@@ -1,0 +1,81 @@
+{
+  "date": "2026-06-26",
+  "timezone": "KST",
+  "headline": "2026 06 26",
+  "youtube_title": "2026 06 26",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0626.txt",
+  "words": [
+    {
+      "en": "ancient",
+      "pos": "adjective",
+      "def_en": "very old; from a long time ago",
+      "example_en": "Today's news uses the word ancient.",
+      "sense_note": ""
+    },
+    {
+      "en": "charcoal",
+      "pos": "noun",
+      "def_en": "black carbon material made from burned wood",
+      "example_en": "Today's news uses the word charcoal.",
+      "sense_note": ""
+    },
+    {
+      "en": "pigment",
+      "pos": "noun",
+      "def_en": "a substance that gives color to paint or material",
+      "example_en": "Today's news uses the word pigment.",
+      "sense_note": ""
+    },
+    {
+      "en": "radiocarbon",
+      "pos": "noun",
+      "def_en": "carbon-14 used for dating ancient organic material",
+      "example_en": "Today's news uses the word radiocarbon.",
+      "sense_note": ""
+    },
+    {
+      "en": "spectrometry",
+      "pos": "noun",
+      "def_en": "technique that measures light to identify materials",
+      "example_en": "Today's news uses the word spectrometry.",
+      "sense_note": ""
+    },
+    {
+      "en": "contamination",
+      "pos": "noun",
+      "def_en": "the presence of unwanted or foreign material",
+      "example_en": "Today's news uses the word contamination.",
+      "sense_note": ""
+    },
+    {
+      "en": "chronology",
+      "pos": "noun",
+      "def_en": "the order or sequence of events in time",
+      "example_en": "Today's news uses the word chronology.",
+      "sense_note": ""
+    },
+    {
+      "en": "excavation",
+      "pos": "verb",
+      "def_en": "the process of digging up ancient remains",
+      "example_en": "Today's news uses the word excavation.",
+      "sense_note": ""
+    },
+    {
+      "en": "preservation",
+      "pos": "noun",
+      "def_en": "keeping something in its original state",
+      "example_en": "Today's news uses the word preservation.",
+      "sense_note": ""
+    },
+    {
+      "en": "symbolic",
+      "pos": "noun",
+      "def_en": "representing an idea",
+      "example_en": "Today's news uses the word symbolic.",
+      "sense_note": ""
+    }
+  ]
+}

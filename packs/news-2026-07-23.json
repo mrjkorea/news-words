@@ -1,0 +1,81 @@
+{
+  "date": "2026-07-23",
+  "timezone": "KST",
+  "headline": "2026 07 23",
+  "youtube_title": "2026 07 23",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0723.txt",
+  "words": [
+    {
+      "en": "fast",
+      "pos": "verb",
+      "def_en": "To not eat food for a period of time.",
+      "example_en": "Today's news uses the word fast.",
+      "sense_note": ""
+    },
+    {
+      "en": "gut",
+      "pos": "noun",
+      "def_en": "The long tube in the body that digests food; the digestive system.",
+      "example_en": "Today's news uses the word gut.",
+      "sense_note": ""
+    },
+    {
+      "en": "bacterium",
+      "pos": "noun",
+      "def_en": "A single tiny living thing; one microbe.",
+      "example_en": "Today's news uses the word bacterium.",
+      "sense_note": ""
+    },
+    {
+      "en": "intestine",
+      "pos": "noun",
+      "def_en": "The long tube below the stomach where food is digested and absorbed.",
+      "example_en": "Today's news uses the word intestine.",
+      "sense_note": ""
+    },
+    {
+      "en": "radiation",
+      "pos": "noun",
+      "def_en": "Powerful energy waves or particles used to treat cancer.",
+      "example_en": "Today's news uses the word radiation.",
+      "sense_note": ""
+    },
+    {
+      "en": "heal",
+      "pos": "verb",
+      "def_en": "To become healthy or whole again after injury.",
+      "example_en": "Today's news uses the word heal.",
+      "sense_note": ""
+    },
+    {
+      "en": "tissue",
+      "pos": "noun",
+      "def_en": "A group of similar cells that work together in the body.",
+      "example_en": "Today's news uses the word tissue.",
+      "sense_note": ""
+    },
+    {
+      "en": "therapy",
+      "pos": "noun",
+      "def_en": "Treatment to cure or manage a disease or condition.",
+      "example_en": "Today's news uses the word therapy.",
+      "sense_note": ""
+    },
+    {
+      "en": "abdominal",
+      "pos": "noun",
+      "def_en": "Relating to the stomach area of the body.",
+      "example_en": "Today's news uses the word abdominal.",
+      "sense_note": ""
+    },
+    {
+      "en": "microbes",
+      "pos": "adjective",
+      "def_en": "Very small living things such as bacteria that can only be seen with a microscope.",
+      "example_en": "Today's news uses the word microbes.",
+      "sense_note": ""
+    }
+  ]
+}

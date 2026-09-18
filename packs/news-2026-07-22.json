@@ -1,0 +1,81 @@
+{
+  "date": "2026-07-22",
+  "timezone": "KST",
+  "headline": "2026 07 22",
+  "youtube_title": "2026 07 22",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0722.txt",
+  "words": [
+    {
+      "en": "drought",
+      "pos": "noun",
+      "def_en": "A long period with little or no rain.",
+      "example_en": "Today's news uses the word drought.",
+      "sense_note": ""
+    },
+    {
+      "en": "spread",
+      "pos": "verb",
+      "def_en": "To extend over a larger area.",
+      "example_en": "Today's news uses the word spread.",
+      "sense_note": ""
+    },
+    {
+      "en": "ocean",
+      "pos": "noun",
+      "def_en": "A very large body of salt water.",
+      "example_en": "Today's news uses the word ocean.",
+      "sense_note": ""
+    },
+    {
+      "en": "temperature",
+      "pos": "noun",
+      "def_en": "A measurement of how hot or cold something is.",
+      "example_en": "Today's news uses the word temperature.",
+      "sense_note": ""
+    },
+    {
+      "en": "pattern",
+      "pos": "noun",
+      "def_en": "A regular or repeated arrangement or behavior.",
+      "example_en": "Today's news uses the word pattern.",
+      "sense_note": ""
+    },
+    {
+      "en": "suppress",
+      "pos": "verb",
+      "def_en": "To stop or limit something from developing.",
+      "example_en": "Today's news uses the word suppress.",
+      "sense_note": ""
+    },
+    {
+      "en": "amplify",
+      "pos": "verb",
+      "def_en": "To make something stronger or greater.",
+      "example_en": "Today's news uses the word amplify.",
+      "sense_note": ""
+    },
+    {
+      "en": "hemisphere",
+      "pos": "noun",
+      "def_en": "One half of Earth.",
+      "example_en": "Today's news uses the word hemisphere.",
+      "sense_note": ""
+    },
+    {
+      "en": "boundary",
+      "pos": "noun",
+      "def_en": "A line or limit separating areas.",
+      "example_en": "Today's news uses the word boundary.",
+      "sense_note": ""
+    },
+    {
+      "en": "forecast",
+      "pos": "noun",
+      "def_en": "A statement about what is expected to happen.",
+      "example_en": "Today's news uses the word forecast.",
+      "sense_note": ""
+    }
+  ]
+}

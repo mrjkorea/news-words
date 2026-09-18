@@ -1,0 +1,81 @@
+{
+  "date": "2026-09-11",
+  "timezone": "KST",
+  "headline": "Sardine shortage hits shelves as Gen Z demand rises and catches shrink",
+  "youtube_title": "Sardine shortage hits shelves as Gen Z demand rises and catches shrink",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0911.txt",
+  "words": [
+    {
+      "en": "sardine",
+      "pos": "noun",
+      "def_en": "A small oily fish often sold in tins",
+      "example_en": "Sardine brands that once looked old-fashioned now compete with trendy tinned seafood lines aimed at younger buyers.",
+      "sense_note": ""
+    },
+    {
+      "en": "shortage",
+      "pos": "noun",
+      "def_en": "A situation where there is not enough of something",
+      "example_en": "The shortage is cultural as well as economic: a grandparent's pantry food has become a social-media star.",
+      "sense_note": ""
+    },
+    {
+      "en": "protein",
+      "pos": "noun",
+      "def_en": "A nutrient that helps build muscle and tissue",
+      "example_en": "Sardines are rich in protein, omega-three fats, vitamin B twelve, and minerals like phosphorus and selenium.",
+      "sense_note": ""
+    },
+    {
+      "en": "omega",
+      "pos": "noun",
+      "def_en": "A type of healthy fat found in fish",
+      "example_en": "Sardines are rich in protein, omega-three fats, vitamin B twelve, and minerals like phosphorus and selenium.",
+      "sense_note": ""
+    },
+    {
+      "en": "pantry",
+      "pos": "noun",
+      "def_en": "A cupboard where dry food is stored at home",
+      "example_en": "NBC News says the humble fish, once a cheap pantry staple, can be hard to find in some stores.",
+      "sense_note": ""
+    },
+    {
+      "en": "supply",
+      "pos": "adverb",
+      "def_en": "The amount of a product available to buy",
+      "example_en": "Fishing limits, changing ocean conditions, and processing bottlenecks all squeeze supply.",
+      "sense_note": ""
+    },
+    {
+      "en": "demand",
+      "pos": "noun",
+      "def_en": "How much people want to buy a product",
+      "example_en": "Social media cooks and budget-conscious eaters have helped push demand higher.",
+      "sense_note": ""
+    },
+    {
+      "en": "catch",
+      "pos": "noun",
+      "def_en": "The amount of fish brought in by boats",
+      "example_en": "Shoppers are noticing empty spaces where tinned sardines used to sit.",
+      "sense_note": ""
+    },
+    {
+      "en": "shelf",
+      "pos": "noun",
+      "def_en": "A flat board in a store where goods are displayed",
+      "example_en": "Shoppers are noticing empty spaces where tinned sardines used to sit.",
+      "sense_note": ""
+    },
+    {
+      "en": "staple",
+      "pos": "noun",
+      "def_en": "A basic food that people use often",
+      "example_en": "NBC News says the humble fish, once a cheap pantry staple, can be hard to find in some stores.",
+      "sense_note": ""
+    }
+  ]
+}

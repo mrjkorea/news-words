@@ -1,0 +1,81 @@
+{
+  "date": "2026-08-04",
+  "timezone": "KST",
+  "headline": "2026 08 04",
+  "youtube_title": "2026 08 04",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0804.txt",
+  "words": [
+    {
+      "en": "tariff",
+      "pos": "noun",
+      "def_en": "A tax that a government charges on goods coming into a country.",
+      "example_en": "President Trump issued three proclamations under Section three hundred thirty-eight of the Tariff Act of nineteen thirty, imposing an additional fifty percent duty on certain Canadian goods.",
+      "sense_note": ""
+    },
+    {
+      "en": "duty",
+      "pos": "noun",
+      "def_en": "A tax paid on goods brought into or taken out of a country.",
+      "example_en": "President Trump issued three proclamations under Section three hundred thirty-eight of the Tariff Act of nineteen thirty, imposing an additional fifty percent duty on certain Canadian goods.",
+      "sense_note": ""
+    },
+    {
+      "en": "import",
+      "pos": "verb",
+      "def_en": "To bring goods into a country from another country for sale.",
+      "example_en": "President Trump issued three proclamations under Section three hundred thirty-eight of the Tariff Act of nineteen thirty, imposing an additional fifty percent duty on certain Canadian goods.",
+      "sense_note": ""
+    },
+    {
+      "en": "export",
+      "pos": "verb",
+      "def_en": "To send goods to another country for sale.",
+      "example_en": "President Trump issued three proclamations under Section three hundred thirty-eight of the Tariff Act of nineteen thirty, imposing an additional fifty percent duty on certain Canadian goods.",
+      "sense_note": ""
+    },
+    {
+      "en": "proclamation",
+      "pos": "noun",
+      "def_en": "An official public announcement or order.",
+      "example_en": "President Trump issued three proclamations under Section three hundred thirty-eight of the Tariff Act of nineteen thirty, imposing an additional fifty percent duty on certain Canadian goods.",
+      "sense_note": ""
+    },
+    {
+      "en": "discrimination",
+      "pos": "noun",
+      "def_en": "Unfair treatment of one group compared with another.",
+      "example_en": "President Trump issued three proclamations under Section three hundred thirty-eight of the Tariff Act of nineteen thirty, imposing an additional fifty percent duty on certain Canadian goods.",
+      "sense_note": ""
+    },
+    {
+      "en": "exclusion",
+      "pos": "verb",
+      "def_en": "The act of leaving something or someone out.",
+      "example_en": "President Trump issued three proclamations under Section three hundred thirty-eight of the Tariff Act of nineteen thirty, imposing an additional fifty percent duty on certain Canadian goods.",
+      "sense_note": ""
+    },
+    {
+      "en": "agreement",
+      "pos": "noun",
+      "def_en": "An official arrangement or promise between two or more sides.",
+      "example_en": "They generally apply to covered Canadian goods regardless of whether those goods qualify for preferential treatment under the United States Mexico Canada Agreement, also known as USMCA, subject to specified exclusions.",
+      "sense_note": ""
+    },
+    {
+      "en": "commerce",
+      "pos": "noun",
+      "def_en": "The buying and selling of goods and services.",
+      "example_en": "President Trump issued three proclamations under Section three hundred thirty-eight of the Tariff Act of nineteen thirty, imposing an additional fifty percent duty on certain Canadian goods.",
+      "sense_note": ""
+    },
+    {
+      "en": "offset",
+      "pos": "verb",
+      "def_en": "To balance or cancel out an effect.",
+      "example_en": "President Trump issued three proclamations under Section three hundred thirty-eight of the Tariff Act of nineteen thirty, imposing an additional fifty percent duty on certain Canadian goods.",
+      "sense_note": ""
+    }
+  ]
+}

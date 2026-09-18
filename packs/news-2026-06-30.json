@@ -1,0 +1,81 @@
+{
+  "date": "2026-06-30",
+  "timezone": "KST",
+  "headline": "2026 06 30",
+  "youtube_title": "2026 06 30",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0630.txt",
+  "words": [
+    {
+      "en": "archaeologist",
+      "pos": "noun",
+      "def_en": "A scientist who studies human history by digging up and examining ancient sites bones and objects",
+      "example_en": "Today's news uses the word archaeologist.",
+      "sense_note": ""
+    },
+    {
+      "en": "necropolis",
+      "pos": "noun",
+      "def_en": "A large ancient cemetery or burial ground especially one belonging to an ancient city",
+      "example_en": "Today's news uses the word necropolis.",
+      "sense_note": ""
+    },
+    {
+      "en": "excavation",
+      "pos": "verb",
+      "def_en": "The process of carefully digging up the ground to find ancient remains artifacts or fossils",
+      "example_en": "Today's news uses the word excavation.",
+      "sense_note": ""
+    },
+    {
+      "en": "burial",
+      "pos": "verb",
+      "def_en": "The act of placing a dead body into the ground often with ceremony or ritual",
+      "example_en": "Today's news uses the word burial.",
+      "sense_note": ""
+    },
+    {
+      "en": "ritual",
+      "pos": "noun",
+      "def_en": "A set of actions performed in a specific order usually for religious or traditional purposes",
+      "example_en": "Today's news uses the word ritual.",
+      "sense_note": ""
+    },
+    {
+      "en": "tusk",
+      "pos": "noun",
+      "def_en": "A long pointed curved tooth that grows outside the mouth of animals like elephants walruses and wild boars",
+      "example_en": "Today's news uses the word tusk.",
+      "sense_note": ""
+    },
+    {
+      "en": "deity",
+      "pos": "noun",
+      "def_en": "A god or goddess — a supernatural being worshipped by people",
+      "example_en": "Today's news uses the word deity.",
+      "sense_note": ""
+    },
+    {
+      "en": "sediment",
+      "pos": "noun",
+      "def_en": "Small particles of dirt sand and rock that settle at the bottom of a liquid or layers of earth deposited over time",
+      "example_en": "Today's news uses the word sediment.",
+      "sense_note": ""
+    },
+    {
+      "en": "chamber",
+      "pos": "noun",
+      "def_en": "An enclosed room or space often underground or inside a building used for a specific purpose",
+      "example_en": "Today's news uses the word chamber.",
+      "sense_note": ""
+    },
+    {
+      "en": "sacrifice",
+      "pos": "verb",
+      "def_en": "The act of offering something valuable — an animal object or action — to a god or for a greater purpose",
+      "example_en": "Today's news uses the word sacrifice.",
+      "sense_note": ""
+    }
+  ]
+}

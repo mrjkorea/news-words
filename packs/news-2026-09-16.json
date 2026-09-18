@@ -1,0 +1,81 @@
+{
+  "date": "2026-09-16",
+  "timezone": "KST",
+  "headline": "A drug designed by artificial intelligence reverses biological age in a clinical study",
+  "youtube_title": "A drug designed by artificial intelligence reverses biological age in a clinical study",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0916.txt",
+  "words": [
+    {
+      "en": "biological",
+      "pos": "noun",
+      "def_en": "Related to living things and life processes",
+      "example_en": "Here, both the biological target, a protein called TNIK that is linked to aging and to fibrosis, and the molecule itself came from generative artificial intelligence.",
+      "sense_note": ""
+    },
+    {
+      "en": "protein",
+      "pos": "noun",
+      "def_en": "A substance in the body that builds and controls cells",
+      "example_en": "They studied more than two thousand eight hundred proteins and applied six different protein-based aging clocks, each one built by a separate group of scientists.",
+      "sense_note": ""
+    },
+    {
+      "en": "trial",
+      "pos": "noun",
+      "def_en": "A test of a new medicine in people",
+      "example_en": "To measure aging, the researchers used blood samples from forty-two people who took part in an earlier mid-stage trial.",
+      "sense_note": ""
+    },
+    {
+      "en": "aging",
+      "pos": "verb",
+      "def_en": "The process of growing older",
+      "example_en": "A drug that was designed with artificial intelligence may be able to slow part of the aging process, according to a new clinical study.",
+      "sense_note": ""
+    },
+    {
+      "en": "molecule",
+      "pos": "noun",
+      "def_en": "A very small group of atoms joined together",
+      "example_en": "Here, both the biological target, a protein called TNIK that is linked to aging and to fibrosis, and the molecule itself came from generative artificial intelligence.",
+      "sense_note": ""
+    },
+    {
+      "en": "reverse",
+      "pos": "verb",
+      "def_en": "To change something back to an earlier state",
+      "example_en": "A drug that was designed with artificial intelligence may be able to slow part of the aging process, according to a new clinical study.",
+      "sense_note": ""
+    },
+    {
+      "en": "biomarker",
+      "pos": "noun",
+      "def_en": "A measurable sign of what is happening in the body",
+      "example_en": "A drug that was designed with artificial intelligence may be able to slow part of the aging process, according to a new clinical study.",
+      "sense_note": ""
+    },
+    {
+      "en": "patient",
+      "pos": "noun",
+      "def_en": "A person who receives medical care",
+      "example_en": "A drug that was designed with artificial intelligence may be able to slow part of the aging process, according to a new clinical study.",
+      "sense_note": ""
+    },
+    {
+      "en": "dose",
+      "pos": "noun",
+      "def_en": "The measured amount of medicine taken at one time",
+      "example_en": "In the trial, lung function improved in the treated group while it dropped in the placebo group, and the effect grew as the dose increased.",
+      "sense_note": ""
+    },
+    {
+      "en": "clock",
+      "pos": "noun",
+      "def_en": "A device that measures and shows time",
+      "example_en": "A drug that was designed with artificial intelligence may be able to slow part of the aging process, according to a new clinical study.",
+      "sense_note": ""
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "date": "2026-08-28",
+  "timezone": "KST",
+  "headline": "3D X-ray imaging unlocks the secrets of the narwhal's spiral tusk",
+  "youtube_title": "3D X-ray imaging unlocks the secrets of the narwhal's spiral tusk",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0828.txt",
+  "words": [
+    {
+      "en": "narwhal",
+      "pos": "noun",
+      "def_en": "A medium whale of the Arctic with a long spiral tusk",
+      "example_en": "In the Middle Ages, narwhal tusks were sold as unicorn horns.",
+      "sense_note": ""
+    },
+    {
+      "en": "tusk",
+      "pos": "noun",
+      "def_en": "A long pointed tooth that grows outside the mouth of some animals",
+      "example_en": "A narwhal tusk is not a horn.",
+      "sense_note": ""
+    },
+    {
+      "en": "unicorn",
+      "pos": "noun",
+      "def_en": "A mythical horse with a single horn on its forehead",
+      "example_en": "In the Middle Ages, narwhal tusks were sold as unicorn horns.",
+      "sense_note": ""
+    },
+    {
+      "en": "dentine",
+      "pos": "noun",
+      "def_en": "The hard inner tissue of a tooth below the enamel",
+      "example_en": "The inner tissue is dentine, and it shows a right-handed spiral.",
+      "sense_note": ""
+    },
+    {
+      "en": "cementum",
+      "pos": "noun",
+      "def_en": "The outer dental tissue that covers the root of a tooth",
+      "example_en": "The outer layer is a dental tissue called cementum, and it shows a left-handed spiral.",
+      "sense_note": ""
+    },
+    {
+      "en": "imaging",
+      "pos": "verb",
+      "def_en": "The process of making pictures of the inside of something",
+      "example_en": "Researchers used advanced three-dimensional X-ray imaging to look inside.",
+      "sense_note": ""
+    },
+    {
+      "en": "canine",
+      "pos": "noun",
+      "def_en": "A long pointed tooth used for holding or tearing food",
+      "example_en": "It is a long, straight canine tooth that grows out of the whale's mouth.",
+      "sense_note": ""
+    },
+    {
+      "en": "arctic",
+      "pos": "noun",
+      "def_en": "The very cold northern region around the North Pole",
+      "example_en": "Narwhals live in the cold Arctic Ocean, mainly near Canada, Greenland, Norway, and Russia.",
+      "sense_note": ""
+    },
+    {
+      "en": "hierarchy",
+      "pos": "noun",
+      "def_en": "A system that ranks people or animals by importance or power",
+      "example_en": "In the Middle Ages, narwhal tusks were sold as unicorn horns.",
+      "sense_note": ""
+    },
+    {
+      "en": "whale",
+      "pos": "noun",
+      "def_en": "A very large sea animal that breathes air and feeds its young milk",
+      "example_en": "It is a long, straight canine tooth that grows out of the whale's mouth.",
+      "sense_note": ""
+    }
+  ]
+}

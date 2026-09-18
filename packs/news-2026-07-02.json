@@ -1,0 +1,81 @@
+{
+  "date": "2026-07-02",
+  "timezone": "KST",
+  "headline": "2026 07 02",
+  "youtube_title": "2026 07 02",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0702.txt",
+  "words": [
+    {
+      "en": "earthquake",
+      "pos": "noun",
+      "def_en": "A sudden violent shaking of the ground caused by movements within the Earth's crust",
+      "example_en": "Today's news uses the word earthquake.",
+      "sense_note": ""
+    },
+    {
+      "en": "magnitude",
+      "pos": "noun",
+      "def_en": "The size or strength of something especially an earthquake measured on a scientific scale",
+      "example_en": "Today's news uses the word magnitude.",
+      "sense_note": ""
+    },
+    {
+      "en": "aftershock",
+      "pos": "noun",
+      "def_en": "A smaller earthquake that follows a larger one in the same area",
+      "example_en": "Today's news uses the word aftershock.",
+      "sense_note": ""
+    },
+    {
+      "en": "epicenter",
+      "pos": "noun",
+      "def_en": "The point on the Earth's surface directly above where an earthquake starts underground",
+      "example_en": "Today's news uses the word epicenter.",
+      "sense_note": ""
+    },
+    {
+      "en": "casualty",
+      "pos": "noun",
+      "def_en": "A person killed or injured in a war accident or disaster",
+      "example_en": "Today's news uses the word casualty.",
+      "sense_note": ""
+    },
+    {
+      "en": "collapse",
+      "pos": "verb",
+      "def_en": "To fall down suddenly especially a building or structure",
+      "example_en": "Today's news uses the word collapse.",
+      "sense_note": ""
+    },
+    {
+      "en": "seismic",
+      "pos": "noun",
+      "def_en": "Relating to earthquakes or other vibrations of the Earth",
+      "example_en": "Today's news uses the word seismic.",
+      "sense_note": ""
+    },
+    {
+      "en": "rubble",
+      "pos": "noun",
+      "def_en": "Broken pieces of stone brick or concrete from destroyed buildings",
+      "example_en": "Today's news uses the word rubble.",
+      "sense_note": ""
+    },
+    {
+      "en": "tremor",
+      "pos": "noun",
+      "def_en": "A small earthquake or shaking movement of the ground",
+      "example_en": "Today's news uses the word tremor.",
+      "sense_note": ""
+    },
+    {
+      "en": "rescue",
+      "pos": "verb",
+      "def_en": "To save someone from a dangerous or difficult situation",
+      "example_en": "Today's news uses the word rescue.",
+      "sense_note": ""
+    }
+  ]
+}

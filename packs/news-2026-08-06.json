@@ -1,0 +1,81 @@
+{
+  "date": "2026-08-06",
+  "timezone": "KST",
+  "headline": "2026 08 06",
+  "youtube_title": "2026 08 06",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0806.txt",
+  "words": [
+    {
+      "en": "volcano",
+      "pos": "noun",
+      "def_en": "A mountain with an opening through which hot rock and gas can escape.",
+      "example_en": "On land, a volcanic eruption is dramatic, with columns of ash, fountains of lava, and a complete remaking of the terrain.",
+      "sense_note": ""
+    },
+    {
+      "en": "eruption",
+      "pos": "noun",
+      "def_en": "A sudden release of hot rock ash and gas from a volcano.",
+      "example_en": "On land, a volcanic eruption is dramatic, with columns of ash, fountains of lava, and a complete remaking of the terrain.",
+      "sense_note": ""
+    },
+    {
+      "en": "pumice",
+      "pos": "noun",
+      "def_en": "A very light grey rock full of air holes formed from volcanic foam.",
+      "example_en": "By early June, satellite images showed that brownish-gray streaks, rafts of volcanic material called pumice, had begun to surround the Admiralty Islands.",
+      "sense_note": ""
+    },
+    {
+      "en": "submarine",
+      "pos": "noun",
+      "def_en": "Existing or happening below the surface of the sea.",
+      "example_en": "A secret submarine eruption made its presence known in the Bismarck Sea near Papua New Guinea.",
+      "sense_note": ""
+    },
+    {
+      "en": "ridge",
+      "pos": "noun",
+      "def_en": "A long narrow raised area such as a line of mountains or hills underwater.",
+      "example_en": "The eruption is likely located along the Titan Ridge, a volcanic area that last saw an eruption in nineteen seventy-two.",
+      "sense_note": ""
+    },
+    {
+      "en": "magma",
+      "pos": "noun",
+      "def_en": "Hot liquid rock below the surface of the Earth.",
+      "example_en": "If the magma contains enough gas and the eruption is shallow enough, the pumice can float up to the ocean surface, where it can linger for years.",
+      "sense_note": ""
+    },
+    {
+      "en": "swarm",
+      "pos": "noun",
+      "def_en": "A large group of things moving together such as a swarm of earthquakes.",
+      "example_en": "The first hint came from a small swarm of earthquakes in early May, and NASA satellites spotted steamy volcanic plumes and discolored water the next day.",
+      "sense_note": ""
+    },
+    {
+      "en": "satellite",
+      "pos": "noun",
+      "def_en": "A machine sent into space that orbits the Earth to collect information.",
+      "example_en": "By early June, satellite images showed that brownish-gray streaks, rafts of volcanic material called pumice, had begun to surround the Admiralty Islands.",
+      "sense_note": ""
+    },
+    {
+      "en": "survey",
+      "pos": "verb",
+      "def_en": "To carefully examine and measure an area or situation.",
+      "example_en": "On land, a volcanic eruption is dramatic, with columns of ash, fountains of lava, and a complete remaking of the terrain.",
+      "sense_note": ""
+    },
+    {
+      "en": "crater",
+      "pos": "noun",
+      "def_en": "A large bowl-shaped hole especially at the top of a volcano.",
+      "example_en": "They may find a new cone, a new crater, or pillow lava, rounded bulbous forms that you almost never see on land.",
+      "sense_note": ""
+    }
+  ]
+}

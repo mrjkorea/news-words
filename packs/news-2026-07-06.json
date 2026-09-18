@@ -1,0 +1,81 @@
+{
+  "date": "2026-07-06",
+  "timezone": "KST",
+  "headline": "2026 07 06",
+  "youtube_title": "2026 07 06",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0706.txt",
+  "words": [
+    {
+      "en": "resignation",
+      "pos": "verb",
+      "def_en": "The act of officially leaving a job or position of power",
+      "example_en": "Today's news uses the word resignation.",
+      "sense_note": ""
+    },
+    {
+      "en": "prime",
+      "pos": "noun",
+      "def_en": "First in importance rank or quality",
+      "example_en": "Today's news uses the word prime.",
+      "sense_note": ""
+    },
+    {
+      "en": "minister",
+      "pos": "noun",
+      "def_en": "A senior government official in charge of a department",
+      "example_en": "Today's news uses the word minister.",
+      "sense_note": ""
+    },
+    {
+      "en": "parliament",
+      "pos": "noun",
+      "def_en": "The group of people who make laws for a country",
+      "example_en": "Today's news uses the word parliament.",
+      "sense_note": ""
+    },
+    {
+      "en": "crisis",
+      "pos": "noun",
+      "def_en": "A time of great danger difficulty or uncertainty",
+      "example_en": "Today's news uses the word crisis.",
+      "sense_note": ""
+    },
+    {
+      "en": "candidate",
+      "pos": "noun",
+      "def_en": "A person who is competing for a position or office",
+      "example_en": "Today's news uses the word candidate.",
+      "sense_note": ""
+    },
+    {
+      "en": "cabinet",
+      "pos": "noun",
+      "def_en": "The group of senior ministers who advise the head of government",
+      "example_en": "Today's news uses the word cabinet.",
+      "sense_note": ""
+    },
+    {
+      "en": "govern",
+      "pos": "verb",
+      "def_en": "To officially control and manage a country or organization",
+      "example_en": "Today's news uses the word govern.",
+      "sense_note": ""
+    },
+    {
+      "en": "mandate",
+      "pos": "noun",
+      "def_en": "The authority given to a leader by the people who elected them",
+      "example_en": "Today's news uses the word mandate.",
+      "sense_note": ""
+    },
+    {
+      "en": "scandal",
+      "pos": "noun",
+      "def_en": "An event that causes public shock and damage to someone's reputation",
+      "example_en": "Today's news uses the word scandal.",
+      "sense_note": ""
+    }
+  ]
+}

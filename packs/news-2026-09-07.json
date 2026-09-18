@@ -1,0 +1,81 @@
+{
+  "date": "2026-09-07",
+  "timezone": "KST",
+  "headline": "LUX-ZEPLIN detector records one high-energy flash that could be dark matter",
+  "youtube_title": "LUX-ZEPLIN detector records one high-energy flash that could be dark matter",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0907.txt",
+  "words": [
+    {
+      "en": "detector",
+      "pos": "noun",
+      "def_en": "A device that senses particles or signals",
+      "example_en": "Physicists are buzzing about a single energetic flash inside the LUX-ZEPLIN experiment in South Dakota.",
+      "sense_note": ""
+    },
+    {
+      "en": "xenon",
+      "pos": "noun",
+      "def_en": "A heavy noble gas used in physics experiments",
+      "example_en": "Nature reports that ten tonnes of ultra-pure liquid xenon recorded an unusual signal sometime in twenty twenty-three or twenty twenty-four.",
+      "sense_note": ""
+    },
+    {
+      "en": "particle",
+      "pos": "noun",
+      "def_en": "A very small piece of matter",
+      "example_en": "The flash looked like what might happen if an invisible dark-matter particle struck a xenon nucleus.",
+      "sense_note": ""
+    },
+    {
+      "en": "collision",
+      "pos": "noun",
+      "def_en": "When two objects hit each other",
+      "example_en": "Physicists are buzzing about a single energetic flash inside the LUX-ZEPLIN experiment in South Dakota.",
+      "sense_note": ""
+    },
+    {
+      "en": "nucleus",
+      "pos": "noun",
+      "def_en": "The dense center of an atom",
+      "example_en": "The flash looked like what might happen if an invisible dark-matter particle struck a xenon nucleus.",
+      "sense_note": ""
+    },
+    {
+      "en": "underground",
+      "pos": "noun",
+      "def_en": "Below the surface of the ground",
+      "example_en": "Physicists are buzzing about a single energetic flash inside the LUX-ZEPLIN experiment in South Dakota.",
+      "sense_note": ""
+    },
+    {
+      "en": "experiment",
+      "pos": "noun",
+      "def_en": "A controlled test to learn something new",
+      "example_en": "Physicists are buzzing about a single energetic flash inside the LUX-ZEPLIN experiment in South Dakota.",
+      "sense_note": ""
+    },
+    {
+      "en": "signal",
+      "pos": "noun",
+      "def_en": "A sign or measurement that carries information",
+      "example_en": "Nature reports that ten tonnes of ultra-pure liquid xenon recorded an unusual signal sometime in twenty twenty-three or twenty twenty-four.",
+      "sense_note": ""
+    },
+    {
+      "en": "invisible",
+      "pos": "noun",
+      "def_en": "Unable to be seen with the eyes",
+      "example_en": "The flash looked like what might happen if an invisible dark-matter particle struck a xenon nucleus.",
+      "sense_note": ""
+    },
+    {
+      "en": "galaxy",
+      "pos": "noun",
+      "def_en": "A huge system of stars gas and dark matter",
+      "example_en": "Physicists are buzzing about a single energetic flash inside the LUX-ZEPLIN experiment in South Dakota.",
+      "sense_note": ""
+    }
+  ]
+}

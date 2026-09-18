@@ -1,0 +1,81 @@
+{
+  "date": "2026-08-07",
+  "timezone": "KST",
+  "headline": "2026 08 07",
+  "youtube_title": "2026 08 07",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0807.txt",
+  "words": [
+    {
+      "en": "protein",
+      "pos": "noun",
+      "def_en": "A large molecule in living things made of amino acids needed for structure and function.",
+      "example_en": "A protein that emerged long before animals developed circulatory systems may influence whether cancer immunotherapy succeeds.",
+      "sense_note": ""
+    },
+    {
+      "en": "immunotherapy",
+      "pos": "noun",
+      "def_en": "A treatment that helps the body's immune system fight disease such as cancer.",
+      "example_en": "A protein that emerged long before animals developed circulatory systems may influence whether cancer immunotherapy succeeds.",
+      "sense_note": ""
+    },
+    {
+      "en": "tumor",
+      "pos": "noun",
+      "def_en": "An abnormal growth of cells in the body.",
+      "example_en": "Researchers at Nagoya University in Japan found that a protein called complement C three helps keep immunosuppressive cells out of tumors, but only when the protein is produced within the tumor itself.",
+      "sense_note": ""
+    },
+    {
+      "en": "immune",
+      "pos": "noun",
+      "def_en": "Protected against disease by the body's defense system.",
+      "example_en": "By limiting these cells, local C three gives the immune system a better opportunity to attack the cancer.",
+      "sense_note": ""
+    },
+    {
+      "en": "circulate",
+      "pos": "verb",
+      "def_en": "To move continuously through a system such as blood through the body.",
+      "example_en": "A protein that emerged long before animals developed circulatory systems may influence whether cancer immunotherapy succeeds.",
+      "sense_note": ""
+    },
+    {
+      "en": "fibroblast",
+      "pos": "noun",
+      "def_en": "A cell in connective tissue that helps build and repair body structures.",
+      "example_en": "A protein that emerged long before animals developed circulatory systems may influence whether cancer immunotherapy succeeds.",
+      "sense_note": ""
+    },
+    {
+      "en": "suppress",
+      "pos": "verb",
+      "def_en": "To stop or reduce something from happening or growing.",
+      "example_en": "A protein that emerged long before animals developed circulatory systems may influence whether cancer immunotherapy succeeds.",
+      "sense_note": ""
+    },
+    {
+      "en": "resistant",
+      "pos": "noun",
+      "def_en": "Not easily affected or harmed by something.",
+      "example_en": "A protein that emerged long before animals developed circulatory systems may influence whether cancer immunotherapy succeeds.",
+      "sense_note": ""
+    },
+    {
+      "en": "antibody",
+      "pos": "noun",
+      "def_en": "A protein produced by the immune system to fight specific invaders.",
+      "example_en": "A protein that emerged long before animals developed circulatory systems may influence whether cancer immunotherapy succeeds.",
+      "sense_note": ""
+    },
+    {
+      "en": "fragment",
+      "pos": "noun",
+      "def_en": "A small piece broken off from something larger.",
+      "example_en": "A protein that emerged long before animals developed circulatory systems may influence whether cancer immunotherapy succeeds.",
+      "sense_note": ""
+    }
+  ]
+}

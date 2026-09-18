@@ -1,0 +1,81 @@
+{
+  "date": "2026-06-29",
+  "timezone": "KST",
+  "headline": "2026 06 29",
+  "youtube_title": "2026 06 29",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0629.txt",
+  "words": [
+    {
+      "en": "microbial",
+      "pos": "noun",
+      "def_en": "relating to or caused by very small living things (microbes)",
+      "example_en": "Today's news uses the word microbial.",
+      "sense_note": ""
+    },
+    {
+      "en": "organic",
+      "pos": "noun",
+      "def_en": "coming from living matter; containing carbon compounds",
+      "example_en": "Today's news uses the word organic.",
+      "sense_note": ""
+    },
+    {
+      "en": "carbon",
+      "pos": "noun",
+      "def_en": "a chemical element found in all living things and organic compounds",
+      "example_en": "Today's news uses the word carbon.",
+      "sense_note": ""
+    },
+    {
+      "en": "molecule",
+      "pos": "noun",
+      "def_en": "the smallest unit of a chemical compound made of two or more atoms",
+      "example_en": "Today's news uses the word molecule.",
+      "sense_note": ""
+    },
+    {
+      "en": "biosignature",
+      "pos": "noun",
+      "def_en": "a chemical or physical marker that indicates past or present life",
+      "example_en": "Today's news uses the word biosignature.",
+      "sense_note": ""
+    },
+    {
+      "en": "canyon",
+      "pos": "noun",
+      "def_en": "a deep valley with steep sides carved by a river or water",
+      "example_en": "Today's news uses the word canyon.",
+      "sense_note": ""
+    },
+    {
+      "en": "sediment",
+      "pos": "noun",
+      "def_en": "small particles of rock and soil that settle at the bottom of liquid",
+      "example_en": "Today's news uses the word sediment.",
+      "sense_note": ""
+    },
+    {
+      "en": "delta",
+      "pos": "noun",
+      "def_en": "a fan-shaped area where a river splits before reaching the sea",
+      "example_en": "Today's news uses the word delta.",
+      "sense_note": ""
+    },
+    {
+      "en": "habitable",
+      "pos": "noun",
+      "def_en": "suitable or good enough to live in",
+      "example_en": "Today's news uses the word habitable.",
+      "sense_note": ""
+    },
+    {
+      "en": "fossilized",
+      "pos": "noun",
+      "def_en": "preserved and turned into stone over millions of years",
+      "example_en": "Today's news uses the word fossilized.",
+      "sense_note": ""
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "date": "2026-09-14",
+  "timezone": "KST",
+  "headline": "IBM and NASA release an open-source artificial intelligence model to map the Moon",
+  "youtube_title": "IBM and NASA release an open-source artificial intelligence model to map the Moon",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0914.txt",
+  "words": [
+    {
+      "en": "foundation",
+      "pos": "noun",
+      "def_en": "The basic idea or base that something is built on",
+      "example_en": "It is one of the first publicly available foundation models built for scientific exploration of the Moon.",
+      "sense_note": ""
+    },
+    {
+      "en": "model",
+      "pos": "noun",
+      "def_en": "A computer program that learns patterns from examples",
+      "example_en": "IBM and NASA have released a new open-source artificial intelligence model for studying the Moon.",
+      "sense_note": ""
+    },
+    {
+      "en": "crater",
+      "pos": "noun",
+      "def_en": "A large round hole in the ground or on a planet",
+      "example_en": "IBM and NASA have released a new open-source artificial intelligence model for studying the Moon.",
+      "sense_note": ""
+    },
+    {
+      "en": "volcanic",
+      "pos": "noun",
+      "def_en": "Related to volcanoes and hot melted rock",
+      "example_en": "Over billions of years its surface has collected craters, spread ice into cold shadows, and produced volcanic rock.",
+      "sense_note": ""
+    },
+    {
+      "en": "satellite",
+      "pos": "noun",
+      "def_en": "A machine that travels around a planet in space",
+      "example_en": "IBM and NASA have released a new open-source artificial intelligence model for studying the Moon.",
+      "sense_note": ""
+    },
+    {
+      "en": "dataset",
+      "pos": "noun",
+      "def_en": "A large organized collection of information",
+      "example_en": "The team also shared the first open lunar dataset of its kind, bringing together more than thirty aligned layers from nine instruments across four missions, including data from the Japanese Kaguya spacecraft.",
+      "sense_note": ""
+    },
+    {
+      "en": "mission",
+      "pos": "noun",
+      "def_en": "An important planned job or trip into space",
+      "example_en": "IBM and NASA have released a new open-source artificial intelligence model for studying the Moon.",
+      "sense_note": ""
+    },
+    {
+      "en": "surface",
+      "pos": "noun",
+      "def_en": "The outside or top layer of something",
+      "example_en": "The model was trained on decades of lunar observations collected by many different instruments, and it helps researchers turn a huge amount of data into clear scientific answers about the surface of the Moon.",
+      "sense_note": ""
+    },
+    {
+      "en": "resolution",
+      "pos": "noun",
+      "def_en": "How much small detail an image or screen shows",
+      "example_en": "IBM and NASA have released a new open-source artificial intelligence model for studying the Moon.",
+      "sense_note": ""
+    },
+    {
+      "en": "discover",
+      "pos": "verb",
+      "def_en": "To find something that was not known before",
+      "example_en": "IBM and NASA have released a new open-source artificial intelligence model for studying the Moon.",
+      "sense_note": ""
+    }
+  ]
+}

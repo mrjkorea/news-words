@@ -1,0 +1,81 @@
+{
+  "date": "2026-09-10",
+  "timezone": "KST",
+  "headline": "Injectable hydrogel from University at Buffalo could keep arthritis drugs working for weeks",
+  "youtube_title": "Injectable hydrogel from University at Buffalo could keep arthritis drugs working for weeks",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0910.txt",
+  "words": [
+    {
+      "en": "arthritis",
+      "pos": "noun",
+      "def_en": "A disease that causes painful stiff joints",
+      "example_en": "For English learners, this health story connects words like injection, lubrication, and symptom with a real attempt to make arthritis care last longer.",
+      "sense_note": ""
+    },
+    {
+      "en": "injection",
+      "pos": "noun",
+      "def_en": "Medicine put into the body with a needle",
+      "example_en": "For English learners, this health story connects words like injection, lubrication, and symptom with a real attempt to make arthritis care last longer.",
+      "sense_note": ""
+    },
+    {
+      "en": "hydrogel",
+      "pos": "noun",
+      "def_en": "A water-based gel that can hold and release drugs",
+      "example_en": "Scientists at the University at Buffalo say a new injectable hydrogel could change how osteoarthritis is treated.",
+      "sense_note": ""
+    },
+    {
+      "en": "joint",
+      "pos": "noun",
+      "def_en": "A place where two bones meet and move",
+      "example_en": "ScienceDaily reports that the material starts as a liquid, then turns into a smooth semisolid depot inside the joint at body temperature.",
+      "sense_note": ""
+    },
+    {
+      "en": "lubrication",
+      "pos": "noun",
+      "def_en": "A slippery layer that reduces friction",
+      "example_en": "The gel also improves lubrication, which could help stiff, painful knees move more smoothly during daily activity.",
+      "sense_note": ""
+    },
+    {
+      "en": "cartilage",
+      "pos": "noun",
+      "def_en": "Smooth tissue that cushions bones in a joint",
+      "example_en": "Small-molecule drugs and biologics can also wash out of synovial fluid fast, limiting how much medicine actually reaches damaged cartilage.",
+      "sense_note": ""
+    },
+    {
+      "en": "therapy",
+      "pos": "noun",
+      "def_en": "Treatment meant to improve health",
+      "example_en": "If trials succeed, one shot could mean weeks of targeted therapy instead of repeated appointments.",
+      "sense_note": ""
+    },
+    {
+      "en": "depot",
+      "pos": "noun",
+      "def_en": "A storage place where material is held for later use",
+      "example_en": "ScienceDaily reports that the material starts as a liquid, then turns into a smooth semisolid depot inside the joint at body temperature.",
+      "sense_note": ""
+    },
+    {
+      "en": "biologic",
+      "pos": "noun",
+      "def_en": "A medicine made from living cells or proteins",
+      "example_en": "Scientists at the University at Buffalo say a new injectable hydrogel could change how osteoarthritis is treated.",
+      "sense_note": ""
+    },
+    {
+      "en": "symptom",
+      "pos": "noun",
+      "def_en": "A sign of illness that a patient feels",
+      "example_en": "For English learners, this health story connects words like injection, lubrication, and symptom with a real attempt to make arthritis care last longer.",
+      "sense_note": ""
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "date": "2026-06-25",
+  "timezone": "KST",
+  "headline": "2026 06 25",
+  "youtube_title": "2026 06 25",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0625.txt",
+  "words": [
+    {
+      "en": "medication",
+      "pos": "noun",
+      "def_en": "a drug or medicine used for medical treatment",
+      "example_en": "Today's news uses the word medication.",
+      "sense_note": ""
+    },
+    {
+      "en": "significant",
+      "pos": "noun",
+      "def_en": "important",
+      "example_en": "Today's news uses the word significant.",
+      "sense_note": ""
+    },
+    {
+      "en": "likelihood",
+      "pos": "noun",
+      "def_en": "the chance or probability that something will happen",
+      "example_en": "Today's news uses the word likelihood.",
+      "sense_note": ""
+    },
+    {
+      "en": "observational",
+      "pos": "noun",
+      "def_en": "based on watching and recording",
+      "example_en": "Today's news uses the word observational.",
+      "sense_note": ""
+    },
+    {
+      "en": "definitively",
+      "pos": "adverb",
+      "def_en": "in a way that is certain",
+      "example_en": "Today's news uses the word definitively.",
+      "sense_note": ""
+    },
+    {
+      "en": "prevention",
+      "pos": "verb",
+      "def_en": "the act of stopping something from happening before it starts",
+      "example_en": "Today's news uses the word prevention.",
+      "sense_note": ""
+    },
+    {
+      "en": "incidence",
+      "pos": "noun",
+      "def_en": "the number of new cases of a disease in a specific population",
+      "example_en": "Today's news uses the word incidence.",
+      "sense_note": ""
+    },
+    {
+      "en": "inflammation",
+      "pos": "noun",
+      "def_en": "redness",
+      "example_en": "Today's news uses the word inflammation.",
+      "sense_note": ""
+    },
+    {
+      "en": "mechanism",
+      "pos": "noun",
+      "def_en": "the way something works — the process or system behind an effect",
+      "example_en": "Today's news uses the word mechanism.",
+      "sense_note": ""
+    },
+    {
+      "en": "clinical",
+      "pos": "noun",
+      "def_en": "relating to the treatment and observation of real patients",
+      "example_en": "Today's news uses the word clinical.",
+      "sense_note": ""
+    }
+  ]
+}

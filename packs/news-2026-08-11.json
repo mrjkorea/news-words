@@ -1,0 +1,81 @@
+{
+  "date": "2026-08-11",
+  "timezone": "KST",
+  "headline": "UCLA scientists discover how to guide heat like light at room temperature",
+  "youtube_title": "UCLA scientists discover how to guide heat like light at room temperature",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0811.txt",
+  "words": [
+    {
+      "en": "crystal",
+      "pos": "noun",
+      "def_en": "A solid material with a regular",
+      "example_en": "Scientists at the University of California, Los Angeles have discovered that heat can move through a crystal in focused, wave-like rays at room temperature instead of spreading randomly.",
+      "sense_note": ""
+    },
+    {
+      "en": "phonon",
+      "pos": "noun",
+      "def_en": "A unit of vibration that carries heat through a material.",
+      "example_en": "This type of heat transport, called phonon focusing, had only been seen before at extremely cold temperatures.",
+      "sense_note": ""
+    },
+    {
+      "en": "temperature",
+      "pos": "noun",
+      "def_en": "A measure of how hot or cold something is.",
+      "example_en": "Scientists at the University of California, Los Angeles have discovered that heat can move through a crystal in focused, wave-like rays at room temperature instead of spreading randomly.",
+      "sense_note": ""
+    },
+    {
+      "en": "conductivity",
+      "pos": "noun",
+      "def_en": "The ability of a material to allow heat or electricity to flow through it.",
+      "example_en": "His team observed phonon focusing in boron arsenide, a crystalline semiconductor known for its high thermal conductivity.",
+      "sense_note": ""
+    },
+    {
+      "en": "semiconductor",
+      "pos": "noun",
+      "def_en": "A material that conducts electricity better than an insulator but less than a metal.",
+      "example_en": "His team observed phonon focusing in boron arsenide, a crystalline semiconductor known for its high thermal conductivity.",
+      "sense_note": ""
+    },
+    {
+      "en": "nanoscale",
+      "pos": "noun",
+      "def_en": "At a size measured in nanometers",
+      "example_en": "To see this behavior, the researchers created a technique for mapping temperature at the nanoscale.",
+      "sense_note": ""
+    },
+    {
+      "en": "scatter",
+      "pos": "verb",
+      "def_en": "To spread in many different directions.",
+      "example_en": "Scientists at the University of California, Los Angeles have discovered that heat can move through a crystal in focused, wave-like rays at room temperature instead of spreading randomly.",
+      "sense_note": ""
+    },
+    {
+      "en": "quantum",
+      "pos": "noun",
+      "def_en": "Related to the smallest possible units of energy and matter.",
+      "example_en": "The discovery could make it possible to route heat around sensitive parts of next-generation computer chips and quantum devices.",
+      "sense_note": ""
+    },
+    {
+      "en": "thermal",
+      "pos": "noun",
+      "def_en": "Related to heat.",
+      "example_en": "His team observed phonon focusing in boron arsenide, a crystalline semiconductor known for its high thermal conductivity.",
+      "sense_note": ""
+    },
+    {
+      "en": "route",
+      "pos": "noun",
+      "def_en": "A path or way that something travels.",
+      "example_en": "The discovery could make it possible to route heat around sensitive parts of next-generation computer chips and quantum devices.",
+      "sense_note": ""
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "date": "2026-07-13",
+  "timezone": "KST",
+  "headline": "2026 07 13",
+  "youtube_title": "2026 07 13",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0713.txt",
+  "words": [
+    {
+      "en": "missile",
+      "pos": "noun",
+      "def_en": "A weapon that is sent through the air toward a target.",
+      "example_en": "Today's news uses the word missile.",
+      "sense_note": ""
+    },
+    {
+      "en": "drone",
+      "pos": "noun",
+      "def_en": "An aircraft that is controlled remotely and has no pilot inside.",
+      "example_en": "Today's news uses the word drone.",
+      "sense_note": ""
+    },
+    {
+      "en": "escalation",
+      "pos": "noun",
+      "def_en": "An increase in the seriousness or intensity of a conflict.",
+      "example_en": "Today's news uses the word escalation.",
+      "sense_note": ""
+    },
+    {
+      "en": "strike",
+      "pos": "noun",
+      "def_en": "An attack; especially by military forces.",
+      "example_en": "Today's news uses the word strike.",
+      "sense_note": ""
+    },
+    {
+      "en": "defence",
+      "pos": "noun",
+      "def_en": "The action or systems used to protect a country or place from attack.",
+      "example_en": "Today's news uses the word defence.",
+      "sense_note": ""
+    },
+    {
+      "en": "shrapnel",
+      "pos": "noun",
+      "def_en": "Small sharp pieces of metal thrown out by an explosion.",
+      "example_en": "Today's news uses the word shrapnel.",
+      "sense_note": ""
+    },
+    {
+      "en": "intercept",
+      "pos": "verb",
+      "def_en": "To stop or catch something before it reaches its target.",
+      "example_en": "Today's news uses the word intercept.",
+      "sense_note": ""
+    },
+    {
+      "en": "navigation",
+      "pos": "verb",
+      "def_en": "The process of planning and controlling the route of a ship or aircraft.",
+      "example_en": "Today's news uses the word navigation.",
+      "sense_note": ""
+    },
+    {
+      "en": "strategic",
+      "pos": "noun",
+      "def_en": "Related to a plan that is important for achieving a major goal.",
+      "example_en": "Today's news uses the word strategic.",
+      "sense_note": ""
+    },
+    {
+      "en": "diplomacy",
+      "pos": "noun",
+      "def_en": "The management of relations and negotiations between countries.",
+      "example_en": "Today's news uses the word diplomacy.",
+      "sense_note": ""
+    }
+  ]
+}

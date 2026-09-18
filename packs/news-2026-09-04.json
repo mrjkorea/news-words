@@ -1,0 +1,81 @@
+{
+  "date": "2026-09-04",
+  "timezone": "KST",
+  "headline": "Samsung launches the Galaxy S26 FE packed with Galaxy AI tools",
+  "youtube_title": "Samsung launches the Galaxy S26 FE packed with Galaxy AI tools",
+  "youtube_url": "",
+  "word_count": 10,
+  "source_quizlet": "quizlet_0904.txt",
+  "words": [
+    {
+      "en": "galaxy",
+      "pos": "noun",
+      "def_en": "Samsung's brand name for its main smartphone line",
+      "example_en": "Samsung has unveiled the Galaxy S twenty-six F E, a cheaper phone packed with Galaxy AI.",
+      "sense_note": ""
+    },
+    {
+      "en": "feature",
+      "pos": "noun",
+      "def_en": "A tool or function that a product offers",
+      "example_en": "Samsung has unveiled the Galaxy S twenty-six F E, a cheaper phone packed with Galaxy AI.",
+      "sense_note": ""
+    },
+    {
+      "en": "assistant",
+      "pos": "noun",
+      "def_en": "Software that helps you write - call - or search",
+      "example_en": "Samsung has unveiled the Galaxy S twenty-six F E, a cheaper phone packed with Galaxy AI.",
+      "sense_note": ""
+    },
+    {
+      "en": "camera",
+      "pos": "noun",
+      "def_en": "The part of a phone that takes photos and video",
+      "example_en": "The main camera is fifty megapixels.",
+      "sense_note": ""
+    },
+    {
+      "en": "launch",
+      "pos": "noun",
+      "def_en": "The official day a product goes on sale",
+      "example_en": "The company showed it on August twenty-seventh, with a September fourth launch.",
+      "sense_note": ""
+    },
+    {
+      "en": "software",
+      "pos": "noun",
+      "def_en": "The programs that run on a phone or computer",
+      "example_en": "For many buyers, the story is software, not a brand-new body.",
+      "sense_note": ""
+    },
+    {
+      "en": "processor",
+      "pos": "noun",
+      "def_en": "The main chip that runs a phone's calculations",
+      "example_en": "It uses Samsung's Exynos twenty-five hundred processor.",
+      "sense_note": ""
+    },
+    {
+      "en": "interpreter",
+      "pos": "noun",
+      "def_en": "A tool that turns speech from one language into another",
+      "example_en": "Galaxy AI on this model includes Call Assist, Writing Assist, Interpreter, Photo Assist, and Audio Eraser.",
+      "sense_note": ""
+    },
+    {
+      "en": "update",
+      "pos": "noun",
+      "def_en": "A new version of software that adds fixes or features",
+      "example_en": "Samsung has unveiled the Galaxy S twenty-six F E, a cheaper phone packed with Galaxy AI.",
+      "sense_note": ""
+    },
+    {
+      "en": "smartphone",
+      "pos": "noun",
+      "def_en": "A handheld computer that makes calls and runs apps",
+      "example_en": "Samsung has unveiled the Galaxy S twenty-six F E, a cheaper phone packed with Galaxy AI.",
+      "sense_note": ""
+    }
+  ]
+}
