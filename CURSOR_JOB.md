@@ -12,7 +12,7 @@ words: [{en, pos, def_en, example_en, sense_note}]
 English defs only. No Korean/IPA in JSON.
 
 STUDENT PATH:
-1. Index lists every date + headline + the 10 words. Mobile-first. Tap a day.
+1. days.html lists dates only (newest first). Mobile-first. Whole row is the tap.
 2. Deep link ?date=YYYY-MM-DD opens THAT pack only. No pack picker. Not Nouns 1–100.
 3. Flow: Meet → Learn → Dictation → Write. Score this visit only. Button 다시 풀기.
 4. No sign-in. No cookies-consent analytics. localStorage for today’s score/attempts only.
@@ -22,12 +22,12 @@ STUDENT PATH:
 REFERENCE (read-only, do NOT copy nouns100 into this repo):
 /Users/andreclouthier/.hermes/projects/mrj-word-master-web
 
-GEO/AEO on index.html (plain HTML, not JS-only content):
+GEO/AEO on days.html (JSON-LD only — keep the visible page sparse):
 - Brand: Mr. Jay / MRJ English
 - JSON-LD EducationalOrganization name "MRJ English", areaServed "Tongyeong, South Korea"
-- EN entity sentence verbatim: "Private English tutor with 25+ years of ESL experience specializing in structured reading programs and systematic grammar building."
-- Official link: https://mrjkorea.learnworlds.com
-- Conversational title/h1: Daily ESL News word practice (free, no sign-in)
+- EN entity sentence verbatim in JSON-LD: "Private English tutor with 25+ years of ESL experience specializing in structured reading programs and systematic grammar building."
+- url: https://mrjkorea.github.io/news-words/  (NEVER LearnWorlds)
+- Visible page: title + “Tap a day” + big date taps. No bio essay. No extra links.
 
 README.md: how a bot adds a new weekday JSON + index row.
 
