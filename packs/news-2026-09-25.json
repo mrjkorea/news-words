@@ -1,0 +1,191 @@
+{
+  "id": "news-2026-09-25",
+  "title": "The Los Angeles Dodgers clinch another division title and chase a three-peat",
+  "date": "2026-09-25",
+  "timezone": "KST",
+  "headline": "The Los Angeles Dodgers clinch another division title and chase a three-peat",
+  "youtube_url": "",
+  "word_count": 10,
+  "words": [
+    {
+      "id": "division",
+      "en": "division",
+      "pos": "noun",
+      "ko": "A group of teams in a league that compete against each other for one place in the playoffs.",
+      "l1": {
+        "en": "A group of teams in a league that compete against each other for one place in the playoffs."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A group of teams in a league that compete against each other for one place in the playoffs."
+        },
+        "example": {
+          "en": ""
+        }
+      }
+    },
+    {
+      "id": "championship",
+      "en": "championship",
+      "pos": "noun",
+      "ko": "A competition to decide the best team or player.",
+      "l1": {
+        "en": "A competition to decide the best team or player."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A competition to decide the best team or player."
+        },
+        "example": {
+          "en": ""
+        }
+      }
+    },
+    {
+      "id": "playoff",
+      "en": "playoff",
+      "pos": "noun",
+      "ko": "An extra game or series played at the end of a season to decide the winner.",
+      "l1": {
+        "en": "An extra game or series played at the end of a season to decide the winner."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "An extra game or series played at the end of a season to decide the winner."
+        },
+        "example": {
+          "en": ""
+        }
+      }
+    },
+    {
+      "id": "season",
+      "en": "season",
+      "pos": "noun",
+      "ko": "The period of the year when a sport is played.",
+      "l1": {
+        "en": "The period of the year when a sport is played."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The period of the year when a sport is played."
+        },
+        "example": {
+          "en": ""
+        }
+      }
+    },
+    {
+      "id": "teammate",
+      "en": "teammate",
+      "pos": "noun",
+      "ko": "A person who plays on the same team as you.",
+      "l1": {
+        "en": "A person who plays on the same team as you."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A person who plays on the same team as you."
+        },
+        "example": {
+          "en": ""
+        }
+      }
+    },
+    {
+      "id": "record",
+      "en": "record",
+      "pos": "noun",
+      "ko": "The best result ever achieved or a written note of facts.",
+      "l1": {
+        "en": "The best result ever achieved or a written note of facts."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The best result ever achieved or a written note of facts."
+        },
+        "example": {
+          "en": ""
+        }
+      }
+    },
+    {
+      "id": "victory",
+      "en": "victory",
+      "pos": "noun",
+      "ko": "The act of winning a game or battle or competition.",
+      "l1": {
+        "en": "The act of winning a game or battle or competition."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The act of winning a game or battle or competition."
+        },
+        "example": {
+          "en": ""
+        }
+      }
+    },
+    {
+      "id": "opponent",
+      "en": "opponent",
+      "pos": "noun",
+      "ko": "The person or team you are competing against.",
+      "l1": {
+        "en": "The person or team you are competing against."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The person or team you are competing against."
+        },
+        "example": {
+          "en": ""
+        }
+      }
+    },
+    {
+      "id": "postseason",
+      "en": "postseason",
+      "pos": "noun",
+      "ko": "The games played after the regular season ends.",
+      "l1": {
+        "en": "The games played after the regular season ends."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The games played after the regular season ends."
+        },
+        "example": {
+          "en": ""
+        }
+      }
+    },
+    {
+      "id": "rival",
+      "en": "rival",
+      "pos": "noun",
+      "ko": "A person or team you regularly compete against and want to beat.",
+      "l1": {
+        "en": "A person or team you regularly compete against and want to beat."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A person or team you regularly compete against and want to beat."
+        },
+        "example": {
+          "en": ""
+        }
+      }
+    }
+  ]
+}
