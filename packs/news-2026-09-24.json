@@ -1,0 +1,191 @@
+{
+  "id": "news-2026-09-24",
+  "title": "People with type 1 diabetes can run marathons safely, a new study finds",
+  "date": "2026-09-24",
+  "timezone": "KST",
+  "headline": "People with type 1 diabetes can run marathons safely, a new study finds",
+  "youtube_url": "",
+  "word_count": 10,
+  "words": [
+    {
+      "id": "diabetes",
+      "en": "diabetes",
+      "pos": "noun",
+      "ko": "A long term condition in which the body has trouble controlling sugar in the blood.",
+      "l1": {
+        "en": "A long term condition in which the body has trouble controlling sugar in the blood."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A long term condition in which the body has trouble controlling sugar in the blood."
+        },
+        "example": {
+          "en": ""
+        }
+      }
+    },
+    {
+      "id": "marathon",
+      "en": "marathon",
+      "pos": "noun",
+      "ko": "A running race of about forty-two kilometres.",
+      "l1": {
+        "en": "A running race of about forty-two kilometres."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A running race of about forty-two kilometres."
+        },
+        "example": {
+          "en": ""
+        }
+      }
+    },
+    {
+      "id": "glucose",
+      "en": "glucose",
+      "pos": "noun",
+      "ko": "A type of sugar that the body uses for energy.",
+      "l1": {
+        "en": "A type of sugar that the body uses for energy."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A type of sugar that the body uses for energy."
+        },
+        "example": {
+          "en": ""
+        }
+      }
+    },
+    {
+      "id": "insulin",
+      "en": "insulin",
+      "pos": "noun",
+      "ko": "A hormone that moves sugar from the blood into the cells.",
+      "l1": {
+        "en": "A hormone that moves sugar from the blood into the cells."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A hormone that moves sugar from the blood into the cells."
+        },
+        "example": {
+          "en": ""
+        }
+      }
+    },
+    {
+      "id": "monitor",
+      "en": "monitor",
+      "pos": "noun",
+      "ko": "To watch something carefully over time or a device that shows information.",
+      "l1": {
+        "en": "To watch something carefully over time or a device that shows information."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "To watch something carefully over time or a device that shows information."
+        },
+        "example": {
+          "en": ""
+        }
+      }
+    },
+    {
+      "id": "sensor",
+      "en": "sensor",
+      "pos": "noun",
+      "ko": "A small device that measures something and sends the information.",
+      "l1": {
+        "en": "A small device that measures something and sends the information."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A small device that measures something and sends the information."
+        },
+        "example": {
+          "en": ""
+        }
+      }
+    },
+    {
+      "id": "endurance",
+      "en": "endurance",
+      "pos": "noun",
+      "ko": "The ability to keep going through long or difficult activity.",
+      "l1": {
+        "en": "The ability to keep going through long or difficult activity."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The ability to keep going through long or difficult activity."
+        },
+        "example": {
+          "en": ""
+        }
+      }
+    },
+    {
+      "id": "athlete",
+      "en": "athlete",
+      "pos": "noun",
+      "ko": "A person who is trained in and takes part in sport.",
+      "l1": {
+        "en": "A person who is trained in and takes part in sport."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A person who is trained in and takes part in sport."
+        },
+        "example": {
+          "en": ""
+        }
+      }
+    },
+    {
+      "id": "condition",
+      "en": "condition",
+      "pos": "noun",
+      "ko": "A long term illness or medical state of the body.",
+      "l1": {
+        "en": "A long term illness or medical state of the body."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A long term illness or medical state of the body."
+        },
+        "example": {
+          "en": ""
+        }
+      }
+    },
+    {
+      "id": "treatment",
+      "en": "treatment",
+      "pos": "noun",
+      "ko": "Medical care given to cure or manage an illness.",
+      "l1": {
+        "en": "Medical care given to cure or manage an illness."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Medical care given to cure or manage an illness."
+        },
+        "example": {
+          "en": ""
+        }
+      }
+    }
+  ]
+}
