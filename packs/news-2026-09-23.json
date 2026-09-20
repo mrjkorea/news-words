@@ -1,0 +1,202 @@
+{
+  "id": "news-2026-09-23",
+  "title": "OpenAI releases GPT-6, its biggest new artificial intelligence model in years",
+  "band": "news",
+  "date": "2026-09-23",
+  "timezone": "KST",
+  "headline": "OpenAI releases GPT-6, its biggest new artificial intelligence model in years",
+  "youtube_url": "",
+  "word_count": 10,
+  "words": [
+    {
+      "id": "release",
+      "en": "release",
+      "pos": "noun",
+      "ko": "To make something new available for people to use.",
+      "l1": {
+        "en": "To make something new available for people to use."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "To make something new available for people to use."
+        },
+        "example": {
+          "en": ""
+        }
+      },
+      "picture_prompt": "Exactly one clear picture of release, candy picture-book oil-paint, one subject, no text no letters no numbers no watermark, no people"
+    },
+    {
+      "id": "model",
+      "en": "model",
+      "pos": "noun",
+      "ko": "A computer system trained to recognize patterns and produce answers.",
+      "l1": {
+        "en": "A computer system trained to recognize patterns and produce answers."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A computer system trained to recognize patterns and produce answers."
+        },
+        "example": {
+          "en": ""
+        }
+      },
+      "picture_prompt": "Exactly one clear picture of model, candy picture-book oil-paint, one subject, no text no letters no numbers no watermark, no people"
+    },
+    {
+      "id": "rollout",
+      "en": "rollout",
+      "pos": "noun",
+      "ko": "The process of making something available to more and more people over time.",
+      "l1": {
+        "en": "The process of making something available to more and more people over time."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The process of making something available to more and more people over time."
+        },
+        "example": {
+          "en": ""
+        }
+      },
+      "picture_prompt": "Exactly one clear picture of rollout, candy picture-book oil-paint, one subject, no text no letters no numbers no watermark, no people"
+    },
+    {
+      "id": "benchmark",
+      "en": "benchmark",
+      "pos": "noun",
+      "ko": "A standard test used to compare how well different systems perform.",
+      "l1": {
+        "en": "A standard test used to compare how well different systems perform."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A standard test used to compare how well different systems perform."
+        },
+        "example": {
+          "en": ""
+        }
+      },
+      "picture_prompt": "Exactly one clear picture of benchmark, candy picture-book oil-paint, one subject, no text no letters no numbers no watermark, no people"
+    },
+    {
+      "id": "artificial",
+      "en": "artificial",
+      "pos": "noun",
+      "ko": "Made by people rather than existing in nature.",
+      "l1": {
+        "en": "Made by people rather than existing in nature."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Made by people rather than existing in nature."
+        },
+        "example": {
+          "en": ""
+        }
+      },
+      "picture_prompt": "Exactly one clear picture of artificial, candy picture-book oil-paint, one subject, no text no letters no numbers no watermark, no people"
+    },
+    {
+      "id": "capability",
+      "en": "capability",
+      "pos": "noun",
+      "ko": "The power or skill to do something.",
+      "l1": {
+        "en": "The power or skill to do something."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The power or skill to do something."
+        },
+        "example": {
+          "en": ""
+        }
+      },
+      "picture_prompt": "Exactly one clear picture of capability, candy picture-book oil-paint, one subject, no text no letters no numbers no watermark, no people"
+    },
+    {
+      "id": "enterprise",
+      "en": "enterprise",
+      "pos": "noun",
+      "ko": "A large company or business organisation.",
+      "l1": {
+        "en": "A large company or business organisation."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A large company or business organisation."
+        },
+        "example": {
+          "en": ""
+        }
+      },
+      "picture_prompt": "Exactly one clear picture of enterprise, candy picture-book oil-paint, one subject, no text no letters no numbers no watermark, no people"
+    },
+    {
+      "id": "subscription",
+      "en": "subscription",
+      "pos": "noun",
+      "ko": "An agreement to pay regularly in order to keep using a service.",
+      "l1": {
+        "en": "An agreement to pay regularly in order to keep using a service."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "An agreement to pay regularly in order to keep using a service."
+        },
+        "example": {
+          "en": ""
+        }
+      },
+      "picture_prompt": "Exactly one clear picture of subscription, candy picture-book oil-paint, one subject, no text no letters no numbers no watermark, no people"
+    },
+    {
+      "id": "upgrade",
+      "en": "upgrade",
+      "pos": "noun",
+      "ko": "To move to a newer and better version of something.",
+      "l1": {
+        "en": "To move to a newer and better version of something."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "To move to a newer and better version of something."
+        },
+        "example": {
+          "en": ""
+        }
+      },
+      "picture_prompt": "Exactly one clear picture of upgrade, candy picture-book oil-paint, one subject, no text no letters no numbers no watermark, no people"
+    },
+    {
+      "id": "generate",
+      "en": "generate",
+      "pos": "noun",
+      "ko": "To produce or create something.",
+      "l1": {
+        "en": "To produce or create something."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "To produce or create something."
+        },
+        "example": {
+          "en": ""
+        }
+      },
+      "picture_prompt": "Exactly one clear picture of generate, candy picture-book oil-paint, one subject, no text no letters no numbers no watermark, no people"
+    }
+  ]
+}
