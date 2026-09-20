@@ -742,8 +742,8 @@
       await openPack(pid);
       return;
     }
-    renderHome();
-    showScreen("home");
+    // YouTube "All news words" and bare / must land on the date index.
+    window.location.replace("days.html");
   }
 
   function renderHome() {

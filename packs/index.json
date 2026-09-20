@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-09-22",
+    "date": "2026-09-22",
+    "title": "Scientists name the first new wild cat species in more than a century",
+    "wordCount": 10,
+    "data": "packs/news-2026-09-22.json",
+    "youtube_url": ""
+  },
+  {
+    "id": "2026-09-21",
+    "date": "2026-09-21",
+    "title": "Stanford Medicine finds the human brain is actually two separate organs",
+    "wordCount": 10,
+    "data": "packs/news-2026-09-21.json",
+    "youtube_url": ""
+  },
+  {
     "id": "2026-09-18",
     "date": "2026-09-18",
     "title": "A metal detectorist finds Finland's largest Viking Age silver hoard",
@@ -370,7 +386,7 @@
   {
     "id": "2026-07-09",
     "date": "2026-07-09",
-    "title": "South Korea’s New “Fake News” Law Raises Press Freedom Concerns",
+    "title": "South Korea\u2019s New \u201cFake News\u201d Law Raises Press Freedom Concerns",
     "wordCount": 10,
     "data": "packs/news-2026-07-09.json",
     "youtube_url": ""

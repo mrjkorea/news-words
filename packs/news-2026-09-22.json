@@ -1,0 +1,205 @@
+{
+  "id": "news-2026-09-22",
+  "title": "Scientists name the first new wild cat species in more than a century",
+  "band": "news",
+  "pos": "mixed",
+  "source": "Daily ESL News 2026-09-22",
+  "date": "2026-09-22",
+  "timezone": "KST",
+  "headline": "Scientists name the first new wild cat species in more than a century",
+  "youtube_title": "Scientists name the first new wild cat species in more than a century",
+  "youtube_url": "",
+  "word_count": 10,
+  "words": [
+    {
+      "id": "species",
+      "en": "species",
+      "pos": "noun",
+      "ko": "A group of living things that can have young together and are different from other groups.",
+      "l1": {
+        "en": "A group of living things that can have young together and are different from other groups."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A group of living things that can have young together and are different from other groups."
+        },
+        "example": {
+          "en": ""
+        }
+      },
+      "picture_prompt": "Exactly one clear picture of species, candy picture-book oil-paint, one subject, no text no letters no numbers no watermark, no people"
+    },
+    {
+      "id": "feline",
+      "en": "feline",
+      "pos": "noun",
+      "ko": "Relating to cats or a member of the cat family.",
+      "l1": {
+        "en": "Relating to cats or a member of the cat family."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Relating to cats or a member of the cat family."
+        },
+        "example": {
+          "en": ""
+        }
+      },
+      "picture_prompt": "Exactly one clear picture of feline, candy picture-book oil-paint, one subject, no text no letters no numbers no watermark, no people"
+    },
+    {
+      "id": "habitat",
+      "en": "habitat",
+      "pos": "noun",
+      "ko": "The natural home of an animal or plant.",
+      "l1": {
+        "en": "The natural home of an animal or plant."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The natural home of an animal or plant."
+        },
+        "example": {
+          "en": ""
+        }
+      },
+      "picture_prompt": "Exactly one clear picture of habitat, candy picture-book oil-paint, one subject, no text no letters no numbers no watermark, no people"
+    },
+    {
+      "id": "genetic",
+      "en": "genetic",
+      "pos": "noun",
+      "ko": "Relating to the D N A that parents pass to their children.",
+      "l1": {
+        "en": "Relating to the D N A that parents pass to their children."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Relating to the D N A that parents pass to their children."
+        },
+        "example": {
+          "en": ""
+        }
+      },
+      "picture_prompt": "Exactly one clear picture of genetic, candy picture-book oil-paint, one subject, no text no letters no numbers no watermark, no people"
+    },
+    {
+      "id": "rosette",
+      "en": "rosette",
+      "pos": "noun",
+      "ko": "A round marking shaped like a rose on the skin or fur of an animal.",
+      "l1": {
+        "en": "A round marking shaped like a rose on the skin or fur of an animal."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A round marking shaped like a rose on the skin or fur of an animal."
+        },
+        "example": {
+          "en": ""
+        }
+      },
+      "picture_prompt": "Exactly one clear picture of rosette, candy picture-book oil-paint, one subject, no text no letters no numbers no watermark, no people"
+    },
+    {
+      "id": "sanctuary",
+      "en": "sanctuary",
+      "pos": "noun",
+      "ko": "A safe place where wild animals are protected and cared for.",
+      "l1": {
+        "en": "A safe place where wild animals are protected and cared for."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A safe place where wild animals are protected and cared for."
+        },
+        "example": {
+          "en": ""
+        }
+      },
+      "picture_prompt": "Exactly one clear picture of sanctuary, candy picture-book oil-paint, one subject, no text no letters no numbers no watermark, no people"
+    },
+    {
+      "id": "lineage",
+      "en": "lineage",
+      "pos": "noun",
+      "ko": "A line of related living things going back through time.",
+      "l1": {
+        "en": "A line of related living things going back through time."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A line of related living things going back through time."
+        },
+        "example": {
+          "en": ""
+        }
+      },
+      "picture_prompt": "Exactly one clear picture of lineage, candy picture-book oil-paint, one subject, no text no letters no numbers no watermark, no people"
+    },
+    {
+      "id": "conservation",
+      "en": "conservation",
+      "pos": "noun",
+      "ko": "Careful protection of nature and animals and plants.",
+      "l1": {
+        "en": "Careful protection of nature and animals and plants."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Careful protection of nature and animals and plants."
+        },
+        "example": {
+          "en": ""
+        }
+      },
+      "picture_prompt": "Exactly one clear picture of conservation, candy picture-book oil-paint, one subject, no text no letters no numbers no watermark, no people"
+    },
+    {
+      "id": "extinction",
+      "en": "extinction",
+      "pos": "noun",
+      "ko": "The complete disappearance of a kind of animal or plant from the Earth.",
+      "l1": {
+        "en": "The complete disappearance of a kind of animal or plant from the Earth."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The complete disappearance of a kind of animal or plant from the Earth."
+        },
+        "example": {
+          "en": ""
+        }
+      },
+      "picture_prompt": "Exactly one clear picture of extinction, candy picture-book oil-paint, one subject, no text no letters no numbers no watermark, no people"
+    },
+    {
+      "id": "deforestation",
+      "en": "deforestation",
+      "pos": "noun",
+      "ko": "The cutting down of large areas of forest.",
+      "l1": {
+        "en": "The cutting down of large areas of forest."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The cutting down of large areas of forest."
+        },
+        "example": {
+          "en": ""
+        }
+      },
+      "picture_prompt": "Exactly one clear picture of deforestation, candy picture-book oil-paint, one subject, no text no letters no numbers no watermark, no people"
+    }
+  ]
+}

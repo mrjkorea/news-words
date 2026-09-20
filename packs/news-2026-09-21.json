@@ -1,0 +1,205 @@
+{
+  "id": "news-2026-09-21",
+  "title": "Stanford Medicine finds the human brain is actually two separate organs",
+  "band": "news",
+  "pos": "mixed",
+  "source": "Daily ESL News 2026-09-21",
+  "date": "2026-09-21",
+  "timezone": "KST",
+  "headline": "Stanford Medicine finds the human brain is actually two separate organs",
+  "youtube_title": "Stanford Medicine finds the human brain is actually two separate organs",
+  "youtube_url": "",
+  "word_count": 10,
+  "words": [
+    {
+      "id": "organ",
+      "en": "organ",
+      "pos": "noun",
+      "ko": "A part of the body that does a special job such as the heart or the brain.",
+      "l1": {
+        "en": "A part of the body that does a special job such as the heart or the brain."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A part of the body that does a special job such as the heart or the brain."
+        },
+        "example": {
+          "en": ""
+        }
+      },
+      "picture_prompt": "Exactly one clear picture of organ, candy picture-book oil-paint, one subject, no text no letters no numbers no watermark, no people"
+    },
+    {
+      "id": "progenitor",
+      "en": "progenitor",
+      "pos": "noun",
+      "ko": "An early cell or living thing from which later cells or living things develop.",
+      "l1": {
+        "en": "An early cell or living thing from which later cells or living things develop."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "An early cell or living thing from which later cells or living things develop."
+        },
+        "example": {
+          "en": ""
+        }
+      },
+      "picture_prompt": "Exactly one clear picture of progenitor, candy picture-book oil-paint, one subject, no text no letters no numbers no watermark, no people"
+    },
+    {
+      "id": "hindbrain",
+      "en": "hindbrain",
+      "pos": "noun",
+      "ko": "The back part of the brain that controls breathing and sleep and heartbeat.",
+      "l1": {
+        "en": "The back part of the brain that controls breathing and sleep and heartbeat."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The back part of the brain that controls breathing and sleep and heartbeat."
+        },
+        "example": {
+          "en": ""
+        }
+      },
+      "picture_prompt": "Exactly one clear picture of hindbrain, candy picture-book oil-paint, one subject, no text no letters no numbers no watermark, no people"
+    },
+    {
+      "id": "forebrain",
+      "en": "forebrain",
+      "pos": "noun",
+      "ko": "The front part of the brain that handles thinking and language and memory.",
+      "l1": {
+        "en": "The front part of the brain that handles thinking and language and memory."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The front part of the brain that handles thinking and language and memory."
+        },
+        "example": {
+          "en": ""
+        }
+      },
+      "picture_prompt": "Exactly one clear picture of forebrain, candy picture-book oil-paint, one subject, no text no letters no numbers no watermark, no people"
+    },
+    {
+      "id": "regulate",
+      "en": "regulate",
+      "pos": "noun",
+      "ko": "To control something so that it works correctly and stays steady.",
+      "l1": {
+        "en": "To control something so that it works correctly and stays steady."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "To control something so that it works correctly and stays steady."
+        },
+        "example": {
+          "en": ""
+        }
+      },
+      "picture_prompt": "Exactly one clear picture of regulate, candy picture-book oil-paint, one subject, no text no letters no numbers no watermark, no people"
+    },
+    {
+      "id": "ancestor",
+      "en": "ancestor",
+      "pos": "noun",
+      "ko": "A living thing from long ago that later living things came from.",
+      "l1": {
+        "en": "A living thing from long ago that later living things came from."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A living thing from long ago that later living things came from."
+        },
+        "example": {
+          "en": ""
+        }
+      },
+      "picture_prompt": "Exactly one clear picture of ancestor, candy picture-book oil-paint, one subject, no text no letters no numbers no watermark, no people"
+    },
+    {
+      "id": "specialize",
+      "en": "specialize",
+      "pos": "noun",
+      "ko": "To develop for one particular job rather than many.",
+      "l1": {
+        "en": "To develop for one particular job rather than many."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "To develop for one particular job rather than many."
+        },
+        "example": {
+          "en": ""
+        }
+      },
+      "picture_prompt": "Exactly one clear picture of specialize, candy picture-book oil-paint, one subject, no text no letters no numbers no watermark, no people"
+    },
+    {
+      "id": "disease",
+      "en": "disease",
+      "pos": "noun",
+      "ko": "An illness that stops the body or mind from working normally.",
+      "l1": {
+        "en": "An illness that stops the body or mind from working normally."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "An illness that stops the body or mind from working normally."
+        },
+        "example": {
+          "en": ""
+        }
+      },
+      "picture_prompt": "Exactly one clear picture of disease, candy picture-book oil-paint, one subject, no text no letters no numbers no watermark, no people"
+    },
+    {
+      "id": "evolution",
+      "en": "evolution",
+      "pos": "noun",
+      "ko": "The slow change of living things over very long periods of time.",
+      "l1": {
+        "en": "The slow change of living things over very long periods of time."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The slow change of living things over very long periods of time."
+        },
+        "example": {
+          "en": ""
+        }
+      },
+      "picture_prompt": "Exactly one clear picture of evolution, candy picture-book oil-paint, one subject, no text no letters no numbers no watermark, no people"
+    },
+    {
+      "id": "laboratory",
+      "en": "laboratory",
+      "pos": "noun",
+      "ko": "A room or building with equipment for doing scientific tests.",
+      "l1": {
+        "en": "A room or building with equipment for doing scientific tests."
+      },
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A room or building with equipment for doing scientific tests."
+        },
+        "example": {
+          "en": ""
+        }
+      },
+      "picture_prompt": "Exactly one clear picture of laboratory, candy picture-book oil-paint, one subject, no text no letters no numbers no watermark, no people"
+    }
+  ]
+}
