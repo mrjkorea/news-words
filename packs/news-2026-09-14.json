@@ -8,14 +8,42 @@
     {
       "id": "foundation",
       "en": "foundation",
-      "ko": "The basic idea or base that something is built on",
+      "ko": "기초",
       "l1": {
-        "en": "The basic idea or base that something is built on"
+        "en": "The basic idea or base that something is built on",
+        "ko": "기초",
+        "zh-Hans": "基础",
+        "ja": "基礎",
+        "es": "fundamento",
+        "hi": "आधार",
+        "de": "Grundlage",
+        "vi": "nền tảng",
+        "pt-BR": "fundamento",
+        "id": "dasar",
+        "fr": "fondement",
+        "ar": "أساس",
+        "tr": "temel",
+        "it": "fondamento",
+        "pl": "podstawa"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The basic idea or base that something is built on"
+          "en": "The basic idea or base that something is built on",
+          "ko": "기초",
+          "zh-Hans": "基础",
+          "ja": "基礎",
+          "es": "fundamento",
+          "hi": "आधार",
+          "de": "Grundlage",
+          "vi": "nền tảng",
+          "pt-BR": "fundamento",
+          "id": "dasar",
+          "fr": "fondement",
+          "ar": "أساس",
+          "tr": "temel",
+          "it": "fondamento",
+          "pl": "podstawa"
         },
         "example": {
           "en": "It is one of the first publicly available foundation models built for scientific exploration of the Moon."
@@ -26,14 +54,42 @@
     {
       "id": "model",
       "en": "model",
-      "ko": "A computer program that learns patterns from examples",
+      "ko": "모델",
       "l1": {
-        "en": "A computer program that learns patterns from examples"
+        "en": "A computer program that learns patterns from examples",
+        "ko": "모델",
+        "zh-Hans": "模型",
+        "ja": "モデル",
+        "es": "modelo",
+        "hi": "मॉडल",
+        "de": "Modell",
+        "vi": "mô hình",
+        "pt-BR": "modelo",
+        "id": "model",
+        "fr": "modèle",
+        "ar": "نموذج",
+        "tr": "model",
+        "it": "modello",
+        "pl": "model"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A computer program that learns patterns from examples"
+          "en": "A computer program that learns patterns from examples",
+          "ko": "모델",
+          "zh-Hans": "模型",
+          "ja": "モデル",
+          "es": "modelo",
+          "hi": "मॉडल",
+          "de": "Modell",
+          "vi": "mô hình",
+          "pt-BR": "modelo",
+          "id": "model",
+          "fr": "modèle",
+          "ar": "نموذج",
+          "tr": "model",
+          "it": "modello",
+          "pl": "model"
         },
         "example": {
           "en": "IBM and NASA have released a new open-source artificial intelligence model for studying the Moon."
@@ -44,14 +100,42 @@
     {
       "id": "crater",
       "en": "crater",
-      "ko": "A large round hole in the ground or on a planet",
+      "ko": "땅이나 행성에 있는 큰 둥근 구멍",
       "l1": {
-        "en": "A large round hole in the ground or on a planet"
+        "en": "A large round hole in the ground or on a planet",
+        "ko": "땅이나 행성에 있는 큰 둥근 구멍",
+        "zh-Hans": "地面或行星上的大圆洞",
+        "ja": "地面や惑星にある大きな丸い穴",
+        "es": "gran agujero redondo en el suelo o un planeta",
+        "hi": "ज़मीन या ग्रह पर बड़ा गोल छेद",
+        "de": "großes rundes Loch im Boden oder auf einem Planeten",
+        "vi": "hố tròn lớn trên mặt đất hoặc hành tinh",
+        "pt-BR": "grande buraco redondo no chão ou planeta",
+        "id": "lubang bulat besar di tanah atau planet",
+        "fr": "grand trou rond dans le sol ou une planète",
+        "ar": "حفرة مستديرة كبيرة في الأرض أو على كوكب",
+        "tr": "yerde veya gezegende büyük yuvarlak çukur",
+        "it": "grande buco rotondo nel terreno o su un pianeta",
+        "pl": "duży okrągły otwór w ziemi lub na planecie"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A large round hole in the ground or on a planet"
+          "en": "A large round hole in the ground or on a planet",
+          "ko": "땅이나 행성에 있는 큰 둥근 구멍",
+          "zh-Hans": "地面或行星上的大圆洞",
+          "ja": "地面や惑星にある大きな丸い穴",
+          "es": "gran agujero redondo en el suelo o un planeta",
+          "hi": "ज़मीन या ग्रह पर बड़ा गोल छेद",
+          "de": "großes rundes Loch im Boden oder auf einem Planeten",
+          "vi": "hố tròn lớn trên mặt đất hoặc hành tinh",
+          "pt-BR": "grande buraco redondo no chão ou planeta",
+          "id": "lubang bulat besar di tanah atau planet",
+          "fr": "grand trou rond dans le sol ou une planète",
+          "ar": "حفرة مستديرة كبيرة في الأرض أو على كوكب",
+          "tr": "yerde veya gezegende büyük yuvarlak çukur",
+          "it": "grande buco rotondo nel terreno o su un pianeta",
+          "pl": "duży okrągły otwór w ziemi lub na planecie"
         },
         "example": {
           "en": "IBM and NASA have released a new open-source artificial intelligence model for studying the Moon."
@@ -62,14 +146,42 @@
     {
       "id": "volcanic",
       "en": "volcanic",
-      "ko": "Related to volcanoes and hot melted rock",
+      "ko": "화산과 뜨거운 녹은 암석에 관한",
       "l1": {
-        "en": "Related to volcanoes and hot melted rock"
+        "en": "Related to volcanoes and hot melted rock",
+        "ko": "화산과 뜨거운 녹은 암석에 관한",
+        "zh-Hans": "与火山和热熔岩有关",
+        "ja": "火山と熱い溶けた岩に関係する",
+        "es": "relacionado con volcanes y roca fundida caliente",
+        "hi": "ज्वालामुखी और गर्म पिघले पत्थर से संबंधित",
+        "de": "mit Vulkanen und heißem geschmolzenem Gestein zu tun",
+        "vi": "liên quan đến núi lửa và đá nóng chảy",
+        "pt-BR": "relacionado a vulcões e rocha derretida quente",
+        "id": "berkaitan dengan gunung berapi dan batuan cair panas",
+        "fr": "lié aux volcans et à la roche fondue chaude",
+        "ar": "متعلق بالبراكين والصخور المنصهرة الساخنة",
+        "tr": "volkanlar ve sıcak erimiş kayalarla ilgili",
+        "it": "relativo ai vulcani e alla roccia fusa calda",
+        "pl": "związany z wulkanami i gorącą stopioną skałą"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Related to volcanoes and hot melted rock"
+          "en": "Related to volcanoes and hot melted rock",
+          "ko": "화산과 뜨거운 녹은 암석에 관한",
+          "zh-Hans": "与火山和热熔岩有关",
+          "ja": "火山と熱い溶けた岩に関係する",
+          "es": "relacionado con volcanes y roca fundida caliente",
+          "hi": "ज्वालामुखी और गर्म पिघले पत्थर से संबंधित",
+          "de": "mit Vulkanen und heißem geschmolzenem Gestein zu tun",
+          "vi": "liên quan đến núi lửa và đá nóng chảy",
+          "pt-BR": "relacionado a vulcões e rocha derretida quente",
+          "id": "berkaitan dengan gunung berapi dan batuan cair panas",
+          "fr": "lié aux volcans et à la roche fondue chaude",
+          "ar": "متعلق بالبراكين والصخور المنصهرة الساخنة",
+          "tr": "volkanlar ve sıcak erimiş kayalarla ilgili",
+          "it": "relativo ai vulcani e alla roccia fusa calda",
+          "pl": "związany z wulkanami i gorącą stopioną skałą"
         },
         "example": {
           "en": "Over billions of years its surface has collected craters, spread ice into cold shadows, and produced volcanic rock."
@@ -80,14 +192,42 @@
     {
       "id": "satellite",
       "en": "satellite",
-      "ko": "A machine that travels around a planet in space",
+      "ko": "우주에서 행성 주위를 도는 기계",
       "l1": {
-        "en": "A machine that travels around a planet in space"
+        "en": "A machine that travels around a planet in space",
+        "ko": "우주에서 행성 주위를 도는 기계",
+        "zh-Hans": "在太空中绕行星运行的机器",
+        "ja": "宇宙で惑星の周りを回る機械",
+        "es": "máquina que viaja alrededor de un planeta en el espacio",
+        "hi": "अंतरिक्ष में ग्रह के चारों ओर घूमने वाली मशीन",
+        "de": "Maschine, die im Weltraum einen Planeten umkreist",
+        "vi": "máy bay quanh một hành tinh trong không gian",
+        "pt-BR": "máquina que viaja ao redor de um planeta no espaço",
+        "id": "mesin yang mengorbit planet di luar angkasa",
+        "fr": "machine qui voyage autour d'une planète dans l'espace",
+        "ar": "آلة تدور حول كوكب في الفضاء",
+        "tr": "uzayda bir gezegenin etrafında dönen makine",
+        "it": "macchina che viaggia intorno a un pianeta nello spazio",
+        "pl": "maszyna krążąca wokół planety w kosmosie"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A machine that travels around a planet in space"
+          "en": "A machine that travels around a planet in space",
+          "ko": "우주에서 행성 주위를 도는 기계",
+          "zh-Hans": "在太空中绕行星运行的机器",
+          "ja": "宇宙で惑星の周りを回る機械",
+          "es": "máquina que viaja alrededor de un planeta en el espacio",
+          "hi": "अंतरिक्ष में ग्रह के चारों ओर घूमने वाली मशीन",
+          "de": "Maschine, die im Weltraum einen Planeten umkreist",
+          "vi": "máy bay quanh một hành tinh trong không gian",
+          "pt-BR": "máquina que viaja ao redor de um planeta no espaço",
+          "id": "mesin yang mengorbit planet di luar angkasa",
+          "fr": "machine qui voyage autour d'une planète dans l'espace",
+          "ar": "آلة تدور حول كوكب في الفضاء",
+          "tr": "uzayda bir gezegenin etrafında dönen makine",
+          "it": "macchina che viaggia intorno a un pianeta nello spazio",
+          "pl": "maszyna krążąca wokół planety w kosmosie"
         },
         "example": {
           "en": "IBM and NASA have released a new open-source artificial intelligence model for studying the Moon."
@@ -98,14 +238,42 @@
     {
       "id": "dataset",
       "en": "dataset",
-      "ko": "A large organized collection of information",
+      "ko": "조직된 대규모 정보 모음",
       "l1": {
-        "en": "A large organized collection of information"
+        "en": "A large organized collection of information",
+        "ko": "조직된 대규모 정보 모음",
+        "zh-Hans": "大型有组织的信息集合",
+        "ja": "整理された大規模な情報の集まり",
+        "es": "gran colección organizada de información",
+        "hi": "सूचना का बड़ा संगठित संग्रह",
+        "de": "große organisierte Sammlung von Informationen",
+        "vi": "bộ sưu tập thông tin lớn có tổ chức",
+        "pt-BR": "grande coleção organizada de informações",
+        "id": "kumpulan informasi besar yang terorganisir",
+        "fr": "grande collection organisée d'informations",
+        "ar": "مجموعة كبيرة منظمة من المعلومات",
+        "tr": "büyük düzenli bilgi koleksiyonu",
+        "it": "grande raccolta organizzata di informazioni",
+        "pl": "duży uporządkowany zbiór informacji"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A large organized collection of information"
+          "en": "A large organized collection of information",
+          "ko": "조직된 대규모 정보 모음",
+          "zh-Hans": "大型有组织的信息集合",
+          "ja": "整理された大規模な情報の集まり",
+          "es": "gran colección organizada de información",
+          "hi": "सूचना का बड़ा संगठित संग्रह",
+          "de": "große organisierte Sammlung von Informationen",
+          "vi": "bộ sưu tập thông tin lớn có tổ chức",
+          "pt-BR": "grande coleção organizada de informações",
+          "id": "kumpulan informasi besar yang terorganisir",
+          "fr": "grande collection organisée d'informations",
+          "ar": "مجموعة كبيرة منظمة من المعلومات",
+          "tr": "büyük düzenli bilgi koleksiyonu",
+          "it": "grande raccolta organizzata di informazioni",
+          "pl": "duży uporządkowany zbiór informacji"
         },
         "example": {
           "en": "The team also shared the first open lunar dataset of its kind, bringing together more than thirty aligned layers from nine instruments across four missions, including data from the Japanese Kaguya spacecraft."
@@ -116,14 +284,42 @@
     {
       "id": "mission",
       "en": "mission",
-      "ko": "An important planned job or trip into space",
+      "ko": "중요한 계획된 임무나 우주 여행",
       "l1": {
-        "en": "An important planned job or trip into space"
+        "en": "An important planned job or trip into space",
+        "ko": "중요한 계획된 임무나 우주 여행",
+        "zh-Hans": "重要的计划任务或太空旅行",
+        "ja": "重要な計画された仕事や宇宙旅行",
+        "es": "trabajo importante planeado o viaje al espacio",
+        "hi": "महत्वपूर्ण नियोजित कार्य या अंतरिक्ष यात्रा",
+        "de": "wichtige geplante Aufgabe oder Reise ins All",
+        "vi": "nhiệm vụ quan trọng đã lên kế hoạch hoặc chuyến đi không gian",
+        "pt-BR": "trabalho importante planejado ou viagem ao espaço",
+        "id": "tugas penting yang direncanakan atau perjalanan ke luar angkasa",
+        "fr": "tâche importante planifiée ou voyage dans l'espace",
+        "ar": "مهمة مهمة مخطط لها أو رحلة إلى الفضاء",
+        "tr": "önemli planlanmış görev veya uzay yolculuğu",
+        "it": "compito importante pianificato o viaggio nello spazio",
+        "pl": "ważne zaplanowane zadanie lub podróż w kosmos"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "An important planned job or trip into space"
+          "en": "An important planned job or trip into space",
+          "ko": "중요한 계획된 임무나 우주 여행",
+          "zh-Hans": "重要的计划任务或太空旅行",
+          "ja": "重要な計画された仕事や宇宙旅行",
+          "es": "trabajo importante planeado o viaje al espacio",
+          "hi": "महत्वपूर्ण नियोजित कार्य या अंतरिक्ष यात्रा",
+          "de": "wichtige geplante Aufgabe oder Reise ins All",
+          "vi": "nhiệm vụ quan trọng đã lên kế hoạch hoặc chuyến đi không gian",
+          "pt-BR": "trabalho importante planejado ou viagem ao espaço",
+          "id": "tugas penting yang direncanakan atau perjalanan ke luar angkasa",
+          "fr": "tâche importante planifiée ou voyage dans l'espace",
+          "ar": "مهمة مهمة مخطط لها أو رحلة إلى الفضاء",
+          "tr": "önemli planlanmış görev veya uzay yolculuğu",
+          "it": "compito importante pianificato o viaggio nello spazio",
+          "pl": "ważne zaplanowane zadanie lub podróż w kosmos"
         },
         "example": {
           "en": "IBM and NASA have released a new open-source artificial intelligence model for studying the Moon."
@@ -134,14 +330,42 @@
     {
       "id": "surface",
       "en": "surface",
-      "ko": "The outside or top layer of something",
+      "ko": "어떤 것의 바깥이나 맨 위층",
       "l1": {
-        "en": "The outside or top layer of something"
+        "en": "The outside or top layer of something",
+        "ko": "어떤 것의 바깥이나 맨 위층",
+        "zh-Hans": "某物的外部或顶层",
+        "ja": "何かの外側や一番上の層",
+        "es": "parte exterior o capa superior de algo",
+        "hi": "किसी चीज़ का बाहरी या ऊपरी हिस्सा",
+        "de": "die Außenseite oder oberste Schicht von etwas",
+        "vi": "bên ngoài hoặc lớp trên cùng của một vật",
+        "pt-BR": "parte externa ou camada superior de algo",
+        "id": "bagian luar atau lapisan atas sesuatu",
+        "fr": "extérieur ou couche supérieure de quelque chose",
+        "ar": "الجزء الخارجي أو الطبقة العليا من شيء ما",
+        "tr": "bir şeyin dışı veya en üst tabakası",
+        "it": "parte esterna o strato superiore di qualcosa",
+        "pl": "zewnętrzna lub wierzchnia warstwa czegoś"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The outside or top layer of something"
+          "en": "The outside or top layer of something",
+          "ko": "어떤 것의 바깥이나 맨 위층",
+          "zh-Hans": "某物的外部或顶层",
+          "ja": "何かの外側や一番上の層",
+          "es": "parte exterior o capa superior de algo",
+          "hi": "किसी चीज़ का बाहरी या ऊपरी हिस्सा",
+          "de": "die Außenseite oder oberste Schicht von etwas",
+          "vi": "bên ngoài hoặc lớp trên cùng của một vật",
+          "pt-BR": "parte externa ou camada superior de algo",
+          "id": "bagian luar atau lapisan atas sesuatu",
+          "fr": "extérieur ou couche supérieure de quelque chose",
+          "ar": "الجزء الخارجي أو الطبقة العليا من شيء ما",
+          "tr": "bir şeyin dışı veya en üst tabakası",
+          "it": "parte esterna o strato superiore di qualcosa",
+          "pl": "zewnętrzna lub wierzchnia warstwa czegoś"
         },
         "example": {
           "en": "The model was trained on decades of lunar observations collected by many different instruments, and it helps researchers turn a huge amount of data into clear scientific answers about the surface of the Moon."
@@ -152,14 +376,42 @@
     {
       "id": "resolution",
       "en": "resolution",
-      "ko": "How much small detail an image or screen shows",
+      "ko": "이미지나 화면이 보여주는 세부 묘사 정도",
       "l1": {
-        "en": "How much small detail an image or screen shows"
+        "en": "How much small detail an image or screen shows",
+        "ko": "이미지나 화면이 보여주는 세부 묘사 정도",
+        "zh-Hans": "图像或屏幕显示细节的程度",
+        "ja": "画像や画面が示す細部の度合い",
+        "es": "cantidad de detalle que muestra una imagen o pantalla",
+        "hi": "छवि या स्क्रीन कितना छोटा विवरण दिखाती है",
+        "de": "wie viele kleine Details ein Bild oder Bildschirm zeigt",
+        "vi": "mức độ chi tiết nhỏ mà hình ảnh hoặc màn hình hiển thị",
+        "pt-BR": "quanto detalhe pequeno uma imagem ou tela mostra",
+        "id": "seberapa banyak detail kecil yang ditampilkan gambar atau layar",
+        "fr": "quantité de petits détails qu'une image ou un écran montre",
+        "ar": "مقدار التفاصيل الصغيرة التي تظهرها الصورة أو الشاشة",
+        "tr": "bir görüntü veya ekranın gösterdiği küçük detay miktarı",
+        "it": "quanto piccolo dettaglio mostra un'immagine o uno schermo",
+        "pl": "jak dużo szczegółów pokazuje obraz lub ekran"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "How much small detail an image or screen shows"
+          "en": "How much small detail an image or screen shows",
+          "ko": "이미지나 화면이 보여주는 세부 묘사 정도",
+          "zh-Hans": "图像或屏幕显示细节的程度",
+          "ja": "画像や画面が示す細部の度合い",
+          "es": "cantidad de detalle que muestra una imagen o pantalla",
+          "hi": "छवि या स्क्रीन कितना छोटा विवरण दिखाती है",
+          "de": "wie viele kleine Details ein Bild oder Bildschirm zeigt",
+          "vi": "mức độ chi tiết nhỏ mà hình ảnh hoặc màn hình hiển thị",
+          "pt-BR": "quanto detalhe pequeno uma imagem ou tela mostra",
+          "id": "seberapa banyak detail kecil yang ditampilkan gambar atau layar",
+          "fr": "quantité de petits détails qu'une image ou un écran montre",
+          "ar": "مقدار التفاصيل الصغيرة التي تظهرها الصورة أو الشاشة",
+          "tr": "bir görüntü veya ekranın gösterdiği küçük detay miktarı",
+          "it": "quanto piccolo dettaglio mostra un'immagine o uno schermo",
+          "pl": "jak dużo szczegółów pokazuje obraz lub ekran"
         },
         "example": {
           "en": "IBM and NASA have released a new open-source artificial intelligence model for studying the Moon."
@@ -170,14 +422,42 @@
     {
       "id": "discover",
       "en": "discover",
-      "ko": "To find something that was not known before",
+      "ko": "이전에 알려지지 않은 것을 찾아내다",
       "l1": {
-        "en": "To find something that was not known before"
+        "en": "To find something that was not known before",
+        "ko": "이전에 알려지지 않은 것을 찾아내다",
+        "zh-Hans": "找到以前不知道的东西",
+        "ja": "以前知られていなかったものを見つける",
+        "es": "encontrar algo que no se conocía antes",
+        "hi": "पहले से अज्ञात कुछ खोजना",
+        "de": "etwas finden, das vorher nicht bekannt war",
+        "vi": "tìm ra điều chưa từng được biết trước đây",
+        "pt-BR": "encontrar algo que não era conhecido antes",
+        "id": "menemukan sesuatu yang sebelumnya tidak diketahui",
+        "fr": "trouver quelque chose qui n'était pas connu avant",
+        "ar": "العثور على شيء لم يكن معروفًا من قبل",
+        "tr": "daha önce bilinmeyen bir şeyi bulmak",
+        "it": "trovare qualcosa che non era conosciuto prima",
+        "pl": "znaleźć coś, co nie było wcześniej znane"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "To find something that was not known before"
+          "en": "To find something that was not known before",
+          "ko": "이전에 알려지지 않은 것을 찾아내다",
+          "zh-Hans": "找到以前不知道的东西",
+          "ja": "以前知られていなかったものを見つける",
+          "es": "encontrar algo que no se conocía antes",
+          "hi": "पहले से अज्ञात कुछ खोजना",
+          "de": "etwas finden, das vorher nicht bekannt war",
+          "vi": "tìm ra điều chưa từng được biết trước đây",
+          "pt-BR": "encontrar algo que não era conhecido antes",
+          "id": "menemukan sesuatu yang sebelumnya tidak diketahui",
+          "fr": "trouver quelque chose qui n'était pas connu avant",
+          "ar": "العثور على شيء لم يكن معروفًا من قبل",
+          "tr": "daha önce bilinmeyen bir şeyi bulmak",
+          "it": "trovare qualcosa che non era conosciuto prima",
+          "pl": "znaleźć coś, co nie było wcześniej znane"
         },
         "example": {
           "en": "IBM and NASA have released a new open-source artificial intelligence model for studying the Moon."

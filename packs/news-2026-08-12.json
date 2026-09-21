@@ -8,14 +8,42 @@
     {
       "id": "airline",
       "en": "airline",
-      "ko": "A company that provides regular flights for passengers and cargo.",
+      "ko": "정기 항공편을 제공하는 회사",
       "l1": {
-        "en": "A company that provides regular flights for passengers and cargo."
+        "en": "A company that provides regular flights for passengers and cargo.",
+        "ko": "정기 항공편을 제공하는 회사",
+        "zh-Hans": "提供定期航班的公司",
+        "ja": "定期便を提供する会社",
+        "es": "Empresa que ofrece vuelos regulares.",
+        "hi": "नियमित उड़ानें प्रदान करने वाली कंपनी",
+        "de": "Unternehmen, das regelmäßige Flüge anbietet.",
+        "vi": "Công ty cung cấp chuyến bay thường xuyên.",
+        "pt-BR": "Empresa que oferece voos regulares.",
+        "id": "Perusahaan yang menyediakan penerbangan reguler.",
+        "fr": "Compagnie offrant des vols réguliers.",
+        "ar": "شركة تقدم رحلات جوية منتظمة.",
+        "tr": "Düzenli uçuş sağlayan şirket.",
+        "it": "Compagnia che offre voli regolari.",
+        "pl": "Firma oferująca regularne loty."
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A company that provides regular flights for passengers and cargo."
+          "en": "A company that provides regular flights for passengers and cargo.",
+          "ko": "정기 항공편을 제공하는 회사",
+          "zh-Hans": "提供定期航班的公司",
+          "ja": "定期便を提供する会社",
+          "es": "Empresa que ofrece vuelos regulares.",
+          "hi": "नियमित उड़ानें प्रदान करने वाली कंपनी",
+          "de": "Unternehmen, das regelmäßige Flüge anbietet.",
+          "vi": "Công ty cung cấp chuyến bay thường xuyên.",
+          "pt-BR": "Empresa que oferece voos regulares.",
+          "id": "Perusahaan yang menyediakan penerbangan reguler.",
+          "fr": "Compagnie offrant des vols réguliers.",
+          "ar": "شركة تقدم رحلات جوية منتظمة.",
+          "tr": "Düzenli uçuş sağlayan şirket.",
+          "it": "Compagnia che offre voli regolari.",
+          "pl": "Firma oferująca regularne loty."
         },
         "example": {
           "en": "The British airline EasyJet has agreed to be taken over in a five-point-seven-billion-pound deal by the American firm Apollo, after a rival bidder dropped out."
@@ -26,14 +54,42 @@
     {
       "id": "merger",
       "en": "merger",
-      "ko": "The joining of two companies into one larger company.",
+      "ko": "두 회사가 하나로 합병하는 것",
       "l1": {
-        "en": "The joining of two companies into one larger company."
+        "en": "The joining of two companies into one larger company.",
+        "ko": "두 회사가 하나로 합병하는 것",
+        "zh-Hans": "两家公司合并为一家更大的公司",
+        "ja": "二つの会社が一つに合併すること",
+        "es": "Unión de dos empresas en una más grande.",
+        "hi": "दो कंपनियों का एक बड़ी कंपनी में विलय",
+        "de": "Zusammenschluss zweier Unternehmen zu einem größeren.",
+        "vi": "Sự hợp nhất hai công ty thành một công ty lớn hơn.",
+        "pt-BR": "Fusão de duas empresas em uma maior.",
+        "id": "Penggabungan dua perusahaan menjadi satu lebih besar.",
+        "fr": "Fusion de deux entreprises en une plus grande.",
+        "ar": "اندماج شركتين في شركة أكبر.",
+        "tr": "İki şirketin daha büyük bir şirkette birleşmesi.",
+        "it": "Fusione di due aziende in una più grande.",
+        "pl": "Połączenie dwóch firm w jedną większą."
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The joining of two companies into one larger company."
+          "en": "The joining of two companies into one larger company.",
+          "ko": "두 회사가 하나로 합병하는 것",
+          "zh-Hans": "两家公司合并为一家更大的公司",
+          "ja": "二つの会社が一つに合併すること",
+          "es": "Unión de dos empresas en una más grande.",
+          "hi": "दो कंपनियों का एक बड़ी कंपनी में विलय",
+          "de": "Zusammenschluss zweier Unternehmen zu einem größeren.",
+          "vi": "Sự hợp nhất hai công ty thành một công ty lớn hơn.",
+          "pt-BR": "Fusão de duas empresas em uma maior.",
+          "id": "Penggabungan dua perusahaan menjadi satu lebih besar.",
+          "fr": "Fusion de deux entreprises en une plus grande.",
+          "ar": "اندماج شركتين في شركة أكبر.",
+          "tr": "İki şirketin daha büyük bir şirkette birleşmesi.",
+          "it": "Fusione di due aziende in una più grande.",
+          "pl": "Połączenie dwóch firm w jedną większą."
         },
         "example": {
           "en": "The British airline EasyJet has agreed to be taken over in a five-point-seven-billion-pound deal by the American firm Apollo, after a rival bidder dropped out."
@@ -44,14 +100,42 @@
     {
       "id": "bidder",
       "en": "bidder",
-      "ko": "A person or company that offers to buy something in an auction or deal.",
+      "ko": "경매나 거래에서 사려고 값을 부르는 사람이나 회사",
       "l1": {
-        "en": "A person or company that offers to buy something in an auction or deal."
+        "en": "A person or company that offers to buy something in an auction or deal.",
+        "ko": "경매나 거래에서 사려고 값을 부르는 사람이나 회사",
+        "zh-Hans": "在拍卖或交易中出价购买的人或公司",
+        "ja": "オークションや取引で買うために値をつける人や会社",
+        "es": "persona o empresa que ofrece comprar en una subasta o trato",
+        "hi": "नीलामी या सौदे में खरीदने की बोली लगाने वाला व्यक्ति या कंपनी",
+        "de": "Person oder Firma, die bei einer Auktion oder einem Geschäft ein Kaufangebot macht",
+        "vi": "người hoặc công ty trả giá mua trong đấu giá hoặc giao dịch",
+        "pt-BR": "pessoa ou empresa que oferece comprar em leilão ou negócio",
+        "id": "orang atau perusahaan yang menawar untuk membeli dalam lelang atau kesepakatan",
+        "fr": "personne ou entreprise qui propose d'acheter lors d'une enchère ou d'un accord",
+        "ar": "شخص أو شركة تقدم عرضًا للشراء في مزاد أو صفقة",
+        "tr": "açık artırmada veya anlaşmada satın almak için teklif veren kişi veya şirket",
+        "it": "persona o azienda che offre di acquistare in un'asta o affare",
+        "pl": "osoba lub firma oferująca zakup na aukcji lub w transakcji"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A person or company that offers to buy something in an auction or deal."
+          "en": "A person or company that offers to buy something in an auction or deal.",
+          "ko": "경매나 거래에서 사려고 값을 부르는 사람이나 회사",
+          "zh-Hans": "在拍卖或交易中出价购买的人或公司",
+          "ja": "オークションや取引で買うために値をつける人や会社",
+          "es": "persona o empresa que ofrece comprar en una subasta o trato",
+          "hi": "नीलामी या सौदे में खरीदने की बोली लगाने वाला व्यक्ति या कंपनी",
+          "de": "Person oder Firma, die bei einer Auktion oder einem Geschäft ein Kaufangebot macht",
+          "vi": "người hoặc công ty trả giá mua trong đấu giá hoặc giao dịch",
+          "pt-BR": "pessoa ou empresa que oferece comprar em leilão ou negócio",
+          "id": "orang atau perusahaan yang menawar untuk membeli dalam lelang atau kesepakatan",
+          "fr": "personne ou entreprise qui propose d'acheter lors d'une enchère ou d'un accord",
+          "ar": "شخص أو شركة تقدم عرضًا للشراء في مزاد أو صفقة",
+          "tr": "açık artırmada veya anlaşmada satın almak için teklif veren kişi veya şirket",
+          "it": "persona o azienda che offre di acquistare in un'asta o affare",
+          "pl": "osoba lub firma oferująca zakup na aukcji lub w transakcji"
         },
         "example": {
           "en": "The British airline EasyJet has agreed to be taken over in a five-point-seven-billion-pound deal by the American firm Apollo, after a rival bidder dropped out."
@@ -62,14 +146,42 @@
     {
       "id": "shareholder",
       "en": "shareholder",
-      "ko": "A person who owns shares in a company.",
+      "ko": "회사의 주식을 소유한 사람",
       "l1": {
-        "en": "A person who owns shares in a company."
+        "en": "A person who owns shares in a company.",
+        "ko": "회사의 주식을 소유한 사람",
+        "zh-Hans": "拥有公司股份的人",
+        "ja": "会社の株式を所有する人",
+        "es": "persona que posee acciones de una empresa",
+        "hi": "कंपनी में शेयर रखने वाला व्यक्ति",
+        "de": "Person, die Aktien eines Unternehmens besitzt",
+        "vi": "người sở hữu cổ phần trong công ty",
+        "pt-BR": "pessoa que possui ações de uma empresa",
+        "id": "orang yang memiliki saham di perusahaan",
+        "fr": "personne qui possède des actions dans une entreprise",
+        "ar": "شخص يملك أسهمًا في شركة",
+        "tr": "bir şirkette hisse sahibi olan kişi",
+        "it": "persona che possiede azioni di una società",
+        "pl": "osoba posiadająca akcje w firmie"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A person who owns shares in a company."
+          "en": "A person who owns shares in a company.",
+          "ko": "회사의 주식을 소유한 사람",
+          "zh-Hans": "拥有公司股份的人",
+          "ja": "会社の株式を所有する人",
+          "es": "persona que posee acciones de una empresa",
+          "hi": "कंपनी में शेयर रखने वाला व्यक्ति",
+          "de": "Person, die Aktien eines Unternehmens besitzt",
+          "vi": "người sở hữu cổ phần trong công ty",
+          "pt-BR": "pessoa que possui ações de uma empresa",
+          "id": "orang yang memiliki saham di perusahaan",
+          "fr": "personne qui possède des actions dans une entreprise",
+          "ar": "شخص يملك أسهمًا في شركة",
+          "tr": "bir şirkette hisse sahibi olan kişi",
+          "it": "persona che possiede azioni di una società",
+          "pl": "osoba posiadająca akcje w firmie"
         },
         "example": {
           "en": "The British airline EasyJet has agreed to be taken over in a five-point-seven-billion-pound deal by the American firm Apollo, after a rival bidder dropped out."
@@ -80,14 +192,42 @@
     {
       "id": "regulator",
       "en": "regulator",
-      "ko": "An official organization that checks that companies follow the rules.",
+      "ko": "회사가 규칙을 따르는지 감독하는 공식 기관",
       "l1": {
-        "en": "An official organization that checks that companies follow the rules."
+        "en": "An official organization that checks that companies follow the rules.",
+        "ko": "회사가 규칙을 따르는지 감독하는 공식 기관",
+        "zh-Hans": "监督公司遵守规则的官方机构",
+        "ja": "企業が規則を守るか監督する公的機関",
+        "es": "organismo oficial que vigila que las empresas cumplan las normas",
+        "hi": "आधिकारिक संस्था जो कंपनियों के नियम पालन की जाँच करती है",
+        "de": "offizielle Stelle, die prüft, dass Unternehmen die Regeln befolgen",
+        "vi": "tổ chức chính thức giám sát việc tuân thủ quy định của công ty",
+        "pt-BR": "órgão oficial que verifica se as empresas seguem as regras",
+        "id": "lembaga resmi yang mengawasi kepatuhan aturan perusahaan",
+        "fr": "organisme officiel qui vérifie que les entreprises respectent les règles",
+        "ar": "جهة رسمية تتحقق من التزام الشركات بالقواعد",
+        "tr": "şirketlerin kurallara uyup uymadığını denetleyen resmi kurum",
+        "it": "organismo ufficiale che verifica che le aziende rispettino le regole",
+        "pl": "oficjalna instytucja sprawdzająca, czy firmy przestrzegają przepisów"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "An official organization that checks that companies follow the rules."
+          "en": "An official organization that checks that companies follow the rules.",
+          "ko": "회사가 규칙을 따르는지 감독하는 공식 기관",
+          "zh-Hans": "监督公司遵守规则的官方机构",
+          "ja": "企業が規則を守るか監督する公的機関",
+          "es": "organismo oficial que vigila que las empresas cumplan las normas",
+          "hi": "आधिकारिक संस्था जो कंपनियों के नियम पालन की जाँच करती है",
+          "de": "offizielle Stelle, die prüft, dass Unternehmen die Regeln befolgen",
+          "vi": "tổ chức chính thức giám sát việc tuân thủ quy định của công ty",
+          "pt-BR": "órgão oficial que verifica se as empresas seguem as regras",
+          "id": "lembaga resmi yang mengawasi kepatuhan aturan perusahaan",
+          "fr": "organisme officiel qui vérifie que les entreprises respectent les règles",
+          "ar": "جهة رسمية تتحقق من التزام الشركات بالقواعد",
+          "tr": "şirketlerin kurallara uyup uymadığını denetleyen resmi kurum",
+          "it": "organismo ufficiale che verifica che le aziende rispettino le regole",
+          "pl": "oficjalna instytucja sprawdzająca, czy firmy przestrzegają przepisów"
         },
         "example": {
           "en": "The British airline EasyJet has agreed to be taken over in a five-point-seven-billion-pound deal by the American firm Apollo, after a rival bidder dropped out."
@@ -98,14 +238,42 @@
     {
       "id": "investment",
       "en": "investment",
-      "ko": "Money put into a business or project to earn a profit.",
+      "ko": "이익을 얻기 위해 사업이나 프로젝트에 넣는 돈",
       "l1": {
-        "en": "Money put into a business or project to earn a profit."
+        "en": "Money put into a business or project to earn a profit.",
+        "ko": "이익을 얻기 위해 사업이나 프로젝트에 넣는 돈",
+        "zh-Hans": "为获利而投入企业或项目的资金",
+        "ja": "利益を得るために事業やプロジェクトに投じるお金",
+        "es": "dinero puesto en un negocio o proyecto para obtener ganancias",
+        "hi": "लाभ कमाने के लिए व्यवसाय या परियोजना में लगाया गया धन",
+        "de": "Geld, das in ein Geschäft oder Projekt investiert wird, um Gewinn zu erzielen",
+        "vi": "tiền đưa vào kinh doanh hoặc dự án để thu lợi nhuận",
+        "pt-BR": "dinheiro colocado em um negócio ou projeto para obter lucro",
+        "id": "uang yang dimasukkan ke bisnis atau proyek untuk mendapat keuntungan",
+        "fr": "argent placé dans une entreprise ou un projet pour réaliser un profit",
+        "ar": "مال يوضع في عمل أو مشروع لتحقيق ربح",
+        "tr": "kâr elde etmek için işe veya projeye konulan para",
+        "it": "denaro messo in un'impresa o progetto per ottenere un profitto",
+        "pl": "pieniądze zainwestowane w biznes lub projekt w celu osiągnięcia zysku"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Money put into a business or project to earn a profit."
+          "en": "Money put into a business or project to earn a profit.",
+          "ko": "이익을 얻기 위해 사업이나 프로젝트에 넣는 돈",
+          "zh-Hans": "为获利而投入企业或项目的资金",
+          "ja": "利益を得るために事業やプロジェクトに投じるお金",
+          "es": "dinero puesto en un negocio o proyecto para obtener ganancias",
+          "hi": "लाभ कमाने के लिए व्यवसाय या परियोजना में लगाया गया धन",
+          "de": "Geld, das in ein Geschäft oder Projekt investiert wird, um Gewinn zu erzielen",
+          "vi": "tiền đưa vào kinh doanh hoặc dự án để thu lợi nhuận",
+          "pt-BR": "dinheiro colocado em um negócio ou projeto para obter lucro",
+          "id": "uang yang dimasukkan ke bisnis atau proyek untuk mendapat keuntungan",
+          "fr": "argent placé dans une entreprise ou un projet pour réaliser un profit",
+          "ar": "مال يوضع في عمل أو مشروع لتحقيق ربح",
+          "tr": "kâr elde etmek için işe veya projeye konulan para",
+          "it": "denaro messo in un'impresa o progetto per ottenere un profitto",
+          "pl": "pieniądze zainwestowane w biznes lub projekt w celu osiągnięcia zysku"
         },
         "example": {
           "en": "The takeover was agreed after Castlelake, an American investment firm that had made a series of offers for the carrier, said it was withdrawing from the bid battle."
@@ -116,14 +284,42 @@
     {
       "id": "strategy",
       "en": "strategy",
-      "ko": "A plan designed to achieve a particular goal.",
+      "ko": "특정 목표를 달성하기 위해 설계된 계획",
       "l1": {
-        "en": "A plan designed to achieve a particular goal."
+        "en": "A plan designed to achieve a particular goal.",
+        "ko": "특정 목표를 달성하기 위해 설계된 계획",
+        "zh-Hans": "为实现特定目标而设计的计划",
+        "ja": "特定の目標を達成するために設計された計画",
+        "es": "plan diseñado para lograr un objetivo concreto",
+        "hi": "किसी विशेष लक्ष्य को प्राप्त करने के लिए बनाई गई योजना",
+        "de": "Plan, der darauf ausgelegt ist, ein bestimmtes Ziel zu erreichen",
+        "vi": "kế hoạch được thiết kế để đạt mục tiêu cụ thể",
+        "pt-BR": "plano elaborado para alcançar um objetivo específico",
+        "id": "rencana yang dirancang untuk mencapai tujuan tertentu",
+        "fr": "plan conçu pour atteindre un objectif précis",
+        "ar": "خطة مصممة لتحقيق هدف معين",
+        "tr": "belirli bir hedefe ulaşmak için tasarlanmış plan",
+        "it": "piano progettato per raggiungere un obiettivo specifico",
+        "pl": "plan stworzony do osiągnięcia określonego celu"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A plan designed to achieve a particular goal."
+          "en": "A plan designed to achieve a particular goal.",
+          "ko": "특정 목표를 달성하기 위해 설계된 계획",
+          "zh-Hans": "为实现特定目标而设计的计划",
+          "ja": "特定の目標を達成するために設計された計画",
+          "es": "plan diseñado para lograr un objetivo concreto",
+          "hi": "किसी विशेष लक्ष्य को प्राप्त करने के लिए बनाई गई योजना",
+          "de": "Plan, der darauf ausgelegt ist, ein bestimmtes Ziel zu erreichen",
+          "vi": "kế hoạch được thiết kế để đạt mục tiêu cụ thể",
+          "pt-BR": "plano elaborado para alcançar um objetivo específico",
+          "id": "rencana yang dirancang untuk mencapai tujuan tertentu",
+          "fr": "plan conçu pour atteindre un objectif précis",
+          "ar": "خطة مصممة لتحقيق هدف معين",
+          "tr": "belirli bir hedefe ulaşmak için tasarlanmış plan",
+          "it": "piano progettato per raggiungere un obiettivo specifico",
+          "pl": "plan stworzony do osiągnięcia określonego celu"
         },
         "example": {
           "en": "Apollo said it was highly supportive of the airline's existing strategy and saw a significant opportunity to accelerate its operational and commercial ambitions."
@@ -134,14 +330,42 @@
     {
       "id": "delist",
       "en": "delist",
-      "ko": "To remove a company's shares from a stock exchange.",
+      "ko": "회사의 주식을 증권거래소에서 제거하다",
       "l1": {
-        "en": "To remove a company's shares from a stock exchange."
+        "en": "To remove a company's shares from a stock exchange.",
+        "ko": "회사의 주식을 증권거래소에서 제거하다",
+        "zh-Hans": "将公司股票从证券交易所摘牌",
+        "ja": "会社の株式を証券取引所から上場廃止にする",
+        "es": "retirar las acciones de una empresa de una bolsa de valores",
+        "hi": "किसी कंपनी के शेयरों को स्टॉक एक्सचेंज से हटाना",
+        "de": "die Aktien eines Unternehmens von einer Börse nehmen",
+        "vi": "loại bỏ cổ phiếu của công ty khỏi sàn chứng khoán",
+        "pt-BR": "retirar as ações de uma empresa de uma bolsa de valores",
+        "id": "menghapus saham perusahaan dari bursa saham",
+        "fr": "retirer les actions d'une entreprise d'une bourse",
+        "ar": "إزالة أسهم شركة من البورصة",
+        "tr": "bir şirketin hisselerini borsadan çıkarmak",
+        "it": "rimuovere le azioni di una società da una borsa valori",
+        "pl": "usunąć akcje spółki z giełdy"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "To remove a company's shares from a stock exchange."
+          "en": "To remove a company's shares from a stock exchange.",
+          "ko": "회사의 주식을 증권거래소에서 제거하다",
+          "zh-Hans": "将公司股票从证券交易所摘牌",
+          "ja": "会社の株式を証券取引所から上場廃止にする",
+          "es": "retirar las acciones de una empresa de una bolsa de valores",
+          "hi": "किसी कंपनी के शेयरों को स्टॉक एक्सचेंज से हटाना",
+          "de": "die Aktien eines Unternehmens von einer Börse nehmen",
+          "vi": "loại bỏ cổ phiếu của công ty khỏi sàn chứng khoán",
+          "pt-BR": "retirar as ações de uma empresa de uma bolsa de valores",
+          "id": "menghapus saham perusahaan dari bursa saham",
+          "fr": "retirer les actions d'une entreprise d'une bourse",
+          "ar": "إزالة أسهم شركة من البورصة",
+          "tr": "bir şirketin hisselerini borsadan çıkarmak",
+          "it": "rimuovere le azioni di una società da una borsa valori",
+          "pl": "usunąć akcje spółki z giełdy"
         },
         "example": {
           "en": "The British airline EasyJet has agreed to be taken over in a five-point-seven-billion-pound deal by the American firm Apollo, after a rival bidder dropped out."
@@ -152,14 +376,42 @@
     {
       "id": "withdraw",
       "en": "withdraw",
-      "ko": "To stop taking part in something or to pull back.",
+      "ko": "어떤 일에서 손을 떼거나 물러나다",
       "l1": {
-        "en": "To stop taking part in something or to pull back."
+        "en": "To stop taking part in something or to pull back.",
+        "ko": "어떤 일에서 손을 떼거나 물러나다",
+        "zh-Hans": "停止参与某事或退出",
+        "ja": "何かへの参加をやめる、または引き下がる",
+        "es": "dejar de participar en algo o retirarse",
+        "hi": "किसी चीज़ में भाग लेना बंद करना या पीछे हटना",
+        "de": "aufhören, an etwas teilzunehmen, oder sich zurückziehen",
+        "vi": "ngừng tham gia vào việc gì đó hoặc rút lui",
+        "pt-BR": "parar de participar de algo ou recuar",
+        "id": "berhenti ikut serta dalam sesuatu atau menarik diri",
+        "fr": "cesser de participer à quelque chose ou se retirer",
+        "ar": "التوقف عن المشاركة في شيء ما أو الانسحاب",
+        "tr": "bir şeye katılmayı bırakmak veya geri çekilmek",
+        "it": "smettere di partecipare a qualcosa o ritirarsi",
+        "pl": "przestać brać w czymś udział lub wycofać się"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "To stop taking part in something or to pull back."
+          "en": "To stop taking part in something or to pull back.",
+          "ko": "어떤 일에서 손을 떼거나 물러나다",
+          "zh-Hans": "停止参与某事或退出",
+          "ja": "何かへの参加をやめる、または引き下がる",
+          "es": "dejar de participar en algo o retirarse",
+          "hi": "किसी चीज़ में भाग लेना बंद करना या पीछे हटना",
+          "de": "aufhören, an etwas teilzunehmen, oder sich zurückziehen",
+          "vi": "ngừng tham gia vào việc gì đó hoặc rút lui",
+          "pt-BR": "parar de participar de algo ou recuar",
+          "id": "berhenti ikut serta dalam sesuatu atau menarik diri",
+          "fr": "cesser de participer à quelque chose ou se retirer",
+          "ar": "التوقف عن المشاركة في شيء ما أو الانسحاب",
+          "tr": "bir şeye katılmayı bırakmak veya geri çekilmek",
+          "it": "smettere di partecipare a qualcosa o ritirarsi",
+          "pl": "przestać brać w czymś udział lub wycofać się"
         },
         "example": {
           "en": "The British airline EasyJet has agreed to be taken over in a five-point-seven-billion-pound deal by the American firm Apollo, after a rival bidder dropped out."
@@ -170,14 +422,42 @@
     {
       "id": "carrier",
       "en": "carrier",
-      "ko": "A company that transports people or goods",
+      "ko": "사람이나 물건을 운송하는 회사",
       "l1": {
-        "en": "A company that transports people or goods"
+        "en": "A company that transports people or goods",
+        "ko": "사람이나 물건을 운송하는 회사",
+        "zh-Hans": "运输人员或货物的公司",
+        "ja": "人や物を運ぶ会社",
+        "es": "empresa que transporta personas o mercancías",
+        "hi": "लोगों या सामानों को ढोने वाली कंपनी",
+        "de": "Unternehmen, das Personen oder Güter befördert",
+        "vi": "công ty vận chuyển người hoặc hàng hóa",
+        "pt-BR": "empresa que transporta pessoas ou mercadorias",
+        "id": "perusahaan yang mengangkut orang atau barang",
+        "fr": "entreprise qui transporte des personnes ou des marchandises",
+        "ar": "شركة تنقل الأشخاص أو البضائع",
+        "tr": "insanları veya eşyaları taşıyan şirket",
+        "it": "azienda che trasporta persone o merci",
+        "pl": "firma transportująca ludzi lub towary"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A company that transports people or goods"
+          "en": "A company that transports people or goods",
+          "ko": "사람이나 물건을 운송하는 회사",
+          "zh-Hans": "运输人员或货物的公司",
+          "ja": "人や物を運ぶ会社",
+          "es": "empresa que transporta personas o mercancías",
+          "hi": "लोगों या सामानों को ढोने वाली कंपनी",
+          "de": "Unternehmen, das Personen oder Güter befördert",
+          "vi": "công ty vận chuyển người hoặc hàng hóa",
+          "pt-BR": "empresa que transporta pessoas ou mercadorias",
+          "id": "perusahaan yang mengangkut orang atau barang",
+          "fr": "entreprise qui transporte des personnes ou des marchandises",
+          "ar": "شركة تنقل الأشخاص أو البضائع",
+          "tr": "insanları veya eşyaları taşıyan şirket",
+          "it": "azienda che trasporta persone o merci",
+          "pl": "firma transportująca ludzi lub towary"
         },
         "example": {
           "en": "The takeover was agreed after Castlelake, an American investment firm that had made a series of offers for the carrier, said it was withdrawing from the bid battle."

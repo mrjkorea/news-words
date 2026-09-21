@@ -8,14 +8,42 @@
     {
       "id": "quantum",
       "en": "quantum",
-      "ko": "The smallest possible amount of something",
+      "ko": "양자",
       "l1": {
-        "en": "The smallest possible amount of something"
+        "en": "The smallest possible amount of something",
+        "ko": "양자",
+        "zh-Hans": "量子",
+        "ja": "量子",
+        "es": "cuanto",
+        "hi": "क्वांटम",
+        "de": "Quant",
+        "vi": "lượng tử",
+        "pt-BR": "quântico",
+        "id": "kuantum",
+        "fr": "quantum",
+        "ar": "كم",
+        "tr": "kuantum",
+        "it": "quanto",
+        "pl": "kwant"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The smallest possible amount of something"
+          "en": "The smallest possible amount of something",
+          "ko": "양자",
+          "zh-Hans": "量子",
+          "ja": "量子",
+          "es": "cuanto",
+          "hi": "क्वांटम",
+          "de": "Quant",
+          "vi": "lượng tử",
+          "pt-BR": "quântico",
+          "id": "kuantum",
+          "fr": "quantum",
+          "ar": "كم",
+          "tr": "kuantum",
+          "it": "quanto",
+          "pl": "kwant"
         },
         "example": {
           "en": "Physicists at Louisiana State University have created the world's first room-temperature quantum material that can sort light by its quantum properties."
@@ -26,14 +54,42 @@
     {
       "id": "photon",
       "en": "photon",
-      "ko": "A single particle of light.",
+      "ko": "광자",
       "l1": {
-        "en": "A single particle of light."
+        "en": "A single particle of light.",
+        "ko": "광자",
+        "zh-Hans": "光子",
+        "ja": "光子",
+        "es": "fotón",
+        "hi": "फोटॉन",
+        "de": "Photon",
+        "vi": "photon",
+        "pt-BR": "fóton",
+        "id": "foton",
+        "fr": "photon",
+        "ar": "فوتون",
+        "tr": "foton",
+        "it": "fotone",
+        "pl": "foton"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A single particle of light."
+          "en": "A single particle of light.",
+          "ko": "광자",
+          "zh-Hans": "光子",
+          "ja": "光子",
+          "es": "fotón",
+          "hi": "फोटॉन",
+          "de": "Photon",
+          "vi": "photon",
+          "pt-BR": "fóton",
+          "id": "foton",
+          "fr": "photon",
+          "ar": "فوتون",
+          "tr": "foton",
+          "it": "fotone",
+          "pl": "foton"
         },
         "example": {
           "en": "Physicists at Louisiana State University have created the world's first room-temperature quantum material that can sort light by its quantum properties."
@@ -44,14 +100,42 @@
     {
       "id": "crystal",
       "en": "crystal",
-      "ko": "A solid substance with a regular",
+      "ko": "결정",
       "l1": {
-        "en": "A solid substance with a regular"
+        "en": "A solid substance with a regular",
+        "ko": "결정",
+        "zh-Hans": "晶体",
+        "ja": "結晶",
+        "es": "cristal",
+        "hi": "क्रिस्टल",
+        "de": "Kristall",
+        "vi": "tinh thể",
+        "pt-BR": "cristal",
+        "id": "kristal",
+        "fr": "cristal",
+        "ar": "بلورة",
+        "tr": "kristal",
+        "it": "cristallo",
+        "pl": "kryształ"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A solid substance with a regular"
+          "en": "A solid substance with a regular",
+          "ko": "결정",
+          "zh-Hans": "晶体",
+          "ja": "結晶",
+          "es": "cristal",
+          "hi": "क्रिस्टल",
+          "de": "Kristall",
+          "vi": "tinh thể",
+          "pt-BR": "cristal",
+          "id": "kristal",
+          "fr": "cristal",
+          "ar": "بلورة",
+          "tr": "kristal",
+          "it": "cristallo",
+          "pl": "kryształ"
         },
         "example": {
           "en": "Arranged together, these structures form a crystal unlike anything found in nature."
@@ -62,14 +146,42 @@
     {
       "id": "artificial",
       "en": "artificial",
-      "ko": "Made by humans rather than occurring in nature.",
+      "ko": "인공의",
       "l1": {
-        "en": "Made by humans rather than occurring in nature."
+        "en": "Made by humans rather than occurring in nature.",
+        "ko": "인공의",
+        "zh-Hans": "人造的",
+        "ja": "人工の",
+        "es": "artificial",
+        "hi": "कृत्रिम",
+        "de": "künstlich",
+        "vi": "nhân tạo",
+        "pt-BR": "artificial",
+        "id": "buatan",
+        "fr": "artificiel",
+        "ar": "اصطناعي",
+        "tr": "yapay",
+        "it": "artificiale",
+        "pl": "sztuczny"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Made by humans rather than occurring in nature."
+          "en": "Made by humans rather than occurring in nature.",
+          "ko": "인공의",
+          "zh-Hans": "人造的",
+          "ja": "人工の",
+          "es": "artificial",
+          "hi": "कृत्रिम",
+          "de": "künstlich",
+          "vi": "nhân tạo",
+          "pt-BR": "artificial",
+          "id": "buatan",
+          "fr": "artificiel",
+          "ar": "اصطناعي",
+          "tr": "yapay",
+          "it": "artificiale",
+          "pl": "sztuczny"
         },
         "example": {
           "en": "Each slit acts like an artificial atom."
@@ -80,14 +192,42 @@
     {
       "id": "microscopic",
       "en": "microscopic",
-      "ko": "Extremely small",
+      "ko": "미세한",
       "l1": {
-        "en": "Extremely small"
+        "en": "Extremely small",
+        "ko": "미세한",
+        "zh-Hans": "微观的",
+        "ja": "微視的な",
+        "es": "microscópico",
+        "hi": "सूक्ष्म",
+        "de": "mikroskopisch",
+        "vi": "siêu nhỏ",
+        "pt-BR": "microscópico",
+        "id": "mikroskopis",
+        "fr": "microscopique",
+        "ar": "مجهرية",
+        "tr": "mikroskobik",
+        "it": "microscopico",
+        "pl": "mikroskopijny"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Extremely small"
+          "en": "Extremely small",
+          "ko": "미세한",
+          "zh-Hans": "微观的",
+          "ja": "微視的な",
+          "es": "microscópico",
+          "hi": "सूक्ष्म",
+          "de": "mikroskopisch",
+          "vi": "siêu nhỏ",
+          "pt-BR": "microscópico",
+          "id": "mikroskopis",
+          "fr": "microscopique",
+          "ar": "مجهرية",
+          "tr": "mikroskobik",
+          "it": "microscopico",
+          "pl": "mikroskopijny"
         },
         "example": {
           "en": "They coated a glass chip with a thin layer of gold, then used focused ion beams to cut hundreds of microscopic slits into the metal."
@@ -98,14 +238,42 @@
     {
       "id": "semiconductor",
       "en": "semiconductor",
-      "ko": "A material that can conduct electricity better than an insulator but not as well as a metal.",
+      "ko": "반도체",
       "l1": {
-        "en": "A material that can conduct electricity better than an insulator but not as well as a metal."
+        "en": "A material that can conduct electricity better than an insulator but not as well as a metal.",
+        "ko": "반도체",
+        "zh-Hans": "半导体",
+        "ja": "半導体",
+        "es": "semiconductor",
+        "hi": "अर्धचालक",
+        "de": "Halbleiter",
+        "vi": "chất bán dẫn",
+        "pt-BR": "semicondutor",
+        "id": "semikonduktor",
+        "fr": "semi-conducteur",
+        "ar": "شبه موصل",
+        "tr": "yarı iletken",
+        "it": "semiconduttore",
+        "pl": "półprzewodnik"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A material that can conduct electricity better than an insulator but not as well as a metal."
+          "en": "A material that can conduct electricity better than an insulator but not as well as a metal.",
+          "ko": "반도체",
+          "zh-Hans": "半导体",
+          "ja": "半導体",
+          "es": "semiconductor",
+          "hi": "अर्धचालक",
+          "de": "Halbleiter",
+          "vi": "chất bán dẫn",
+          "pt-BR": "semicondutor",
+          "id": "semikonduktor",
+          "fr": "semi-conducteur",
+          "ar": "شبه موصل",
+          "tr": "yarı iletken",
+          "it": "semiconduttore",
+          "pl": "półprzewodnik"
         },
         "example": {
           "en": "Physicists at Louisiana State University have created the world's first room-temperature quantum material that can sort light by its quantum properties."
@@ -116,14 +284,42 @@
     {
       "id": "statistic",
       "en": "statistic",
-      "ko": "A fact or piece of data expressed in numbers.",
+      "ko": "숫자로 표현된 사실이나 데이터",
       "l1": {
-        "en": "A fact or piece of data expressed in numbers."
+        "en": "A fact or piece of data expressed in numbers.",
+        "ko": "숫자로 표현된 사실이나 데이터",
+        "zh-Hans": "用数字表示的事实或数据",
+        "ja": "数字で表された事実やデータ",
+        "es": "hecho o dato expresado en números",
+        "hi": "संख्याओं में व्यक्त तथ्य या डेटा",
+        "de": "eine in Zahlen ausgedrückte Tatsache oder Daten",
+        "vi": "sự thật hoặc dữ liệu được biểu thị bằng số",
+        "pt-BR": "fato ou dado expresso em números",
+        "id": "fakta atau data yang dinyatakan dalam angka",
+        "fr": "fait ou donnée exprimé en chiffres",
+        "ar": "حقيقة أو بيانات معبر عنها بالأرقام",
+        "tr": "sayılarla ifade edilen bir gerçek veya veri",
+        "it": "fatto o dato espresso in numeri",
+        "pl": "fakt lub dana wyrażona liczbami"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A fact or piece of data expressed in numbers."
+          "en": "A fact or piece of data expressed in numbers.",
+          "ko": "숫자로 표현된 사실이나 데이터",
+          "zh-Hans": "用数字表示的事实或数据",
+          "ja": "数字で表された事実やデータ",
+          "es": "hecho o dato expresado en números",
+          "hi": "संख्याओं में व्यक्त तथ्य या डेटा",
+          "de": "eine in Zahlen ausgedrückte Tatsache oder Daten",
+          "vi": "sự thật hoặc dữ liệu được biểu thị bằng số",
+          "pt-BR": "fato ou dado expresso em números",
+          "id": "fakta atau data yang dinyatakan dalam angka",
+          "fr": "fait ou donnée exprimé en chiffres",
+          "ar": "حقيقة أو بيانات معبر عنها بالأرقام",
+          "tr": "sayılarla ifade edilen bir gerçek veya veri",
+          "it": "fatto o dato espresso in numeri",
+          "pl": "fakt lub dana wyrażona liczbami"
         },
         "example": {
           "en": "Physicists at Louisiana State University have created the world's first room-temperature quantum material that can sort light by its quantum properties."
@@ -134,14 +330,42 @@
     {
       "id": "geometry",
       "en": "geometry",
-      "ko": "The branch of mathematics dealing with shapes",
+      "ko": "도형을 다루는 수학의 한 분야",
       "l1": {
-        "en": "The branch of mathematics dealing with shapes"
+        "en": "The branch of mathematics dealing with shapes",
+        "ko": "도형을 다루는 수학의 한 분야",
+        "zh-Hans": "研究形状的数学分支",
+        "ja": "図形を扱う数学の分野",
+        "es": "rama de las matemáticas que estudia las formas",
+        "hi": "आकृतियों से संबंधित गणित की शाखा",
+        "de": "Teilgebiet der Mathematik, das sich mit Formen befasst",
+        "vi": "nhánh toán học nghiên cứu hình dạng",
+        "pt-BR": "ramo da matemática que estuda formas",
+        "id": "cabang matematika yang mempelajari bentuk",
+        "fr": "branche des mathématiques traitant des formes",
+        "ar": "فرع من الرياضيات يدرس الأشكال",
+        "tr": "şekillerle ilgilenen matematik dalı",
+        "it": "ramo della matematica che studia le forme",
+        "pl": "dział matematyki zajmujący się kształtami"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The branch of mathematics dealing with shapes"
+          "en": "The branch of mathematics dealing with shapes",
+          "ko": "도형을 다루는 수학의 한 분야",
+          "zh-Hans": "研究形状的数学分支",
+          "ja": "図形を扱う数学の分野",
+          "es": "rama de las matemáticas que estudia las formas",
+          "hi": "आकृतियों से संबंधित गणित की शाखा",
+          "de": "Teilgebiet der Mathematik, das sich mit Formen befasst",
+          "vi": "nhánh toán học nghiên cứu hình dạng",
+          "pt-BR": "ramo da matemática que estuda formas",
+          "id": "cabang matematika yang mempelajari bentuk",
+          "fr": "branche des mathématiques traitant des formes",
+          "ar": "فرع من الرياضيات يدرس الأشكال",
+          "tr": "şekillerle ilgilenen matematik dalı",
+          "it": "ramo della matematica che studia le forme",
+          "pl": "dział matematyki zajmujący się kształtami"
         },
         "example": {
           "en": "By adjusting the size, geometry, and spacing of the slits, the researchers can control which quantum states of light pass through and which are blocked."
@@ -152,14 +376,42 @@
     {
       "id": "efficient",
       "en": "efficient",
-      "ko": "Working in a way that uses time or resources well without waste.",
+      "ko": "시간이나 자원을 낭비 없이 잘 활용하는",
       "l1": {
-        "en": "Working in a way that uses time or resources well without waste."
+        "en": "Working in a way that uses time or resources well without waste.",
+        "ko": "시간이나 자원을 낭비 없이 잘 활용하는",
+        "zh-Hans": "有效利用时间或资源而不浪费的",
+        "ja": "時間や資源を無駄なく使う",
+        "es": "que usa bien el tiempo o los recursos sin desperdiciar",
+        "hi": "समय या संसाधनों का बिना बर्बादी अच्छा उपयोग करने वाला",
+        "de": "der Zeit oder Ressourcen ohne Verschwendung gut nutzt",
+        "vi": "sử dụng thời gian hoặc nguồn lực tốt mà không lãng phí",
+        "pt-BR": "que usa bem o tempo ou recursos sem desperdício",
+        "id": "menggunakan waktu atau sumber daya dengan baik tanpa pemborosan",
+        "fr": "qui utilise bien le temps ou les ressources sans gaspillage",
+        "ar": "يستخدم الوقت أو الموارد جيدًا دون هدر",
+        "tr": "zamanı veya kaynakları israf etmeden iyi kullanan",
+        "it": "che usa bene tempo o risorse senza sprechi",
+        "pl": "dobrze wykorzystujący czas lub zasoby bez marnotrawstwa"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Working in a way that uses time or resources well without waste."
+          "en": "Working in a way that uses time or resources well without waste.",
+          "ko": "시간이나 자원을 낭비 없이 잘 활용하는",
+          "zh-Hans": "有效利用时间或资源而不浪费的",
+          "ja": "時間や資源を無駄なく使う",
+          "es": "que usa bien el tiempo o los recursos sin desperdiciar",
+          "hi": "समय या संसाधनों का बिना बर्बादी अच्छा उपयोग करने वाला",
+          "de": "der Zeit oder Ressourcen ohne Verschwendung gut nutzt",
+          "vi": "sử dụng thời gian hoặc nguồn lực tốt mà không lãng phí",
+          "pt-BR": "que usa bem o tempo ou recursos sem desperdício",
+          "id": "menggunakan waktu atau sumber daya dengan baik tanpa pemborosan",
+          "fr": "qui utilise bien le temps ou les ressources sans gaspillage",
+          "ar": "يستخدم الوقت أو الموارد جيدًا دون هدر",
+          "tr": "zamanı veya kaynakları israf etmeden iyi kullanan",
+          "it": "che usa bene tempo o risorse senza sprechi",
+          "pl": "dobrze wykorzystujący czas lub zasoby bez marnotrawstwa"
         },
         "example": {
           "en": "It could help move fragile quantum information inside quantum computers, support more practical quantum communication networks, and even improve solar cells by guiding light along more efficient pathways."
@@ -170,14 +422,42 @@
     {
       "id": "pathway",
       "en": "pathway",
-      "ko": "A route or way that allows movement or progress from one place to another.",
+      "ko": "한 곳에서 다른 곳으로 이동이나 진행을 가능하게 하는 길",
       "l1": {
-        "en": "A route or way that allows movement or progress from one place to another."
+        "en": "A route or way that allows movement or progress from one place to another.",
+        "ko": "한 곳에서 다른 곳으로 이동이나 진행을 가능하게 하는 길",
+        "zh-Hans": "允许从一个地方移动到另一个地方的路线",
+        "ja": "ある場所から別の場所への移動を可能にする道",
+        "es": "ruta que permite el movimiento de un lugar a otro",
+        "hi": "एक स्थान से दूसरे स्थान तक जाने का मार्ग",
+        "de": "Weg, der Bewegung von einem Ort zum anderen ermöglicht",
+        "vi": "lộ trình cho phép di chuyển từ nơi này đến nơi khác",
+        "pt-BR": "rota que permite o movimento de um lugar para outro",
+        "id": "jalur yang memungkinkan pergerakan dari satu tempat ke tempat lain",
+        "fr": "voie permettant le déplacement d'un lieu à un autre",
+        "ar": "مسار يسمح بالانتقال من مكان إلى آخر",
+        "tr": "bir yerden başka bir yere hareketi sağlayan yol",
+        "it": "percorso che consente il movimento da un luogo a un altro",
+        "pl": "droga umożliwiająca przemieszczanie się z miejsca na miejsce"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A route or way that allows movement or progress from one place to another."
+          "en": "A route or way that allows movement or progress from one place to another.",
+          "ko": "한 곳에서 다른 곳으로 이동이나 진행을 가능하게 하는 길",
+          "zh-Hans": "允许从一个地方移动到另一个地方的路线",
+          "ja": "ある場所から別の場所への移動を可能にする道",
+          "es": "ruta que permite el movimiento de un lugar a otro",
+          "hi": "एक स्थान से दूसरे स्थान तक जाने का मार्ग",
+          "de": "Weg, der Bewegung von einem Ort zum anderen ermöglicht",
+          "vi": "lộ trình cho phép di chuyển từ nơi này đến nơi khác",
+          "pt-BR": "rota que permite o movimento de um lugar para outro",
+          "id": "jalur yang memungkinkan pergerakan dari satu tempat ke tempat lain",
+          "fr": "voie permettant le déplacement d'un lieu à un autre",
+          "ar": "مسار يسمح بالانتقال من مكان إلى آخر",
+          "tr": "bir yerden başka bir yere hareketi sağlayan yol",
+          "it": "percorso che consente il movimento da un luogo a un altro",
+          "pl": "droga umożliwiająca przemieszczanie się z miejsca na miejsce"
         },
         "example": {
           "en": "Physicists at Louisiana State University have created the world's first room-temperature quantum material that can sort light by its quantum properties."

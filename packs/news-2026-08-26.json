@@ -8,14 +8,42 @@
     {
       "id": "placement",
       "en": "placement",
-      "ko": "The sale of new shares by a company to raise money",
+      "ko": "자금을 조달하기 위해 회사가 신주를 매각하는 것",
       "l1": {
-        "en": "The sale of new shares by a company to raise money"
+        "en": "The sale of new shares by a company to raise money",
+        "ko": "자금을 조달하기 위해 회사가 신주를 매각하는 것",
+        "zh-Hans": "公司出售新股以筹集资金",
+        "ja": "資金調達のために会社が新株を売却すること",
+        "es": "venta de nuevas acciones por una empresa para recaudar fondos",
+        "hi": "धन जुटाने के लिए कंपनी द्वारा नए शेयरों की बिक्री",
+        "de": "Verkauf neuer Aktien durch ein Unternehmen zur Kapitalbeschaffung",
+        "vi": "việc công ty bán cổ phiếu mới để huy động vốn",
+        "pt-BR": "venda de novas ações por uma empresa para levantar capital",
+        "id": "penjualan saham baru oleh perusahaan untuk mengumpulkan dana",
+        "fr": "vente de nouvelles actions par une entreprise pour lever des fonds",
+        "ar": "بيع شركة لأسهم جديدة لجمع الأموال",
+        "tr": "bir şirketin fon toplamak için yeni hisse satışı",
+        "it": "vendita di nuove azioni da parte di una società per raccogliere fondi",
+        "pl": "sprzedaż nowych akcji przez spółkę w celu pozyskania kapitału"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The sale of new shares by a company to raise money"
+          "en": "The sale of new shares by a company to raise money",
+          "ko": "자금을 조달하기 위해 회사가 신주를 매각하는 것",
+          "zh-Hans": "公司出售新股以筹集资金",
+          "ja": "資金調達のために会社が新株を売却すること",
+          "es": "venta de nuevas acciones por una empresa para recaudar fondos",
+          "hi": "धन जुटाने के लिए कंपनी द्वारा नए शेयरों की बिक्री",
+          "de": "Verkauf neuer Aktien durch ein Unternehmen zur Kapitalbeschaffung",
+          "vi": "việc công ty bán cổ phiếu mới để huy động vốn",
+          "pt-BR": "venda de novas ações por uma empresa para levantar capital",
+          "id": "penjualan saham baru oleh perusahaan untuk mengumpulkan dana",
+          "fr": "vente de nouvelles actions par une entreprise pour lever des fonds",
+          "ar": "بيع شركة لأسهم جديدة لجمع الأموال",
+          "tr": "bir şirketin fon toplamak için yeni hisse satışı",
+          "it": "vendita di nuove azioni da parte di una società per raccogliere fondi",
+          "pl": "sprzedaż nowych akcji przez spółkę w celu pozyskania kapitału"
         },
         "example": {
           "en": "The company told Reuters the placement would raise eighty billion Hong Kong dollars."
@@ -26,14 +54,42 @@
     {
       "id": "billion",
       "en": "billion",
-      "ko": "The number one thousand million",
+      "ko": "천만의 천 배에 해당하는 수",
       "l1": {
-        "en": "The number one thousand million"
+        "en": "The number one thousand million",
+        "ko": "천만의 천 배에 해당하는 수",
+        "zh-Hans": "十亿",
+        "ja": "十億",
+        "es": "mil millones",
+        "hi": "एक अरब",
+        "de": "eine Milliarde",
+        "vi": "một tỷ",
+        "pt-BR": "um bilhão",
+        "id": "satu miliar",
+        "fr": "un milliard",
+        "ar": "مليار",
+        "tr": "milyar",
+        "it": "un miliardo",
+        "pl": "miliard"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The number one thousand million"
+          "en": "The number one thousand million",
+          "ko": "천만의 천 배에 해당하는 수",
+          "zh-Hans": "十亿",
+          "ja": "十億",
+          "es": "mil millones",
+          "hi": "एक अरब",
+          "de": "eine Milliarde",
+          "vi": "một tỷ",
+          "pt-BR": "um bilhão",
+          "id": "satu miliar",
+          "fr": "un milliard",
+          "ar": "مليار",
+          "tr": "milyar",
+          "it": "un miliardo",
+          "pl": "miliard"
         },
         "example": {
           "en": "The company told Reuters the placement would raise eighty billion Hong Kong dollars."
@@ -44,14 +100,42 @@
     {
       "id": "offering",
       "en": "offering",
-      "ko": "Shares or securities made available for sale",
+      "ko": "판매를 위해 제공되는 주식이나 증권",
       "l1": {
-        "en": "Shares or securities made available for sale"
+        "en": "Shares or securities made available for sale",
+        "ko": "판매를 위해 제공되는 주식이나 증권",
+        "zh-Hans": "可供出售的股票或证券",
+        "ja": "売りに出される株式や証券",
+        "es": "acciones o valores disponibles para la venta",
+        "hi": "बिक्री के लिए उपलब्ध शेयर या प्रतिभूतियाँ",
+        "de": "zum Verkauf angebotene Aktien oder Wertpapiere",
+        "vi": "cổ phiếu hoặc chứng khoán được chào bán",
+        "pt-BR": "ações ou títulos disponíveis para venda",
+        "id": "saham atau sekuritas yang ditawarkan untuk dijual",
+        "fr": "actions ou titres mis en vente",
+        "ar": "أسهم أو أوراق مالية معروضة للبيع",
+        "tr": "satışa sunulan hisse senetleri veya menkul kıymetler",
+        "it": "azioni o titoli offerti in vendita",
+        "pl": "akcje lub papiery wartościowe oferowane do sprzedaży"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Shares or securities made available for sale"
+          "en": "Shares or securities made available for sale",
+          "ko": "판매를 위해 제공되는 주식이나 증권",
+          "zh-Hans": "可供出售的股票或证券",
+          "ja": "売りに出される株式や証券",
+          "es": "acciones o valores disponibles para la venta",
+          "hi": "बिक्री के लिए उपलब्ध शेयर या प्रतिभूतियाँ",
+          "de": "zum Verkauf angebotene Aktien oder Wertpapiere",
+          "vi": "cổ phiếu hoặc chứng khoán được chào bán",
+          "pt-BR": "ações ou títulos disponíveis para venda",
+          "id": "saham atau sekuritas yang ditawarkan untuk dijual",
+          "fr": "actions ou titres mis en vente",
+          "ar": "أسهم أو أوراق مالية معروضة للبيع",
+          "tr": "satışa sunulan hisse senetleri veya menkul kıymetler",
+          "it": "azioni o titoli offerti in vendita",
+          "pl": "akcje lub papiery wartościowe oferowane do sprzedaży"
         },
         "example": {
           "en": "The firm said the deal would be the largest primary follow-on offering ever by a Hong Kong-listed company."
@@ -62,14 +146,42 @@
     {
       "id": "proceeds",
       "en": "proceeds",
-      "ko": "The money received from a sale or event",
+      "ko": "판매나 행사에서 받은 돈",
       "l1": {
-        "en": "The money received from a sale or event"
+        "en": "The money received from a sale or event",
+        "ko": "판매나 행사에서 받은 돈",
+        "zh-Hans": "销售或活动所得的钱",
+        "ja": "販売やイベントから得たお金",
+        "es": "dinero recibido de una venta o evento",
+        "hi": "बिक्री या आयोजन से प्राप्त धन",
+        "de": "Geld, das aus einem Verkauf oder einer Veranstaltung eingenommen wird",
+        "vi": "tiền thu được từ việc bán hoặc sự kiện",
+        "pt-BR": "dinheiro recebido de uma venda ou evento",
+        "id": "uang yang diterima dari penjualan atau acara",
+        "fr": "argent reçu d'une vente ou d'un événement",
+        "ar": "المال الناتج عن بيع أو حدث",
+        "tr": "bir satış veya etkinlikten elde edilen para",
+        "it": "denaro ricevuto da una vendita o evento",
+        "pl": "pieniądze otrzymane ze sprzedaży lub wydarzenia"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The money received from a sale or event"
+          "en": "The money received from a sale or event",
+          "ko": "판매나 행사에서 받은 돈",
+          "zh-Hans": "销售或活动所得的钱",
+          "ja": "販売やイベントから得たお金",
+          "es": "dinero recibido de una venta o evento",
+          "hi": "बिक्री या आयोजन से प्राप्त धन",
+          "de": "Geld, das aus einem Verkauf oder einer Veranstaltung eingenommen wird",
+          "vi": "tiền thu được từ việc bán hoặc sự kiện",
+          "pt-BR": "dinheiro recebido de uma venda ou evento",
+          "id": "uang yang diterima dari penjualan atau acara",
+          "fr": "argent reçu d'une vente ou d'un événement",
+          "ar": "المال الناتج عن بيع أو حدث",
+          "tr": "bir satış veya etkinlikten elde edilen para",
+          "it": "denaro ricevuto da una vendita o evento",
+          "pl": "pieniądze otrzymane ze sprzedaży lub wydarzenia"
         },
         "example": {
           "en": "Alibaba said one hundred percent of the net proceeds would go into its full-stack AI work."
@@ -80,14 +192,42 @@
     {
       "id": "infrastructure",
       "en": "infrastructure",
-      "ko": "The basic systems and structures needed for something to work",
+      "ko": "기본 시설과 시스템",
       "l1": {
-        "en": "The basic systems and structures needed for something to work"
+        "en": "The basic systems and structures needed for something to work",
+        "ko": "기본 시설과 시스템",
+        "zh-Hans": "基础设施",
+        "ja": "基本的な設備や仕組み",
+        "es": "infraestructura básica",
+        "hi": "बुनियादी ढांचा",
+        "de": "grundlegende Infrastruktur",
+        "vi": "cơ sở hạ tầng",
+        "pt-BR": "infraestrutura básica",
+        "id": "infrastruktur dasar",
+        "fr": "infrastructure de base",
+        "ar": "البنية التحتية الأساسية",
+        "tr": "temel altyapı",
+        "it": "infrastruttura di base",
+        "pl": "podstawowa infrastruktura"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The basic systems and structures needed for something to work"
+          "en": "The basic systems and structures needed for something to work",
+          "ko": "기본 시설과 시스템",
+          "zh-Hans": "基础设施",
+          "ja": "基本的な設備や仕組み",
+          "es": "infraestructura básica",
+          "hi": "बुनियादी ढांचा",
+          "de": "grundlegende Infrastruktur",
+          "vi": "cơ sở hạ tầng",
+          "pt-BR": "infraestrutura básica",
+          "id": "infrastruktur dasar",
+          "fr": "infrastructure de base",
+          "ar": "البنية التحتية الأساسية",
+          "tr": "temel altyapı",
+          "it": "infrastruttura di base",
+          "pl": "podstawowa infrastruktura"
         },
         "example": {
           "en": "That includes expanding and improving the computers, data centers, and other infrastructure that AI needs."
@@ -98,14 +238,42 @@
     {
       "id": "company",
       "en": "company",
-      "ko": "A business organization that makes or sells goods or services",
+      "ko": "회사",
       "l1": {
-        "en": "A business organization that makes or sells goods or services"
+        "en": "A business organization that makes or sells goods or services",
+        "ko": "회사",
+        "zh-Hans": "公司",
+        "ja": "会社",
+        "es": "empresa",
+        "hi": "कंपनी",
+        "de": "Unternehmen",
+        "vi": "công ty",
+        "pt-BR": "empresa",
+        "id": "perusahaan",
+        "fr": "entreprise",
+        "ar": "شركة",
+        "tr": "şirket",
+        "it": "azienda",
+        "pl": "firma"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A business organization that makes or sells goods or services"
+          "en": "A business organization that makes or sells goods or services",
+          "ko": "회사",
+          "zh-Hans": "公司",
+          "ja": "会社",
+          "es": "empresa",
+          "hi": "कंपनी",
+          "de": "Unternehmen",
+          "vi": "công ty",
+          "pt-BR": "empresa",
+          "id": "perusahaan",
+          "fr": "entreprise",
+          "ar": "شركة",
+          "tr": "şirket",
+          "it": "azienda",
+          "pl": "firma"
         },
         "example": {
           "en": "The company told Reuters the placement would raise eighty billion Hong Kong dollars."
@@ -116,14 +284,42 @@
     {
       "id": "market",
       "en": "market",
-      "ko": "A place or system where things are bought and sold",
+      "ko": "시장",
       "l1": {
-        "en": "A place or system where things are bought and sold"
+        "en": "A place or system where things are bought and sold",
+        "ko": "시장",
+        "zh-Hans": "市场",
+        "ja": "市場",
+        "es": "mercado",
+        "hi": "बाज़ार",
+        "de": "Markt",
+        "vi": "thị trường",
+        "pt-BR": "mercado",
+        "id": "pasar",
+        "fr": "marché",
+        "ar": "سوق",
+        "tr": "piyasa",
+        "it": "mercato",
+        "pl": "rynek"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A place or system where things are bought and sold"
+          "en": "A place or system where things are bought and sold",
+          "ko": "시장",
+          "zh-Hans": "市场",
+          "ja": "市場",
+          "es": "mercado",
+          "hi": "बाज़ार",
+          "de": "Markt",
+          "vi": "thị trường",
+          "pt-BR": "mercado",
+          "id": "pasar",
+          "fr": "marché",
+          "ar": "سوق",
+          "tr": "piyasa",
+          "it": "mercato",
+          "pl": "rynek"
         },
         "example": {
           "en": "A company that already sells goods online is asking the market for a huge pile of new money."
@@ -134,14 +330,42 @@
     {
       "id": "equity",
       "en": "equity",
-      "ko": "Ownership shares in a company",
+      "ko": "지분",
       "l1": {
-        "en": "Ownership shares in a company"
+        "en": "Ownership shares in a company",
+        "ko": "지분",
+        "zh-Hans": "股权",
+        "ja": "株式",
+        "es": "participación accionaria",
+        "hi": "इक्विटी",
+        "de": "Eigenkapital",
+        "vi": "cổ phần",
+        "pt-BR": "participação acionária",
+        "id": "ekuitas",
+        "fr": "actions",
+        "ar": "أسهم",
+        "tr": "hisse senedi",
+        "it": "azioni",
+        "pl": "udziały"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Ownership shares in a company"
+          "en": "Ownership shares in a company",
+          "ko": "지분",
+          "zh-Hans": "股权",
+          "ja": "株式",
+          "es": "participación accionaria",
+          "hi": "इक्विटी",
+          "de": "Eigenkapital",
+          "vi": "cổ phần",
+          "pt-BR": "participação acionária",
+          "id": "ekuitas",
+          "fr": "actions",
+          "ar": "أسهم",
+          "tr": "hisse senedi",
+          "it": "azioni",
+          "pl": "udziały"
         },
         "example": {
           "en": "It would also be the biggest Regulation S equity offering on record."
@@ -152,14 +376,42 @@
     {
       "id": "invest",
       "en": "invest",
-      "ko": "To put money into something to make a profit",
+      "ko": "투자하다",
       "l1": {
-        "en": "To put money into something to make a profit"
+        "en": "To put money into something to make a profit",
+        "ko": "투자하다",
+        "zh-Hans": "投资",
+        "ja": "投資する",
+        "es": "invertir",
+        "hi": "निवेश करना",
+        "de": "investieren",
+        "vi": "đầu tư",
+        "pt-BR": "investir",
+        "id": "berinvestasi",
+        "fr": "investir",
+        "ar": "يستثمر",
+        "tr": "yatırım yapmak",
+        "it": "investire",
+        "pl": "inwestować"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "To put money into something to make a profit"
+          "en": "To put money into something to make a profit",
+          "ko": "투자하다",
+          "zh-Hans": "投资",
+          "ja": "投資する",
+          "es": "invertir",
+          "hi": "निवेश करना",
+          "de": "investieren",
+          "vi": "đầu tư",
+          "pt-BR": "investir",
+          "id": "berinvestasi",
+          "fr": "investir",
+          "ar": "يستثمر",
+          "tr": "yatırım yapmak",
+          "it": "investire",
+          "pl": "inwestować"
         },
         "example": {
           "en": "China's Alibaba said on Sunday that it wants to sell new shares in Hong Kong."
@@ -170,14 +422,42 @@
     {
       "id": "record",
       "en": "record",
-      "ko": "The best or largest amount ever achieved",
+      "ko": "기록",
       "l1": {
-        "en": "The best or largest amount ever achieved"
+        "en": "The best or largest amount ever achieved",
+        "ko": "기록",
+        "zh-Hans": "纪录",
+        "ja": "記録",
+        "es": "récord",
+        "hi": "रिकॉर्ड",
+        "de": "Rekord",
+        "vi": "kỷ lục",
+        "pt-BR": "recorde",
+        "id": "rekor",
+        "fr": "record",
+        "ar": "رقم قياسي",
+        "tr": "rekor",
+        "it": "record",
+        "pl": "rekord"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The best or largest amount ever achieved"
+          "en": "The best or largest amount ever achieved",
+          "ko": "기록",
+          "zh-Hans": "纪录",
+          "ja": "記録",
+          "es": "récord",
+          "hi": "रिकॉर्ड",
+          "de": "Rekord",
+          "vi": "kỷ lục",
+          "pt-BR": "recorde",
+          "id": "rekor",
+          "fr": "record",
+          "ar": "رقم قياسي",
+          "tr": "rekor",
+          "it": "record",
+          "pl": "rekord"
         },
         "example": {
           "en": "It would also be the biggest Regulation S equity offering on record."

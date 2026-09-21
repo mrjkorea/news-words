@@ -8,14 +8,42 @@
     {
       "id": "biological",
       "en": "biological",
-      "ko": "Related to living things and life processes",
+      "ko": "생물학적인",
       "l1": {
-        "en": "Related to living things and life processes"
+        "en": "Related to living things and life processes",
+        "ko": "생물학적인",
+        "zh-Hans": "生物的",
+        "ja": "生物学的な",
+        "es": "biológico",
+        "hi": "जैविक",
+        "de": "biologisch",
+        "vi": "sinh học",
+        "pt-BR": "biológico",
+        "id": "biologis",
+        "fr": "biologique",
+        "ar": "بيولوجي",
+        "tr": "biyolojik",
+        "it": "biologico",
+        "pl": "biologiczny"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Related to living things and life processes"
+          "en": "Related to living things and life processes",
+          "ko": "생물학적인",
+          "zh-Hans": "生物的",
+          "ja": "生物学的な",
+          "es": "biológico",
+          "hi": "जैविक",
+          "de": "biologisch",
+          "vi": "sinh học",
+          "pt-BR": "biológico",
+          "id": "biologis",
+          "fr": "biologique",
+          "ar": "بيولوجي",
+          "tr": "biyolojik",
+          "it": "biologico",
+          "pl": "biologiczny"
         },
         "example": {
           "en": "Here, both the biological target, a protein called TNIK that is linked to aging and to fibrosis, and the molecule itself came from generative artificial intelligence."
@@ -26,14 +54,42 @@
     {
       "id": "protein",
       "en": "protein",
-      "ko": "A substance in the body that builds and controls cells",
+      "ko": "단백질",
       "l1": {
-        "en": "A substance in the body that builds and controls cells"
+        "en": "A substance in the body that builds and controls cells",
+        "ko": "단백질",
+        "zh-Hans": "蛋白质",
+        "ja": "タンパク質",
+        "es": "proteína",
+        "hi": "प्रोटीन",
+        "de": "Protein",
+        "vi": "protein",
+        "pt-BR": "proteína",
+        "id": "protein",
+        "fr": "protéine",
+        "ar": "بروتين",
+        "tr": "protein",
+        "it": "proteina",
+        "pl": "białko"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A substance in the body that builds and controls cells"
+          "en": "A substance in the body that builds and controls cells",
+          "ko": "단백질",
+          "zh-Hans": "蛋白质",
+          "ja": "タンパク質",
+          "es": "proteína",
+          "hi": "प्रोटीन",
+          "de": "Protein",
+          "vi": "protein",
+          "pt-BR": "proteína",
+          "id": "protein",
+          "fr": "protéine",
+          "ar": "بروتين",
+          "tr": "protein",
+          "it": "proteina",
+          "pl": "białko"
         },
         "example": {
           "en": "They studied more than two thousand eight hundred proteins and applied six different protein-based aging clocks, each one built by a separate group of scientists."
@@ -44,14 +100,42 @@
     {
       "id": "trial",
       "en": "trial",
-      "ko": "A test of a new medicine in people",
+      "ko": "임상 시험",
       "l1": {
-        "en": "A test of a new medicine in people"
+        "en": "A test of a new medicine in people",
+        "ko": "임상 시험",
+        "zh-Hans": "临床试验",
+        "ja": "臨床試験",
+        "es": "ensayo clínico",
+        "hi": "नैदानिक परीक्षण",
+        "de": "klinische Studie",
+        "vi": "thử nghiệm lâm sàng",
+        "pt-BR": "ensaio clínico",
+        "id": "uji klinis",
+        "fr": "essai clinique",
+        "ar": "تجربة سريرية",
+        "tr": "klinik deneme",
+        "it": "sperimentazione clinica",
+        "pl": "badanie kliniczne"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A test of a new medicine in people"
+          "en": "A test of a new medicine in people",
+          "ko": "임상 시험",
+          "zh-Hans": "临床试验",
+          "ja": "臨床試験",
+          "es": "ensayo clínico",
+          "hi": "नैदानिक परीक्षण",
+          "de": "klinische Studie",
+          "vi": "thử nghiệm lâm sàng",
+          "pt-BR": "ensaio clínico",
+          "id": "uji klinis",
+          "fr": "essai clinique",
+          "ar": "تجربة سريرية",
+          "tr": "klinik deneme",
+          "it": "sperimentazione clinica",
+          "pl": "badanie kliniczne"
         },
         "example": {
           "en": "To measure aging, the researchers used blood samples from forty-two people who took part in an earlier mid-stage trial."
@@ -62,14 +146,42 @@
     {
       "id": "aging",
       "en": "aging",
-      "ko": "The process of growing older",
+      "ko": "노화",
       "l1": {
-        "en": "The process of growing older"
+        "en": "The process of growing older",
+        "ko": "노화",
+        "zh-Hans": "衰老",
+        "ja": "老化",
+        "es": "envejecimiento",
+        "hi": "उम्र बढ़ना",
+        "de": "Alterung",
+        "vi": "lão hóa",
+        "pt-BR": "envelhecimento",
+        "id": "penuaan",
+        "fr": "vieillissement",
+        "ar": "شيخوخة",
+        "tr": "yaşlanma",
+        "it": "invecchiamento",
+        "pl": "starzenie się"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "The process of growing older"
+          "en": "The process of growing older",
+          "ko": "노화",
+          "zh-Hans": "衰老",
+          "ja": "老化",
+          "es": "envejecimiento",
+          "hi": "उम्र बढ़ना",
+          "de": "Alterung",
+          "vi": "lão hóa",
+          "pt-BR": "envelhecimento",
+          "id": "penuaan",
+          "fr": "vieillissement",
+          "ar": "شيخوخة",
+          "tr": "yaşlanma",
+          "it": "invecchiamento",
+          "pl": "starzenie się"
         },
         "example": {
           "en": "A drug that was designed with artificial intelligence may be able to slow part of the aging process, according to a new clinical study."
@@ -80,14 +192,42 @@
     {
       "id": "molecule",
       "en": "molecule",
-      "ko": "A very small group of atoms joined together",
+      "ko": "분자",
       "l1": {
-        "en": "A very small group of atoms joined together"
+        "en": "A very small group of atoms joined together",
+        "ko": "분자",
+        "zh-Hans": "分子",
+        "ja": "分子",
+        "es": "molécula",
+        "hi": "अणु",
+        "de": "Molekül",
+        "vi": "phân tử",
+        "pt-BR": "molécula",
+        "id": "molekul",
+        "fr": "molécule",
+        "ar": "جزيء",
+        "tr": "molekül",
+        "it": "molecola",
+        "pl": "cząsteczka"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A very small group of atoms joined together"
+          "en": "A very small group of atoms joined together",
+          "ko": "분자",
+          "zh-Hans": "分子",
+          "ja": "分子",
+          "es": "molécula",
+          "hi": "अणु",
+          "de": "Molekül",
+          "vi": "phân tử",
+          "pt-BR": "molécula",
+          "id": "molekul",
+          "fr": "molécule",
+          "ar": "جزيء",
+          "tr": "molekül",
+          "it": "molecola",
+          "pl": "cząsteczka"
         },
         "example": {
           "en": "Here, both the biological target, a protein called TNIK that is linked to aging and to fibrosis, and the molecule itself came from generative artificial intelligence."
@@ -98,14 +238,42 @@
     {
       "id": "reverse",
       "en": "reverse",
-      "ko": "To change something back to an earlier state",
+      "ko": "되돌리다",
       "l1": {
-        "en": "To change something back to an earlier state"
+        "en": "To change something back to an earlier state",
+        "ko": "되돌리다",
+        "zh-Hans": "逆转",
+        "ja": "元に戻す",
+        "es": "revertir",
+        "hi": "पलटना",
+        "de": "umkehren",
+        "vi": "đảo ngược",
+        "pt-BR": "reverter",
+        "id": "membalikkan",
+        "fr": "inverser",
+        "ar": "يعكس",
+        "tr": "geri döndürmek",
+        "it": "invertire",
+        "pl": "odwrócić"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "To change something back to an earlier state"
+          "en": "To change something back to an earlier state",
+          "ko": "되돌리다",
+          "zh-Hans": "逆转",
+          "ja": "元に戻す",
+          "es": "revertir",
+          "hi": "पलटना",
+          "de": "umkehren",
+          "vi": "đảo ngược",
+          "pt-BR": "reverter",
+          "id": "membalikkan",
+          "fr": "inverser",
+          "ar": "يعكس",
+          "tr": "geri döndürmek",
+          "it": "invertire",
+          "pl": "odwrócić"
         },
         "example": {
           "en": "A drug that was designed with artificial intelligence may be able to slow part of the aging process, according to a new clinical study."
@@ -116,14 +284,42 @@
     {
       "id": "biomarker",
       "en": "biomarker",
-      "ko": "A measurable sign of what is happening in the body",
+      "ko": "몸 상태를 나타내는 측정 가능한 신호",
       "l1": {
-        "en": "A measurable sign of what is happening in the body"
+        "en": "A measurable sign of what is happening in the body",
+        "ko": "몸 상태를 나타내는 측정 가능한 신호",
+        "zh-Hans": "可测量的身体信号",
+        "ja": "体内の状態を示す測定可能な指標",
+        "es": "señal medible del estado corporal",
+        "hi": "शरीर की स्थिति का मापनीय संकेत",
+        "de": "messbares Zeichen im Körper",
+        "vi": "dấu hiệu đo được trong cơ thể",
+        "pt-BR": "sinal mensurável do corpo",
+        "id": "tanda terukur kondisi tubuh",
+        "fr": "signe mesurable dans le corps",
+        "ar": "علامة قابلة للقياس في الجسم",
+        "tr": "vücuttaki ölçülebilir işaret",
+        "it": "segnale misurabile nel corpo",
+        "pl": "mierzalny wskaźnik w organizmie"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A measurable sign of what is happening in the body"
+          "en": "A measurable sign of what is happening in the body",
+          "ko": "몸 상태를 나타내는 측정 가능한 신호",
+          "zh-Hans": "可测量的身体信号",
+          "ja": "体内の状態を示す測定可能な指標",
+          "es": "señal medible del estado corporal",
+          "hi": "शरीर की स्थिति का मापनीय संकेत",
+          "de": "messbares Zeichen im Körper",
+          "vi": "dấu hiệu đo được trong cơ thể",
+          "pt-BR": "sinal mensurável do corpo",
+          "id": "tanda terukur kondisi tubuh",
+          "fr": "signe mesurable dans le corps",
+          "ar": "علامة قابلة للقياس في الجسم",
+          "tr": "vücuttaki ölçülebilir işaret",
+          "it": "segnale misurabile nel corpo",
+          "pl": "mierzalny wskaźnik w organizmie"
         },
         "example": {
           "en": "A drug that was designed with artificial intelligence may be able to slow part of the aging process, according to a new clinical study."
@@ -134,14 +330,42 @@
     {
       "id": "patient",
       "en": "patient",
-      "ko": "A person who receives medical care",
+      "ko": "의료 치료를 받는 사람",
       "l1": {
-        "en": "A person who receives medical care"
+        "en": "A person who receives medical care",
+        "ko": "의료 치료를 받는 사람",
+        "zh-Hans": "接受医疗护理的人",
+        "ja": "医療を受ける人",
+        "es": "persona que recibe atención médica",
+        "hi": "चिकित्सा देखभाल पाने वाला व्यक्ति",
+        "de": "Person, die medizinische Versorgung erhält",
+        "vi": "người nhận chăm sóc y tế",
+        "pt-BR": "pessoa que recebe cuidados médicos",
+        "id": "orang yang menerima perawatan medis",
+        "fr": "personne recevant des soins médicaux",
+        "ar": "شخص يتلقى رعاية طبية",
+        "tr": "tıbbi bakım alan kişi",
+        "it": "persona che riceve cure mediche",
+        "pl": "osoba otrzymująca opiekę medyczną"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A person who receives medical care"
+          "en": "A person who receives medical care",
+          "ko": "의료 치료를 받는 사람",
+          "zh-Hans": "接受医疗护理的人",
+          "ja": "医療を受ける人",
+          "es": "persona que recibe atención médica",
+          "hi": "चिकित्सा देखभाल पाने वाला व्यक्ति",
+          "de": "Person, die medizinische Versorgung erhält",
+          "vi": "người nhận chăm sóc y tế",
+          "pt-BR": "pessoa que recebe cuidados médicos",
+          "id": "orang yang menerima perawatan medis",
+          "fr": "personne recevant des soins médicaux",
+          "ar": "شخص يتلقى رعاية طبية",
+          "tr": "tıbbi bakım alan kişi",
+          "it": "persona che riceve cure mediche",
+          "pl": "osoba otrzymująca opiekę medyczną"
         },
         "example": {
           "en": "A drug that was designed with artificial intelligence may be able to slow part of the aging process, according to a new clinical study."
@@ -152,14 +376,42 @@
     {
       "id": "dose",
       "en": "dose",
-      "ko": "The measured amount of medicine taken at one time",
+      "ko": "한 번에 복용하는 약의 양",
       "l1": {
-        "en": "The measured amount of medicine taken at one time"
+        "en": "The measured amount of medicine taken at one time",
+        "ko": "한 번에 복용하는 약의 양",
+        "zh-Hans": "一次服用的药量",
+        "ja": "一度に服用する薬の量",
+        "es": "cantidad de medicina tomada de una vez",
+        "hi": "एक बार में ली जाने वाली दवा की मात्रा",
+        "de": "Menge Medizin, die auf einmal genommen wird",
+        "vi": "lượng thuốc uống một lần",
+        "pt-BR": "quantidade de remédio tomada de uma vez",
+        "id": "jumlah obat yang diminum sekali",
+        "fr": "quantité de médicament prise en une fois",
+        "ar": "كمية الدواء التي تؤخذ مرة واحدة",
+        "tr": "bir seferde alınan ilaç miktarı",
+        "it": "quantità di medicina presa in una volta",
+        "pl": "ilość leku przyjmowana jednorazowo"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The measured amount of medicine taken at one time"
+          "en": "The measured amount of medicine taken at one time",
+          "ko": "한 번에 복용하는 약의 양",
+          "zh-Hans": "一次服用的药量",
+          "ja": "一度に服用する薬の量",
+          "es": "cantidad de medicina tomada de una vez",
+          "hi": "एक बार में ली जाने वाली दवा की मात्रा",
+          "de": "Menge Medizin, die auf einmal genommen wird",
+          "vi": "lượng thuốc uống một lần",
+          "pt-BR": "quantidade de remédio tomada de uma vez",
+          "id": "jumlah obat yang diminum sekali",
+          "fr": "quantité de médicament prise en une fois",
+          "ar": "كمية الدواء التي تؤخذ مرة واحدة",
+          "tr": "bir seferde alınan ilaç miktarı",
+          "it": "quantità di medicina presa in una volta",
+          "pl": "ilość leku przyjmowana jednorazowo"
         },
         "example": {
           "en": "In the trial, lung function improved in the treated group while it dropped in the placebo group, and the effect grew as the dose increased."
@@ -170,14 +422,42 @@
     {
       "id": "clock",
       "en": "clock",
-      "ko": "A device that measures and shows time",
+      "ko": "시간을 재고 보여주는 장치",
       "l1": {
-        "en": "A device that measures and shows time"
+        "en": "A device that measures and shows time",
+        "ko": "시간을 재고 보여주는 장치",
+        "zh-Hans": "测量和显示时间的装置",
+        "ja": "時間を測って表示する装置",
+        "es": "dispositivo que mide y muestra el tiempo",
+        "hi": "समय मापने और दिखाने वाला उपकरण",
+        "de": "Gerät, das Zeit misst und anzeigt",
+        "vi": "thiết bị đo và hiển thị thời gian",
+        "pt-BR": "dispositivo que mede e mostra o tempo",
+        "id": "alat yang mengukur dan menunjukkan waktu",
+        "fr": "appareil qui mesure et indique le temps",
+        "ar": "جهاز يقيس ويعرض الوقت",
+        "tr": "zamanı ölçen ve gösteren cihaz",
+        "it": "dispositivo che misura e mostra il tempo",
+        "pl": "urządzenie mierzące i pokazujące czas"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A device that measures and shows time"
+          "en": "A device that measures and shows time",
+          "ko": "시간을 재고 보여주는 장치",
+          "zh-Hans": "测量和显示时间的装置",
+          "ja": "時間を測って表示する装置",
+          "es": "dispositivo que mide y muestra el tiempo",
+          "hi": "समय मापने और दिखाने वाला उपकरण",
+          "de": "Gerät, das Zeit misst und anzeigt",
+          "vi": "thiết bị đo và hiển thị thời gian",
+          "pt-BR": "dispositivo que mede e mostra o tempo",
+          "id": "alat yang mengukur dan menunjukkan waktu",
+          "fr": "appareil qui mesure et indique le temps",
+          "ar": "جهاز يقيس ويعرض الوقت",
+          "tr": "zamanı ölçen ve gösteren cihaz",
+          "it": "dispositivo che misura e mostra il tempo",
+          "pl": "urządzenie mierzące i pokazujące czas"
         },
         "example": {
           "en": "A drug that was designed with artificial intelligence may be able to slow part of the aging process, according to a new clinical study."

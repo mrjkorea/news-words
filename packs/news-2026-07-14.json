@@ -8,14 +8,42 @@
     {
       "id": "consensus",
       "en": "consensus",
-      "ko": "a general agreement among a group",
+      "ko": "집단의 일반적인 동의",
       "l1": {
-        "en": "a general agreement among a group"
+        "en": "a general agreement among a group",
+        "ko": "집단의 일반적인 동의",
+        "zh-Hans": "群体的一般共识",
+        "ja": "集団の一般的な合意",
+        "es": "acuerdo general de un grupo",
+        "hi": "समूह में सामान्य सहमति",
+        "de": "allgemeine Übereinstimmung einer Gruppe",
+        "vi": "sự đồng thuận chung của nhóm",
+        "pt-BR": "acordo geral de um grupo",
+        "id": "kesepakatan umum suatu kelompok",
+        "fr": "accord général d'un groupe",
+        "ar": "اتفاق عام بين مجموعة",
+        "tr": "bir grubun genel anlaşması",
+        "it": "accordo generale di un gruppo",
+        "pl": "ogólna zgoda grupy"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "a general agreement among a group"
+          "en": "a general agreement among a group",
+          "ko": "집단의 일반적인 동의",
+          "zh-Hans": "群体的一般共识",
+          "ja": "集団の一般的な合意",
+          "es": "acuerdo general de un grupo",
+          "hi": "समूह में सामान्य सहमति",
+          "de": "allgemeine Übereinstimmung einer Gruppe",
+          "vi": "sự đồng thuận chung của nhóm",
+          "pt-BR": "acordo geral de um grupo",
+          "id": "kesepakatan umum suatu kelompok",
+          "fr": "accord général d'un groupe",
+          "ar": "اتفاق عام بين مجموعة",
+          "tr": "bir grubun genel anlaşması",
+          "it": "accordo generale di un gruppo",
+          "pl": "ogólna zgoda grupy"
         },
         "example": {
           "en": "Today's news uses the word consensus."
@@ -26,14 +54,42 @@
     {
       "id": "junta",
       "en": "junta",
-      "ko": "a military government that took power by force",
+      "ko": "무력으로 권력을 잡은 군사 정부",
       "l1": {
-        "en": "a military government that took power by force"
+        "en": "a military government that took power by force",
+        "ko": "무력으로 권력을 잡은 군사 정부",
+        "zh-Hans": "以武力夺取政权的军政府",
+        "ja": "武力で政権を奪った軍事政府",
+        "es": "gobierno militar que tomó el poder por la fuerza",
+        "hi": "सैन्य सरकार जिसने बल से सत्ता ली",
+        "de": "Militärregierung, die gewaltsam die Macht ergriff",
+        "vi": "chính quyền quân sự cướp chính quyền",
+        "pt-BR": "governo militar que tomou o poder à força",
+        "id": "pemerintahan militer yang merebut kekuasaan",
+        "fr": "gouvernement militaire arrivé au pouvoir par la force",
+        "ar": "حكومة عسكرية استولت على السلطة بالقوة",
+        "tr": "güçle iktidarı ele geçiren askeri hükümet",
+        "it": "governo militare che ha preso il potere con la forza",
+        "pl": "rząd wojskowy, który przejął władzę siłą"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "a military government that took power by force"
+          "en": "a military government that took power by force",
+          "ko": "무력으로 권력을 잡은 군사 정부",
+          "zh-Hans": "以武力夺取政权的军政府",
+          "ja": "武力で政権を奪った軍事政府",
+          "es": "gobierno militar que tomó el poder por la fuerza",
+          "hi": "सैन्य सरकार जिसने बल से सत्ता ली",
+          "de": "Militärregierung, die gewaltsam die Macht ergriff",
+          "vi": "chính quyền quân sự cướp chính quyền",
+          "pt-BR": "governo militar que tomou o poder à força",
+          "id": "pemerintahan militer yang merebut kekuasaan",
+          "fr": "gouvernement militaire arrivé au pouvoir par la force",
+          "ar": "حكومة عسكرية استولت على السلطة بالقوة",
+          "tr": "güçle iktidarı ele geçiren askeri hükümet",
+          "it": "governo militare che ha preso il potere con la forza",
+          "pl": "rząd wojskowy, który przejął władzę siłą"
         },
         "example": {
           "en": "Today's news uses the word junta."
@@ -44,14 +100,42 @@
     {
       "id": "legitimacy",
       "en": "legitimacy",
-      "ko": "the quality of being lawful or officially recognized",
+      "ko": "합법성 또는 공식 인정",
       "l1": {
-        "en": "the quality of being lawful or officially recognized"
+        "en": "the quality of being lawful or officially recognized",
+        "ko": "합법성 또는 공식 인정",
+        "zh-Hans": "合法性或官方认可",
+        "ja": "合法性または公的承認",
+        "es": "legalidad o reconocimiento oficial",
+        "hi": "वैधता या आधिकारिक मान्यता",
+        "de": "Rechtmäßigkeit oder offizielle Anerkennung",
+        "vi": "tính hợp pháp hoặc được công nhận chính thức",
+        "pt-BR": "legalidade ou reconhecimento oficial",
+        "id": "legalitas atau pengakuan resmi",
+        "fr": "légalité ou reconnaissance officielle",
+        "ar": "الشرعية أو الاعتراف الرسمي",
+        "tr": "meşruiyet veya resmi tanınma",
+        "it": "legittimità o riconoscimento ufficiale",
+        "pl": "legalność lub oficjalne uznanie"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "the quality of being lawful or officially recognized"
+          "en": "the quality of being lawful or officially recognized",
+          "ko": "합법성 또는 공식 인정",
+          "zh-Hans": "合法性或官方认可",
+          "ja": "合法性または公的承認",
+          "es": "legalidad o reconocimiento oficial",
+          "hi": "वैधता या आधिकारिक मान्यता",
+          "de": "Rechtmäßigkeit oder offizielle Anerkennung",
+          "vi": "tính hợp pháp hoặc được công nhận chính thức",
+          "pt-BR": "legalidade ou reconhecimento oficial",
+          "id": "legalitas atau pengakuan resmi",
+          "fr": "légalité ou reconnaissance officielle",
+          "ar": "الشرعية أو الاعتراف الرسمي",
+          "tr": "meşruiyet veya resmi tanınma",
+          "it": "legittimità o riconoscimento ufficiale",
+          "pl": "legalność lub oficjalne uznanie"
         },
         "example": {
           "en": "Today's news uses the word legitimacy."
@@ -62,14 +146,42 @@
     {
       "id": "diplomatic",
       "en": "diplomatic",
-      "ko": "relating to relations between countries",
+      "ko": "국가 간 관계에 관한",
       "l1": {
-        "en": "relating to relations between countries"
+        "en": "relating to relations between countries",
+        "ko": "국가 간 관계에 관한",
+        "zh-Hans": "有关国家间关系的",
+        "ja": "国家間の関係に関する",
+        "es": "relativo a relaciones entre países",
+        "hi": "देशों के बीच संबंधों से संबंधित",
+        "de": "zwischenstaatliche Beziehungen betreffend",
+        "vi": "liên quan đến quan hệ giữa các quốc gia",
+        "pt-BR": "relativo a relações entre países",
+        "id": "berkaitan hubungan antar negara",
+        "fr": "relatif aux relations entre pays",
+        "ar": "متعلق بالعلاقات بين الدول",
+        "tr": "ülkeler arası ilişkilerle ilgili",
+        "it": "relativo alle relazioni tra paesi",
+        "pl": "dotyczący stosunków między krajami"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "relating to relations between countries"
+          "en": "relating to relations between countries",
+          "ko": "국가 간 관계에 관한",
+          "zh-Hans": "有关国家间关系的",
+          "ja": "国家間の関係に関する",
+          "es": "relativo a relaciones entre países",
+          "hi": "देशों के बीच संबंधों से संबंधित",
+          "de": "zwischenstaatliche Beziehungen betreffend",
+          "vi": "liên quan đến quan hệ giữa các quốc gia",
+          "pt-BR": "relativo a relações entre países",
+          "id": "berkaitan hubungan antar negara",
+          "fr": "relatif aux relations entre pays",
+          "ar": "متعلق بالعلاقات بين الدول",
+          "tr": "ülkeler arası ilişkilerle ilgili",
+          "it": "relativo alle relazioni tra paesi",
+          "pl": "dotyczący stosunków między krajami"
         },
         "example": {
           "en": "Today's news uses the word diplomatic."
@@ -80,14 +192,42 @@
     {
       "id": "boycott",
       "en": "boycott",
-      "ko": "to refuse to take part in something",
+      "ko": "참여를 거부하다",
       "l1": {
-        "en": "to refuse to take part in something"
+        "en": "to refuse to take part in something",
+        "ko": "참여를 거부하다",
+        "zh-Hans": "拒绝参与",
+        "ja": "参加を拒否する",
+        "es": "negarse a participar",
+        "hi": "भाग लेने से इनकार करना",
+        "de": "sich weigern teilzunehmen",
+        "vi": "từ chối tham gia",
+        "pt-BR": "recusar-se a participar",
+        "id": "menolak untuk berpartisipasi",
+        "fr": "refuser de participer",
+        "ar": "رفض المشاركة",
+        "tr": "katılmayı reddetmek",
+        "it": "rifiutare di partecipare",
+        "pl": "odmówić udziału"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "to refuse to take part in something"
+          "en": "to refuse to take part in something",
+          "ko": "참여를 거부하다",
+          "zh-Hans": "拒绝参与",
+          "ja": "参加を拒否する",
+          "es": "negarse a participar",
+          "hi": "भाग लेने से इनकार करना",
+          "de": "sich weigern teilzunehmen",
+          "vi": "từ chối tham gia",
+          "pt-BR": "recusar-se a participar",
+          "id": "menolak untuk berpartisipasi",
+          "fr": "refuser de participer",
+          "ar": "رفض المشاركة",
+          "tr": "katılmayı reddetmek",
+          "it": "rifiutare di partecipare",
+          "pl": "odmówić udziału"
         },
         "example": {
           "en": "Today's news uses the word boycott."
@@ -98,14 +238,42 @@
     {
       "id": "summit",
       "en": "summit",
-      "ko": "a high-level meeting between leaders",
+      "ko": "지도자 간 고위급 회담",
       "l1": {
-        "en": "a high-level meeting between leaders"
+        "en": "a high-level meeting between leaders",
+        "ko": "지도자 간 고위급 회담",
+        "zh-Hans": "领导人之间的高级别会议",
+        "ja": "指導者間の首脳会談",
+        "es": "reunión de alto nivel entre líderes",
+        "hi": "नेताओं के बीच उच्च स्तरीय बैठक",
+        "de": "Gipfeltreffen zwischen Führungskräften",
+        "vi": "cuộc họp cấp cao giữa các nhà lãnh đạo",
+        "pt-BR": "reunião de alto nível entre líderes",
+        "id": "pertemuan tingkat tinggi antar pemimpin",
+        "fr": "réunion au sommet entre dirigeants",
+        "ar": "اجتماع قمة بين القادة",
+        "tr": "liderler arası üst düzey toplantı",
+        "it": "incontro ad alto livello tra leader",
+        "pl": "spotkanie na szczycie przywódców"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "a high-level meeting between leaders"
+          "en": "a high-level meeting between leaders",
+          "ko": "지도자 간 고위급 회담",
+          "zh-Hans": "领导人之间的高级别会议",
+          "ja": "指導者間の首脳会談",
+          "es": "reunión de alto nivel entre líderes",
+          "hi": "नेताओं के बीच उच्च स्तरीय बैठक",
+          "de": "Gipfeltreffen zwischen Führungskräften",
+          "vi": "cuộc họp cấp cao giữa các nhà lãnh đạo",
+          "pt-BR": "reunião de alto nível entre líderes",
+          "id": "pertemuan tingkat tinggi antar pemimpin",
+          "fr": "réunion au sommet entre dirigeants",
+          "ar": "اجتماع قمة بين القادة",
+          "tr": "liderler arası üst düzey toplantı",
+          "it": "incontro ad alto livello tra leader",
+          "pl": "spotkanie na szczycie przywódców"
         },
         "example": {
           "en": "Today's news uses the word summit."
@@ -116,14 +284,42 @@
     {
       "id": "sanction",
       "en": "sanction",
-      "ko": "an official punishment or restriction",
+      "ko": "공식 처벌 또는 제한",
       "l1": {
-        "en": "an official punishment or restriction"
+        "en": "an official punishment or restriction",
+        "ko": "공식 처벌 또는 제한",
+        "zh-Hans": "官方惩罚或限制",
+        "ja": "公式の罰則または制限",
+        "es": "castigo o restricción oficial",
+        "hi": "आधिकारिक दंड या प्रतिबंध",
+        "de": "offizielle Strafe oder Beschränkung",
+        "vi": "hình phạt hoặc hạn chế chính thức",
+        "pt-BR": "punição ou restrição oficial",
+        "id": "hukuman atau pembatasan resmi",
+        "fr": "punition ou restriction officielle",
+        "ar": "عقوبة أو قيد رسمي",
+        "tr": "resmi ceza veya kısıtlama",
+        "it": "punizione o restrizione ufficiale",
+        "pl": "oficjalna kara lub ograniczenie"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "an official punishment or restriction"
+          "en": "an official punishment or restriction",
+          "ko": "공식 처벌 또는 제한",
+          "zh-Hans": "官方惩罚或限制",
+          "ja": "公式の罰則または制限",
+          "es": "castigo o restricción oficial",
+          "hi": "आधिकारिक दंड या प्रतिबंध",
+          "de": "offizielle Strafe oder Beschränkung",
+          "vi": "hình phạt hoặc hạn chế chính thức",
+          "pt-BR": "punição ou restrição oficial",
+          "id": "hukuman atau pembatasan resmi",
+          "fr": "punition ou restriction officielle",
+          "ar": "عقوبة أو قيد رسمي",
+          "tr": "resmi ceza veya kısıtlama",
+          "it": "punizione o restrizione ufficiale",
+          "pl": "oficjalna kara lub ograniczenie"
         },
         "example": {
           "en": "Today's news uses the word sanction."
@@ -134,14 +330,42 @@
     {
       "id": "detention",
       "en": "detention",
-      "ko": "the state of being held in custody",
+      "ko": "구금 상태",
       "l1": {
-        "en": "the state of being held in custody"
+        "en": "the state of being held in custody",
+        "ko": "구금 상태",
+        "zh-Hans": "拘留状态",
+        "ja": "拘留状態",
+        "es": "estado de detención",
+        "hi": "हिरासत की स्थिति",
+        "de": "Zustand der Haft",
+        "vi": "trạng thái bị giam giữ",
+        "pt-BR": "estado de detenção",
+        "id": "keadaan ditahan",
+        "fr": "état de détention",
+        "ar": "حالة الاحتجاز",
+        "tr": "gözaltı durumu",
+        "it": "stato di detenzione",
+        "pl": "stan zatrzymania"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "the state of being held in custody"
+          "en": "the state of being held in custody",
+          "ko": "구금 상태",
+          "zh-Hans": "拘留状态",
+          "ja": "拘留状態",
+          "es": "estado de detención",
+          "hi": "हिरासत की स्थिति",
+          "de": "Zustand der Haft",
+          "vi": "trạng thái bị giam giữ",
+          "pt-BR": "estado de detenção",
+          "id": "keadaan ditahan",
+          "fr": "état de détention",
+          "ar": "حالة الاحتجاز",
+          "tr": "gözaltı durumu",
+          "it": "stato di detenzione",
+          "pl": "stan zatrzymania"
         },
         "example": {
           "en": "Today's news uses the word detention."
@@ -152,14 +376,42 @@
     {
       "id": "ceasefire",
       "en": "ceasefire",
-      "ko": "an agreement to stop fighting",
+      "ko": "전투 중지 협정",
       "l1": {
-        "en": "an agreement to stop fighting"
+        "en": "an agreement to stop fighting",
+        "ko": "전투 중지 협정",
+        "zh-Hans": "停火协议",
+        "ja": "停戦協定",
+        "es": "acuerdo para detener los combates",
+        "hi": "लड़ाई रोकने का समझौता",
+        "de": "Vereinbarung zur Einstellung der Kämpfe",
+        "vi": "thỏa thuận ngừng giao tranh",
+        "pt-BR": "acordo para parar os combates",
+        "id": "perjanjian untuk menghentikan pertempuran",
+        "fr": "accord pour arrêter les combats",
+        "ar": "اتفاق لوقف القتال",
+        "tr": "çatışmayı durdurma anlaşması",
+        "it": "accordo per fermare i combattimenti",
+        "pl": "porozumienie o zaprzestaniu walk"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "an agreement to stop fighting"
+          "en": "an agreement to stop fighting",
+          "ko": "전투 중지 협정",
+          "zh-Hans": "停火协议",
+          "ja": "停戦協定",
+          "es": "acuerdo para detener los combates",
+          "hi": "लड़ाई रोकने का समझौता",
+          "de": "Vereinbarung zur Einstellung der Kämpfe",
+          "vi": "thỏa thuận ngừng giao tranh",
+          "pt-BR": "acordo para parar os combates",
+          "id": "perjanjian untuk menghentikan pertempuran",
+          "fr": "accord pour arrêter les combats",
+          "ar": "اتفاق لوقف القتال",
+          "tr": "çatışmayı durdurma anlaşması",
+          "it": "accordo per fermare i combattimenti",
+          "pl": "porozumienie o zaprzestaniu walk"
         },
         "example": {
           "en": "Today's news uses the word ceasefire."
@@ -170,14 +422,42 @@
     {
       "id": "regime",
       "en": "regime",
-      "ko": "a government or system of rule",
+      "ko": "정부 또는 통치 체제",
       "l1": {
-        "en": "a government or system of rule"
+        "en": "a government or system of rule",
+        "ko": "정부 또는 통치 체제",
+        "zh-Hans": "政府或统治制度",
+        "ja": "政府または統治体制",
+        "es": "gobierno o sistema de gobierno",
+        "hi": "सरकार या शासन व्यवस्था",
+        "de": "Regierung oder Herrschaftssystem",
+        "vi": "chính phủ hoặc hệ thống cai trị",
+        "pt-BR": "governo ou sistema de governo",
+        "id": "pemerintah atau sistem pemerintahan",
+        "fr": "gouvernement ou système de gouvernement",
+        "ar": "حكومة أو نظام حكم",
+        "tr": "hükümet veya yönetim sistemi",
+        "it": "governo o sistema di governo",
+        "pl": "rząd lub system rządów"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "a government or system of rule"
+          "en": "a government or system of rule",
+          "ko": "정부 또는 통치 체제",
+          "zh-Hans": "政府或统治制度",
+          "ja": "政府または統治体制",
+          "es": "gobierno o sistema de gobierno",
+          "hi": "सरकार या शासन व्यवस्था",
+          "de": "Regierung oder Herrschaftssystem",
+          "vi": "chính phủ hoặc hệ thống cai trị",
+          "pt-BR": "governo ou sistema de governo",
+          "id": "pemerintah atau sistem pemerintahan",
+          "fr": "gouvernement ou système de gouvernement",
+          "ar": "حكومة أو نظام حكم",
+          "tr": "hükümet veya yönetim sistemi",
+          "it": "governo o sistema di governo",
+          "pl": "rząd lub system rządów"
         },
         "example": {
           "en": "Today's news uses the word regime."

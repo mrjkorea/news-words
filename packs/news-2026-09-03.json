@@ -8,14 +8,42 @@
     {
       "id": "alligator",
       "en": "alligator",
-      "ko": "A large reptile with a wide snout that lives in swamps",
+      "ko": "늪에 사는 넓은 주둥이의 큰 파충류",
       "l1": {
-        "en": "A large reptile with a wide snout that lives in swamps"
+        "en": "A large reptile with a wide snout that lives in swamps",
+        "ko": "늪에 사는 넓은 주둥이의 큰 파충류",
+        "zh-Hans": "生活在沼泽中的宽吻大型爬行动物",
+        "ja": "沼地に住む幅広い鼻先の大型爬虫類",
+        "es": "Gran reptil de hocico ancho que vive en pantanos",
+        "hi": "दलदल में रहने वाला चौड़ी थूथन वाला बड़ा सरीसृप",
+        "de": "Großes Reptil mit breiter Schnauze, lebt in Sümpfen",
+        "vi": "Loài bò sát lớn mõm rộng sống ở đầm lầy",
+        "pt-BR": "Grande réptil de focinho largo que vive em pântanos",
+        "id": "Reptil besar bermoncong lebar yang hidup di rawa",
+        "fr": "Grand reptile à large museau vivant dans les marais",
+        "ar": "زاحف كبير بعرض خطم يعيش في المستنقعات",
+        "tr": "Bataklıklarda yaşayan geniş burunlu büyük sürüngen",
+        "it": "Grande rettile dal muso largo che vive nelle paludi",
+        "pl": "Duży gad o szerokim pysku żyjący na bagnach"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A large reptile with a wide snout that lives in swamps"
+          "en": "A large reptile with a wide snout that lives in swamps",
+          "ko": "늪에 사는 넓은 주둥이의 큰 파충류",
+          "zh-Hans": "生活在沼泽中的宽吻大型爬行动物",
+          "ja": "沼地に住む幅広い鼻先の大型爬虫類",
+          "es": "Gran reptil de hocico ancho que vive en pantanos",
+          "hi": "दलदल में रहने वाला चौड़ी थूथन वाला बड़ा सरीसृप",
+          "de": "Großes Reptil mit breiter Schnauze, lebt in Sümpfen",
+          "vi": "Loài bò sát lớn mõm rộng sống ở đầm lầy",
+          "pt-BR": "Grande réptil de focinho largo que vive em pântanos",
+          "id": "Reptil besar bermoncong lebar yang hidup di rawa",
+          "fr": "Grand reptile à large museau vivant dans les marais",
+          "ar": "زاحف كبير بعرض خطم يعيش في المستنقعات",
+          "tr": "Bataklıklarda yaşayan geniş burunlu büyük sürüngen",
+          "it": "Grande rettile dal muso largo che vive nelle paludi",
+          "pl": "Duży gad o szerokim pysku żyjący na bagnach"
         },
         "example": {
           "en": "Louisiana is preparing its first recreational alligator hunt in more than fifty years."
@@ -26,14 +54,42 @@
     {
       "id": "recreational",
       "en": "recreational",
-      "ko": "Done for sport or fun - not for a job",
+      "ko": "오락이나 여가를 위한",
       "l1": {
-        "en": "Done for sport or fun - not for a job"
+        "en": "Done for sport or fun - not for a job",
+        "ko": "오락이나 여가를 위한",
+        "zh-Hans": "为了娱乐或休闲的",
+        "ja": "娯楽やレジャーのための",
+        "es": "Hecho para diversión o pasatiempo",
+        "hi": "मनोरंजन या शौक के लिए",
+        "de": "Zur Unterhaltung oder Freizeit",
+        "vi": "Để giải trí hoặc tiêu khiển",
+        "pt-BR": "Feito para diversão ou lazer",
+        "id": "Untuk rekreasi atau hiburan",
+        "fr": "Pour le divertissement ou les loisirs",
+        "ar": "من أجل الترفيه أو التسلية",
+        "tr": "Eğlence veya hobi amaçlı",
+        "it": "Per divertimento o svago",
+        "pl": "Dla rozrywki lub rekreacji"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Done for sport or fun - not for a job"
+          "en": "Done for sport or fun - not for a job",
+          "ko": "오락이나 여가를 위한",
+          "zh-Hans": "为了娱乐或休闲的",
+          "ja": "娯楽やレジャーのための",
+          "es": "Hecho para diversión o pasatiempo",
+          "hi": "मनोरंजन या शौक के लिए",
+          "de": "Zur Unterhaltung oder Freizeit",
+          "vi": "Để giải trí hoặc tiêu khiển",
+          "pt-BR": "Feito para diversão ou lazer",
+          "id": "Untuk rekreasi atau hiburan",
+          "fr": "Pour le divertissement ou les loisirs",
+          "ar": "من أجل الترفيه أو التسلية",
+          "tr": "Eğlence veya hobi amaçlı",
+          "it": "Per divertimento o svago",
+          "pl": "Dla rozrywki lub rekreacji"
         },
         "example": {
           "en": "Louisiana is preparing its first recreational alligator hunt in more than fifty years."
@@ -44,14 +100,42 @@
     {
       "id": "hunt",
       "en": "hunt",
-      "ko": "The act of chasing and taking a wild animal",
+      "ko": "야생 동물을 쫓아 잡는 일",
       "l1": {
-        "en": "The act of chasing and taking a wild animal"
+        "en": "The act of chasing and taking a wild animal",
+        "ko": "야생 동물을 쫓아 잡는 일",
+        "zh-Hans": "追捕野生动物的行为",
+        "ja": "野生動物を追い捕まえること",
+        "es": "Acción de perseguir y capturar animales",
+        "hi": "जंगली जानवर का पीछा कर पकड़ना",
+        "de": "Das Jagen und Fangen von Wildtieren",
+        "vi": "Hành động săn đuổi và bắt thú",
+        "pt-BR": "Ato de perseguir e capturar animais",
+        "id": "Tindakan mengejar dan menangkap hewan",
+        "fr": "Action de poursuivre et capturer un animal",
+        "ar": "فعل مطاردة الحيوانات البرية واصطيادها",
+        "tr": "Vahşi hayvanı kovalayıp yakalama",
+        "it": "Azione di inseguire e catturare animali",
+        "pl": "Polowanie na dzikie zwierzęta"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "The act of chasing and taking a wild animal"
+          "en": "The act of chasing and taking a wild animal",
+          "ko": "야생 동물을 쫓아 잡는 일",
+          "zh-Hans": "追捕野生动物的行为",
+          "ja": "野生動物を追い捕まえること",
+          "es": "Acción de perseguir y capturar animales",
+          "hi": "जंगली जानवर का पीछा कर पकड़ना",
+          "de": "Das Jagen und Fangen von Wildtieren",
+          "vi": "Hành động săn đuổi và bắt thú",
+          "pt-BR": "Ato de perseguir e capturar animais",
+          "id": "Tindakan mengejar dan menangkap hewan",
+          "fr": "Action de poursuivre et capturer un animal",
+          "ar": "فعل مطاردة الحيوانات البرية واصطيادها",
+          "tr": "Vahşi hayvanı kovalayıp yakalama",
+          "it": "Azione di inseguire e catturare animali",
+          "pl": "Polowanie na dzikie zwierzęta"
         },
         "example": {
           "en": "Louisiana is preparing its first recreational alligator hunt in more than fifty years."
@@ -62,14 +146,42 @@
     {
       "id": "lottery",
       "en": "lottery",
-      "ko": "A drawing that chooses winners by chance",
+      "ko": "운으로 당첨자를 뽑는 추첨",
       "l1": {
-        "en": "A drawing that chooses winners by chance"
+        "en": "A drawing that chooses winners by chance",
+        "ko": "운으로 당첨자를 뽑는 추첨",
+        "zh-Hans": "随机抽取获胜者的抽奖",
+        "ja": "くじで当選者を決める抽選",
+        "es": "Sorteo que elige ganadores al azar",
+        "hi": "भाग्य से विजेता चुनने वाला ड्रॉ",
+        "de": "Ziehung, die Gewinner per Zufall wählt",
+        "vi": "Cuộc bốc thăm chọn người thắng ngẫu nhiên",
+        "pt-BR": "Sorteio que escolhe vencedores por acaso",
+        "id": "Undian yang memilih pemenang secara acak",
+        "fr": "Tirage au sort désignant des gagnants",
+        "ar": "سحب يختار الفائزين بالحظ",
+        "tr": "Kazananları şansla seçen çekiliş",
+        "it": "Estrazione che sceglie i vincitori a caso",
+        "pl": "Losowanie wybierające zwycięzców przypadkowo"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A drawing that chooses winners by chance"
+          "en": "A drawing that chooses winners by chance",
+          "ko": "운으로 당첨자를 뽑는 추첨",
+          "zh-Hans": "随机抽取获胜者的抽奖",
+          "ja": "くじで当選者を決める抽選",
+          "es": "Sorteo que elige ganadores al azar",
+          "hi": "भाग्य से विजेता चुनने वाला ड्रॉ",
+          "de": "Ziehung, die Gewinner per Zufall wählt",
+          "vi": "Cuộc bốc thăm chọn người thắng ngẫu nhiên",
+          "pt-BR": "Sorteio que escolhe vencedores por acaso",
+          "id": "Undian yang memilih pemenang secara acak",
+          "fr": "Tirage au sort désignant des gagnants",
+          "ar": "سحب يختار الفائزين بالحظ",
+          "tr": "Kazananları şansla seçen çekiliş",
+          "it": "Estrazione che sceglie i vincitori a caso",
+          "pl": "Losowanie wybierające zwycięzców przypadkowo"
         },
         "example": {
           "en": "Applicants enter a lottery for up to two tags each, with a cap of five thousand tags."
@@ -80,14 +192,42 @@
     {
       "id": "conservation",
       "en": "conservation",
-      "ko": "The protection of animals and wild places",
+      "ko": "동물과 자연을 보호하는 일",
       "l1": {
-        "en": "The protection of animals and wild places"
+        "en": "The protection of animals and wild places",
+        "ko": "동물과 자연을 보호하는 일",
+        "zh-Hans": "保护动物和野生环境",
+        "ja": "動物や自然環境の保護",
+        "es": "Protección de animales y naturaleza",
+        "hi": "जानवरों और जंगल की सुरक्षा",
+        "de": "Schutz von Tieren und Natur",
+        "vi": "Bảo vệ động vật và thiên nhiên",
+        "pt-BR": "Proteção de animais e natureza",
+        "id": "Perlindungan hewan dan alam",
+        "fr": "Protection des animaux et de la nature",
+        "ar": "حماية الحيوانات والطبيعة",
+        "tr": "Hayvanları ve doğayı koruma",
+        "it": "Protezione di animali e natura",
+        "pl": "Ochrona zwierząt i przyrody"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The protection of animals and wild places"
+          "en": "The protection of animals and wild places",
+          "ko": "동물과 자연을 보호하는 일",
+          "zh-Hans": "保护动物和野生环境",
+          "ja": "動物や自然環境の保護",
+          "es": "Protección de animales y naturaleza",
+          "hi": "जानवरों और जंगल की सुरक्षा",
+          "de": "Schutz von Tieren und Natur",
+          "vi": "Bảo vệ động vật và thiên nhiên",
+          "pt-BR": "Proteção de animais e natureza",
+          "id": "Perlindungan hewan dan alam",
+          "fr": "Protection des animaux et de la nature",
+          "ar": "حماية الحيوانات والطبيعة",
+          "tr": "Hayvanları ve doğayı koruma",
+          "it": "Protezione di animali e natura",
+          "pl": "Ochrona zwierząt i przyrody"
         },
         "example": {
           "en": "Florida opened a similar statewide recreational program in nineteen eighty-eight after its own conservation success."
@@ -98,14 +238,42 @@
     {
       "id": "population",
       "en": "population",
-      "ko": "The number of animals of one kind in an area",
+      "ko": "한 지역의 특정 동물 수",
       "l1": {
-        "en": "The number of animals of one kind in an area"
+        "en": "The number of animals of one kind in an area",
+        "ko": "한 지역의 특정 동물 수",
+        "zh-Hans": "某地区某种动物的数量",
+        "ja": "ある地域の特定動物の数",
+        "es": "Número de animales de una especie en un área",
+        "hi": "किसी क्षेत्र में एक प्रजाति की संख्या",
+        "de": "Anzahl der Tiere einer Art in einem Gebiet",
+        "vi": "Số lượng một loài trong khu vực",
+        "pt-BR": "Número de animais de uma espécie numa área",
+        "id": "Jumlah hewan sejenis di suatu area",
+        "fr": "Nombre d'animaux d'une espèce dans une zone",
+        "ar": "عدد حيوانات نوع ما في منطقة",
+        "tr": "Bir bölgedeki bir türün hayvan sayısı",
+        "it": "Numero di animali di una specie in un'area",
+        "pl": "Liczba zwierząt jednego gatunku na obszarze"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The number of animals of one kind in an area"
+          "en": "The number of animals of one kind in an area",
+          "ko": "한 지역의 특정 동물 수",
+          "zh-Hans": "某地区某种动物的数量",
+          "ja": "ある地域の特定動物の数",
+          "es": "Número de animales de una especie en un área",
+          "hi": "किसी क्षेत्र में एक प्रजाति की संख्या",
+          "de": "Anzahl der Tiere einer Art in einem Gebiet",
+          "vi": "Số lượng một loài trong khu vực",
+          "pt-BR": "Número de animais de uma espécie numa área",
+          "id": "Jumlah hewan sejenis di suatu area",
+          "fr": "Nombre d'animaux d'une espèce dans une zone",
+          "ar": "عدد حيوانات نوع ما في منطقة",
+          "tr": "Bir bölgedeki bir türün hayvan sayısı",
+          "it": "Numero di animali di una specie in un'area",
+          "pl": "Liczba zwierząt jednego gatunku na obszarze"
         },
         "example": {
           "en": "Unregulated killing for meat and hides had dropped the wild population below one hundred thousand."
@@ -116,14 +284,42 @@
     {
       "id": "swamp",
       "en": "swamp",
-      "ko": "Wet land with trees - water - and mud",
+      "ko": "나무와 물과 진흙이 있는 습지",
       "l1": {
-        "en": "Wet land with trees - water - and mud"
+        "en": "Wet land with trees - water - and mud",
+        "ko": "나무와 물과 진흙이 있는 습지",
+        "zh-Hans": "有树、水和泥的湿地",
+        "ja": "木と水と泥のある湿地",
+        "es": "Tierra húmeda con árboles, agua y lodo",
+        "hi": "पेड़, पानी और कीचड़ वाली दलदली जमीन",
+        "de": "Feuchtes Land mit Bäumen, Wasser und Schlamm",
+        "vi": "Đất ngập nước có cây, nước và bùn",
+        "pt-BR": "Terra úmida com árvores, água e lama",
+        "id": "Tanah basah dengan pohon, air, dan lumpur",
+        "fr": "Terrain marécageux avec arbres, eau et boue",
+        "ar": "أرض رطبة بأشجار وماء وطين",
+        "tr": "Ağaç, su ve çamur olan bataklık",
+        "it": "Terreno paludoso con alberi, acqua e fango",
+        "pl": "Mokradło z drzewami, wodą i błotem"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Wet land with trees - water - and mud"
+          "en": "Wet land with trees - water - and mud",
+          "ko": "나무와 물과 진흙이 있는 습지",
+          "zh-Hans": "有树、水和泥的湿地",
+          "ja": "木と水と泥のある湿地",
+          "es": "Tierra húmeda con árboles, agua y lodo",
+          "hi": "पेड़, पानी और कीचड़ वाली दलदली जमीन",
+          "de": "Feuchtes Land mit Bäumen, Wasser und Schlamm",
+          "vi": "Đất ngập nước có cây, nước và bùn",
+          "pt-BR": "Terra úmida com árvores, água e lama",
+          "id": "Tanah basah dengan pohon, air, dan lumpur",
+          "fr": "Terrain marécageux avec arbres, eau et boue",
+          "ar": "أرض رطبة بأشجار وماء وطين",
+          "tr": "Ağaç, su ve çamur olan bataklık",
+          "it": "Terreno paludoso con alberi, acqua e fango",
+          "pl": "Mokradło z drzewami, wodą i błotem"
         },
         "example": {
           "en": "Louisiana is preparing its first recreational alligator hunt in more than fifty years."
@@ -134,14 +330,42 @@
     {
       "id": "permit",
       "en": "permit",
-      "ko": "An official paper that allows an activity",
+      "ko": "활동을 허가하는 공식 문서",
       "l1": {
-        "en": "An official paper that allows an activity"
+        "en": "An official paper that allows an activity",
+        "ko": "활동을 허가하는 공식 문서",
+        "zh-Hans": "允许某项活动的官方文件",
+        "ja": "活動を許可する公式文書",
+        "es": "Documento oficial que permite una actividad",
+        "hi": "गतिविधि की अनुमति देने वाला आधिकारिक पत्र",
+        "de": "Offizielles Dokument, das eine Aktivität erlaubt",
+        "vi": "Giấy tờ chính thức cho phép hoạt động",
+        "pt-BR": "Documento oficial que permite uma atividade",
+        "id": "Dokumen resmi yang mengizinkan suatu kegiatan",
+        "fr": "Document officiel autorisant une activité",
+        "ar": "وثيقة رسمية تسمح بنشاط",
+        "tr": "Bir etkinliğe izin veren resmi belge",
+        "it": "Documento ufficiale che permette un'attività",
+        "pl": "Oficjalny dokument zezwalający na działanie"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "An official paper that allows an activity"
+          "en": "An official paper that allows an activity",
+          "ko": "활동을 허가하는 공식 문서",
+          "zh-Hans": "允许某项活动的官方文件",
+          "ja": "活動を許可する公式文書",
+          "es": "Documento oficial que permite una actividad",
+          "hi": "गतिविधि की अनुमति देने वाला आधिकारिक पत्र",
+          "de": "Offizielles Dokument, das eine Aktivität erlaubt",
+          "vi": "Giấy tờ chính thức cho phép hoạt động",
+          "pt-BR": "Documento oficial que permite uma atividade",
+          "id": "Dokumen resmi yang mengizinkan suatu kegiatan",
+          "fr": "Document officiel autorisant une activité",
+          "ar": "وثيقة رسمية تسمح بنشاط",
+          "tr": "Bir etkinliğe izin veren resmi belge",
+          "it": "Documento ufficiale che permette un'attività",
+          "pl": "Oficjalny dokument zezwalający na działanie"
         },
         "example": {
           "en": "Louisiana is preparing its first recreational alligator hunt in more than fifty years."
@@ -152,14 +376,42 @@
     {
       "id": "harvest",
       "en": "harvest",
-      "ko": "Taking a limited number of animals under rules",
+      "ko": "규칙에 따라 제한된 수의 동물을 포획하는 것",
       "l1": {
-        "en": "Taking a limited number of animals under rules"
+        "en": "Taking a limited number of animals under rules",
+        "ko": "규칙에 따라 제한된 수의 동물을 포획하는 것",
+        "zh-Hans": "按规则捕获有限数量的动物",
+        "ja": "規則に従って限られた数の動物を捕獲すること",
+        "es": "Capturar un número limitado de animales según las reglas",
+        "hi": "नियमों के तहत सीमित संख्या में जानवरों का शिकार",
+        "de": "Begrenzte Anzahl von Tieren nach Regeln entnehmen",
+        "vi": "Săn bắt số lượng động vật hạn chế theo quy định",
+        "pt-BR": "Capturar um número limitado de animais conforme as regras",
+        "id": "Menangkap hewan dalam jumlah terbatas sesuai aturan",
+        "fr": "Prélever un nombre limité d'animaux selon les règles",
+        "ar": "صيد عدد محدود من الحيوانات وفق القواعد",
+        "tr": "Kurallara göre sınırlı sayıda hayvan avlama",
+        "it": "Prelevare un numero limitato di animali secondo le regole",
+        "pl": "Pozyskiwanie ograniczonej liczby zwierząt według zasad"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Taking a limited number of animals under rules"
+          "en": "Taking a limited number of animals under rules",
+          "ko": "규칙에 따라 제한된 수의 동물을 포획하는 것",
+          "zh-Hans": "按规则捕获有限数量的动物",
+          "ja": "規則に従って限られた数の動物を捕獲すること",
+          "es": "Capturar un número limitado de animales según las reglas",
+          "hi": "नियमों के तहत सीमित संख्या में जानवरों का शिकार",
+          "de": "Begrenzte Anzahl von Tieren nach Regeln entnehmen",
+          "vi": "Săn bắt số lượng động vật hạn chế theo quy định",
+          "pt-BR": "Capturar um número limitado de animais conforme as regras",
+          "id": "Menangkap hewan dalam jumlah terbatas sesuai aturan",
+          "fr": "Prélever un nombre limité d'animaux selon les règles",
+          "ar": "صيد عدد محدود من الحيوانات وفق القواعد",
+          "tr": "Kurallara göre sınırlı sayıda hayvan avlama",
+          "it": "Prelevare un numero limitato di animali secondo le regole",
+          "pl": "Pozyskiwanie ograniczonej liczby zwierząt według zasad"
         },
         "example": {
           "en": "The Louisiana Department of Wildlife and Fisheries says the species can support a limited recreational harvest without hurting that commercial industry."
@@ -170,14 +422,42 @@
     {
       "id": "wildlife",
       "en": "wildlife",
-      "ko": "Animals living in nature - not on farms",
+      "ko": "자연에서 사는 동물 (농장이 아닌)",
       "l1": {
-        "en": "Animals living in nature - not on farms"
+        "en": "Animals living in nature - not on farms",
+        "ko": "자연에서 사는 동물 (농장이 아닌)",
+        "zh-Hans": "生活在自然中的动物（非农场）",
+        "ja": "自然に生息する動物（農場以外）",
+        "es": "Animales que viven en la naturaleza, no en granjas",
+        "hi": "जंगल में रहने वाले जानवर, खेतों में नहीं",
+        "de": "Tiere, die in der Natur leben, nicht auf Farmen",
+        "vi": "Động vật sống trong tự nhiên, không phải trang trại",
+        "pt-BR": "Animais que vivem na natureza, não em fazendas",
+        "id": "Hewan yang hidup di alam liar, bukan di peternakan",
+        "fr": "Animaux vivant dans la nature, pas dans les fermes",
+        "ar": "حيوانات تعيش في الطبيعة وليس في المزارع",
+        "tr": "Doğada yaşayan hayvanlar, çiftlikte değil",
+        "it": "Animali che vivono in natura, non in fattoria",
+        "pl": "Zwierzęta żyjące w naturze, nie na farmach"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Animals living in nature - not on farms"
+          "en": "Animals living in nature - not on farms",
+          "ko": "자연에서 사는 동물 (농장이 아닌)",
+          "zh-Hans": "生活在自然中的动物（非农场）",
+          "ja": "自然に生息する動物（農場以外）",
+          "es": "Animales que viven en la naturaleza, no en granjas",
+          "hi": "जंगल में रहने वाले जानवर, खेतों में नहीं",
+          "de": "Tiere, die in der Natur leben, nicht auf Farmen",
+          "vi": "Động vật sống trong tự nhiên, không phải trang trại",
+          "pt-BR": "Animais que vivem na natureza, não em fazendas",
+          "id": "Hewan yang hidup di alam liar, bukan di peternakan",
+          "fr": "Animaux vivant dans la nature, pas dans les fermes",
+          "ar": "حيوانات تعيش في الطبيعة وليس في المزارع",
+          "tr": "Doğada yaşayan hayvanlar, çiftlikte değil",
+          "it": "Animali che vivono in natura, non in fattoria",
+          "pl": "Zwierzęta żyjące w naturze, nie na farmach"
         },
         "example": {
           "en": "The state's fish and wildlife commission banned alligator hunting in nineteen sixty-two."

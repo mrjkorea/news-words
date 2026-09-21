@@ -8,14 +8,42 @@
     {
       "id": "marine",
       "en": "marine",
-      "ko": "Related to the sea or ocean",
+      "ko": "바다의",
       "l1": {
-        "en": "Related to the sea or ocean"
+        "en": "Related to the sea or ocean",
+        "ko": "바다의",
+        "zh-Hans": "海洋的",
+        "ja": "海の",
+        "es": "marino",
+        "hi": "समुद्री",
+        "de": "Meeres-",
+        "vi": "thuộc biển",
+        "pt-BR": "marinho",
+        "id": "kelautan",
+        "fr": "marin",
+        "ar": "بحري",
+        "tr": "denizle ilgili",
+        "it": "marino",
+        "pl": "morski"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Related to the sea or ocean"
+          "en": "Related to the sea or ocean",
+          "ko": "바다의",
+          "zh-Hans": "海洋的",
+          "ja": "海の",
+          "es": "marino",
+          "hi": "समुद्री",
+          "de": "Meeres-",
+          "vi": "thuộc biển",
+          "pt-BR": "marinho",
+          "id": "kelautan",
+          "fr": "marin",
+          "ar": "بحري",
+          "tr": "denizle ilgili",
+          "it": "marino",
+          "pl": "morski"
         },
         "example": {
           "en": "A new analysis says carbon pollution has driven a massive expansion of marine heatwaves around Europe this summer."
@@ -26,14 +54,42 @@
     {
       "id": "heatwave",
       "en": "heatwave",
-      "ko": "A long period of unusually hot weather",
+      "ko": "폭염",
       "l1": {
-        "en": "A long period of unusually hot weather"
+        "en": "A long period of unusually hot weather",
+        "ko": "폭염",
+        "zh-Hans": "热浪",
+        "ja": "熱波",
+        "es": "ola de calor",
+        "hi": "लू",
+        "de": "Hitzewelle",
+        "vi": "đợt nắng nóng",
+        "pt-BR": "onda de calor",
+        "id": "gelombang panas",
+        "fr": "canicule",
+        "ar": "موجة حارة",
+        "tr": "sıcak hava dalgası",
+        "it": "ondata di calore",
+        "pl": "fala upałów"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A long period of unusually hot weather"
+          "en": "A long period of unusually hot weather",
+          "ko": "폭염",
+          "zh-Hans": "热浪",
+          "ja": "熱波",
+          "es": "ola de calor",
+          "hi": "लू",
+          "de": "Hitzewelle",
+          "vi": "đợt nắng nóng",
+          "pt-BR": "onda de calor",
+          "id": "gelombang panas",
+          "fr": "canicule",
+          "ar": "موجة حارة",
+          "tr": "sıcak hava dalgası",
+          "it": "ondata di calore",
+          "pl": "fala upałów"
         },
         "example": {
           "en": "Taking human climate change out of the picture cut the expected heatwave area from seventy percent to nine percent in the eastern Mediterranean."
@@ -44,14 +100,42 @@
     {
       "id": "pollution",
       "en": "pollution",
-      "ko": "Harmful substances that damage air water or land",
+      "ko": "환경을 오염시키는 유해 물질",
       "l1": {
-        "en": "Harmful substances that damage air water or land"
+        "en": "Harmful substances that damage air water or land",
+        "ko": "환경을 오염시키는 유해 물질",
+        "zh-Hans": "污染：损害环境的物质",
+        "ja": "環境を汚染する有害物質",
+        "es": "Sustancias dañinas que contaminan el medio ambiente",
+        "hi": "प्रदूषण: हानिकारक पदार्थ",
+        "de": "Schädliche Stoffe, die die Umwelt verschmutzen",
+        "vi": "Chất độc hại gây ô nhiễm môi trường",
+        "pt-BR": "Substâncias nocivas que poluem o meio ambiente",
+        "id": "Zat berbahaya yang mencemari lingkungan",
+        "fr": "Substances nocives qui polluent l'environnement",
+        "ar": "مواد ضارة تلوث البيئة",
+        "tr": "Çevreye zarar veren kirletici maddeler",
+        "it": "Sostanze dannose che inquinano l'ambiente",
+        "pl": "Szkodliwe substancje zanieczyszczające środowisko"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Harmful substances that damage air water or land"
+          "en": "Harmful substances that damage air water or land",
+          "ko": "환경을 오염시키는 유해 물질",
+          "zh-Hans": "污染：损害环境的物质",
+          "ja": "環境を汚染する有害物質",
+          "es": "Sustancias dañinas que contaminan el medio ambiente",
+          "hi": "प्रदूषण: हानिकारक पदार्थ",
+          "de": "Schädliche Stoffe, die die Umwelt verschmutzen",
+          "vi": "Chất độc hại gây ô nhiễm môi trường",
+          "pt-BR": "Substâncias nocivas que poluem o meio ambiente",
+          "id": "Zat berbahaya yang mencemari lingkungan",
+          "fr": "Substances nocives qui polluent l'environnement",
+          "ar": "مواد ضارة تلوث البيئة",
+          "tr": "Çevreye zarar veren kirletici maddeler",
+          "it": "Sostanze dannose che inquinano l'ambiente",
+          "pl": "Szkodliwe substancje zanieczyszczające środowisko"
         },
         "example": {
           "en": "A new analysis says carbon pollution has driven a massive expansion of marine heatwaves around Europe this summer."
@@ -62,14 +146,42 @@
     {
       "id": "mediterranean",
       "en": "mediterranean",
-      "ko": "The sea between southern Europe and northern Africa",
+      "ko": "지중해: 유럽 남부와 아프리카 북부 사이의 바다",
       "l1": {
-        "en": "The sea between southern Europe and northern Africa"
+        "en": "The sea between southern Europe and northern Africa",
+        "ko": "지중해: 유럽 남부와 아프리카 북부 사이의 바다",
+        "zh-Hans": "地中海：欧洲南部与非洲北部之间的海",
+        "ja": "地中海：南ヨーロッパと北アフリカの間の海",
+        "es": "Mar Mediterráneo: entre el sur de Europa y el norte de África",
+        "hi": "भूमध्य सागर: दक्षिण यूरोप और उत्तरी अफ्रीका के बीच",
+        "de": "Mittelmeer: Meer zwischen Südeuropa und Nordafrika",
+        "vi": "Địa Trung Hải: biển giữa Nam Âu và Bắc Phi",
+        "pt-BR": "Mar Mediterrâneo: entre o sul da Europa e o norte da África",
+        "id": "Laut Mediterania: antara Eropa selatan dan Afrika utara",
+        "fr": "Mer Méditerranée : entre le sud de l'Europe et le nord de l'Afrique",
+        "ar": "البحر الأبيض المتوسط: بين جنوب أوروبا وشمال أفريقيا",
+        "tr": "Akdeniz: Güney Avrupa ile Kuzey Afrika arasındaki deniz",
+        "it": "Mar Mediterraneo: tra Europa meridionale e Africa settentrionale",
+        "pl": "Morze Śródziemne: między Europą Południową a Afryką Północną"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The sea between southern Europe and northern Africa"
+          "en": "The sea between southern Europe and northern Africa",
+          "ko": "지중해: 유럽 남부와 아프리카 북부 사이의 바다",
+          "zh-Hans": "地中海：欧洲南部与非洲北部之间的海",
+          "ja": "地中海：南ヨーロッパと北アフリカの間の海",
+          "es": "Mar Mediterráneo: entre el sur de Europa y el norte de África",
+          "hi": "भूमध्य सागर: दक्षिण यूरोप और उत्तरी अफ्रीका के बीच",
+          "de": "Mittelmeer: Meer zwischen Südeuropa und Nordafrika",
+          "vi": "Địa Trung Hải: biển giữa Nam Âu và Bắc Phi",
+          "pt-BR": "Mar Mediterrâneo: entre o sul da Europa e o norte da África",
+          "id": "Laut Mediterania: antara Eropa selatan dan Afrika utara",
+          "fr": "Mer Méditerranée : entre le sud de l'Europe et le nord de l'Afrique",
+          "ar": "البحر الأبيض المتوسط: بين جنوب أوروبا وشمال أفريقيا",
+          "tr": "Akdeniz: Güney Avrupa ile Kuzey Afrika arasındaki deniz",
+          "it": "Mar Mediterraneo: tra Europa meridionale e Africa settentrionale",
+          "pl": "Morze Śródziemne: między Europą Południową a Afryką Północną"
         },
         "example": {
           "en": "That is about two degrees in the Mediterranean, one point four degrees in the Bay of Biscay and off Iberia, and one point three degrees around Ireland and the Channel."
@@ -80,14 +192,42 @@
     {
       "id": "coral",
       "en": "coral",
-      "ko": "A small sea animal that builds hard limestone homes in reefs",
+      "ko": "산호: 단단한 석회질 집을 짓는 작은 바다 동물",
       "l1": {
-        "en": "A small sea animal that builds hard limestone homes in reefs"
+        "en": "A small sea animal that builds hard limestone homes in reefs",
+        "ko": "산호: 단단한 석회질 집을 짓는 작은 바다 동물",
+        "zh-Hans": "珊瑚：建造坚硬石灰质礁石的小型海洋动物",
+        "ja": "サンゴ：硬い石灰質の巣を作る小さな海の動物",
+        "es": "Coral: pequeño animal marino que construye arrecifes de piedra caliza",
+        "hi": "कोरल: समुद्री जीव जो चूना पत्थर के घर बनाता है",
+        "de": "Koralle: kleines Meerestier, das Kalksteinriffe baut",
+        "vi": "San hô: động vật biển nhỏ tạo rạn đá vôi",
+        "pt-BR": "Coral: pequeno animal marinho que constrói recifes de calcário",
+        "id": "Koral: hewan laut kecil yang membangun terumbu batu kapur",
+        "fr": "Corail : petit animal marin qui construit des récifs calcaires",
+        "ar": "المرجان: حيوان بحري صغير يبني شعابًا جيرية",
+        "tr": "Mercan: kireçtaşı resifleri yapan küçük deniz hayvanı",
+        "it": "Corallo: piccolo animale marino che costruisce barriere calcaree",
+        "pl": "Koral: małe zwierzę morskie budujące wapienne rafy"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A small sea animal that builds hard limestone homes in reefs"
+          "en": "A small sea animal that builds hard limestone homes in reefs",
+          "ko": "산호: 단단한 석회질 집을 짓는 작은 바다 동물",
+          "zh-Hans": "珊瑚：建造坚硬石灰质礁石的小型海洋动物",
+          "ja": "サンゴ：硬い石灰質の巣を作る小さな海の動物",
+          "es": "Coral: pequeño animal marino que construye arrecifes de piedra caliza",
+          "hi": "कोरल: समुद्री जीव जो चूना पत्थर के घर बनाता है",
+          "de": "Koralle: kleines Meerestier, das Kalksteinriffe baut",
+          "vi": "San hô: động vật biển nhỏ tạo rạn đá vôi",
+          "pt-BR": "Coral: pequeno animal marinho que constrói recifes de calcário",
+          "id": "Koral: hewan laut kecil yang membangun terumbu batu kapur",
+          "fr": "Corail : petit animal marin qui construit des récifs calcaires",
+          "ar": "المرجان: حيوان بحري صغير يبني شعابًا جيرية",
+          "tr": "Mercan: kireçtaşı resifleri yapan küçük deniz hayvanı",
+          "it": "Corallo: piccolo animale marino che costruisce barriere calcaree",
+          "pl": "Koral: małe zwierzę morskie budujące wapienne rafy"
         },
         "example": {
           "en": "A new analysis says carbon pollution has driven a massive expansion of marine heatwaves around Europe this summer."
@@ -98,14 +238,42 @@
     {
       "id": "fossil",
       "en": "fossil",
-      "ko": "The remains of an ancient living thing preserved in rock",
+      "ko": "화석: 암석에 보존된 고대 생물의 유해",
       "l1": {
-        "en": "The remains of an ancient living thing preserved in rock"
+        "en": "The remains of an ancient living thing preserved in rock",
+        "ko": "화석: 암석에 보존된 고대 생물의 유해",
+        "zh-Hans": "化石：保存在岩石中的古代生物遗骸",
+        "ja": "化石：岩石に保存された古代生物の遺骸",
+        "es": "Fósil: restos de un ser antiguo conservados en roca",
+        "hi": "जीवाश्म: चट्टान में संरक्षित प्राचीन जीव के अवशेष",
+        "de": "Fossil: Überreste eines alten Lebewesens im Gestein",
+        "vi": "Hóa thạch: di tích sinh vật cổ được bảo tồn trong đá",
+        "pt-BR": "Fóssil: restos de um ser antigo preservados em rocha",
+        "id": "Fosil: sisa makhluk purba yang terawetkan dalam batu",
+        "fr": "Fossile : restes d'un être ancien conservés dans la roche",
+        "ar": "الأحفورة: بقايا كائن قديم محفوظة في الصخر",
+        "tr": "Fosil: kayada korunmuş eski canlı kalıntısı",
+        "it": "Fossile: resti di un essere antico conservati nella roccia",
+        "pl": "Skamieniałość: szczątki dawnego organizmu w skale"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The remains of an ancient living thing preserved in rock"
+          "en": "The remains of an ancient living thing preserved in rock",
+          "ko": "화석: 암석에 보존된 고대 생물의 유해",
+          "zh-Hans": "化石：保存在岩石中的古代生物遗骸",
+          "ja": "化石：岩石に保存された古代生物の遺骸",
+          "es": "Fósil: restos de un ser antiguo conservados en roca",
+          "hi": "जीवाश्म: चट्टान में संरक्षित प्राचीन जीव के अवशेष",
+          "de": "Fossil: Überreste eines alten Lebewesens im Gestein",
+          "vi": "Hóa thạch: di tích sinh vật cổ được bảo tồn trong đá",
+          "pt-BR": "Fóssil: restos de um ser antigo preservados em rocha",
+          "id": "Fosil: sisa makhluk purba yang terawetkan dalam batu",
+          "fr": "Fossile : restes d'un être ancien conservés dans la roche",
+          "ar": "الأحفورة: بقايا كائن قديم محفوظة في الصخر",
+          "tr": "Fosil: kayada korunmuş eski canlı kalıntısı",
+          "it": "Fossile: resti di un essere antico conservati nella roccia",
+          "pl": "Skamieniałość: szczątki dawnego organizmu w skale"
         },
         "example": {
           "en": "This was the group's first study focused on how fossil-fuel burning heats the ocean, not just the air."
@@ -116,14 +284,42 @@
     {
       "id": "coastal",
       "en": "coastal",
-      "ko": "Located on or near a coast",
+      "ko": "해안의: 해안이나 그 근처에 있는",
       "l1": {
-        "en": "Located on or near a coast"
+        "en": "Located on or near a coast",
+        "ko": "해안의: 해안이나 그 근처에 있는",
+        "zh-Hans": "沿海的：位于海岸或附近的",
+        "ja": "沿岸の：海岸にある、または近くの",
+        "es": "Costero: situado en o cerca de la costa",
+        "hi": "तटीय: तट पर या उसके पास स्थित",
+        "de": "Küsten-: an oder nahe einer Küste gelegen",
+        "vi": "Ven biển: nằm trên hoặc gần bờ biển",
+        "pt-BR": "Costeiro: localizado na ou perto da costa",
+        "id": "Pesisir: terletak di atau dekat pantai",
+        "fr": "Côtier : situé sur ou près de la côte",
+        "ar": "ساحلي: يقع على الساحل أو قربه",
+        "tr": "Kıyı: kıyıda veya kıyıya yakın",
+        "it": "Costiero: situato sulla costa o vicino ad essa",
+        "pl": "Przybrzeżny: położony na wybrzeżu lub blisko niego"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Located on or near a coast"
+          "en": "Located on or near a coast",
+          "ko": "해안의: 해안이나 그 근처에 있는",
+          "zh-Hans": "沿海的：位于海岸或附近的",
+          "ja": "沿岸の：海岸にある、または近くの",
+          "es": "Costero: situado en o cerca de la costa",
+          "hi": "तटीय: तट पर या उसके पास स्थित",
+          "de": "Küsten-: an oder nahe einer Küste gelegen",
+          "vi": "Ven biển: nằm trên hoặc gần bờ biển",
+          "pt-BR": "Costeiro: localizado na ou perto da costa",
+          "id": "Pesisir: terletak di atau dekat pantai",
+          "fr": "Côtier : situé sur ou près de la côte",
+          "ar": "ساحلي: يقع على الساحل أو قربه",
+          "tr": "Kıyı: kıyıda veya kıyıya yakın",
+          "it": "Costiero: situato sulla costa o vicino ad essa",
+          "pl": "Przybrzeżny: położony na wybrzeżu lub blisko niego"
         },
         "example": {
           "en": "Warm water also keeps coastal nights hotter, because oceans cool more slowly than land."
@@ -134,14 +330,42 @@
     {
       "id": "temperature",
       "en": "temperature",
-      "ko": "A measure of how hot or cold something is",
+      "ko": "온도: 얼마나 뜨겁거나 차가운지의 정도",
       "l1": {
-        "en": "A measure of how hot or cold something is"
+        "en": "A measure of how hot or cold something is",
+        "ko": "온도: 얼마나 뜨겁거나 차가운지의 정도",
+        "zh-Hans": "温度：衡量冷热程度的量",
+        "ja": "温度：熱さや冷たさの度合い",
+        "es": "Temperatura: medida de qué tan caliente o frío está algo",
+        "hi": "तापमान: कितना गर्म या ठंडा है इसका माप",
+        "de": "Temperatur: Maß dafür, wie heiß oder kalt etwas ist",
+        "vi": "Nhiệt độ: mức đo độ nóng hoặc lạnh",
+        "pt-BR": "Temperatura: medida de quão quente ou frio algo está",
+        "id": "Suhu: ukuran seberapa panas atau dingin",
+        "fr": "Température : mesure du degré de chaleur ou de froid",
+        "ar": "درجة الحرارة: مقياس مدى السخونة أو البرودة",
+        "tr": "Sıcaklık: bir şeyin ne kadar sıcak veya soğuk olduğu",
+        "it": "Temperatura: misura di quanto è caldo o freddo",
+        "pl": "Temperatura: miara tego, jak ciepło lub zimno jest"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A measure of how hot or cold something is"
+          "en": "A measure of how hot or cold something is",
+          "ko": "온도: 얼마나 뜨겁거나 차가운지의 정도",
+          "zh-Hans": "温度：衡量冷热程度的量",
+          "ja": "温度：熱さや冷たさの度合い",
+          "es": "Temperatura: medida de qué tan caliente o frío está algo",
+          "hi": "तापमान: कितना गर्म या ठंडा है इसका माप",
+          "de": "Temperatur: Maß dafür, wie heiß oder kalt etwas ist",
+          "vi": "Nhiệt độ: mức đo độ nóng hoặc lạnh",
+          "pt-BR": "Temperatura: medida de quão quente ou frio algo está",
+          "id": "Suhu: ukuran seberapa panas atau dingin",
+          "fr": "Température : mesure du degré de chaleur ou de froid",
+          "ar": "درجة الحرارة: مقياس مدى السخونة أو البرودة",
+          "tr": "Sıcaklık: bir şeyin ne kadar sıcak veya soğuk olduğu",
+          "it": "Temperatura: misura di quanto è caldo o freddo",
+          "pl": "Temperatura: miara tego, jak ciepło lub zimno jest"
         },
         "example": {
           "en": "A new analysis says carbon pollution has driven a massive expansion of marine heatwaves around Europe this summer."
@@ -152,14 +376,42 @@
     {
       "id": "attribution",
       "en": "attribution",
-      "ko": "The act of deciding what caused a particular result",
+      "ko": "귀속: 특정 결과의 원인을 결정하는 행위",
       "l1": {
-        "en": "The act of deciding what caused a particular result"
+        "en": "The act of deciding what caused a particular result",
+        "ko": "귀속: 특정 결과의 원인을 결정하는 행위",
+        "zh-Hans": "归因：确定某结果原因的行为",
+        "ja": "帰属：特定の結果の原因を決めること",
+        "es": "Atribución: acto de determinar la causa de un resultado",
+        "hi": "कारण निर्धारण: किसी परिणाम का कारण तय करना",
+        "de": "Zuschreibung: Bestimmung der Ursache eines Ergebnisses",
+        "vi": "Quy kết: hành động xác định nguyên nhân của kết quả",
+        "pt-BR": "Atribuição: ato de determinar a causa de um resultado",
+        "id": "Atribusi: tindakan menentukan penyebab suatu hasil",
+        "fr": "Attribution : action de déterminer la cause d'un résultat",
+        "ar": "الإسناد: تحديد سبب نتيجة معينة",
+        "tr": "Atıf: bir sonucun nedenini belirleme eylemi",
+        "it": "Attribuzione: atto di determinare la causa di un risultato",
+        "pl": "Atrybucja: ustalanie przyczyny danego wyniku"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "The act of deciding what caused a particular result"
+          "en": "The act of deciding what caused a particular result",
+          "ko": "귀속: 특정 결과의 원인을 결정하는 행위",
+          "zh-Hans": "归因：确定某结果原因的行为",
+          "ja": "帰属：特定の結果の原因を決めること",
+          "es": "Atribución: acto de determinar la causa de un resultado",
+          "hi": "कारण निर्धारण: किसी परिणाम का कारण तय करना",
+          "de": "Zuschreibung: Bestimmung der Ursache eines Ergebnisses",
+          "vi": "Quy kết: hành động xác định nguyên nhân của kết quả",
+          "pt-BR": "Atribuição: ato de determinar a causa de um resultado",
+          "id": "Atribusi: tindakan menentukan penyebab suatu hasil",
+          "fr": "Attribution : action de déterminer la cause d'un résultat",
+          "ar": "الإسناد: تحديد سبب نتيجة معينة",
+          "tr": "Atıf: bir sonucun nedenini belirleme eylemi",
+          "it": "Attribuzione: atto di determinare la causa di un risultato",
+          "pl": "Atrybucja: ustalanie przyczyny danego wyniku"
         },
         "example": {
           "en": "Researchers at World Weather Attribution studied the hottest two-week stretches of the year."
@@ -170,14 +422,42 @@
     {
       "id": "ecosystem",
       "en": "ecosystem",
-      "ko": "A community of living things and their environment working together",
+      "ko": "생태계: 생물과 환경이 함께 작용하는 공동체",
       "l1": {
-        "en": "A community of living things and their environment working together"
+        "en": "A community of living things and their environment working together",
+        "ko": "생태계: 생물과 환경이 함께 작용하는 공동체",
+        "zh-Hans": "生态系统：生物与环境相互作用的群落",
+        "ja": "生態系：生物と環境が共に働く共同体",
+        "es": "Ecosistema: comunidad de seres vivos y su entorno",
+        "hi": "पारिस्थितिकी तंत्र: जीवों और पर्यावरण का समुदाय",
+        "de": "Ökosystem: Gemeinschaft von Lebewesen und ihrer Umwelt",
+        "vi": "Hệ sinh thái: cộng đồng sinh vật và môi trường",
+        "pt-BR": "Ecossistema: comunidade de seres vivos e seu ambiente",
+        "id": "Ekosistem: komunitas makhluk hidup dan lingkungannya",
+        "fr": "Écosystème : communauté d'êtres vivants et leur environnement",
+        "ar": "النظام البيئي: مجتمع الكائنات الحية وبيئتها",
+        "tr": "Ekosistem: canlılar ve çevrelerinin topluluğu",
+        "it": "Ecosistema: comunità di esseri viventi e il loro ambiente",
+        "pl": "Ekosystem: wspólnota organizmów i ich środowiska"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A community of living things and their environment working together"
+          "en": "A community of living things and their environment working together",
+          "ko": "생태계: 생물과 환경이 함께 작용하는 공동체",
+          "zh-Hans": "生态系统：生物与环境相互作用的群落",
+          "ja": "生態系：生物と環境が共に働く共同体",
+          "es": "Ecosistema: comunidad de seres vivos y su entorno",
+          "hi": "पारिस्थितिकी तंत्र: जीवों और पर्यावरण का समुदाय",
+          "de": "Ökosystem: Gemeinschaft von Lebewesen und ihrer Umwelt",
+          "vi": "Hệ sinh thái: cộng đồng sinh vật và môi trường",
+          "pt-BR": "Ecossistema: comunidade de seres vivos e seu ambiente",
+          "id": "Ekosistem: komunitas makhluk hidup dan lingkungannya",
+          "fr": "Écosystème : communauté d'êtres vivants et leur environnement",
+          "ar": "النظام البيئي: مجتمع الكائنات الحية وبيئتها",
+          "tr": "Ekosistem: canlılar ve çevrelerinin topluluğu",
+          "it": "Ecosistema: comunità di esseri viventi e il loro ambiente",
+          "pl": "Ekosystem: wspólnota organizmów i ich środowiska"
         },
         "example": {
           "en": "A new analysis says carbon pollution has driven a massive expansion of marine heatwaves around Europe this summer."

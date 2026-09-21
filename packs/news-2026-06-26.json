@@ -8,14 +8,42 @@
     {
       "id": "ancient",
       "en": "ancient",
-      "ko": "very old; from a long time ago",
+      "ko": "고대의",
       "l1": {
-        "en": "very old; from a long time ago"
+        "en": "very old; from a long time ago",
+        "ko": "고대의",
+        "zh-Hans": "古代的",
+        "ja": "古代の",
+        "es": "antiguo",
+        "hi": "प्राचीन",
+        "de": "antik",
+        "vi": "cổ đại",
+        "pt-BR": "antigo",
+        "id": "kuno",
+        "fr": "ancien",
+        "ar": "قديم",
+        "tr": "antik",
+        "it": "antico",
+        "pl": "starożytny"
       },
       "ww": {
         "pos": "adj",
         "def": {
-          "en": "very old; from a long time ago"
+          "en": "very old; from a long time ago",
+          "ko": "고대의",
+          "zh-Hans": "古代的",
+          "ja": "古代の",
+          "es": "antiguo",
+          "hi": "प्राचीन",
+          "de": "antik",
+          "vi": "cổ đại",
+          "pt-BR": "antigo",
+          "id": "kuno",
+          "fr": "ancien",
+          "ar": "قديم",
+          "tr": "antik",
+          "it": "antico",
+          "pl": "starożytny"
         },
         "example": {
           "en": "Today's news uses the word ancient."
@@ -26,14 +54,42 @@
     {
       "id": "charcoal",
       "en": "charcoal",
-      "ko": "black carbon material made from burned wood",
+      "ko": "숯",
       "l1": {
-        "en": "black carbon material made from burned wood"
+        "en": "black carbon material made from burned wood",
+        "ko": "숯",
+        "zh-Hans": "木炭",
+        "ja": "木炭",
+        "es": "carbón vegetal",
+        "hi": "लकड़ी का कोयला",
+        "de": "Holzkohle",
+        "vi": "than củi",
+        "pt-BR": "carvão vegetal",
+        "id": "arang",
+        "fr": "charbon de bois",
+        "ar": "فحم",
+        "tr": "odun kömürü",
+        "it": "carbone vegetale",
+        "pl": "węgiel drzewny"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "black carbon material made from burned wood"
+          "en": "black carbon material made from burned wood",
+          "ko": "숯",
+          "zh-Hans": "木炭",
+          "ja": "木炭",
+          "es": "carbón vegetal",
+          "hi": "लकड़ी का कोयला",
+          "de": "Holzkohle",
+          "vi": "than củi",
+          "pt-BR": "carvão vegetal",
+          "id": "arang",
+          "fr": "charbon de bois",
+          "ar": "فحم",
+          "tr": "odun kömürü",
+          "it": "carbone vegetale",
+          "pl": "węgiel drzewny"
         },
         "example": {
           "en": "Today's news uses the word charcoal."
@@ -44,14 +100,42 @@
     {
       "id": "pigment",
       "en": "pigment",
-      "ko": "a substance that gives color to paint or material",
+      "ko": "색소",
       "l1": {
-        "en": "a substance that gives color to paint or material"
+        "en": "a substance that gives color to paint or material",
+        "ko": "색소",
+        "zh-Hans": "颜料",
+        "ja": "顔料",
+        "es": "pigmento",
+        "hi": "रंगद्रव्य",
+        "de": "Pigment",
+        "vi": "chất màu",
+        "pt-BR": "pigmento",
+        "id": "pigmen",
+        "fr": "pigment",
+        "ar": "صبغة",
+        "tr": "pigment",
+        "it": "pigmento",
+        "pl": "pigment"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "a substance that gives color to paint or material"
+          "en": "a substance that gives color to paint or material",
+          "ko": "색소",
+          "zh-Hans": "颜料",
+          "ja": "顔料",
+          "es": "pigmento",
+          "hi": "रंगद्रव्य",
+          "de": "Pigment",
+          "vi": "chất màu",
+          "pt-BR": "pigmento",
+          "id": "pigmen",
+          "fr": "pigment",
+          "ar": "صبغة",
+          "tr": "pigment",
+          "it": "pigmento",
+          "pl": "pigment"
         },
         "example": {
           "en": "Today's news uses the word pigment."
@@ -62,14 +146,42 @@
     {
       "id": "radiocarbon",
       "en": "radiocarbon",
-      "ko": "carbon-14 used for dating ancient organic material",
+      "ko": "방사성 탄소",
       "l1": {
-        "en": "carbon-14 used for dating ancient organic material"
+        "en": "carbon-14 used for dating ancient organic material",
+        "ko": "방사성 탄소",
+        "zh-Hans": "放射性碳",
+        "ja": "放射性炭素",
+        "es": "radiocarbono",
+        "hi": "रेडियोकार्बन",
+        "de": "Radiokarbon",
+        "vi": "cacbon phóng xạ",
+        "pt-BR": "radiocarbono",
+        "id": "radiokarbon",
+        "fr": "radiocarbone",
+        "ar": "كربون مشع",
+        "tr": "radyo karbon",
+        "it": "radiocarbonio",
+        "pl": "radiowęgiel"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "carbon-14 used for dating ancient organic material"
+          "en": "carbon-14 used for dating ancient organic material",
+          "ko": "방사성 탄소",
+          "zh-Hans": "放射性碳",
+          "ja": "放射性炭素",
+          "es": "radiocarbono",
+          "hi": "रेडियोकार्बन",
+          "de": "Radiokarbon",
+          "vi": "cacbon phóng xạ",
+          "pt-BR": "radiocarbono",
+          "id": "radiokarbon",
+          "fr": "radiocarbone",
+          "ar": "كربون مشع",
+          "tr": "radyo karbon",
+          "it": "radiocarbonio",
+          "pl": "radiowęgiel"
         },
         "example": {
           "en": "Today's news uses the word radiocarbon."
@@ -80,14 +192,42 @@
     {
       "id": "spectrometry",
       "en": "spectrometry",
-      "ko": "technique that measures light to identify materials",
+      "ko": "분광법",
       "l1": {
-        "en": "technique that measures light to identify materials"
+        "en": "technique that measures light to identify materials",
+        "ko": "분광법",
+        "zh-Hans": "光谱测定法",
+        "ja": "分光法",
+        "es": "espectrometría",
+        "hi": "स्पेक्ट्रोमेट्री",
+        "de": "Spektrometrie",
+        "vi": "phép đo phổ",
+        "pt-BR": "espectrometria",
+        "id": "spektrometri",
+        "fr": "spectrométrie",
+        "ar": "قياس الطيف",
+        "tr": "spektrometri",
+        "it": "spettrometria",
+        "pl": "spektrometria"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "technique that measures light to identify materials"
+          "en": "technique that measures light to identify materials",
+          "ko": "분광법",
+          "zh-Hans": "光谱测定法",
+          "ja": "分光法",
+          "es": "espectrometría",
+          "hi": "स्पेक्ट्रोमेट्री",
+          "de": "Spektrometrie",
+          "vi": "phép đo phổ",
+          "pt-BR": "espectrometria",
+          "id": "spektrometri",
+          "fr": "spectrométrie",
+          "ar": "قياس الطيف",
+          "tr": "spektrometri",
+          "it": "spettrometria",
+          "pl": "spektrometria"
         },
         "example": {
           "en": "Today's news uses the word spectrometry."
@@ -98,14 +238,42 @@
     {
       "id": "contamination",
       "en": "contamination",
-      "ko": "the presence of unwanted or foreign material",
+      "ko": "오염",
       "l1": {
-        "en": "the presence of unwanted or foreign material"
+        "en": "the presence of unwanted or foreign material",
+        "ko": "오염",
+        "zh-Hans": "污染",
+        "ja": "汚染",
+        "es": "contaminación",
+        "hi": "संदूषण",
+        "de": "Kontamination",
+        "vi": "sự nhiễm bẩn",
+        "pt-BR": "contaminação",
+        "id": "kontaminasi",
+        "fr": "contamination",
+        "ar": "تلوث",
+        "tr": "kirlenme",
+        "it": "contaminazione",
+        "pl": "zanieczyszczenie"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "the presence of unwanted or foreign material"
+          "en": "the presence of unwanted or foreign material",
+          "ko": "오염",
+          "zh-Hans": "污染",
+          "ja": "汚染",
+          "es": "contaminación",
+          "hi": "संदूषण",
+          "de": "Kontamination",
+          "vi": "sự nhiễm bẩn",
+          "pt-BR": "contaminação",
+          "id": "kontaminasi",
+          "fr": "contamination",
+          "ar": "تلوث",
+          "tr": "kirlenme",
+          "it": "contaminazione",
+          "pl": "zanieczyszczenie"
         },
         "example": {
           "en": "Today's news uses the word contamination."
@@ -116,14 +284,42 @@
     {
       "id": "chronology",
       "en": "chronology",
-      "ko": "the order or sequence of events in time",
+      "ko": "시간 순서에 따른 사건의 배열",
       "l1": {
-        "en": "the order or sequence of events in time"
+        "en": "the order or sequence of events in time",
+        "ko": "시간 순서에 따른 사건의 배열",
+        "zh-Hans": "事件按时间顺序的排列",
+        "ja": "時間順に並べた出来事の順序",
+        "es": "orden de eventos en el tiempo",
+        "hi": "समय के अनुसार घटनाओं का क्रम",
+        "de": "zeitliche Abfolge von Ereignissen",
+        "vi": "thứ tự các sự kiện theo thời gian",
+        "pt-BR": "ordem dos eventos no tempo",
+        "id": "urutan peristiwa dalam waktu",
+        "fr": "ordre des événements dans le temps",
+        "ar": "ترتيب الأحداث زمنياً",
+        "tr": "olayların zaman sırası",
+        "it": "ordine degli eventi nel tempo",
+        "pl": "kolejność zdarzeń w czasie"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "the order or sequence of events in time"
+          "en": "the order or sequence of events in time",
+          "ko": "시간 순서에 따른 사건의 배열",
+          "zh-Hans": "事件按时间顺序的排列",
+          "ja": "時間順に並べた出来事の順序",
+          "es": "orden de eventos en el tiempo",
+          "hi": "समय के अनुसार घटनाओं का क्रम",
+          "de": "zeitliche Abfolge von Ereignissen",
+          "vi": "thứ tự các sự kiện theo thời gian",
+          "pt-BR": "ordem dos eventos no tempo",
+          "id": "urutan peristiwa dalam waktu",
+          "fr": "ordre des événements dans le temps",
+          "ar": "ترتيب الأحداث زمنياً",
+          "tr": "olayların zaman sırası",
+          "it": "ordine degli eventi nel tempo",
+          "pl": "kolejność zdarzeń w czasie"
         },
         "example": {
           "en": "Today's news uses the word chronology."
@@ -134,14 +330,42 @@
     {
       "id": "excavation",
       "en": "excavation",
-      "ko": "the process of digging up ancient remains",
+      "ko": "고대 유물을 파내는 작업",
       "l1": {
-        "en": "the process of digging up ancient remains"
+        "en": "the process of digging up ancient remains",
+        "ko": "고대 유물을 파내는 작업",
+        "zh-Hans": "挖掘古代遗物的过程",
+        "ja": "古代遺物を掘り出す作業",
+        "es": "proceso de desenterrar restos antiguos",
+        "hi": "प्राचीन अवशेष खोदने की प्रक्रिया",
+        "de": "Ausgrabung antiker Überreste",
+        "vi": "quá trình khai quật di tích cổ",
+        "pt-BR": "processo de escavar restos antigos",
+        "id": "proses menggali sisa-sisa kuno",
+        "fr": "processus de fouille de vestiges anciens",
+        "ar": "عملية التنقيب عن البقايا القديمة",
+        "tr": "antik kalıntıları kazma süreci",
+        "it": "processo di scavo di resti antichi",
+        "pl": "proces wykopywania starożytnych szczątków"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "the process of digging up ancient remains"
+          "en": "the process of digging up ancient remains",
+          "ko": "고대 유물을 파내는 작업",
+          "zh-Hans": "挖掘古代遗物的过程",
+          "ja": "古代遺物を掘り出す作業",
+          "es": "proceso de desenterrar restos antiguos",
+          "hi": "प्राचीन अवशेष खोदने की प्रक्रिया",
+          "de": "Ausgrabung antiker Überreste",
+          "vi": "quá trình khai quật di tích cổ",
+          "pt-BR": "processo de escavar restos antigos",
+          "id": "proses menggali sisa-sisa kuno",
+          "fr": "processus de fouille de vestiges anciens",
+          "ar": "عملية التنقيب عن البقايا القديمة",
+          "tr": "antik kalıntıları kazma süreci",
+          "it": "processo di scavo di resti antichi",
+          "pl": "proces wykopywania starożytnych szczątków"
         },
         "example": {
           "en": "Today's news uses the word excavation."
@@ -152,14 +376,42 @@
     {
       "id": "preservation",
       "en": "preservation",
-      "ko": "keeping something in its original state",
+      "ko": "원래 상태로 유지함",
       "l1": {
-        "en": "keeping something in its original state"
+        "en": "keeping something in its original state",
+        "ko": "원래 상태로 유지함",
+        "zh-Hans": "保持原状",
+        "ja": "元の状態を保つこと",
+        "es": "mantener en su estado original",
+        "hi": "मूल स्थिति में बनाए रखना",
+        "de": "Erhaltung im ursprünglichen Zustand",
+        "vi": "giữ nguyên trạng thái ban đầu",
+        "pt-BR": "manter no estado original",
+        "id": "menjaga dalam keadaan asli",
+        "fr": "maintien dans l'état d'origine",
+        "ar": "الحفاظ على الحالة الأصلية",
+        "tr": "orijinal durumda koruma",
+        "it": "mantenimento nello stato originale",
+        "pl": "zachowanie w pierwotnym stanie"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "keeping something in its original state"
+          "en": "keeping something in its original state",
+          "ko": "원래 상태로 유지함",
+          "zh-Hans": "保持原状",
+          "ja": "元の状態を保つこと",
+          "es": "mantener en su estado original",
+          "hi": "मूल स्थिति में बनाए रखना",
+          "de": "Erhaltung im ursprünglichen Zustand",
+          "vi": "giữ nguyên trạng thái ban đầu",
+          "pt-BR": "manter no estado original",
+          "id": "menjaga dalam keadaan asli",
+          "fr": "maintien dans l'état d'origine",
+          "ar": "الحفاظ على الحالة الأصلية",
+          "tr": "orijinal durumda koruma",
+          "it": "mantenimento nello stato originale",
+          "pl": "zachowanie w pierwotnym stanie"
         },
         "example": {
           "en": "Today's news uses the word preservation."
@@ -170,14 +422,42 @@
     {
       "id": "symbolic",
       "en": "symbolic",
-      "ko": "representing an idea",
+      "ko": "어떤 생각을 나타내는",
       "l1": {
-        "en": "representing an idea"
+        "en": "representing an idea",
+        "ko": "어떤 생각을 나타내는",
+        "zh-Hans": "象征某种想法",
+        "ja": "ある考えを表す",
+        "es": "que representa una idea",
+        "hi": "किसी विचार का प्रतीक",
+        "de": "eine Idee repräsentierend",
+        "vi": "tượng trưng cho một ý tưởng",
+        "pt-BR": "que representa uma ideia",
+        "id": "melambangkan suatu gagasan",
+        "fr": "qui représente une idée",
+        "ar": "يرمز إلى فكرة",
+        "tr": "bir fikri temsil eden",
+        "it": "che rappresenta un'idea",
+        "pl": "reprezentujący pewną ideę"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "representing an idea"
+          "en": "representing an idea",
+          "ko": "어떤 생각을 나타내는",
+          "zh-Hans": "象征某种想法",
+          "ja": "ある考えを表す",
+          "es": "que representa una idea",
+          "hi": "किसी विचार का प्रतीक",
+          "de": "eine Idee repräsentierend",
+          "vi": "tượng trưng cho một ý tưởng",
+          "pt-BR": "que representa uma ideia",
+          "id": "melambangkan suatu gagasan",
+          "fr": "qui représente une idée",
+          "ar": "يرمز إلى فكرة",
+          "tr": "bir fikri temsil eden",
+          "it": "che rappresenta un'idea",
+          "pl": "reprezentujący pewną ideę"
         },
         "example": {
           "en": "Today's news uses the word symbolic."

@@ -8,14 +8,42 @@
     {
       "id": "fast",
       "en": "fast",
-      "ko": "To not eat food for a period of time.",
+      "ko": "단식하다",
       "l1": {
-        "en": "To not eat food for a period of time."
+        "en": "To not eat food for a period of time.",
+        "ko": "단식하다",
+        "zh-Hans": "禁食",
+        "ja": "断食する",
+        "es": "ayunar",
+        "hi": "उपवास करना",
+        "de": "fasten",
+        "vi": "nhịn ăn",
+        "pt-BR": "jejuar",
+        "id": "berpuasa",
+        "fr": "jeûner",
+        "ar": "يصوم",
+        "tr": "oruç tutmak",
+        "it": "digiunare",
+        "pl": "pościć"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "To not eat food for a period of time."
+          "en": "To not eat food for a period of time.",
+          "ko": "단식하다",
+          "zh-Hans": "禁食",
+          "ja": "断食する",
+          "es": "ayunar",
+          "hi": "उपवास करना",
+          "de": "fasten",
+          "vi": "nhịn ăn",
+          "pt-BR": "jejuar",
+          "id": "berpuasa",
+          "fr": "jeûner",
+          "ar": "يصوم",
+          "tr": "oruç tutmak",
+          "it": "digiunare",
+          "pl": "pościć"
         },
         "example": {
           "en": "Today's news uses the word fast."
@@ -26,14 +54,42 @@
     {
       "id": "gut",
       "en": "gut",
-      "ko": "The long tube in the body that digests food; the digestive system.",
+      "ko": "장",
       "l1": {
-        "en": "The long tube in the body that digests food; the digestive system."
+        "en": "The long tube in the body that digests food; the digestive system.",
+        "ko": "장",
+        "zh-Hans": "肠道",
+        "ja": "腸",
+        "es": "intestino",
+        "hi": "आंत",
+        "de": "Darm",
+        "vi": "ruột",
+        "pt-BR": "intestino",
+        "id": "usus",
+        "fr": "intestin",
+        "ar": "أمعاء",
+        "tr": "bağırsak",
+        "it": "intestino",
+        "pl": "jelito"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The long tube in the body that digests food; the digestive system."
+          "en": "The long tube in the body that digests food; the digestive system.",
+          "ko": "장",
+          "zh-Hans": "肠道",
+          "ja": "腸",
+          "es": "intestino",
+          "hi": "आंत",
+          "de": "Darm",
+          "vi": "ruột",
+          "pt-BR": "intestino",
+          "id": "usus",
+          "fr": "intestin",
+          "ar": "أمعاء",
+          "tr": "bağırsak",
+          "it": "intestino",
+          "pl": "jelito"
         },
         "example": {
           "en": "Today's news uses the word gut."
@@ -44,14 +100,42 @@
     {
       "id": "bacterium",
       "en": "bacterium",
-      "ko": "A single tiny living thing; one microbe.",
+      "ko": "박테리아",
       "l1": {
-        "en": "A single tiny living thing; one microbe."
+        "en": "A single tiny living thing; one microbe.",
+        "ko": "박테리아",
+        "zh-Hans": "细菌",
+        "ja": "細菌",
+        "es": "bacteria",
+        "hi": "जीवाणु",
+        "de": "Bakterium",
+        "vi": "vi khuẩn",
+        "pt-BR": "bactéria",
+        "id": "bakteri",
+        "fr": "bactérie",
+        "ar": "بكتيريا",
+        "tr": "bakteri",
+        "it": "batterio",
+        "pl": "bakteria"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A single tiny living thing; one microbe."
+          "en": "A single tiny living thing; one microbe.",
+          "ko": "박테리아",
+          "zh-Hans": "细菌",
+          "ja": "細菌",
+          "es": "bacteria",
+          "hi": "जीवाणु",
+          "de": "Bakterium",
+          "vi": "vi khuẩn",
+          "pt-BR": "bactéria",
+          "id": "bakteri",
+          "fr": "bactérie",
+          "ar": "بكتيريا",
+          "tr": "bakteri",
+          "it": "batterio",
+          "pl": "bakteria"
         },
         "example": {
           "en": "Today's news uses the word bacterium."
@@ -62,14 +146,42 @@
     {
       "id": "intestine",
       "en": "intestine",
-      "ko": "The long tube below the stomach where food is digested and absorbed.",
+      "ko": "창자",
       "l1": {
-        "en": "The long tube below the stomach where food is digested and absorbed."
+        "en": "The long tube below the stomach where food is digested and absorbed.",
+        "ko": "창자",
+        "zh-Hans": "肠",
+        "ja": "腸",
+        "es": "intestino",
+        "hi": "आंत",
+        "de": "Darm",
+        "vi": "ruột",
+        "pt-BR": "intestino",
+        "id": "usus",
+        "fr": "intestin",
+        "ar": "أمعاء",
+        "tr": "bağırsak",
+        "it": "intestino",
+        "pl": "jelito"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The long tube below the stomach where food is digested and absorbed."
+          "en": "The long tube below the stomach where food is digested and absorbed.",
+          "ko": "창자",
+          "zh-Hans": "肠",
+          "ja": "腸",
+          "es": "intestino",
+          "hi": "आंत",
+          "de": "Darm",
+          "vi": "ruột",
+          "pt-BR": "intestino",
+          "id": "usus",
+          "fr": "intestin",
+          "ar": "أمعاء",
+          "tr": "bağırsak",
+          "it": "intestino",
+          "pl": "jelito"
         },
         "example": {
           "en": "Today's news uses the word intestine."
@@ -80,14 +192,42 @@
     {
       "id": "radiation",
       "en": "radiation",
-      "ko": "Powerful energy waves or particles used to treat cancer.",
+      "ko": "방사선",
       "l1": {
-        "en": "Powerful energy waves or particles used to treat cancer."
+        "en": "Powerful energy waves or particles used to treat cancer.",
+        "ko": "방사선",
+        "zh-Hans": "放射线",
+        "ja": "放射線",
+        "es": "radiación",
+        "hi": "विकिरण",
+        "de": "Strahlung",
+        "vi": "bức xạ",
+        "pt-BR": "radiação",
+        "id": "radiasi",
+        "fr": "radiation",
+        "ar": "إشعاع",
+        "tr": "radyasyon",
+        "it": "radiazione",
+        "pl": "promieniowanie"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Powerful energy waves or particles used to treat cancer."
+          "en": "Powerful energy waves or particles used to treat cancer.",
+          "ko": "방사선",
+          "zh-Hans": "放射线",
+          "ja": "放射線",
+          "es": "radiación",
+          "hi": "विकिरण",
+          "de": "Strahlung",
+          "vi": "bức xạ",
+          "pt-BR": "radiação",
+          "id": "radiasi",
+          "fr": "radiation",
+          "ar": "إشعاع",
+          "tr": "radyasyon",
+          "it": "radiazione",
+          "pl": "promieniowanie"
         },
         "example": {
           "en": "Today's news uses the word radiation."
@@ -98,14 +238,42 @@
     {
       "id": "heal",
       "en": "heal",
-      "ko": "To become healthy or whole again after injury.",
+      "ko": "치유하다",
       "l1": {
-        "en": "To become healthy or whole again after injury."
+        "en": "To become healthy or whole again after injury.",
+        "ko": "치유하다",
+        "zh-Hans": "愈合",
+        "ja": "治る",
+        "es": "sanar",
+        "hi": "ठीक होना",
+        "de": "heilen",
+        "vi": "lành lại",
+        "pt-BR": "curar",
+        "id": "sembuh",
+        "fr": "guérir",
+        "ar": "يشفي",
+        "tr": "iyileşmek",
+        "it": "guarire",
+        "pl": "leczyć"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "To become healthy or whole again after injury."
+          "en": "To become healthy or whole again after injury.",
+          "ko": "치유하다",
+          "zh-Hans": "愈合",
+          "ja": "治る",
+          "es": "sanar",
+          "hi": "ठीक होना",
+          "de": "heilen",
+          "vi": "lành lại",
+          "pt-BR": "curar",
+          "id": "sembuh",
+          "fr": "guérir",
+          "ar": "يشفي",
+          "tr": "iyileşmek",
+          "it": "guarire",
+          "pl": "leczyć"
         },
         "example": {
           "en": "Today's news uses the word heal."
@@ -116,14 +284,42 @@
     {
       "id": "tissue",
       "en": "tissue",
-      "ko": "A group of similar cells that work together in the body.",
+      "ko": "비슷한 세포가 모여 함께 작용하는 조직",
       "l1": {
-        "en": "A group of similar cells that work together in the body."
+        "en": "A group of similar cells that work together in the body.",
+        "ko": "비슷한 세포가 모여 함께 작용하는 조직",
+        "zh-Hans": "由相似细胞组成并共同工作的组织",
+        "ja": "似た細胞が集まり共に働く組織",
+        "es": "Grupo de células similares que trabajan juntas.",
+        "hi": "समान कोशिकाओं का समूह जो मिलकर काम करता है।",
+        "de": "Gruppe ähnlicher Zellen, die zusammenarbeiten.",
+        "vi": "Nhóm tế bào tương tự cùng hoạt động.",
+        "pt-BR": "Grupo de células semelhantes que trabalham juntas.",
+        "id": "Kelompok sel serupa yang bekerja bersama.",
+        "fr": "Groupe de cellules similaires travaillant ensemble.",
+        "ar": "مجموعة من الخلايا المتشابهة تعمل معًا.",
+        "tr": "Benzer hücrelerin birlikte çalıştığı doku.",
+        "it": "Gruppo di cellule simili che lavorano insieme.",
+        "pl": "Grupa podobnych komórek współpracujących ze sobą."
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A group of similar cells that work together in the body."
+          "en": "A group of similar cells that work together in the body.",
+          "ko": "비슷한 세포가 모여 함께 작용하는 조직",
+          "zh-Hans": "由相似细胞组成并共同工作的组织",
+          "ja": "似た細胞が集まり共に働く組織",
+          "es": "Grupo de células similares que trabajan juntas.",
+          "hi": "समान कोशिकाओं का समूह जो मिलकर काम करता है।",
+          "de": "Gruppe ähnlicher Zellen, die zusammenarbeiten.",
+          "vi": "Nhóm tế bào tương tự cùng hoạt động.",
+          "pt-BR": "Grupo de células semelhantes que trabalham juntas.",
+          "id": "Kelompok sel serupa yang bekerja bersama.",
+          "fr": "Groupe de cellules similaires travaillant ensemble.",
+          "ar": "مجموعة من الخلايا المتشابهة تعمل معًا.",
+          "tr": "Benzer hücrelerin birlikte çalıştığı doku.",
+          "it": "Gruppo di cellule simili che lavorano insieme.",
+          "pl": "Grupa podobnych komórek współpracujących ze sobą."
         },
         "example": {
           "en": "Today's news uses the word tissue."
@@ -134,14 +330,42 @@
     {
       "id": "therapy",
       "en": "therapy",
-      "ko": "Treatment to cure or manage a disease or condition.",
+      "ko": "질병을 치료하거나 관리하는 치료법",
       "l1": {
-        "en": "Treatment to cure or manage a disease or condition."
+        "en": "Treatment to cure or manage a disease or condition.",
+        "ko": "질병을 치료하거나 관리하는 치료법",
+        "zh-Hans": "治疗或控制疾病的疗法",
+        "ja": "病気を治したり管理する治療",
+        "es": "Tratamiento para curar o controlar una enfermedad.",
+        "hi": "रोग को ठीक या नियंत्रित करने का उपचार।",
+        "de": "Behandlung zur Heilung oder Kontrolle einer Krankheit.",
+        "vi": "Điều trị để chữa hoặc kiểm soát bệnh.",
+        "pt-BR": "Tratamento para curar ou controlar uma doença.",
+        "id": "Perawatan untuk menyembuhkan atau mengendalikan penyakit.",
+        "fr": "Traitement pour guérir ou gérer une maladie.",
+        "ar": "علاج لشفاء أو إدارة مرض.",
+        "tr": "Bir hastalığı iyileştirme veya yönetme tedavisi.",
+        "it": "Trattamento per curare o gestire una malattia.",
+        "pl": "Leczenie mające wyleczyć lub opanować chorobę."
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Treatment to cure or manage a disease or condition."
+          "en": "Treatment to cure or manage a disease or condition.",
+          "ko": "질병을 치료하거나 관리하는 치료법",
+          "zh-Hans": "治疗或控制疾病的疗法",
+          "ja": "病気を治したり管理する治療",
+          "es": "Tratamiento para curar o controlar una enfermedad.",
+          "hi": "रोग को ठीक या नियंत्रित करने का उपचार।",
+          "de": "Behandlung zur Heilung oder Kontrolle einer Krankheit.",
+          "vi": "Điều trị để chữa hoặc kiểm soát bệnh.",
+          "pt-BR": "Tratamento para curar ou controlar uma doença.",
+          "id": "Perawatan untuk menyembuhkan atau mengendalikan penyakit.",
+          "fr": "Traitement pour guérir ou gérer une maladie.",
+          "ar": "علاج لشفاء أو إدارة مرض.",
+          "tr": "Bir hastalığı iyileştirme veya yönetme tedavisi.",
+          "it": "Trattamento per curare o gestire una malattia.",
+          "pl": "Leczenie mające wyleczyć lub opanować chorobę."
         },
         "example": {
           "en": "Today's news uses the word therapy."
@@ -152,14 +376,42 @@
     {
       "id": "abdominal",
       "en": "abdominal",
-      "ko": "Relating to the stomach area of the body.",
+      "ko": "복부와 관련된",
       "l1": {
-        "en": "Relating to the stomach area of the body."
+        "en": "Relating to the stomach area of the body.",
+        "ko": "복부와 관련된",
+        "zh-Hans": "与腹部有关的",
+        "ja": "腹部に関連する",
+        "es": "Relacionado con el área del estómago.",
+        "hi": "पेट के क्षेत्र से संबंधित।",
+        "de": "Den Bauchbereich betreffend.",
+        "vi": "Liên quan đến vùng bụng.",
+        "pt-BR": "Relacionado à área do estômago.",
+        "id": "Berkaitan dengan area perut.",
+        "fr": "Relatif à la région de l'estomac.",
+        "ar": "متعلق بمنطقة البطن.",
+        "tr": "Karın bölgesiyle ilgili.",
+        "it": "Relativo alla zona dello stomaco.",
+        "pl": "Dotyczący okolicy brzucha."
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Relating to the stomach area of the body."
+          "en": "Relating to the stomach area of the body.",
+          "ko": "복부와 관련된",
+          "zh-Hans": "与腹部有关的",
+          "ja": "腹部に関連する",
+          "es": "Relacionado con el área del estómago.",
+          "hi": "पेट के क्षेत्र से संबंधित।",
+          "de": "Den Bauchbereich betreffend.",
+          "vi": "Liên quan đến vùng bụng.",
+          "pt-BR": "Relacionado à área do estômago.",
+          "id": "Berkaitan dengan area perut.",
+          "fr": "Relatif à la région de l'estomac.",
+          "ar": "متعلق بمنطقة البطن.",
+          "tr": "Karın bölgesiyle ilgili.",
+          "it": "Relativo alla zona dello stomaco.",
+          "pl": "Dotyczący okolicy brzucha."
         },
         "example": {
           "en": "Today's news uses the word abdominal."
@@ -170,14 +422,42 @@
     {
       "id": "microbes",
       "en": "microbes",
-      "ko": "Very small living things such as bacteria that can only be seen with a microscope.",
+      "ko": "현미경으로만 볼 수 있는 아주 작은 생물",
       "l1": {
-        "en": "Very small living things such as bacteria that can only be seen with a microscope."
+        "en": "Very small living things such as bacteria that can only be seen with a microscope.",
+        "ko": "현미경으로만 볼 수 있는 아주 작은 생물",
+        "zh-Hans": "只能用显微镜看到的微小生物",
+        "ja": "顕微鏡でしか見えない微小な生物",
+        "es": "Seres vivos muy pequeños visibles solo con microscopio.",
+        "hi": "सूक्ष्मदर्शी से ही दिखने वाले अति सूक्ष्म जीव।",
+        "de": "Sehr kleine Lebewesen, nur mit Mikroskop sichtbar.",
+        "vi": "Sinh vật rất nhỏ chỉ thấy được bằng kính hiển vi.",
+        "pt-BR": "Seres vivos muito pequenos visíveis só ao microscópio.",
+        "id": "Makhluk hidup sangat kecil yang hanya terlihat dengan mikroskop.",
+        "fr": "Êtres vivants très petits visibles seulement au microscope.",
+        "ar": "كائنات حية دقيقة تُرى فقط بالمجهر.",
+        "tr": "Sadece mikroskopla görülebilen çok küçük canlılar.",
+        "it": "Esseri viventi minuscoli visibili solo al microscopio.",
+        "pl": "Bardzo małe organizmy widoczne tylko pod mikroskopem."
       },
       "ww": {
         "pos": "adj",
         "def": {
-          "en": "Very small living things such as bacteria that can only be seen with a microscope."
+          "en": "Very small living things such as bacteria that can only be seen with a microscope.",
+          "ko": "현미경으로만 볼 수 있는 아주 작은 생물",
+          "zh-Hans": "只能用显微镜看到的微小生物",
+          "ja": "顕微鏡でしか見えない微小な生物",
+          "es": "Seres vivos muy pequeños visibles solo con microscopio.",
+          "hi": "सूक्ष्मदर्शी से ही दिखने वाले अति सूक्ष्म जीव।",
+          "de": "Sehr kleine Lebewesen, nur mit Mikroskop sichtbar.",
+          "vi": "Sinh vật rất nhỏ chỉ thấy được bằng kính hiển vi.",
+          "pt-BR": "Seres vivos muito pequenos visíveis só ao microscópio.",
+          "id": "Makhluk hidup sangat kecil yang hanya terlihat dengan mikroskop.",
+          "fr": "Êtres vivants très petits visibles seulement au microscope.",
+          "ar": "كائنات حية دقيقة تُرى فقط بالمجهر.",
+          "tr": "Sadece mikroskopla görülebilen çok küçük canlılar.",
+          "it": "Esseri viventi minuscoli visibili solo al microscopio.",
+          "pl": "Bardzo małe organizmy widoczne tylko pod mikroskopem."
         },
         "example": {
           "en": "Today's news uses the word microbes."

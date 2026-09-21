@@ -8,14 +8,42 @@
     {
       "id": "proposal",
       "en": "proposal",
-      "ko": "A formal plan or suggestion put forward for consideration or discussion.",
+      "ko": "제안",
       "l1": {
-        "en": "A formal plan or suggestion put forward for consideration or discussion."
+        "en": "A formal plan or suggestion put forward for consideration or discussion.",
+        "ko": "제안",
+        "zh-Hans": "提议",
+        "ja": "提案",
+        "es": "propuesta",
+        "hi": "प्रस्ताव",
+        "de": "Vorschlag",
+        "vi": "đề xuất",
+        "pt-BR": "proposta",
+        "id": "proposal",
+        "fr": "proposition",
+        "ar": "اقتراح",
+        "tr": "öneri",
+        "it": "proposta",
+        "pl": "propozycja"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A formal plan or suggestion put forward for consideration or discussion."
+          "en": "A formal plan or suggestion put forward for consideration or discussion.",
+          "ko": "제안",
+          "zh-Hans": "提议",
+          "ja": "提案",
+          "es": "propuesta",
+          "hi": "प्रस्ताव",
+          "de": "Vorschlag",
+          "vi": "đề xuất",
+          "pt-BR": "proposta",
+          "id": "proposal",
+          "fr": "proposition",
+          "ar": "اقتراح",
+          "tr": "öneri",
+          "it": "proposta",
+          "pl": "propozycja"
         },
         "example": {
           "en": "Today's news uses the word proposal."
@@ -26,14 +54,42 @@
     {
       "id": "commercial",
       "en": "commercial",
-      "ko": "Related to or engaged in commerce; intended to make a profit.",
+      "ko": "상업적인",
       "l1": {
-        "en": "Related to or engaged in commerce; intended to make a profit."
+        "en": "Related to or engaged in commerce; intended to make a profit.",
+        "ko": "상업적인",
+        "zh-Hans": "商业的",
+        "ja": "商業の",
+        "es": "comercial",
+        "hi": "व्यापारिक",
+        "de": "kommerziell",
+        "vi": "thương mại",
+        "pt-BR": "comercial",
+        "id": "komersial",
+        "fr": "commercial",
+        "ar": "تجاري",
+        "tr": "ticari",
+        "it": "commerciale",
+        "pl": "komercyjny"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Related to or engaged in commerce; intended to make a profit."
+          "en": "Related to or engaged in commerce; intended to make a profit.",
+          "ko": "상업적인",
+          "zh-Hans": "商业的",
+          "ja": "商業の",
+          "es": "comercial",
+          "hi": "व्यापारिक",
+          "de": "kommerziell",
+          "vi": "thương mại",
+          "pt-BR": "comercial",
+          "id": "komersial",
+          "fr": "commercial",
+          "ar": "تجاري",
+          "tr": "ticari",
+          "it": "commerciale",
+          "pl": "komercyjny"
         },
         "example": {
           "en": "Today's news uses the word commercial."
@@ -44,14 +100,42 @@
     {
       "id": "collaboration",
       "en": "collaboration",
-      "ko": "The action of working with someone to produce or create something.",
+      "ko": "협력",
       "l1": {
-        "en": "The action of working with someone to produce or create something."
+        "en": "The action of working with someone to produce or create something.",
+        "ko": "협력",
+        "zh-Hans": "合作",
+        "ja": "協力",
+        "es": "colaboración",
+        "hi": "सहयोग",
+        "de": "Zusammenarbeit",
+        "vi": "hợp tác",
+        "pt-BR": "colaboração",
+        "id": "kolaborasi",
+        "fr": "collaboration",
+        "ar": "تعاون",
+        "tr": "işbirliği",
+        "it": "collaborazione",
+        "pl": "współpraca"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The action of working with someone to produce or create something."
+          "en": "The action of working with someone to produce or create something.",
+          "ko": "협력",
+          "zh-Hans": "合作",
+          "ja": "協力",
+          "es": "colaboración",
+          "hi": "सहयोग",
+          "de": "Zusammenarbeit",
+          "vi": "hợp tác",
+          "pt-BR": "colaboração",
+          "id": "kolaborasi",
+          "fr": "collaboration",
+          "ar": "تعاون",
+          "tr": "işbirliği",
+          "it": "collaborazione",
+          "pl": "współpraca"
         },
         "example": {
           "en": "Today's news uses the word collaboration."
@@ -62,14 +146,42 @@
     {
       "id": "navigation",
       "en": "navigation",
-      "ko": "The process or activity of accurately finding one's way and planning routes.",
+      "ko": "항해",
       "l1": {
-        "en": "The process or activity of accurately finding one's way and planning routes."
+        "en": "The process or activity of accurately finding one's way and planning routes.",
+        "ko": "항해",
+        "zh-Hans": "导航",
+        "ja": "ナビゲーション",
+        "es": "navegación",
+        "hi": "नेविगेशन",
+        "de": "Navigation",
+        "vi": "điều hướng",
+        "pt-BR": "navegação",
+        "id": "navigasi",
+        "fr": "navigation",
+        "ar": "ملاحة",
+        "tr": "navigasyon",
+        "it": "navigazione",
+        "pl": "nawigacja"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The process or activity of accurately finding one's way and planning routes."
+          "en": "The process or activity of accurately finding one's way and planning routes.",
+          "ko": "항해",
+          "zh-Hans": "导航",
+          "ja": "ナビゲーション",
+          "es": "navegación",
+          "hi": "नेविगेशन",
+          "de": "Navigation",
+          "vi": "điều hướng",
+          "pt-BR": "navegação",
+          "id": "navigasi",
+          "fr": "navigation",
+          "ar": "ملاحة",
+          "tr": "navigasyon",
+          "it": "navigazione",
+          "pl": "nawigacja"
         },
         "example": {
           "en": "Today's news uses the word navigation."
@@ -80,14 +192,42 @@
     {
       "id": "modular",
       "en": "modular",
-      "ko": "Constructed using standardized units or sections for easy assembly and flexible arrangement.",
+      "ko": "모듈식의, 표준화된 단위로 구성된",
       "l1": {
-        "en": "Constructed using standardized units or sections for easy assembly and flexible arrangement."
+        "en": "Constructed using standardized units or sections for easy assembly and flexible arrangement.",
+        "ko": "모듈식의, 표준화된 단위로 구성된",
+        "zh-Hans": "模块化的，由标准单元组成的",
+        "ja": "モジュール式の、標準単位で構成された",
+        "es": "modular, construido con unidades estandarizadas",
+        "hi": "मॉड्यूलर, मानक इकाइयों से बना",
+        "de": "modular, aus standardisierten Einheiten",
+        "vi": "mô-đun, được tạo từ các đơn vị tiêu chuẩn",
+        "pt-BR": "modular, construído com unidades padronizadas",
+        "id": "modular, dibangun dari unit standar",
+        "fr": "modulaire, construit en unités standardisées",
+        "ar": "معياري، مبني من وحدات قياسية",
+        "tr": "modüler, standart birimlerden oluşan",
+        "it": "modulare, costruito con unità standardizzate",
+        "pl": "modułowy, zbudowany ze standardowych jednostek"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Constructed using standardized units or sections for easy assembly and flexible arrangement."
+          "en": "Constructed using standardized units or sections for easy assembly and flexible arrangement.",
+          "ko": "모듈식의, 표준화된 단위로 구성된",
+          "zh-Hans": "模块化的，由标准单元组成的",
+          "ja": "モジュール式の、標準単位で構成された",
+          "es": "modular, construido con unidades estandarizadas",
+          "hi": "मॉड्यूलर, मानक इकाइयों से बना",
+          "de": "modular, aus standardisierten Einheiten",
+          "vi": "mô-đun, được tạo từ các đơn vị tiêu chuẩn",
+          "pt-BR": "modular, construído com unidades padronizadas",
+          "id": "modular, dibangun dari unit standar",
+          "fr": "modulaire, construit en unités standardisées",
+          "ar": "معياري، مبني من وحدات قياسية",
+          "tr": "modüler, standart birimlerden oluşan",
+          "it": "modulare, costruito con unità standardizzate",
+          "pl": "modułowy, zbudowany ze standardowych jednostek"
         },
         "example": {
           "en": "Today's news uses the word modular."
@@ -98,14 +238,42 @@
     {
       "id": "abrasive",
       "en": "abrasive",
-      "ko": "A substance or material capable of polishing",
+      "ko": "연마제, 연마재",
       "l1": {
-        "en": "A substance or material capable of polishing"
+        "en": "A substance or material capable of polishing",
+        "ko": "연마제, 연마재",
+        "zh-Hans": "研磨剂，磨料",
+        "ja": "研磨剤、研磨材",
+        "es": "abrasivo, material para pulir",
+        "hi": "अपघर्षक, पॉलिश करने वाला पदार्थ",
+        "de": "Schleifmittel, zum Polieren",
+        "vi": "chất mài mòn, để đánh bóng",
+        "pt-BR": "abrasivo, material para polir",
+        "id": "abrasif, bahan untuk memoles",
+        "fr": "abrasif, matière à polir",
+        "ar": "مادة كاشطة، للتلميع",
+        "tr": "aşındırıcı, cilalamak için madde",
+        "it": "abrasivo, materiale per lucidare",
+        "pl": "materiał ścierny, do polerowania"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A substance or material capable of polishing"
+          "en": "A substance or material capable of polishing",
+          "ko": "연마제, 연마재",
+          "zh-Hans": "研磨剂，磨料",
+          "ja": "研磨剤、研磨材",
+          "es": "abrasivo, material para pulir",
+          "hi": "अपघर्षक, पॉलिश करने वाला पदार्थ",
+          "de": "Schleifmittel, zum Polieren",
+          "vi": "chất mài mòn, để đánh bóng",
+          "pt-BR": "abrasivo, material para polir",
+          "id": "abrasif, bahan untuk memoles",
+          "fr": "abrasif, matière à polir",
+          "ar": "مادة كاشطة، للتلميع",
+          "tr": "aşındırıcı, cilalamak için madde",
+          "it": "abrasivo, materiale per lucidare",
+          "pl": "materiał ścierny, do polerowania"
         },
         "example": {
           "en": "Today's news uses the word abrasive."
@@ -116,14 +284,42 @@
     {
       "id": "orbital",
       "en": "orbital",
-      "ko": "Relating to an orbit or the path of an object moving around a planet",
+      "ko": "궤도의, 궤도에 관한",
       "l1": {
-        "en": "Relating to an orbit or the path of an object moving around a planet"
+        "en": "Relating to an orbit or the path of an object moving around a planet",
+        "ko": "궤도의, 궤도에 관한",
+        "zh-Hans": "轨道的，与轨道有关的",
+        "ja": "軌道の、軌道に関する",
+        "es": "orbital, relativo a la órbita",
+        "hi": "कक्षीय, कक्षा से संबंधित",
+        "de": "orbital, die Umlaufbahn betreffend",
+        "vi": "thuộc quỹ đạo",
+        "pt-BR": "orbital, relativo à órbita",
+        "id": "orbital, berkaitan dengan orbit",
+        "fr": "orbital, relatif à l'orbite",
+        "ar": "مداري، متعلق بالمدار",
+        "tr": "yörünge ile ilgili",
+        "it": "orbitale, relativo all'orbita",
+        "pl": "orbitalny, dotyczący orbity"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Relating to an orbit or the path of an object moving around a planet"
+          "en": "Relating to an orbit or the path of an object moving around a planet",
+          "ko": "궤도의, 궤도에 관한",
+          "zh-Hans": "轨道的，与轨道有关的",
+          "ja": "軌道の、軌道に関する",
+          "es": "orbital, relativo a la órbita",
+          "hi": "कक्षीय, कक्षा से संबंधित",
+          "de": "orbital, die Umlaufbahn betreffend",
+          "vi": "thuộc quỹ đạo",
+          "pt-BR": "orbital, relativo à órbita",
+          "id": "orbital, berkaitan dengan orbit",
+          "fr": "orbital, relatif à l'orbite",
+          "ar": "مداري، متعلق بالمدار",
+          "tr": "yörünge ile ilgili",
+          "it": "orbitale, relativo all'orbita",
+          "pl": "orbitalny, dotyczący orbity"
         },
         "example": {
           "en": "Today's news uses the word orbital."
@@ -134,14 +330,42 @@
     {
       "id": "payload",
       "en": "payload",
-      "ko": "The part of a vehicle load",
+      "ko": "탑재물, 유효 하중",
       "l1": {
-        "en": "The part of a vehicle load"
+        "en": "The part of a vehicle load",
+        "ko": "탑재물, 유효 하중",
+        "zh-Hans": "有效载荷，装载物",
+        "ja": "ペイロード、積載物",
+        "es": "carga útil, carga transportada",
+        "hi": "पेलोड, वाहन का भार",
+        "de": "Nutzlast, Ladung",
+        "vi": "tải trọng, hàng hóa chuyên chở",
+        "pt-BR": "carga útil, carga transportada",
+        "id": "muatan, beban angkut",
+        "fr": "charge utile, chargement",
+        "ar": "الحمولة، حمل المركبة",
+        "tr": "yük, taşınan yük",
+        "it": "carico utile, carico trasportato",
+        "pl": "ładunek użyteczny, przewożony ładunek"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The part of a vehicle load"
+          "en": "The part of a vehicle load",
+          "ko": "탑재물, 유효 하중",
+          "zh-Hans": "有效载荷，装载物",
+          "ja": "ペイロード、積載物",
+          "es": "carga útil, carga transportada",
+          "hi": "पेलोड, वाहन का भार",
+          "de": "Nutzlast, Ladung",
+          "vi": "tải trọng, hàng hóa chuyên chở",
+          "pt-BR": "carga útil, carga transportada",
+          "id": "muatan, beban angkut",
+          "fr": "charge utile, chargement",
+          "ar": "الحمولة، حمل المركبة",
+          "tr": "yük, taşınan yük",
+          "it": "carico utile, carico trasportato",
+          "pl": "ładunek użyteczny, przewożony ładunek"
         },
         "example": {
           "en": "Today's news uses the word payload."
@@ -152,14 +376,42 @@
     {
       "id": "partnership",
       "en": "partnership",
-      "ko": "An arrangement where two or more parties agree to cooperate to advance their mutual interests.",
+      "ko": "파트너십, 협력 관계",
       "l1": {
-        "en": "An arrangement where two or more parties agree to cooperate to advance their mutual interests."
+        "en": "An arrangement where two or more parties agree to cooperate to advance their mutual interests.",
+        "ko": "파트너십, 협력 관계",
+        "zh-Hans": "伙伴关系，合作关系",
+        "ja": "パートナーシップ、提携関係",
+        "es": "asociación, colaboración mutua",
+        "hi": "साझेदारी, सहयोग समझौता",
+        "de": "Partnerschaft, Zusammenarbeit",
+        "vi": "quan hệ đối tác, hợp tác",
+        "pt-BR": "parceria, cooperação mútua",
+        "id": "kemitraan, kerja sama",
+        "fr": "partenariat, coopération mutuelle",
+        "ar": "شراكة، تعاون متبادل",
+        "tr": "ortaklık, karşılıklı işbirliği",
+        "it": "partnership, collaborazione reciproca",
+        "pl": "partnerstwo, wzajemna współpraca"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "An arrangement where two or more parties agree to cooperate to advance their mutual interests."
+          "en": "An arrangement where two or more parties agree to cooperate to advance their mutual interests.",
+          "ko": "파트너십, 협력 관계",
+          "zh-Hans": "伙伴关系，合作关系",
+          "ja": "パートナーシップ、提携関係",
+          "es": "asociación, colaboración mutua",
+          "hi": "साझेदारी, सहयोग समझौता",
+          "de": "Partnerschaft, Zusammenarbeit",
+          "vi": "quan hệ đối tác, hợp tác",
+          "pt-BR": "parceria, cooperação mútua",
+          "id": "kemitraan, kerja sama",
+          "fr": "partenariat, coopération mutuelle",
+          "ar": "شراكة، تعاون متبادل",
+          "tr": "ortaklık, karşılıklı işbirliği",
+          "it": "partnership, collaborazione reciproca",
+          "pl": "partnerstwo, wzajemna współpraca"
         },
         "example": {
           "en": "Today's news uses the word partnership."
@@ -170,14 +422,42 @@
     {
       "id": "mature",
       "en": "mature",
-      "ko": "Fully developed physically or mentally; having reached an advanced stage of development.",
+      "ko": "성숙한, 완전히 발달한",
       "l1": {
-        "en": "Fully developed physically or mentally; having reached an advanced stage of development."
+        "en": "Fully developed physically or mentally; having reached an advanced stage of development.",
+        "ko": "성숙한, 완전히 발달한",
+        "zh-Hans": "成熟的，充分发展的",
+        "ja": "成熟した、十分に発達した",
+        "es": "maduro, completamente desarrollado",
+        "hi": "परिपक्व, पूर्ण विकसित",
+        "de": "reif, voll entwickelt",
+        "vi": "trưởng thành, phát triển đầy đủ",
+        "pt-BR": "maduro, totalmente desenvolvido",
+        "id": "dewasa, berkembang penuh",
+        "fr": "mûr, pleinement développé",
+        "ar": "ناضج، مكتمل النمو",
+        "tr": "olgun, tam gelişmiş",
+        "it": "maturo, completamente sviluppato",
+        "pl": "dojrzały, w pełni rozwinięty"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Fully developed physically or mentally; having reached an advanced stage of development."
+          "en": "Fully developed physically or mentally; having reached an advanced stage of development.",
+          "ko": "성숙한, 완전히 발달한",
+          "zh-Hans": "成熟的，充分发展的",
+          "ja": "成熟した、十分に発達した",
+          "es": "maduro, completamente desarrollado",
+          "hi": "परिपक्व, पूर्ण विकसित",
+          "de": "reif, voll entwickelt",
+          "vi": "trưởng thành, phát triển đầy đủ",
+          "pt-BR": "maduro, totalmente desenvolvido",
+          "id": "dewasa, berkembang penuh",
+          "fr": "mûr, pleinement développé",
+          "ar": "ناضج، مكتمل النمو",
+          "tr": "olgun, tam gelişmiş",
+          "it": "maturo, completamente sviluppato",
+          "pl": "dojrzały, w pełni rozwinięty"
         },
         "example": {
           "en": "Today's news uses the word mature."

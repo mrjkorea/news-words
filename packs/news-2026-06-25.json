@@ -8,14 +8,42 @@
     {
       "id": "medication",
       "en": "medication",
-      "ko": "a drug or medicine used for medical treatment",
+      "ko": "약물 치료",
       "l1": {
-        "en": "a drug or medicine used for medical treatment"
+        "en": "a drug or medicine used for medical treatment",
+        "ko": "약물 치료",
+        "zh-Hans": "药物",
+        "ja": "薬物治療",
+        "es": "medicamento",
+        "hi": "दवा",
+        "de": "Medikament",
+        "vi": "thuốc",
+        "pt-BR": "medicamento",
+        "id": "obat",
+        "fr": "médicament",
+        "ar": "دواء",
+        "tr": "ilaç",
+        "it": "farmaco",
+        "pl": "lek"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "a drug or medicine used for medical treatment"
+          "en": "a drug or medicine used for medical treatment",
+          "ko": "약물 치료",
+          "zh-Hans": "药物",
+          "ja": "薬物治療",
+          "es": "medicamento",
+          "hi": "दवा",
+          "de": "Medikament",
+          "vi": "thuốc",
+          "pt-BR": "medicamento",
+          "id": "obat",
+          "fr": "médicament",
+          "ar": "دواء",
+          "tr": "ilaç",
+          "it": "farmaco",
+          "pl": "lek"
         },
         "example": {
           "en": "Today's news uses the word medication."
@@ -26,14 +54,42 @@
     {
       "id": "significant",
       "en": "significant",
-      "ko": "important",
+      "ko": "중요한",
       "l1": {
-        "en": "important"
+        "en": "important",
+        "ko": "중요한",
+        "zh-Hans": "重要的",
+        "ja": "重要な",
+        "es": "importante",
+        "hi": "महत्वपूर्ण",
+        "de": "bedeutend",
+        "vi": "quan trọng",
+        "pt-BR": "significativo",
+        "id": "penting",
+        "fr": "important",
+        "ar": "مهم",
+        "tr": "önemli",
+        "it": "significativo",
+        "pl": "istotny"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "important"
+          "en": "important",
+          "ko": "중요한",
+          "zh-Hans": "重要的",
+          "ja": "重要な",
+          "es": "importante",
+          "hi": "महत्वपूर्ण",
+          "de": "bedeutend",
+          "vi": "quan trọng",
+          "pt-BR": "significativo",
+          "id": "penting",
+          "fr": "important",
+          "ar": "مهم",
+          "tr": "önemli",
+          "it": "significativo",
+          "pl": "istotny"
         },
         "example": {
           "en": "Today's news uses the word significant."
@@ -44,14 +100,42 @@
     {
       "id": "likelihood",
       "en": "likelihood",
-      "ko": "the chance or probability that something will happen",
+      "ko": "가능성",
       "l1": {
-        "en": "the chance or probability that something will happen"
+        "en": "the chance or probability that something will happen",
+        "ko": "가능성",
+        "zh-Hans": "可能性",
+        "ja": "可能性",
+        "es": "probabilidad",
+        "hi": "संभावना",
+        "de": "Wahrscheinlichkeit",
+        "vi": "khả năng",
+        "pt-BR": "probabilidade",
+        "id": "kemungkinan",
+        "fr": "probabilité",
+        "ar": "احتمال",
+        "tr": "olasılık",
+        "it": "probabilità",
+        "pl": "prawdopodobieństwo"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "the chance or probability that something will happen"
+          "en": "the chance or probability that something will happen",
+          "ko": "가능성",
+          "zh-Hans": "可能性",
+          "ja": "可能性",
+          "es": "probabilidad",
+          "hi": "संभावना",
+          "de": "Wahrscheinlichkeit",
+          "vi": "khả năng",
+          "pt-BR": "probabilidade",
+          "id": "kemungkinan",
+          "fr": "probabilité",
+          "ar": "احتمال",
+          "tr": "olasılık",
+          "it": "probabilità",
+          "pl": "prawdopodobieństwo"
         },
         "example": {
           "en": "Today's news uses the word likelihood."
@@ -62,14 +146,42 @@
     {
       "id": "observational",
       "en": "observational",
-      "ko": "based on watching and recording",
+      "ko": "관찰에 근거한",
       "l1": {
-        "en": "based on watching and recording"
+        "en": "based on watching and recording",
+        "ko": "관찰에 근거한",
+        "zh-Hans": "观察性的",
+        "ja": "観察に基づく",
+        "es": "observacional",
+        "hi": "अवलोकनात्मक",
+        "de": "beobachtend",
+        "vi": "quan sát",
+        "pt-BR": "observacional",
+        "id": "observasional",
+        "fr": "observationnel",
+        "ar": "قائم على الملاحظة",
+        "tr": "gözlemsel",
+        "it": "osservazionale",
+        "pl": "obserwacyjny"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "based on watching and recording"
+          "en": "based on watching and recording",
+          "ko": "관찰에 근거한",
+          "zh-Hans": "观察性的",
+          "ja": "観察に基づく",
+          "es": "observacional",
+          "hi": "अवलोकनात्मक",
+          "de": "beobachtend",
+          "vi": "quan sát",
+          "pt-BR": "observacional",
+          "id": "observasional",
+          "fr": "observationnel",
+          "ar": "قائم على الملاحظة",
+          "tr": "gözlemsel",
+          "it": "osservazionale",
+          "pl": "obserwacyjny"
         },
         "example": {
           "en": "Today's news uses the word observational."
@@ -80,14 +192,42 @@
     {
       "id": "definitively",
       "en": "definitively",
-      "ko": "in a way that is certain",
+      "ko": "확실하게",
       "l1": {
-        "en": "in a way that is certain"
+        "en": "in a way that is certain",
+        "ko": "확실하게",
+        "zh-Hans": "确定地",
+        "ja": "決定的に",
+        "es": "definitivamente",
+        "hi": "निश्चित रूप से",
+        "de": "definitiv",
+        "vi": "một cách dứt khoát",
+        "pt-BR": "definitivamente",
+        "id": "secara definitif",
+        "fr": "définitivement",
+        "ar": "بشكل قاطع",
+        "tr": "kesin olarak",
+        "it": "definitivamente",
+        "pl": "definitywnie"
       },
       "ww": {
         "pos": "adv",
         "def": {
-          "en": "in a way that is certain"
+          "en": "in a way that is certain",
+          "ko": "확실하게",
+          "zh-Hans": "确定地",
+          "ja": "決定的に",
+          "es": "definitivamente",
+          "hi": "निश्चित रूप से",
+          "de": "definitiv",
+          "vi": "một cách dứt khoát",
+          "pt-BR": "definitivamente",
+          "id": "secara definitif",
+          "fr": "définitivement",
+          "ar": "بشكل قاطع",
+          "tr": "kesin olarak",
+          "it": "definitivamente",
+          "pl": "definitywnie"
         },
         "example": {
           "en": "Today's news uses the word definitively."
@@ -98,14 +238,42 @@
     {
       "id": "prevention",
       "en": "prevention",
-      "ko": "the act of stopping something from happening before it starts",
+      "ko": "예방",
       "l1": {
-        "en": "the act of stopping something from happening before it starts"
+        "en": "the act of stopping something from happening before it starts",
+        "ko": "예방",
+        "zh-Hans": "预防",
+        "ja": "予防",
+        "es": "prevención",
+        "hi": "रोकथाम",
+        "de": "Vorbeugung",
+        "vi": "phòng ngừa",
+        "pt-BR": "prevenção",
+        "id": "pencegahan",
+        "fr": "prévention",
+        "ar": "وقاية",
+        "tr": "önleme",
+        "it": "prevenzione",
+        "pl": "zapobieganie"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "the act of stopping something from happening before it starts"
+          "en": "the act of stopping something from happening before it starts",
+          "ko": "예방",
+          "zh-Hans": "预防",
+          "ja": "予防",
+          "es": "prevención",
+          "hi": "रोकथाम",
+          "de": "Vorbeugung",
+          "vi": "phòng ngừa",
+          "pt-BR": "prevenção",
+          "id": "pencegahan",
+          "fr": "prévention",
+          "ar": "وقاية",
+          "tr": "önleme",
+          "it": "prevenzione",
+          "pl": "zapobieganie"
         },
         "example": {
           "en": "Today's news uses the word prevention."
@@ -116,14 +284,42 @@
     {
       "id": "incidence",
       "en": "incidence",
-      "ko": "the number of new cases of a disease in a specific population",
+      "ko": "발생률",
       "l1": {
-        "en": "the number of new cases of a disease in a specific population"
+        "en": "the number of new cases of a disease in a specific population",
+        "ko": "발생률",
+        "zh-Hans": "发病率",
+        "ja": "発生率",
+        "es": "incidencia",
+        "hi": "घटना दर",
+        "de": "Inzidenz",
+        "vi": "tỷ lệ mắc",
+        "pt-BR": "incidência",
+        "id": "insidensi",
+        "fr": "incidence",
+        "ar": "معدل الحدوث",
+        "tr": "insidans",
+        "it": "incidenza",
+        "pl": "zachorowalność"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "the number of new cases of a disease in a specific population"
+          "en": "the number of new cases of a disease in a specific population",
+          "ko": "발생률",
+          "zh-Hans": "发病率",
+          "ja": "発生率",
+          "es": "incidencia",
+          "hi": "घटना दर",
+          "de": "Inzidenz",
+          "vi": "tỷ lệ mắc",
+          "pt-BR": "incidência",
+          "id": "insidensi",
+          "fr": "incidence",
+          "ar": "معدل الحدوث",
+          "tr": "insidans",
+          "it": "incidenza",
+          "pl": "zachorowalność"
         },
         "example": {
           "en": "Today's news uses the word incidence."
@@ -134,14 +330,42 @@
     {
       "id": "inflammation",
       "en": "inflammation",
-      "ko": "redness",
+      "ko": "염증",
       "l1": {
-        "en": "redness"
+        "en": "redness",
+        "ko": "염증",
+        "zh-Hans": "炎症",
+        "ja": "炎症",
+        "es": "inflamación",
+        "hi": "सूजन",
+        "de": "Entzündung",
+        "vi": "viêm",
+        "pt-BR": "inflamação",
+        "id": "peradangan",
+        "fr": "inflammation",
+        "ar": "التهاب",
+        "tr": "iltihap",
+        "it": "infiammazione",
+        "pl": "zapalenie"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "redness"
+          "en": "redness",
+          "ko": "염증",
+          "zh-Hans": "炎症",
+          "ja": "炎症",
+          "es": "inflamación",
+          "hi": "सूजन",
+          "de": "Entzündung",
+          "vi": "viêm",
+          "pt-BR": "inflamação",
+          "id": "peradangan",
+          "fr": "inflammation",
+          "ar": "التهاب",
+          "tr": "iltihap",
+          "it": "infiammazione",
+          "pl": "zapalenie"
         },
         "example": {
           "en": "Today's news uses the word inflammation."
@@ -152,14 +376,42 @@
     {
       "id": "mechanism",
       "en": "mechanism",
-      "ko": "the way something works — the process or system behind an effect",
+      "ko": "작동 원리",
       "l1": {
-        "en": "the way something works — the process or system behind an effect"
+        "en": "the way something works — the process or system behind an effect",
+        "ko": "작동 원리",
+        "zh-Hans": "机制",
+        "ja": "仕組み",
+        "es": "mecanismo",
+        "hi": "कार्यप्रणाली",
+        "de": "Mechanismus",
+        "vi": "cơ chế",
+        "pt-BR": "mecanismo",
+        "id": "mekanisme",
+        "fr": "mécanisme",
+        "ar": "آلية",
+        "tr": "mekanizma",
+        "it": "meccanismo",
+        "pl": "mechanizm"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "the way something works — the process or system behind an effect"
+          "en": "the way something works — the process or system behind an effect",
+          "ko": "작동 원리",
+          "zh-Hans": "机制",
+          "ja": "仕組み",
+          "es": "mecanismo",
+          "hi": "कार्यप्रणाली",
+          "de": "Mechanismus",
+          "vi": "cơ chế",
+          "pt-BR": "mecanismo",
+          "id": "mekanisme",
+          "fr": "mécanisme",
+          "ar": "آلية",
+          "tr": "mekanizma",
+          "it": "meccanismo",
+          "pl": "mechanizm"
         },
         "example": {
           "en": "Today's news uses the word mechanism."
@@ -170,14 +422,42 @@
     {
       "id": "clinical",
       "en": "clinical",
-      "ko": "relating to the treatment and observation of real patients",
+      "ko": "임상의",
       "l1": {
-        "en": "relating to the treatment and observation of real patients"
+        "en": "relating to the treatment and observation of real patients",
+        "ko": "임상의",
+        "zh-Hans": "临床的",
+        "ja": "臨床の",
+        "es": "clínico",
+        "hi": "नैदानिक",
+        "de": "klinisch",
+        "vi": "lâm sàng",
+        "pt-BR": "clínico",
+        "id": "klinis",
+        "fr": "clinique",
+        "ar": "سريري",
+        "tr": "klinik",
+        "it": "clinico",
+        "pl": "kliniczny"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "relating to the treatment and observation of real patients"
+          "en": "relating to the treatment and observation of real patients",
+          "ko": "임상의",
+          "zh-Hans": "临床的",
+          "ja": "臨床の",
+          "es": "clínico",
+          "hi": "नैदानिक",
+          "de": "klinisch",
+          "vi": "lâm sàng",
+          "pt-BR": "clínico",
+          "id": "klinis",
+          "fr": "clinique",
+          "ar": "سريري",
+          "tr": "klinik",
+          "it": "clinico",
+          "pl": "kliniczny"
         },
         "example": {
           "en": "Today's news uses the word clinical."

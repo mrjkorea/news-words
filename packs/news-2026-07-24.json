@@ -8,14 +8,42 @@
     {
       "id": "landslide",
       "en": "landslide",
-      "ko": "A large amount of rock or earth that slides down a slope.",
+      "ko": "많은 양의 암석이나 흙이 비탈을 따라 미끄러져 내려가는 것",
       "l1": {
-        "en": "A large amount of rock or earth that slides down a slope."
+        "en": "A large amount of rock or earth that slides down a slope.",
+        "ko": "많은 양의 암석이나 흙이 비탈을 따라 미끄러져 내려가는 것",
+        "zh-Hans": "大量岩石或泥土沿斜坡滑落",
+        "ja": "大量の岩や土が斜面を滑り落ちること",
+        "es": "Gran cantidad de roca o tierra que se desliza por una pendiente.",
+        "hi": "ढलान पर फिसलती चट्टान या मिट्टी की बड़ी मात्रा।",
+        "de": "Große Menge Gestein oder Erde, die einen Hang hinabrutscht.",
+        "vi": "Lượng lớn đá hoặc đất trượt xuống dốc.",
+        "pt-BR": "Grande quantidade de rocha ou terra que desliza por uma encosta.",
+        "id": "Sejumlah besar batu atau tanah yang meluncur menuruni lereng.",
+        "fr": "Grande quantité de roche ou de terre glissant sur une pente.",
+        "ar": "كمية كبيرة من الصخور أو التراب تنزلق على منحدر.",
+        "tr": "Bir yamaçtan kayan büyük miktarda kaya veya toprak.",
+        "it": "Grande quantità di roccia o terra che scivola lungo un pendio.",
+        "pl": "Duża ilość skał lub ziemi zsuwająca się po zboczu."
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A large amount of rock or earth that slides down a slope."
+          "en": "A large amount of rock or earth that slides down a slope.",
+          "ko": "많은 양의 암석이나 흙이 비탈을 따라 미끄러져 내려가는 것",
+          "zh-Hans": "大量岩石或泥土沿斜坡滑落",
+          "ja": "大量の岩や土が斜面を滑り落ちること",
+          "es": "Gran cantidad de roca o tierra que se desliza por una pendiente.",
+          "hi": "ढलान पर फिसलती चट्टान या मिट्टी की बड़ी मात्रा।",
+          "de": "Große Menge Gestein oder Erde, die einen Hang hinabrutscht.",
+          "vi": "Lượng lớn đá hoặc đất trượt xuống dốc.",
+          "pt-BR": "Grande quantidade de rocha ou terra que desliza por uma encosta.",
+          "id": "Sejumlah besar batu atau tanah yang meluncur menuruni lereng.",
+          "fr": "Grande quantité de roche ou de terre glissant sur une pente.",
+          "ar": "كمية كبيرة من الصخور أو التراب تنزلق على منحدر.",
+          "tr": "Bir yamaçtan kayan büyük miktarda kaya veya toprak.",
+          "it": "Grande quantità di roccia o terra che scivola lungo un pendio.",
+          "pl": "Duża ilość skał lub ziemi zsuwająca się po zboczu."
         },
         "example": {
           "en": "Today's news uses the word landslide."
@@ -26,14 +54,42 @@
     {
       "id": "crater",
       "en": "crater",
-      "ko": "A large bowl-shaped hole in the ground or on a planet's surface.",
+      "ko": "땅이나 행성 표면에 생긴 큰 그릇 모양의 구멍",
       "l1": {
-        "en": "A large bowl-shaped hole in the ground or on a planet's surface."
+        "en": "A large bowl-shaped hole in the ground or on a planet's surface.",
+        "ko": "땅이나 행성 표면에 생긴 큰 그릇 모양의 구멍",
+        "zh-Hans": "地面或行星表面的碗状大坑",
+        "ja": "地面や惑星表面の大きな椀状の穴",
+        "es": "Gran agujero en forma de cuenco en el suelo o un planeta.",
+        "hi": "जमीन या ग्रह की सतह पर बड़ा कटोरे जैसा गड्ढा।",
+        "de": "Großes schüsselförmiges Loch im Boden oder auf einem Planeten.",
+        "vi": "Hố lớn hình bát trên mặt đất hoặc bề mặt hành tinh.",
+        "pt-BR": "Grande buraco em forma de tigela no solo ou num planeta.",
+        "id": "Lubang besar berbentuk mangkuk di tanah atau permukaan planet.",
+        "fr": "Grand trou en forme de bol dans le sol ou sur une planète.",
+        "ar": "حفرة كبيرة بشكل وعاء في الأرض أو على سطح كوكب.",
+        "tr": "Yerde veya bir gezegenin yüzeyinde büyük çanak şeklinde çukur.",
+        "it": "Grande buco a forma di ciotola nel terreno o su un pianeta.",
+        "pl": "Duży, miskowaty otwór w ziemi lub na powierzchni planety."
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A large bowl-shaped hole in the ground or on a planet's surface."
+          "en": "A large bowl-shaped hole in the ground or on a planet's surface.",
+          "ko": "땅이나 행성 표면에 생긴 큰 그릇 모양의 구멍",
+          "zh-Hans": "地面或行星表面的碗状大坑",
+          "ja": "地面や惑星表面の大きな椀状の穴",
+          "es": "Gran agujero en forma de cuenco en el suelo o un planeta.",
+          "hi": "जमीन या ग्रह की सतह पर बड़ा कटोरे जैसा गड्ढा।",
+          "de": "Großes schüsselförmiges Loch im Boden oder auf einem Planeten.",
+          "vi": "Hố lớn hình bát trên mặt đất hoặc bề mặt hành tinh.",
+          "pt-BR": "Grande buraco em forma de tigela no solo ou num planeta.",
+          "id": "Lubang besar berbentuk mangkuk di tanah atau permukaan planet.",
+          "fr": "Grand trou en forme de bol dans le sol ou sur une planète.",
+          "ar": "حفرة كبيرة بشكل وعاء في الأرض أو على سطح كوكب.",
+          "tr": "Yerde veya bir gezegenin yüzeyinde büyük çanak şeklinde çukur.",
+          "it": "Grande buco a forma di ciotola nel terreno o su un pianeta.",
+          "pl": "Duży, miskowaty otwór w ziemi lub na powierzchni planety."
         },
         "example": {
           "en": "Today's news uses the word crater."
@@ -44,14 +100,42 @@
     {
       "id": "debris",
       "en": "debris",
-      "ko": "Broken pieces of something such as rocks or ice that have been destroyed.",
+      "ko": "파괴되어 남은 암석이나 얼음 등의 부서진 조각",
       "l1": {
-        "en": "Broken pieces of something such as rocks or ice that have been destroyed."
+        "en": "Broken pieces of something such as rocks or ice that have been destroyed.",
+        "ko": "파괴되어 남은 암석이나 얼음 등의 부서진 조각",
+        "zh-Hans": "被毁坏的岩石或冰等的碎片",
+        "ja": "破壊された岩や氷などの破片",
+        "es": "Fragmentos rotos de algo como rocas o hielo.",
+        "hi": "चट्टान या बर्फ जैसी चीज़ के टूटे हुए टुकड़े।",
+        "de": "Bruchstücke von etwas wie Gestein oder Eis.",
+        "vi": "Mảnh vỡ của đá hoặc băng đã bị phá hủy.",
+        "pt-BR": "Fragmentos quebrados de algo como rochas ou gelo.",
+        "id": "Pecahan rusak dari sesuatu seperti batu atau es.",
+        "fr": "Fragments brisés de roches ou de glace.",
+        "ar": "شظايا مكسورة من الصخور أو الجليد.",
+        "tr": "Kaya veya buz gibi şeylerin kırılmış parçaları.",
+        "it": "Frammenti rotti di rocce o ghiaccio.",
+        "pl": "Połamane kawałki skał lub lodu."
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Broken pieces of something such as rocks or ice that have been destroyed."
+          "en": "Broken pieces of something such as rocks or ice that have been destroyed.",
+          "ko": "파괴되어 남은 암석이나 얼음 등의 부서진 조각",
+          "zh-Hans": "被毁坏的岩石或冰等的碎片",
+          "ja": "破壊された岩や氷などの破片",
+          "es": "Fragmentos rotos de algo como rocas o hielo.",
+          "hi": "चट्टान या बर्फ जैसी चीज़ के टूटे हुए टुकड़े।",
+          "de": "Bruchstücke von etwas wie Gestein oder Eis.",
+          "vi": "Mảnh vỡ của đá hoặc băng đã bị phá hủy.",
+          "pt-BR": "Fragmentos quebrados de algo como rochas ou gelo.",
+          "id": "Pecahan rusak dari sesuatu seperti batu atau es.",
+          "fr": "Fragments brisés de roches ou de glace.",
+          "ar": "شظايا مكسورة من الصخور أو الجليد.",
+          "tr": "Kaya veya buz gibi şeylerin kırılmış parçaları.",
+          "it": "Frammenti rotti di rocce o ghiaccio.",
+          "pl": "Połamane kawałki skał lub lodu."
         },
         "example": {
           "en": "Today's news uses the word debris."
@@ -62,14 +146,42 @@
     {
       "id": "terrain",
       "en": "terrain",
-      "ko": "The physical features of an area of land including hills valleys and mountains.",
+      "ko": "언덕 계곡 산 등을 포함한 땅의 물리적 특징",
       "l1": {
-        "en": "The physical features of an area of land including hills valleys and mountains."
+        "en": "The physical features of an area of land including hills valleys and mountains.",
+        "ko": "언덕 계곡 산 등을 포함한 땅의 물리적 특징",
+        "zh-Hans": "包括丘陵、山谷和山脉的地形特征",
+        "ja": "丘や谷、山などを含む土地の特徴",
+        "es": "Características físicas de un área como colinas y montañas.",
+        "hi": "पहाड़ियों, घाटियों और पर्वतों सहित भूमि की भौतिक विशेषताएँ।",
+        "de": "Physische Merkmale eines Gebiets wie Hügel und Berge.",
+        "vi": "Đặc điểm vật lý của vùng đất gồm đồi, thung lũng, núi.",
+        "pt-BR": "Características físicas de uma área como colinas e montanhas.",
+        "id": "Ciri fisik suatu wilayah termasuk bukit, lembah, dan gunung.",
+        "fr": "Caractéristiques physiques d'une région comme collines et montagnes.",
+        "ar": "السمات الطبيعية لمنطقة كالتلال والوديان والجبال.",
+        "tr": "Tepeler, vadiler ve dağlar dahil bir arazinin fiziksel özellikleri.",
+        "it": "Caratteristiche fisiche di un'area come colline e montagne.",
+        "pl": "Cechy fizyczne obszaru, takie jak wzgórza i góry."
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The physical features of an area of land including hills valleys and mountains."
+          "en": "The physical features of an area of land including hills valleys and mountains.",
+          "ko": "언덕 계곡 산 등을 포함한 땅의 물리적 특징",
+          "zh-Hans": "包括丘陵、山谷和山脉的地形特征",
+          "ja": "丘や谷、山などを含む土地の特徴",
+          "es": "Características físicas de un área como colinas y montañas.",
+          "hi": "पहाड़ियों, घाटियों और पर्वतों सहित भूमि की भौतिक विशेषताएँ।",
+          "de": "Physische Merkmale eines Gebiets wie Hügel und Berge.",
+          "vi": "Đặc điểm vật lý của vùng đất gồm đồi, thung lũng, núi.",
+          "pt-BR": "Características físicas de uma área como colinas e montanhas.",
+          "id": "Ciri fisik suatu wilayah termasuk bukit, lembah, dan gunung.",
+          "fr": "Caractéristiques physiques d'une région comme collines et montagnes.",
+          "ar": "السمات الطبيعية لمنطقة كالتلال والوديان والجبال.",
+          "tr": "Tepeler, vadiler ve dağlar dahil bir arazinin fiziksel özellikleri.",
+          "it": "Caratteristiche fisiche di un'area come colline e montagne.",
+          "pl": "Cechy fizyczne obszaru, takie jak wzgórza i góry."
         },
         "example": {
           "en": "Today's news uses the word terrain."
@@ -80,14 +192,42 @@
     {
       "id": "massive",
       "en": "massive",
-      "ko": "Extremely large or heavy.",
+      "ko": "매우 크거나 무거운",
       "l1": {
-        "en": "Extremely large or heavy."
+        "en": "Extremely large or heavy.",
+        "ko": "매우 크거나 무거운",
+        "zh-Hans": "极其巨大或沉重",
+        "ja": "非常に大きいまたは重い",
+        "es": "extremadamente grande o pesado",
+        "hi": "अत्यंत बड़ा या भारी",
+        "de": "extrem groß oder schwer",
+        "vi": "cực kỳ lớn hoặc nặng",
+        "pt-BR": "extremamente grande ou pesado",
+        "id": "sangat besar atau berat",
+        "fr": "extrêmement grand ou lourd",
+        "ar": "ضخم جدًا أو ثقيل",
+        "tr": "aşırı büyük veya ağır",
+        "it": "estremamente grande o pesante",
+        "pl": "ogromny lub bardzo ciężki"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Extremely large or heavy."
+          "en": "Extremely large or heavy.",
+          "ko": "매우 크거나 무거운",
+          "zh-Hans": "极其巨大或沉重",
+          "ja": "非常に大きいまたは重い",
+          "es": "extremadamente grande o pesado",
+          "hi": "अत्यंत बड़ा या भारी",
+          "de": "extrem groß oder schwer",
+          "vi": "cực kỳ lớn hoặc nặng",
+          "pt-BR": "extremamente grande ou pesado",
+          "id": "sangat besar atau berat",
+          "fr": "extrêmement grand ou lourd",
+          "ar": "ضخم جدًا أو ثقيل",
+          "tr": "aşırı büyük veya ağır",
+          "it": "estremamente grande o pesante",
+          "pl": "ogromny lub bardzo ciężki"
         },
         "example": {
           "en": "Today's news uses the word massive."
@@ -98,14 +238,42 @@
     {
       "id": "mission",
       "en": "mission",
-      "ko": "An important journey or task often used for space exploration.",
+      "ko": "중요한 여행이나 임무, 종종 우주 탐사",
       "l1": {
-        "en": "An important journey or task often used for space exploration."
+        "en": "An important journey or task often used for space exploration.",
+        "ko": "중요한 여행이나 임무, 종종 우주 탐사",
+        "zh-Hans": "重要的旅程或任务，常用于太空探索",
+        "ja": "重要な旅や任務、しばしば宇宙探査",
+        "es": "viaje o tarea importante, a menudo espacial",
+        "hi": "महत्वपूर्ण यात्रा या कार्य, अक्सर अंतरिक्ष अन्वेषण",
+        "de": "wichtige Reise oder Aufgabe, oft Weltraum",
+        "vi": "hành trình hoặc nhiệm vụ quan trọng, thường là thám hiểm không gian",
+        "pt-BR": "viagem ou tarefa importante, frequentemente espacial",
+        "id": "perjalanan atau tugas penting, sering eksplorasi angkasa",
+        "fr": "voyage ou tâche important, souvent spatial",
+        "ar": "رحلة أو مهمة مهمة، غالبًا لاستكشاف الفضاء",
+        "tr": "önemli yolculuk veya görev, genellikle uzay",
+        "it": "viaggio o compito importante, spesso spaziale",
+        "pl": "ważna podróż lub zadanie, często kosmiczne"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "An important journey or task often used for space exploration."
+          "en": "An important journey or task often used for space exploration.",
+          "ko": "중요한 여행이나 임무, 종종 우주 탐사",
+          "zh-Hans": "重要的旅程或任务，常用于太空探索",
+          "ja": "重要な旅や任務、しばしば宇宙探査",
+          "es": "viaje o tarea importante, a menudo espacial",
+          "hi": "महत्वपूर्ण यात्रा या कार्य, अक्सर अंतरिक्ष अन्वेषण",
+          "de": "wichtige Reise oder Aufgabe, oft Weltraum",
+          "vi": "hành trình hoặc nhiệm vụ quan trọng, thường là thám hiểm không gian",
+          "pt-BR": "viagem ou tarefa importante, frequentemente espacial",
+          "id": "perjalanan atau tugas penting, sering eksplorasi angkasa",
+          "fr": "voyage ou tâche important, souvent spatial",
+          "ar": "رحلة أو مهمة مهمة، غالبًا لاستكشاف الفضاء",
+          "tr": "önemli yolculuk veya görev, genellikle uzay",
+          "it": "viaggio o compito importante, spesso spaziale",
+          "pl": "ważna podróż lub zadanie, często kosmiczne"
         },
         "example": {
           "en": "Today's news uses the word mission."
@@ -116,14 +284,42 @@
     {
       "id": "deposit",
       "en": "deposit",
-      "ko": "To leave or lay down material in a new place.",
+      "ko": "물질을 새로운 장소에 두거나 쌓다",
       "l1": {
-        "en": "To leave or lay down material in a new place."
+        "en": "To leave or lay down material in a new place.",
+        "ko": "물질을 새로운 장소에 두거나 쌓다",
+        "zh-Hans": "将物质放置或沉积在新地方",
+        "ja": "物質を新しい場所に置くまたは堆積させる",
+        "es": "dejar o depositar material en un nuevo lugar",
+        "hi": "नई जगह पर सामग्री छोड़ना या जमा करना",
+        "de": "Material an einem neuen Ort ablegen",
+        "vi": "để lại hoặc lắng đọng vật chất ở nơi mới",
+        "pt-BR": "deixar ou depositar material em um novo lugar",
+        "id": "meninggalkan atau mengendapkan material di tempat baru",
+        "fr": "laisser ou déposer de la matière dans un nouvel endroit",
+        "ar": "ترك أو ترسيب المواد في مكان جديد",
+        "tr": "malzemeyi yeni bir yere bırakmak veya yatırmak",
+        "it": "lasciare o depositare materiale in un nuovo posto",
+        "pl": "pozostawić lub osadzić materiał w nowym miejscu"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "To leave or lay down material in a new place."
+          "en": "To leave or lay down material in a new place.",
+          "ko": "물질을 새로운 장소에 두거나 쌓다",
+          "zh-Hans": "将物质放置或沉积在新地方",
+          "ja": "物質を新しい場所に置くまたは堆積させる",
+          "es": "dejar o depositar material en un nuevo lugar",
+          "hi": "नई जगह पर सामग्री छोड़ना या जमा करना",
+          "de": "Material an einem neuen Ort ablegen",
+          "vi": "để lại hoặc lắng đọng vật chất ở nơi mới",
+          "pt-BR": "deixar ou depositar material em um novo lugar",
+          "id": "meninggalkan atau mengendapkan material di tempat baru",
+          "fr": "laisser ou déposer de la matière dans un nouvel endroit",
+          "ar": "ترك أو ترسيب المواد في مكان جديد",
+          "tr": "malzemeyi yeni bir yere bırakmak veya yatırmak",
+          "it": "lasciare o depositare materiale in un nuovo posto",
+          "pl": "pozostawić lub osadzić materiał w nowym miejscu"
         },
         "example": {
           "en": "Today's news uses the word deposit."
@@ -134,14 +330,42 @@
     {
       "id": "crescent",
       "en": "crescent",
-      "ko": "A shape that is curved like a thin moon.",
+      "ko": "얇은 달처럼 구부러진 모양",
       "l1": {
-        "en": "A shape that is curved like a thin moon."
+        "en": "A shape that is curved like a thin moon.",
+        "ko": "얇은 달처럼 구부러진 모양",
+        "zh-Hans": "像细月一样的弯曲形状",
+        "ja": "細い月のような曲がった形",
+        "es": "forma curva como una luna fina",
+        "hi": "पतले चाँद जैसी घुमावदार आकृति",
+        "de": "gekrümmte Form wie eine dünne Mondsichel",
+        "vi": "hình cong như trăng lưỡi liềm mỏng",
+        "pt-BR": "forma curva como uma lua fina",
+        "id": "bentuk melengkung seperti bulan sabit tipis",
+        "fr": "forme courbée comme un fin croissant de lune",
+        "ar": "شكل منحني مثل الهلال الرقيق",
+        "tr": "ince bir ay gibi kavisli şekil",
+        "it": "forma curva come una luna sottile",
+        "pl": "zakrzywiony kształt jak cienki księżyc"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A shape that is curved like a thin moon."
+          "en": "A shape that is curved like a thin moon.",
+          "ko": "얇은 달처럼 구부러진 모양",
+          "zh-Hans": "像细月一样的弯曲形状",
+          "ja": "細い月のような曲がった形",
+          "es": "forma curva como una luna fina",
+          "hi": "पतले चाँद जैसी घुमावदार आकृति",
+          "de": "gekrümmte Form wie eine dünne Mondsichel",
+          "vi": "hình cong như trăng lưỡi liềm mỏng",
+          "pt-BR": "forma curva como uma lua fina",
+          "id": "bentuk melengkung seperti bulan sabit tipis",
+          "fr": "forme courbée comme un fin croissant de lune",
+          "ar": "شكل منحني مثل الهلال الرقيق",
+          "tr": "ince bir ay gibi kavisli şekil",
+          "it": "forma curva come una luna sottile",
+          "pl": "zakrzywiony kształt jak cienki księżyc"
         },
         "example": {
           "en": "Today's news uses the word crescent."
@@ -152,14 +376,42 @@
     {
       "id": "feature",
       "en": "feature",
-      "ko": "A distinctive part or characteristic of something.",
+      "ko": "어떤 것의 두드러진 부분이나 특징",
       "l1": {
-        "en": "A distinctive part or characteristic of something."
+        "en": "A distinctive part or characteristic of something.",
+        "ko": "어떤 것의 두드러진 부분이나 특징",
+        "zh-Hans": "某物的独特部分或特征",
+        "ja": "何かの特徴的な部分や特性",
+        "es": "parte o característica distintiva de algo",
+        "hi": "किसी चीज़ का विशिष्ट भाग या विशेषता",
+        "de": "charakteristischer Teil oder Merkmal von etwas",
+        "vi": "phần hoặc đặc điểm nổi bật của cái gì đó",
+        "pt-BR": "parte ou característica distintiva de algo",
+        "id": "bagian atau ciri khas dari sesuatu",
+        "fr": "partie ou caractéristique distinctive de quelque chose",
+        "ar": "جزء أو سمة مميزة لشيء ما",
+        "tr": "bir şeyin belirgin parçası veya özelliği",
+        "it": "parte o caratteristica distintiva di qualcosa",
+        "pl": "charakterystyczna część lub cecha czegoś"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A distinctive part or characteristic of something."
+          "en": "A distinctive part or characteristic of something.",
+          "ko": "어떤 것의 두드러진 부분이나 특징",
+          "zh-Hans": "某物的独特部分或特征",
+          "ja": "何かの特徴的な部分や特性",
+          "es": "parte o característica distintiva de algo",
+          "hi": "किसी चीज़ का विशिष्ट भाग या विशेषता",
+          "de": "charakteristischer Teil oder Merkmal von etwas",
+          "vi": "phần hoặc đặc điểm nổi bật của cái gì đó",
+          "pt-BR": "parte ou característica distintiva de algo",
+          "id": "bagian atau ciri khas dari sesuatu",
+          "fr": "partie ou caractéristique distinctive de quelque chose",
+          "ar": "جزء أو سمة مميزة لشيء ما",
+          "tr": "bir şeyin belirgin parçası veya özelliği",
+          "it": "parte o caratteristica distintiva di qualcosa",
+          "pl": "charakterystyczna część lub cecha czegoś"
         },
         "example": {
           "en": "Today's news uses the word feature."
@@ -170,14 +422,42 @@
     {
       "id": "evidence",
       "en": "evidence",
-      "ko": "Facts or information that show whether something is true.",
+      "ko": "어떤 것이 사실인지 보여주는 사실이나 정보",
       "l1": {
-        "en": "Facts or information that show whether something is true."
+        "en": "Facts or information that show whether something is true.",
+        "ko": "어떤 것이 사실인지 보여주는 사실이나 정보",
+        "zh-Hans": "表明某事是否真实的事实或信息",
+        "ja": "何かが真実かどうかを示す事実や情報",
+        "es": "hechos o información que muestran si algo es verdad",
+        "hi": "तथ्य या जानकारी जो दिखाती है कि कुछ सच है या नहीं",
+        "de": "Fakten oder Informationen, die zeigen, ob etwas wahr ist",
+        "vi": "sự thật hoặc thông tin cho thấy điều gì đó có đúng không",
+        "pt-BR": "fatos ou informações que mostram se algo é verdade",
+        "id": "fakta atau informasi yang menunjukkan apakah sesuatu itu benar",
+        "fr": "faits ou informations montrant si quelque chose est vrai",
+        "ar": "حقائق أو معلومات تظهر ما إذا كان شيء ما صحيحًا",
+        "tr": "bir şeyin doğru olup olmadığını gösteren gerçekler veya bilgiler",
+        "it": "fatti o informazioni che mostrano se qualcosa è vero",
+        "pl": "fakty lub informacje pokazujące, czy coś jest prawdą"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Facts or information that show whether something is true."
+          "en": "Facts or information that show whether something is true.",
+          "ko": "어떤 것이 사실인지 보여주는 사실이나 정보",
+          "zh-Hans": "表明某事是否真实的事实或信息",
+          "ja": "何かが真実かどうかを示す事実や情報",
+          "es": "hechos o información que muestran si algo es verdad",
+          "hi": "तथ्य या जानकारी जो दिखाती है कि कुछ सच है या नहीं",
+          "de": "Fakten oder Informationen, die zeigen, ob etwas wahr ist",
+          "vi": "sự thật hoặc thông tin cho thấy điều gì đó có đúng không",
+          "pt-BR": "fatos ou informações que mostram se algo é verdade",
+          "id": "fakta atau informasi yang menunjukkan apakah sesuatu itu benar",
+          "fr": "faits ou informations montrant si quelque chose est vrai",
+          "ar": "حقائق أو معلومات تظهر ما إذا كان شيء ما صحيحًا",
+          "tr": "bir şeyin doğru olup olmadığını gösteren gerçekler veya bilgiler",
+          "it": "fatti o informazioni che mostrano se qualcosa è vero",
+          "pl": "fakty lub informacje pokazujące, czy coś jest prawdą"
         },
         "example": {
           "en": "Today's news uses the word evidence."

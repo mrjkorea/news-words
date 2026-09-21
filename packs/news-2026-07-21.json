@@ -8,14 +8,42 @@
     {
       "id": "phenomenon",
       "en": "phenomenon",
-      "ko": "An observable fact or event that can be studied scientifically.",
+      "ko": "현상, 관찰 가능한 사건",
       "l1": {
-        "en": "An observable fact or event that can be studied scientifically."
+        "en": "An observable fact or event that can be studied scientifically.",
+        "ko": "현상, 관찰 가능한 사건",
+        "zh-Hans": "现象，可观察的事件",
+        "ja": "現象、観察可能な事象",
+        "es": "fenómeno, hecho observable",
+        "hi": "घटना, अवलोकनीय तथ्य",
+        "de": "Phänomen, beobachtbares Ereignis",
+        "vi": "hiện tượng, sự kiện quan sát được",
+        "pt-BR": "fenômeno, fato observável",
+        "id": "fenomena, peristiwa yang dapat diamati",
+        "fr": "phénomène, fait observable",
+        "ar": "ظاهرة، حدث قابل للملاحظة",
+        "tr": "olgu, gözlemlenebilir olay",
+        "it": "fenomeno, fatto osservabile",
+        "pl": "zjawisko, obserwowalne zdarzenie"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "An observable fact or event that can be studied scientifically."
+          "en": "An observable fact or event that can be studied scientifically.",
+          "ko": "현상, 관찰 가능한 사건",
+          "zh-Hans": "现象，可观察的事件",
+          "ja": "現象、観察可能な事象",
+          "es": "fenómeno, hecho observable",
+          "hi": "घटना, अवलोकनीय तथ्य",
+          "de": "Phänomen, beobachtbares Ereignis",
+          "vi": "hiện tượng, sự kiện quan sát được",
+          "pt-BR": "fenômeno, fato observável",
+          "id": "fenomena, peristiwa yang dapat diamati",
+          "fr": "phénomène, fait observable",
+          "ar": "ظاهرة، حدث قابل للملاحظة",
+          "tr": "olgu, gözlemlenebilir olay",
+          "it": "fenomeno, fatto osservabile",
+          "pl": "zjawisko, obserwowalne zdarzenie"
         },
         "example": {
           "en": "Today's news uses the word phenomenon."
@@ -26,14 +54,42 @@
     {
       "id": "optical",
       "en": "optical",
-      "ko": "Relating to sight or light.",
+      "ko": "광학의, 시각의",
       "l1": {
-        "en": "Relating to sight or light."
+        "en": "Relating to sight or light.",
+        "ko": "광학의, 시각의",
+        "zh-Hans": "光学的，视觉的",
+        "ja": "光学の、視覚の",
+        "es": "óptico, relativo a la vista o luz",
+        "hi": "प्रकाशिक, दृष्टि या प्रकाश से संबंधित",
+        "de": "optisch, das Sehen oder Licht betreffend",
+        "vi": "quang học, liên quan đến thị giác hoặc ánh sáng",
+        "pt-BR": "óptico, relativo à visão ou luz",
+        "id": "optik, berkaitan dengan penglihatan atau cahaya",
+        "fr": "optique, relatif à la vue ou lumière",
+        "ar": "بصري، متعلق بالرؤية أو الضوء",
+        "tr": "optik, görme veya ışıkla ilgili",
+        "it": "ottico, relativo alla vista o luce",
+        "pl": "optyczny, dotyczący wzroku lub światła"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Relating to sight or light."
+          "en": "Relating to sight or light.",
+          "ko": "광학의, 시각의",
+          "zh-Hans": "光学的，视觉的",
+          "ja": "光学の、視覚の",
+          "es": "óptico, relativo a la vista o luz",
+          "hi": "प्रकाशिक, दृष्टि या प्रकाश से संबंधित",
+          "de": "optisch, das Sehen oder Licht betreffend",
+          "vi": "quang học, liên quan đến thị giác hoặc ánh sáng",
+          "pt-BR": "óptico, relativo à visão ou luz",
+          "id": "optik, berkaitan dengan penglihatan atau cahaya",
+          "fr": "optique, relatif à la vue ou lumière",
+          "ar": "بصري، متعلق بالرؤية أو الضوء",
+          "tr": "optik, görme veya ışıkla ilgili",
+          "it": "ottico, relativo alla vista o luce",
+          "pl": "optyczny, dotyczący wzroku lub światła"
         },
         "example": {
           "en": "Today's news uses the word optical."
@@ -44,14 +100,42 @@
     {
       "id": "swirl",
       "en": "swirl",
-      "ko": "To move in a twisting or spiraling pattern.",
+      "ko": "소용돌이치다",
       "l1": {
-        "en": "To move in a twisting or spiraling pattern."
+        "en": "To move in a twisting or spiraling pattern.",
+        "ko": "소용돌이치다",
+        "zh-Hans": "旋转",
+        "ja": "渦を巻く",
+        "es": "remolinar",
+        "hi": "घूमना",
+        "de": "wirbeln",
+        "vi": "xoáy",
+        "pt-BR": "redemoinhar",
+        "id": "berputar",
+        "fr": "tourbillonner",
+        "ar": "يدور",
+        "tr": "dönmek",
+        "it": "vorticoso",
+        "pl": "wirować"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "To move in a twisting or spiraling pattern."
+          "en": "To move in a twisting or spiraling pattern.",
+          "ko": "소용돌이치다",
+          "zh-Hans": "旋转",
+          "ja": "渦を巻く",
+          "es": "remolinar",
+          "hi": "घूमना",
+          "de": "wirbeln",
+          "vi": "xoáy",
+          "pt-BR": "redemoinhar",
+          "id": "berputar",
+          "fr": "tourbillonner",
+          "ar": "يدور",
+          "tr": "dönmek",
+          "it": "vorticoso",
+          "pl": "wirować"
         },
         "example": {
           "en": "Today's news uses the word swirl."
@@ -62,14 +146,42 @@
     {
       "id": "particle",
       "en": "particle",
-      "ko": "A tiny piece of matter.",
+      "ko": "입자",
       "l1": {
-        "en": "A tiny piece of matter."
+        "en": "A tiny piece of matter.",
+        "ko": "입자",
+        "zh-Hans": "粒子",
+        "ja": "粒子",
+        "es": "partícula",
+        "hi": "कण",
+        "de": "Teilchen",
+        "vi": "hạt",
+        "pt-BR": "partícula",
+        "id": "partikel",
+        "fr": "particule",
+        "ar": "جسيم",
+        "tr": "parçacık",
+        "it": "particella",
+        "pl": "cząstka"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A tiny piece of matter."
+          "en": "A tiny piece of matter.",
+          "ko": "입자",
+          "zh-Hans": "粒子",
+          "ja": "粒子",
+          "es": "partícula",
+          "hi": "कण",
+          "de": "Teilchen",
+          "vi": "hạt",
+          "pt-BR": "partícula",
+          "id": "partikel",
+          "fr": "particule",
+          "ar": "جسيم",
+          "tr": "parçacık",
+          "it": "particella",
+          "pl": "cząstka"
         },
         "example": {
           "en": "Today's news uses the word particle."
@@ -80,14 +192,42 @@
     {
       "id": "diffraction",
       "en": "diffraction",
-      "ko": "The bending of waves around obstacles or through small openings.",
+      "ko": "회절",
       "l1": {
-        "en": "The bending of waves around obstacles or through small openings."
+        "en": "The bending of waves around obstacles or through small openings.",
+        "ko": "회절",
+        "zh-Hans": "衍射",
+        "ja": "回折",
+        "es": "difracción",
+        "hi": "विवर्तन",
+        "de": "Beugung",
+        "vi": "nhiễu xạ",
+        "pt-BR": "difração",
+        "id": "difraksi",
+        "fr": "diffraction",
+        "ar": "انحراف",
+        "tr": "kırınım",
+        "it": "diffrazione",
+        "pl": "dyfrakcja"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The bending of waves around obstacles or through small openings."
+          "en": "The bending of waves around obstacles or through small openings.",
+          "ko": "회절",
+          "zh-Hans": "衍射",
+          "ja": "回折",
+          "es": "difracción",
+          "hi": "विवर्तन",
+          "de": "Beugung",
+          "vi": "nhiễu xạ",
+          "pt-BR": "difração",
+          "id": "difraksi",
+          "fr": "diffraction",
+          "ar": "انحراف",
+          "tr": "kırınım",
+          "it": "diffrazione",
+          "pl": "dyfrakcja"
         },
         "example": {
           "en": "Today's news uses the word diffraction."
@@ -98,14 +238,42 @@
     {
       "id": "polarization",
       "en": "polarization",
-      "ko": "The direction in which light waves vibrate as they travel.",
+      "ko": "편광",
       "l1": {
-        "en": "The direction in which light waves vibrate as they travel."
+        "en": "The direction in which light waves vibrate as they travel.",
+        "ko": "편광",
+        "zh-Hans": "偏振",
+        "ja": "偏光",
+        "es": "polarización",
+        "hi": "ध्रुवीकरण",
+        "de": "Polarisation",
+        "vi": "phân cực",
+        "pt-BR": "polarização",
+        "id": "polarisasi",
+        "fr": "polarisation",
+        "ar": "استقطاب",
+        "tr": "polarizasyon",
+        "it": "polarizzazione",
+        "pl": "polaryzacja"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The direction in which light waves vibrate as they travel."
+          "en": "The direction in which light waves vibrate as they travel.",
+          "ko": "편광",
+          "zh-Hans": "偏振",
+          "ja": "偏光",
+          "es": "polarización",
+          "hi": "ध्रुवीकरण",
+          "de": "Polarisation",
+          "vi": "phân cực",
+          "pt-BR": "polarização",
+          "id": "polarisasi",
+          "fr": "polarisation",
+          "ar": "استقطاب",
+          "tr": "polarizasyon",
+          "it": "polarizzazione",
+          "pl": "polaryzacja"
         },
         "example": {
           "en": "Today's news uses the word polarization."
@@ -116,14 +284,42 @@
     {
       "id": "photon",
       "en": "photon",
-      "ko": "A single particle of light.",
+      "ko": "광자",
       "l1": {
-        "en": "A single particle of light."
+        "en": "A single particle of light.",
+        "ko": "광자",
+        "zh-Hans": "光子",
+        "ja": "光子",
+        "es": "fotón",
+        "hi": "फोटॉन",
+        "de": "Photon",
+        "vi": "photon",
+        "pt-BR": "fóton",
+        "id": "foton",
+        "fr": "photon",
+        "ar": "فوتون",
+        "tr": "foton",
+        "it": "fotone",
+        "pl": "foton"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A single particle of light."
+          "en": "A single particle of light.",
+          "ko": "광자",
+          "zh-Hans": "光子",
+          "ja": "光子",
+          "es": "fotón",
+          "hi": "फोटॉन",
+          "de": "Photon",
+          "vi": "photon",
+          "pt-BR": "fóton",
+          "id": "foton",
+          "fr": "photon",
+          "ar": "فوتون",
+          "tr": "foton",
+          "it": "fotone",
+          "pl": "foton"
         },
         "example": {
           "en": "Today's news uses the word photon."
@@ -134,14 +330,42 @@
     {
       "id": "simulate",
       "en": "simulate",
-      "ko": "To imitate or reproduce the conditions of a situation.",
+      "ko": "모의 실험하다",
       "l1": {
-        "en": "To imitate or reproduce the conditions of a situation."
+        "en": "To imitate or reproduce the conditions of a situation.",
+        "ko": "모의 실험하다",
+        "zh-Hans": "模拟",
+        "ja": "シミュレートする",
+        "es": "simular",
+        "hi": "अनुकरण करना",
+        "de": "simulieren",
+        "vi": "mô phỏng",
+        "pt-BR": "simular",
+        "id": "mensimulasikan",
+        "fr": "simuler",
+        "ar": "يحاكي",
+        "tr": "simüle etmek",
+        "it": "simulare",
+        "pl": "symulować"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "To imitate or reproduce the conditions of a situation."
+          "en": "To imitate or reproduce the conditions of a situation.",
+          "ko": "모의 실험하다",
+          "zh-Hans": "模拟",
+          "ja": "シミュレートする",
+          "es": "simular",
+          "hi": "अनुकरण करना",
+          "de": "simulieren",
+          "vi": "mô phỏng",
+          "pt-BR": "simular",
+          "id": "mensimulasikan",
+          "fr": "simuler",
+          "ar": "يحاكي",
+          "tr": "simüle etmek",
+          "it": "simulare",
+          "pl": "symulować"
         },
         "example": {
           "en": "Today's news uses the word simulate."
@@ -152,14 +376,42 @@
     {
       "id": "barrier",
       "en": "barrier",
-      "ko": "An obstacle that prevents progress or access.",
+      "ko": "장벽",
       "l1": {
-        "en": "An obstacle that prevents progress or access."
+        "en": "An obstacle that prevents progress or access.",
+        "ko": "장벽",
+        "zh-Hans": "障碍",
+        "ja": "障壁",
+        "es": "barrera",
+        "hi": "बाधा",
+        "de": "Barriere",
+        "vi": "rào cản",
+        "pt-BR": "barreira",
+        "id": "penghalang",
+        "fr": "barrière",
+        "ar": "حاجز",
+        "tr": "bariyer",
+        "it": "barriera",
+        "pl": "bariera"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "An obstacle that prevents progress or access."
+          "en": "An obstacle that prevents progress or access.",
+          "ko": "장벽",
+          "zh-Hans": "障碍",
+          "ja": "障壁",
+          "es": "barrera",
+          "hi": "बाधा",
+          "de": "Barriere",
+          "vi": "rào cản",
+          "pt-BR": "barreira",
+          "id": "penghalang",
+          "fr": "barrière",
+          "ar": "حاجز",
+          "tr": "bariyer",
+          "it": "barriera",
+          "pl": "bariera"
         },
         "example": {
           "en": "Today's news uses the word barrier."
@@ -170,14 +422,42 @@
     {
       "id": "computing",
       "en": "computing",
-      "ko": "The use or operation of computers to process data.",
+      "ko": "컴퓨팅",
       "l1": {
-        "en": "The use or operation of computers to process data."
+        "en": "The use or operation of computers to process data.",
+        "ko": "컴퓨팅",
+        "zh-Hans": "计算",
+        "ja": "コンピューティング",
+        "es": "computación",
+        "hi": "कंप्यूटिंग",
+        "de": "Datenverarbeitung",
+        "vi": "điện toán",
+        "pt-BR": "computação",
+        "id": "komputasi",
+        "fr": "informatique",
+        "ar": "حوسبة",
+        "tr": "bilgi işlem",
+        "it": "informatica",
+        "pl": "informatyka"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The use or operation of computers to process data."
+          "en": "The use or operation of computers to process data.",
+          "ko": "컴퓨팅",
+          "zh-Hans": "计算",
+          "ja": "コンピューティング",
+          "es": "computación",
+          "hi": "कंप्यूटिंग",
+          "de": "Datenverarbeitung",
+          "vi": "điện toán",
+          "pt-BR": "computação",
+          "id": "komputasi",
+          "fr": "informatique",
+          "ar": "حوسبة",
+          "tr": "bilgi işlem",
+          "it": "informatica",
+          "pl": "informatyka"
         },
         "example": {
           "en": "Today's news uses the word computing."

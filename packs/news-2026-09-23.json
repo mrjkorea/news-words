@@ -12,14 +12,42 @@
       "id": "release",
       "en": "release",
       "pos": "noun",
-      "ko": "To make something new available for people to use.",
+      "ko": "새로운 것을 출시하다",
       "l1": {
-        "en": "To make something new available for people to use."
+        "en": "To make something new available for people to use.",
+        "ko": "새로운 것을 출시하다",
+        "zh-Hans": "发布新东西供人使用",
+        "ja": "新しいものを公開する",
+        "es": "lanzar algo nuevo al público",
+        "hi": "नई चीज़ जारी करना",
+        "de": "etwas Neues veröffentlichen",
+        "vi": "phát hành thứ gì đó mới",
+        "pt-BR": "lançar algo novo para uso",
+        "id": "merilis sesuatu yang baru",
+        "fr": "rendre disponible quelque chose de nouveau",
+        "ar": "إتاحة شيء جديد للاستخدام",
+        "tr": "yeni bir şeyi kullanıma sunmak",
+        "it": "rendere disponibile qualcosa di nuovo",
+        "pl": "udostępnić coś nowego"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "To make something new available for people to use."
+          "en": "To make something new available for people to use.",
+          "ko": "새로운 것을 출시하다",
+          "zh-Hans": "发布新东西供人使用",
+          "ja": "新しいものを公開する",
+          "es": "lanzar algo nuevo al público",
+          "hi": "नई चीज़ जारी करना",
+          "de": "etwas Neues veröffentlichen",
+          "vi": "phát hành thứ gì đó mới",
+          "pt-BR": "lançar algo novo para uso",
+          "id": "merilis sesuatu yang baru",
+          "fr": "rendre disponible quelque chose de nouveau",
+          "ar": "إتاحة شيء جديد للاستخدام",
+          "tr": "yeni bir şeyi kullanıma sunmak",
+          "it": "rendere disponibile qualcosa di nuovo",
+          "pl": "udostępnić coś nowego"
         },
         "example": {
           "en": ""
@@ -31,14 +59,42 @@
       "id": "model",
       "en": "model",
       "pos": "noun",
-      "ko": "A computer system trained to recognize patterns and produce answers.",
+      "ko": "패턴을 인식하는 컴퓨터 시스템",
       "l1": {
-        "en": "A computer system trained to recognize patterns and produce answers."
+        "en": "A computer system trained to recognize patterns and produce answers.",
+        "ko": "패턴을 인식하는 컴퓨터 시스템",
+        "zh-Hans": "识别模式的计算机系统",
+        "ja": "パターンを認識する計算システム",
+        "es": "sistema informático que reconoce patrones",
+        "hi": "पैटर्न पहचानने वाला कंप्यूटर सिस्टम",
+        "de": "Computersystem zur Mustererkennung",
+        "vi": "hệ thống máy tính nhận diện mẫu",
+        "pt-BR": "sistema computacional que reconhece padrões",
+        "id": "sistem komputer pengenal pola",
+        "fr": "système informatique reconnaissant des motifs",
+        "ar": "نظام حاسوبي يتعرف على الأنماط",
+        "tr": "desen tanıyan bilgisayar sistemi",
+        "it": "sistema informatico che riconosce schemi",
+        "pl": "system komputerowy rozpoznający wzorce"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A computer system trained to recognize patterns and produce answers."
+          "en": "A computer system trained to recognize patterns and produce answers.",
+          "ko": "패턴을 인식하는 컴퓨터 시스템",
+          "zh-Hans": "识别模式的计算机系统",
+          "ja": "パターンを認識する計算システム",
+          "es": "sistema informático que reconoce patrones",
+          "hi": "पैटर्न पहचानने वाला कंप्यूटर सिस्टम",
+          "de": "Computersystem zur Mustererkennung",
+          "vi": "hệ thống máy tính nhận diện mẫu",
+          "pt-BR": "sistema computacional que reconhece padrões",
+          "id": "sistem komputer pengenal pola",
+          "fr": "système informatique reconnaissant des motifs",
+          "ar": "نظام حاسوبي يتعرف على الأنماط",
+          "tr": "desen tanıyan bilgisayar sistemi",
+          "it": "sistema informatico che riconosce schemi",
+          "pl": "system komputerowy rozpoznający wzorce"
         },
         "example": {
           "en": ""
@@ -50,14 +106,42 @@
       "id": "rollout",
       "en": "rollout",
       "pos": "noun",
-      "ko": "The process of making something available to more and more people over time.",
+      "ko": "점진적으로 널리 보급하는 과정",
       "l1": {
-        "en": "The process of making something available to more and more people over time."
+        "en": "The process of making something available to more and more people over time.",
+        "ko": "점진적으로 널리 보급하는 과정",
+        "zh-Hans": "逐步向更多人开放的过程",
+        "ja": "徐々に普及させる過程",
+        "es": "proceso de despliegue gradual",
+        "hi": "धीरे-धीरे उपलब्ध कराने की प्रक्रिया",
+        "de": "schrittweise Einführung für viele",
+        "vi": "quá trình triển khai dần dần",
+        "pt-BR": "processo de implantação gradual",
+        "id": "proses peluncuran bertahap",
+        "fr": "déploiement progressif auprès du public",
+        "ar": "عملية الإطلاق التدريجي",
+        "tr": "kademeli olarak yaygınlaştırma süreci",
+        "it": "distribuzione graduale al pubblico",
+        "pl": "stopniowe udostępnianie szerszemu gronu"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The process of making something available to more and more people over time."
+          "en": "The process of making something available to more and more people over time.",
+          "ko": "점진적으로 널리 보급하는 과정",
+          "zh-Hans": "逐步向更多人开放的过程",
+          "ja": "徐々に普及させる過程",
+          "es": "proceso de despliegue gradual",
+          "hi": "धीरे-धीरे उपलब्ध कराने की प्रक्रिया",
+          "de": "schrittweise Einführung für viele",
+          "vi": "quá trình triển khai dần dần",
+          "pt-BR": "processo de implantação gradual",
+          "id": "proses peluncuran bertahap",
+          "fr": "déploiement progressif auprès du public",
+          "ar": "عملية الإطلاق التدريجي",
+          "tr": "kademeli olarak yaygınlaştırma süreci",
+          "it": "distribuzione graduale al pubblico",
+          "pl": "stopniowe udostępnianie szerszemu gronu"
         },
         "example": {
           "en": ""
@@ -69,14 +153,42 @@
       "id": "benchmark",
       "en": "benchmark",
       "pos": "noun",
-      "ko": "A standard test used to compare how well different systems perform.",
+      "ko": "시스템 성능을 비교하는 표준 시험",
       "l1": {
-        "en": "A standard test used to compare how well different systems perform."
+        "en": "A standard test used to compare how well different systems perform.",
+        "ko": "시스템 성능을 비교하는 표준 시험",
+        "zh-Hans": "比较系统性能的标准测试",
+        "ja": "性能を比較する標準テスト",
+        "es": "prueba estándar para comparar sistemas",
+        "hi": "प्रदर्शन तुलना का मानक परीक्षण",
+        "de": "Standardtest zum Leistungsvergleich",
+        "vi": "bài kiểm tra chuẩn so sánh hiệu năng",
+        "pt-BR": "teste padrão para comparar desempenho",
+        "id": "tes standar pembanding kinerja",
+        "fr": "test standard de comparaison des performances",
+        "ar": "اختبار معياري لمقارنة الأداء",
+        "tr": "performans karşılaştırma standart testi",
+        "it": "test standard per confrontare prestazioni",
+        "pl": "standardowy test porównujący wydajność"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A standard test used to compare how well different systems perform."
+          "en": "A standard test used to compare how well different systems perform.",
+          "ko": "시스템 성능을 비교하는 표준 시험",
+          "zh-Hans": "比较系统性能的标准测试",
+          "ja": "性能を比較する標準テスト",
+          "es": "prueba estándar para comparar sistemas",
+          "hi": "प्रदर्शन तुलना का मानक परीक्षण",
+          "de": "Standardtest zum Leistungsvergleich",
+          "vi": "bài kiểm tra chuẩn so sánh hiệu năng",
+          "pt-BR": "teste padrão para comparar desempenho",
+          "id": "tes standar pembanding kinerja",
+          "fr": "test standard de comparaison des performances",
+          "ar": "اختبار معياري لمقارنة الأداء",
+          "tr": "performans karşılaştırma standart testi",
+          "it": "test standard per confrontare prestazioni",
+          "pl": "standardowy test porównujący wydajność"
         },
         "example": {
           "en": ""
@@ -88,14 +200,42 @@
       "id": "artificial",
       "en": "artificial",
       "pos": "noun",
-      "ko": "Made by people rather than existing in nature.",
+      "ko": "자연이 아닌 사람이 만든",
       "l1": {
-        "en": "Made by people rather than existing in nature."
+        "en": "Made by people rather than existing in nature.",
+        "ko": "자연이 아닌 사람이 만든",
+        "zh-Hans": "人造的，非自然的",
+        "ja": "自然ではなく人が作った",
+        "es": "hecho por personas, no natural",
+        "hi": "मानव निर्मित, प्राकृतिक नहीं",
+        "de": "von Menschen gemacht, nicht natürlich",
+        "vi": "do con người tạo ra, không tự nhiên",
+        "pt-BR": "feito pelo homem, não natural",
+        "id": "buatan manusia, bukan alami",
+        "fr": "fait par l'homme, non naturel",
+        "ar": "من صنع الإنسان وليس طبيعيًا",
+        "tr": "insan yapımı, doğal değil",
+        "it": "fatto dall'uomo, non naturale",
+        "pl": "wytworzony przez człowieka, nie naturalny"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Made by people rather than existing in nature."
+          "en": "Made by people rather than existing in nature.",
+          "ko": "자연이 아닌 사람이 만든",
+          "zh-Hans": "人造的，非自然的",
+          "ja": "自然ではなく人が作った",
+          "es": "hecho por personas, no natural",
+          "hi": "मानव निर्मित, प्राकृतिक नहीं",
+          "de": "von Menschen gemacht, nicht natürlich",
+          "vi": "do con người tạo ra, không tự nhiên",
+          "pt-BR": "feito pelo homem, não natural",
+          "id": "buatan manusia, bukan alami",
+          "fr": "fait par l'homme, non naturel",
+          "ar": "من صنع الإنسان وليس طبيعيًا",
+          "tr": "insan yapımı, doğal değil",
+          "it": "fatto dall'uomo, non naturale",
+          "pl": "wytworzony przez człowieka, nie naturalny"
         },
         "example": {
           "en": ""
@@ -107,14 +247,42 @@
       "id": "capability",
       "en": "capability",
       "pos": "noun",
-      "ko": "The power or skill to do something.",
+      "ko": "무언가를 할 수 있는 능력",
       "l1": {
-        "en": "The power or skill to do something."
+        "en": "The power or skill to do something.",
+        "ko": "무언가를 할 수 있는 능력",
+        "zh-Hans": "做某事的能力",
+        "ja": "何かをする能力",
+        "es": "poder o habilidad para hacer algo",
+        "hi": "कुछ करने की क्षमता",
+        "de": "Fähigkeit, etwas zu tun",
+        "vi": "khả năng làm điều gì đó",
+        "pt-BR": "capacidade de fazer algo",
+        "id": "kemampuan melakukan sesuatu",
+        "fr": "capacité de faire quelque chose",
+        "ar": "القدرة على فعل شيء",
+        "tr": "bir şeyi yapabilme yeteneği",
+        "it": "capacità di fare qualcosa",
+        "pl": "zdolność do zrobienia czegoś"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The power or skill to do something."
+          "en": "The power or skill to do something.",
+          "ko": "무언가를 할 수 있는 능력",
+          "zh-Hans": "做某事的能力",
+          "ja": "何かをする能力",
+          "es": "poder o habilidad para hacer algo",
+          "hi": "कुछ करने की क्षमता",
+          "de": "Fähigkeit, etwas zu tun",
+          "vi": "khả năng làm điều gì đó",
+          "pt-BR": "capacidade de fazer algo",
+          "id": "kemampuan melakukan sesuatu",
+          "fr": "capacité de faire quelque chose",
+          "ar": "القدرة على فعل شيء",
+          "tr": "bir şeyi yapabilme yeteneği",
+          "it": "capacità di fare qualcosa",
+          "pl": "zdolność do zrobienia czegoś"
         },
         "example": {
           "en": ""
@@ -126,14 +294,42 @@
       "id": "enterprise",
       "en": "enterprise",
       "pos": "noun",
-      "ko": "A large company or business organisation.",
+      "ko": "대기업",
       "l1": {
-        "en": "A large company or business organisation."
+        "en": "A large company or business organisation.",
+        "ko": "대기업",
+        "zh-Hans": "大型企业",
+        "ja": "大企業",
+        "es": "gran empresa",
+        "hi": "बड़ा उद्यम",
+        "de": "Großunternehmen",
+        "vi": "doanh nghiệp lớn",
+        "pt-BR": "grande empresa",
+        "id": "perusahaan besar",
+        "fr": "grande entreprise",
+        "ar": "مؤسسة كبيرة",
+        "tr": "büyük şirket",
+        "it": "grande impresa",
+        "pl": "duże przedsiębiorstwo"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A large company or business organisation."
+          "en": "A large company or business organisation.",
+          "ko": "대기업",
+          "zh-Hans": "大型企业",
+          "ja": "大企業",
+          "es": "gran empresa",
+          "hi": "बड़ा उद्यम",
+          "de": "Großunternehmen",
+          "vi": "doanh nghiệp lớn",
+          "pt-BR": "grande empresa",
+          "id": "perusahaan besar",
+          "fr": "grande entreprise",
+          "ar": "مؤسسة كبيرة",
+          "tr": "büyük şirket",
+          "it": "grande impresa",
+          "pl": "duże przedsiębiorstwo"
         },
         "example": {
           "en": ""
@@ -145,14 +341,42 @@
       "id": "subscription",
       "en": "subscription",
       "pos": "noun",
-      "ko": "An agreement to pay regularly in order to keep using a service.",
+      "ko": "정기 구독",
       "l1": {
-        "en": "An agreement to pay regularly in order to keep using a service."
+        "en": "An agreement to pay regularly in order to keep using a service.",
+        "ko": "정기 구독",
+        "zh-Hans": "订阅",
+        "ja": "定期購読",
+        "es": "suscripción",
+        "hi": "सदस्यता",
+        "de": "Abonnement",
+        "vi": "đăng ký định kỳ",
+        "pt-BR": "assinatura",
+        "id": "langganan",
+        "fr": "abonnement",
+        "ar": "اشتراك",
+        "tr": "abonelik",
+        "it": "abbonamento",
+        "pl": "subskrypcja"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "An agreement to pay regularly in order to keep using a service."
+          "en": "An agreement to pay regularly in order to keep using a service.",
+          "ko": "정기 구독",
+          "zh-Hans": "订阅",
+          "ja": "定期購読",
+          "es": "suscripción",
+          "hi": "सदस्यता",
+          "de": "Abonnement",
+          "vi": "đăng ký định kỳ",
+          "pt-BR": "assinatura",
+          "id": "langganan",
+          "fr": "abonnement",
+          "ar": "اشتراك",
+          "tr": "abonelik",
+          "it": "abbonamento",
+          "pl": "subskrypcja"
         },
         "example": {
           "en": ""
@@ -164,14 +388,42 @@
       "id": "upgrade",
       "en": "upgrade",
       "pos": "noun",
-      "ko": "To move to a newer and better version of something.",
+      "ko": "업그레이드하다",
       "l1": {
-        "en": "To move to a newer and better version of something."
+        "en": "To move to a newer and better version of something.",
+        "ko": "업그레이드하다",
+        "zh-Hans": "升级",
+        "ja": "アップグレードする",
+        "es": "actualizar",
+        "hi": "उन्नत करना",
+        "de": "aufrüsten",
+        "vi": "nâng cấp",
+        "pt-BR": "atualizar",
+        "id": "meningkatkan",
+        "fr": "mettre à niveau",
+        "ar": "ترقية",
+        "tr": "yükseltmek",
+        "it": "aggiornare",
+        "pl": "ulepszyć"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "To move to a newer and better version of something."
+          "en": "To move to a newer and better version of something.",
+          "ko": "업그레이드하다",
+          "zh-Hans": "升级",
+          "ja": "アップグレードする",
+          "es": "actualizar",
+          "hi": "उन्नत करना",
+          "de": "aufrüsten",
+          "vi": "nâng cấp",
+          "pt-BR": "atualizar",
+          "id": "meningkatkan",
+          "fr": "mettre à niveau",
+          "ar": "ترقية",
+          "tr": "yükseltmek",
+          "it": "aggiornare",
+          "pl": "ulepszyć"
         },
         "example": {
           "en": ""
@@ -183,14 +435,42 @@
       "id": "generate",
       "en": "generate",
       "pos": "noun",
-      "ko": "To produce or create something.",
+      "ko": "생성하다",
       "l1": {
-        "en": "To produce or create something."
+        "en": "To produce or create something.",
+        "ko": "생성하다",
+        "zh-Hans": "产生",
+        "ja": "生成する",
+        "es": "generar",
+        "hi": "उत्पन्न करना",
+        "de": "erzeugen",
+        "vi": "tạo ra",
+        "pt-BR": "gerar",
+        "id": "menghasilkan",
+        "fr": "générer",
+        "ar": "يولد",
+        "tr": "üretmek",
+        "it": "generare",
+        "pl": "generować"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "To produce or create something."
+          "en": "To produce or create something.",
+          "ko": "생성하다",
+          "zh-Hans": "产生",
+          "ja": "生成する",
+          "es": "generar",
+          "hi": "उत्पन्न करना",
+          "de": "erzeugen",
+          "vi": "tạo ra",
+          "pt-BR": "gerar",
+          "id": "menghasilkan",
+          "fr": "générer",
+          "ar": "يولد",
+          "tr": "üretmek",
+          "it": "generare",
+          "pl": "generować"
         },
         "example": {
           "en": ""

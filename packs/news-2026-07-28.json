@@ -8,14 +8,42 @@
     {
       "id": "geological",
       "en": "geological",
-      "ko": "Relating to the study of the earth's physical structure and substance.",
+      "ko": "지질학의, 지질의",
       "l1": {
-        "en": "Relating to the study of the earth's physical structure and substance."
+        "en": "Relating to the study of the earth's physical structure and substance.",
+        "ko": "지질학의, 지질의",
+        "zh-Hans": "地质的",
+        "ja": "地質学の",
+        "es": "geológico",
+        "hi": "भूवैज्ञानिक",
+        "de": "geologisch",
+        "vi": "thuộc địa chất",
+        "pt-BR": "geológico",
+        "id": "geologis",
+        "fr": "géologique",
+        "ar": "جيولوجي",
+        "tr": "jeolojik",
+        "it": "geologico",
+        "pl": "geologiczny"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Relating to the study of the earth's physical structure and substance."
+          "en": "Relating to the study of the earth's physical structure and substance.",
+          "ko": "지질학의, 지질의",
+          "zh-Hans": "地质的",
+          "ja": "地質学の",
+          "es": "geológico",
+          "hi": "भूवैज्ञानिक",
+          "de": "geologisch",
+          "vi": "thuộc địa chất",
+          "pt-BR": "geológico",
+          "id": "geologis",
+          "fr": "géologique",
+          "ar": "جيولوجي",
+          "tr": "jeolojik",
+          "it": "geologico",
+          "pl": "geologiczny"
         },
         "example": {
           "en": "By comparing their model results to images of the Venusian surface taken by NASA's Magellan probe in the nineteen-nineties, the researchers found rifts with wide, high flanks, suggesting recent geological activity."
@@ -26,14 +54,42 @@
     {
       "id": "planetary",
       "en": "planetary",
-      "ko": "Relating to or belonging to a planet or planets.",
+      "ko": "행성의",
       "l1": {
-        "en": "Relating to or belonging to a planet or planets."
+        "en": "Relating to or belonging to a planet or planets.",
+        "ko": "행성의",
+        "zh-Hans": "行星的",
+        "ja": "惑星の",
+        "es": "planetario",
+        "hi": "ग्रहीय",
+        "de": "planetarisch",
+        "vi": "thuộc hành tinh",
+        "pt-BR": "planetário",
+        "id": "planet",
+        "fr": "planétaire",
+        "ar": "كوكبي",
+        "tr": "gezegensel",
+        "it": "planetario",
+        "pl": "planetarny"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Relating to or belonging to a planet or planets."
+          "en": "Relating to or belonging to a planet or planets.",
+          "ko": "행성의",
+          "zh-Hans": "行星的",
+          "ja": "惑星の",
+          "es": "planetario",
+          "hi": "ग्रहीय",
+          "de": "planetarisch",
+          "vi": "thuộc hành tinh",
+          "pt-BR": "planetário",
+          "id": "planet",
+          "fr": "planétaire",
+          "ar": "كوكبي",
+          "tr": "gezegensel",
+          "it": "planetario",
+          "pl": "planetarny"
         },
         "example": {
           "en": "For decades, planetary scientists believed Venus was a dead planet."
@@ -44,14 +100,42 @@
     {
       "id": "simulation",
       "en": "simulation",
-      "ko": "An imitation of a real-world process or system using a computer model.",
+      "ko": "시뮬레이션",
       "l1": {
-        "en": "An imitation of a real-world process or system using a computer model."
+        "en": "An imitation of a real-world process or system using a computer model.",
+        "ko": "시뮬레이션",
+        "zh-Hans": "模拟",
+        "ja": "シミュレーション",
+        "es": "simulación",
+        "hi": "सिमुलेशन",
+        "de": "Simulation",
+        "vi": "mô phỏng",
+        "pt-BR": "simulação",
+        "id": "simulasi",
+        "fr": "simulation",
+        "ar": "محاكاة",
+        "tr": "simülasyon",
+        "it": "simulazione",
+        "pl": "symulacja"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "An imitation of a real-world process or system using a computer model."
+          "en": "An imitation of a real-world process or system using a computer model.",
+          "ko": "시뮬레이션",
+          "zh-Hans": "模拟",
+          "ja": "シミュレーション",
+          "es": "simulación",
+          "hi": "सिमुलेशन",
+          "de": "Simulation",
+          "vi": "mô phỏng",
+          "pt-BR": "simulação",
+          "id": "simulasi",
+          "fr": "simulation",
+          "ar": "محاكاة",
+          "tr": "simülasyon",
+          "it": "simulazione",
+          "pl": "symulacja"
         },
         "example": {
           "en": "For decades, planetary scientists believed Venus was a dead planet."
@@ -62,14 +146,42 @@
     {
       "id": "tectonic",
       "en": "tectonic",
-      "ko": "Relating to the structure and movement of the earth's crust.",
+      "ko": "지각 변동의",
       "l1": {
-        "en": "Relating to the structure and movement of the earth's crust."
+        "en": "Relating to the structure and movement of the earth's crust.",
+        "ko": "지각 변동의",
+        "zh-Hans": "地壳构造的",
+        "ja": "地殻変動の",
+        "es": "tectónico",
+        "hi": "विवर्तनिक",
+        "de": "tektonisch",
+        "vi": "kiến tạo",
+        "pt-BR": "tectônico",
+        "id": "tektonik",
+        "fr": "tectonique",
+        "ar": "تكتوني",
+        "tr": "tektonik",
+        "it": "tettonico",
+        "pl": "tektoniczny"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Relating to the structure and movement of the earth's crust."
+          "en": "Relating to the structure and movement of the earth's crust.",
+          "ko": "지각 변동의",
+          "zh-Hans": "地壳构造的",
+          "ja": "地殻変動の",
+          "es": "tectónico",
+          "hi": "विवर्तनिक",
+          "de": "tektonisch",
+          "vi": "kiến tạo",
+          "pt-BR": "tectônico",
+          "id": "tektonik",
+          "fr": "tectonique",
+          "ar": "تكتوني",
+          "tr": "tektonik",
+          "it": "tettonico",
+          "pl": "tektoniczny"
         },
         "example": {
           "en": "That speed is similar to the movement of tectonic plates on Earth."
@@ -80,14 +192,42 @@
     {
       "id": "crust",
       "en": "crust",
-      "ko": "The outermost solid layer of a planet or moon.",
+      "ko": "지각",
       "l1": {
-        "en": "The outermost solid layer of a planet or moon."
+        "en": "The outermost solid layer of a planet or moon.",
+        "ko": "지각",
+        "zh-Hans": "地壳",
+        "ja": "地殻",
+        "es": "corteza",
+        "hi": "भूपर्पटी",
+        "de": "Kruste",
+        "vi": "lớp vỏ",
+        "pt-BR": "crosta",
+        "id": "kerak",
+        "fr": "croûte",
+        "ar": "قشرة",
+        "tr": "kabuk",
+        "it": "crosta",
+        "pl": "skorupa"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The outermost solid layer of a planet or moon."
+          "en": "The outermost solid layer of a planet or moon.",
+          "ko": "지각",
+          "zh-Hans": "地壳",
+          "ja": "地殻",
+          "es": "corteza",
+          "hi": "भूपर्पटी",
+          "de": "Kruste",
+          "vi": "lớp vỏ",
+          "pt-BR": "crosta",
+          "id": "kerak",
+          "fr": "croûte",
+          "ar": "قشرة",
+          "tr": "kabuk",
+          "it": "crosta",
+          "pl": "skorupa"
         },
         "example": {
           "en": "Previous models were mostly two-dimensional and relied on simplified assumptions about the planet's crust."
@@ -98,14 +238,42 @@
     {
       "id": "probe",
       "en": "probe",
-      "ko": "An unmanned spacecraft designed to explore and gather data.",
+      "ko": "탐사선",
       "l1": {
-        "en": "An unmanned spacecraft designed to explore and gather data."
+        "en": "An unmanned spacecraft designed to explore and gather data.",
+        "ko": "탐사선",
+        "zh-Hans": "探测器",
+        "ja": "探査機",
+        "es": "sonda",
+        "hi": "अंतरिक्ष यान",
+        "de": "Sonde",
+        "vi": "tàu thăm dò",
+        "pt-BR": "sonda",
+        "id": "wahana antariksa",
+        "fr": "sonde",
+        "ar": "مسبار",
+        "tr": "uzay sondası",
+        "it": "sonda",
+        "pl": "sonda"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "An unmanned spacecraft designed to explore and gather data."
+          "en": "An unmanned spacecraft designed to explore and gather data.",
+          "ko": "탐사선",
+          "zh-Hans": "探测器",
+          "ja": "探査機",
+          "es": "sonda",
+          "hi": "अंतरिक्ष यान",
+          "de": "Sonde",
+          "vi": "tàu thăm dò",
+          "pt-BR": "sonda",
+          "id": "wahana antariksa",
+          "fr": "sonde",
+          "ar": "مسبار",
+          "tr": "uzay sondası",
+          "it": "sonda",
+          "pl": "sonda"
         },
         "example": {
           "en": "By comparing their model results to images of the Venusian surface taken by NASA's Magellan probe in the nineteen-nineties, the researchers found rifts with wide, high flanks, suggesting recent geological activity."
@@ -116,14 +284,42 @@
     {
       "id": "rift",
       "en": "rift",
-      "ko": "A crack",
+      "ko": "균열",
       "l1": {
-        "en": "A crack"
+        "en": "A crack",
+        "ko": "균열",
+        "zh-Hans": "裂缝",
+        "ja": "裂け目",
+        "es": "grieta",
+        "hi": "दरार",
+        "de": "Riss",
+        "vi": "vết nứt",
+        "pt-BR": "fenda",
+        "id": "celah",
+        "fr": "faille",
+        "ar": "صدع",
+        "tr": "yarık",
+        "it": "spaccatura",
+        "pl": "szczelina"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A crack"
+          "en": "A crack",
+          "ko": "균열",
+          "zh-Hans": "裂缝",
+          "ja": "裂け目",
+          "es": "grieta",
+          "hi": "दरार",
+          "de": "Riss",
+          "vi": "vết nứt",
+          "pt-BR": "fenda",
+          "id": "celah",
+          "fr": "faille",
+          "ar": "صدع",
+          "tr": "yarık",
+          "it": "spaccatura",
+          "pl": "szczelina"
         },
         "example": {
           "en": "Computer simulations show that massive rift valleys on the planet's surface may be actively expanding today."
@@ -134,14 +330,42 @@
     {
       "id": "dynamic",
       "en": "dynamic",
-      "ko": "Characterized by constant change",
+      "ko": "역동적인",
       "l1": {
-        "en": "Characterized by constant change"
+        "en": "Characterized by constant change",
+        "ko": "역동적인",
+        "zh-Hans": "动态的",
+        "ja": "動的な",
+        "es": "dinámico",
+        "hi": "गतिशील",
+        "de": "dynamisch",
+        "vi": "năng động",
+        "pt-BR": "dinâmico",
+        "id": "dinamis",
+        "fr": "dynamique",
+        "ar": "ديناميكي",
+        "tr": "dinamik",
+        "it": "dinamico",
+        "pl": "dynamiczny"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Characterized by constant change"
+          "en": "Characterized by constant change",
+          "ko": "역동적인",
+          "zh-Hans": "动态的",
+          "ja": "動的な",
+          "es": "dinámico",
+          "hi": "गतिशील",
+          "de": "dynamisch",
+          "vi": "năng động",
+          "pt-BR": "dinâmico",
+          "id": "dinamis",
+          "fr": "dynamique",
+          "ar": "ديناميكي",
+          "tr": "dinamik",
+          "it": "dinamico",
+          "pl": "dynamiczny"
         },
         "example": {
           "en": "The findings reshape our understanding of Earth's sister planet and suggest Venus has a more dynamic interior than scientists once thought."
@@ -152,14 +376,42 @@
     {
       "id": "interior",
       "en": "interior",
-      "ko": "The inner part or inside of something.",
+      "ko": "내부",
       "l1": {
-        "en": "The inner part or inside of something."
+        "en": "The inner part or inside of something.",
+        "ko": "내부",
+        "zh-Hans": "内部",
+        "ja": "内部",
+        "es": "interior",
+        "hi": "आंतरिक भाग",
+        "de": "Inneres",
+        "vi": "bên trong",
+        "pt-BR": "interior",
+        "id": "bagian dalam",
+        "fr": "intérieur",
+        "ar": "الداخل",
+        "tr": "iç",
+        "it": "interno",
+        "pl": "wnętrze"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The inner part or inside of something."
+          "en": "The inner part or inside of something.",
+          "ko": "내부",
+          "zh-Hans": "内部",
+          "ja": "内部",
+          "es": "interior",
+          "hi": "आंतरिक भाग",
+          "de": "Inneres",
+          "vi": "bên trong",
+          "pt-BR": "interior",
+          "id": "bagian dalam",
+          "fr": "intérieur",
+          "ar": "الداخل",
+          "tr": "iç",
+          "it": "interno",
+          "pl": "wnętrze"
         },
         "example": {
           "en": "The findings reshape our understanding of Earth's sister planet and suggest Venus has a more dynamic interior than scientists once thought."
@@ -170,14 +422,42 @@
     {
       "id": "mission",
       "en": "mission",
-      "ko": "An important assignment or expedition",
+      "ko": "임무",
       "l1": {
-        "en": "An important assignment or expedition"
+        "en": "An important assignment or expedition",
+        "ko": "임무",
+        "zh-Hans": "任务",
+        "ja": "任務",
+        "es": "misión",
+        "hi": "मिशन",
+        "de": "Mission",
+        "vi": "nhiệm vụ",
+        "pt-BR": "missão",
+        "id": "misi",
+        "fr": "mission",
+        "ar": "مهمة",
+        "tr": "görev",
+        "it": "missione",
+        "pl": "misja"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "An important assignment or expedition"
+          "en": "An important assignment or expedition",
+          "ko": "임무",
+          "zh-Hans": "任务",
+          "ja": "任務",
+          "es": "misión",
+          "hi": "मिशन",
+          "de": "Mission",
+          "vi": "nhiệm vụ",
+          "pt-BR": "missão",
+          "id": "misi",
+          "fr": "mission",
+          "ar": "مهمة",
+          "tr": "görev",
+          "it": "missione",
+          "pl": "misja"
         },
         "example": {
           "en": "The ESA's EnVision mission, scheduled for launch in the early twenty-thirties, will carry instruments developed partly by ETH Zurich researchers."

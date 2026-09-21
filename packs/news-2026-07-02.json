@@ -8,14 +8,42 @@
     {
       "id": "earthquake",
       "en": "earthquake",
-      "ko": "A sudden violent shaking of the ground caused by movements within the Earth's crust",
+      "ko": "지진",
       "l1": {
-        "en": "A sudden violent shaking of the ground caused by movements within the Earth's crust"
+        "en": "A sudden violent shaking of the ground caused by movements within the Earth's crust",
+        "ko": "지진",
+        "zh-Hans": "地震",
+        "ja": "地震",
+        "es": "terremoto",
+        "hi": "भूकंप",
+        "de": "Erdbeben",
+        "vi": "động đất",
+        "pt-BR": "terremoto",
+        "id": "gempa bumi",
+        "fr": "tremblement de terre",
+        "ar": "زلزال",
+        "tr": "deprem",
+        "it": "terremoto",
+        "pl": "trzęsienie ziemi"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A sudden violent shaking of the ground caused by movements within the Earth's crust"
+          "en": "A sudden violent shaking of the ground caused by movements within the Earth's crust",
+          "ko": "지진",
+          "zh-Hans": "地震",
+          "ja": "地震",
+          "es": "terremoto",
+          "hi": "भूकंप",
+          "de": "Erdbeben",
+          "vi": "động đất",
+          "pt-BR": "terremoto",
+          "id": "gempa bumi",
+          "fr": "tremblement de terre",
+          "ar": "زلزال",
+          "tr": "deprem",
+          "it": "terremoto",
+          "pl": "trzęsienie ziemi"
         },
         "example": {
           "en": "Today's news uses the word earthquake."
@@ -26,14 +54,42 @@
     {
       "id": "magnitude",
       "en": "magnitude",
-      "ko": "The size or strength of something especially an earthquake measured on a scientific scale",
+      "ko": "규모",
       "l1": {
-        "en": "The size or strength of something especially an earthquake measured on a scientific scale"
+        "en": "The size or strength of something especially an earthquake measured on a scientific scale",
+        "ko": "규모",
+        "zh-Hans": "震级",
+        "ja": "マグニチュード",
+        "es": "magnitud",
+        "hi": "परिमाण",
+        "de": "Stärke",
+        "vi": "độ lớn",
+        "pt-BR": "magnitude",
+        "id": "magnitudo",
+        "fr": "magnitude",
+        "ar": "قوة الزلزال",
+        "tr": "büyüklük",
+        "it": "magnitudo",
+        "pl": "magnituda"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The size or strength of something especially an earthquake measured on a scientific scale"
+          "en": "The size or strength of something especially an earthquake measured on a scientific scale",
+          "ko": "규모",
+          "zh-Hans": "震级",
+          "ja": "マグニチュード",
+          "es": "magnitud",
+          "hi": "परिमाण",
+          "de": "Stärke",
+          "vi": "độ lớn",
+          "pt-BR": "magnitude",
+          "id": "magnitudo",
+          "fr": "magnitude",
+          "ar": "قوة الزلزال",
+          "tr": "büyüklük",
+          "it": "magnitudo",
+          "pl": "magnituda"
         },
         "example": {
           "en": "Today's news uses the word magnitude."
@@ -44,14 +100,42 @@
     {
       "id": "aftershock",
       "en": "aftershock",
-      "ko": "A smaller earthquake that follows a larger one in the same area",
+      "ko": "여진",
       "l1": {
-        "en": "A smaller earthquake that follows a larger one in the same area"
+        "en": "A smaller earthquake that follows a larger one in the same area",
+        "ko": "여진",
+        "zh-Hans": "余震",
+        "ja": "余震",
+        "es": "réplica",
+        "hi": "भूकंप का झटका",
+        "de": "Nachbeben",
+        "vi": "dư chấn",
+        "pt-BR": "réplica",
+        "id": "gempa susulan",
+        "fr": "réplique",
+        "ar": "هزة ارتدادية",
+        "tr": "artçı sarsıntı",
+        "it": "scossa di assestamento",
+        "pl": "wstrząs wtórny"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A smaller earthquake that follows a larger one in the same area"
+          "en": "A smaller earthquake that follows a larger one in the same area",
+          "ko": "여진",
+          "zh-Hans": "余震",
+          "ja": "余震",
+          "es": "réplica",
+          "hi": "भूकंप का झटका",
+          "de": "Nachbeben",
+          "vi": "dư chấn",
+          "pt-BR": "réplica",
+          "id": "gempa susulan",
+          "fr": "réplique",
+          "ar": "هزة ارتدادية",
+          "tr": "artçı sarsıntı",
+          "it": "scossa di assestamento",
+          "pl": "wstrząs wtórny"
         },
         "example": {
           "en": "Today's news uses the word aftershock."
@@ -62,14 +146,42 @@
     {
       "id": "epicenter",
       "en": "epicenter",
-      "ko": "The point on the Earth's surface directly above where an earthquake starts underground",
+      "ko": "진앙",
       "l1": {
-        "en": "The point on the Earth's surface directly above where an earthquake starts underground"
+        "en": "The point on the Earth's surface directly above where an earthquake starts underground",
+        "ko": "진앙",
+        "zh-Hans": "震中",
+        "ja": "震源地",
+        "es": "epicentro",
+        "hi": "अधिकेंद्र",
+        "de": "Epizentrum",
+        "vi": "tâm chấn",
+        "pt-BR": "epicentro",
+        "id": "episentrum",
+        "fr": "épicentre",
+        "ar": "المركز السطحي",
+        "tr": "merkez üssü",
+        "it": "epicentro",
+        "pl": "epicentrum"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The point on the Earth's surface directly above where an earthquake starts underground"
+          "en": "The point on the Earth's surface directly above where an earthquake starts underground",
+          "ko": "진앙",
+          "zh-Hans": "震中",
+          "ja": "震源地",
+          "es": "epicentro",
+          "hi": "अधिकेंद्र",
+          "de": "Epizentrum",
+          "vi": "tâm chấn",
+          "pt-BR": "epicentro",
+          "id": "episentrum",
+          "fr": "épicentre",
+          "ar": "المركز السطحي",
+          "tr": "merkez üssü",
+          "it": "epicentro",
+          "pl": "epicentrum"
         },
         "example": {
           "en": "Today's news uses the word epicenter."
@@ -80,14 +192,42 @@
     {
       "id": "casualty",
       "en": "casualty",
-      "ko": "A person killed or injured in a war accident or disaster",
+      "ko": "사상자",
       "l1": {
-        "en": "A person killed or injured in a war accident or disaster"
+        "en": "A person killed or injured in a war accident or disaster",
+        "ko": "사상자",
+        "zh-Hans": "伤亡人员",
+        "ja": "死傷者",
+        "es": "víctima",
+        "hi": "हताहत",
+        "de": "Opfer",
+        "vi": "thương vong",
+        "pt-BR": "vítima",
+        "id": "korban",
+        "fr": "victime",
+        "ar": "ضحية",
+        "tr": "kayıp",
+        "it": "vittima",
+        "pl": "ofiara"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A person killed or injured in a war accident or disaster"
+          "en": "A person killed or injured in a war accident or disaster",
+          "ko": "사상자",
+          "zh-Hans": "伤亡人员",
+          "ja": "死傷者",
+          "es": "víctima",
+          "hi": "हताहत",
+          "de": "Opfer",
+          "vi": "thương vong",
+          "pt-BR": "vítima",
+          "id": "korban",
+          "fr": "victime",
+          "ar": "ضحية",
+          "tr": "kayıp",
+          "it": "vittima",
+          "pl": "ofiara"
         },
         "example": {
           "en": "Today's news uses the word casualty."
@@ -98,14 +238,42 @@
     {
       "id": "collapse",
       "en": "collapse",
-      "ko": "To fall down suddenly especially a building or structure",
+      "ko": "붕괴하다",
       "l1": {
-        "en": "To fall down suddenly especially a building or structure"
+        "en": "To fall down suddenly especially a building or structure",
+        "ko": "붕괴하다",
+        "zh-Hans": "倒塌",
+        "ja": "崩壊する",
+        "es": "derrumbarse",
+        "hi": "ढह जाना",
+        "de": "einstürzen",
+        "vi": "sụp đổ",
+        "pt-BR": "desabar",
+        "id": "runtuh",
+        "fr": "s'effondrer",
+        "ar": "ينهار",
+        "tr": "çökmek",
+        "it": "crollare",
+        "pl": "zawalić się"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "To fall down suddenly especially a building or structure"
+          "en": "To fall down suddenly especially a building or structure",
+          "ko": "붕괴하다",
+          "zh-Hans": "倒塌",
+          "ja": "崩壊する",
+          "es": "derrumbarse",
+          "hi": "ढह जाना",
+          "de": "einstürzen",
+          "vi": "sụp đổ",
+          "pt-BR": "desabar",
+          "id": "runtuh",
+          "fr": "s'effondrer",
+          "ar": "ينهار",
+          "tr": "çökmek",
+          "it": "crollare",
+          "pl": "zawalić się"
         },
         "example": {
           "en": "Today's news uses the word collapse."
@@ -116,14 +284,42 @@
     {
       "id": "seismic",
       "en": "seismic",
-      "ko": "Relating to earthquakes or other vibrations of the Earth",
+      "ko": "지진과 관련된",
       "l1": {
-        "en": "Relating to earthquakes or other vibrations of the Earth"
+        "en": "Relating to earthquakes or other vibrations of the Earth",
+        "ko": "지진과 관련된",
+        "zh-Hans": "与地震有关的",
+        "ja": "地震に関連する",
+        "es": "relativo a terremotos",
+        "hi": "भूकंप से संबंधित",
+        "de": "erdbebenbezogen",
+        "vi": "liên quan đến động đất",
+        "pt-BR": "relativo a terremotos",
+        "id": "berkaitan dengan gempa",
+        "fr": "relatif aux séismes",
+        "ar": "متعلق بالزلازل",
+        "tr": "depremle ilgili",
+        "it": "relativo ai terremoti",
+        "pl": "związany z trzęsieniami ziemi"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Relating to earthquakes or other vibrations of the Earth"
+          "en": "Relating to earthquakes or other vibrations of the Earth",
+          "ko": "지진과 관련된",
+          "zh-Hans": "与地震有关的",
+          "ja": "地震に関連する",
+          "es": "relativo a terremotos",
+          "hi": "भूकंप से संबंधित",
+          "de": "erdbebenbezogen",
+          "vi": "liên quan đến động đất",
+          "pt-BR": "relativo a terremotos",
+          "id": "berkaitan dengan gempa",
+          "fr": "relatif aux séismes",
+          "ar": "متعلق بالزلازل",
+          "tr": "depremle ilgili",
+          "it": "relativo ai terremoti",
+          "pl": "związany z trzęsieniami ziemi"
         },
         "example": {
           "en": "Today's news uses the word seismic."
@@ -134,14 +330,42 @@
     {
       "id": "rubble",
       "en": "rubble",
-      "ko": "Broken pieces of stone brick or concrete from destroyed buildings",
+      "ko": "건물 잔해",
       "l1": {
-        "en": "Broken pieces of stone brick or concrete from destroyed buildings"
+        "en": "Broken pieces of stone brick or concrete from destroyed buildings",
+        "ko": "건물 잔해",
+        "zh-Hans": "建筑碎石",
+        "ja": "瓦礫",
+        "es": "escombros",
+        "hi": "मलबा",
+        "de": "Trümmer",
+        "vi": "đống đổ nát",
+        "pt-BR": "entulho",
+        "id": "puing",
+        "fr": "décombres",
+        "ar": "أنقاض",
+        "tr": "moloz",
+        "it": "macerie",
+        "pl": "gruz"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Broken pieces of stone brick or concrete from destroyed buildings"
+          "en": "Broken pieces of stone brick or concrete from destroyed buildings",
+          "ko": "건물 잔해",
+          "zh-Hans": "建筑碎石",
+          "ja": "瓦礫",
+          "es": "escombros",
+          "hi": "मलबा",
+          "de": "Trümmer",
+          "vi": "đống đổ nát",
+          "pt-BR": "entulho",
+          "id": "puing",
+          "fr": "décombres",
+          "ar": "أنقاض",
+          "tr": "moloz",
+          "it": "macerie",
+          "pl": "gruz"
         },
         "example": {
           "en": "Today's news uses the word rubble."
@@ -152,14 +376,42 @@
     {
       "id": "tremor",
       "en": "tremor",
-      "ko": "A small earthquake or shaking movement of the ground",
+      "ko": "작은 지진",
       "l1": {
-        "en": "A small earthquake or shaking movement of the ground"
+        "en": "A small earthquake or shaking movement of the ground",
+        "ko": "작은 지진",
+        "zh-Hans": "小地震",
+        "ja": "小さな地震",
+        "es": "temblor",
+        "hi": "छोटा भूकंप",
+        "de": "leichtes Beben",
+        "vi": "trận động đất nhỏ",
+        "pt-BR": "tremor",
+        "id": "gempa kecil",
+        "fr": "petite secousse",
+        "ar": "هزة أرضية",
+        "tr": "küçük deprem",
+        "it": "tremore",
+        "pl": "wstrząs"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A small earthquake or shaking movement of the ground"
+          "en": "A small earthquake or shaking movement of the ground",
+          "ko": "작은 지진",
+          "zh-Hans": "小地震",
+          "ja": "小さな地震",
+          "es": "temblor",
+          "hi": "छोटा भूकंप",
+          "de": "leichtes Beben",
+          "vi": "trận động đất nhỏ",
+          "pt-BR": "tremor",
+          "id": "gempa kecil",
+          "fr": "petite secousse",
+          "ar": "هزة أرضية",
+          "tr": "küçük deprem",
+          "it": "tremore",
+          "pl": "wstrząs"
         },
         "example": {
           "en": "Today's news uses the word tremor."
@@ -170,14 +422,42 @@
     {
       "id": "rescue",
       "en": "rescue",
-      "ko": "To save someone from a dangerous or difficult situation",
+      "ko": "구하다",
       "l1": {
-        "en": "To save someone from a dangerous or difficult situation"
+        "en": "To save someone from a dangerous or difficult situation",
+        "ko": "구하다",
+        "zh-Hans": "营救",
+        "ja": "救助する",
+        "es": "rescatar",
+        "hi": "बचाना",
+        "de": "retten",
+        "vi": "cứu",
+        "pt-BR": "resgatar",
+        "id": "menyelamatkan",
+        "fr": "secourir",
+        "ar": "ينقذ",
+        "tr": "kurtarmak",
+        "it": "salvare",
+        "pl": "ratować"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "To save someone from a dangerous or difficult situation"
+          "en": "To save someone from a dangerous or difficult situation",
+          "ko": "구하다",
+          "zh-Hans": "营救",
+          "ja": "救助する",
+          "es": "rescatar",
+          "hi": "बचाना",
+          "de": "retten",
+          "vi": "cứu",
+          "pt-BR": "resgatar",
+          "id": "menyelamatkan",
+          "fr": "secourir",
+          "ar": "ينقذ",
+          "tr": "kurtarmak",
+          "it": "salvare",
+          "pl": "ratować"
         },
         "example": {
           "en": "Today's news uses the word rescue."

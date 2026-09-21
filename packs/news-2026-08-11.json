@@ -8,14 +8,42 @@
     {
       "id": "crystal",
       "en": "crystal",
-      "ko": "A solid material with a regular",
+      "ko": "규칙적인 원자 배열을 가진 고체",
       "l1": {
-        "en": "A solid material with a regular"
+        "en": "A solid material with a regular",
+        "ko": "규칙적인 원자 배열을 가진 고체",
+        "zh-Hans": "具有规则原子排列的固体",
+        "ja": "規則的な原子配列をもつ固体",
+        "es": "sólido con orden regular de átomos",
+        "hi": "नियमित परमाणु व्यवस्था वाला ठोस",
+        "de": "Feststoff mit regelmäßiger Atomanordnung",
+        "vi": "chất rắn có cấu trúc nguyên tử đều đặn",
+        "pt-BR": "sólido com arranjo regular de átomos",
+        "id": "padatan dengan susunan atom teratur",
+        "fr": "solide à arrangement régulier d'atomes",
+        "ar": "مادة صلبة بترتيب ذري منتظم",
+        "tr": "düzenli atom dizilimli katı",
+        "it": "solido con disposizione regolare di atomi",
+        "pl": "ciało stałe o regularnym układzie atomów"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A solid material with a regular"
+          "en": "A solid material with a regular",
+          "ko": "규칙적인 원자 배열을 가진 고체",
+          "zh-Hans": "具有规则原子排列的固体",
+          "ja": "規則的な原子配列をもつ固体",
+          "es": "sólido con orden regular de átomos",
+          "hi": "नियमित परमाणु व्यवस्था वाला ठोस",
+          "de": "Feststoff mit regelmäßiger Atomanordnung",
+          "vi": "chất rắn có cấu trúc nguyên tử đều đặn",
+          "pt-BR": "sólido com arranjo regular de átomos",
+          "id": "padatan dengan susunan atom teratur",
+          "fr": "solide à arrangement régulier d'atomes",
+          "ar": "مادة صلبة بترتيب ذري منتظم",
+          "tr": "düzenli atom dizilimli katı",
+          "it": "solido con disposizione regolare di atomi",
+          "pl": "ciało stałe o regularnym układzie atomów"
         },
         "example": {
           "en": "Scientists at the University of California, Los Angeles have discovered that heat can move through a crystal in focused, wave-like rays at room temperature instead of spreading randomly."
@@ -26,14 +54,42 @@
     {
       "id": "phonon",
       "en": "phonon",
-      "ko": "A unit of vibration that carries heat through a material.",
+      "ko": "물질에서 열을 전달하는 진동 단위",
       "l1": {
-        "en": "A unit of vibration that carries heat through a material."
+        "en": "A unit of vibration that carries heat through a material.",
+        "ko": "물질에서 열을 전달하는 진동 단위",
+        "zh-Hans": "在材料中传递热量的振动单元",
+        "ja": "物質中で熱を運ぶ振動の単位",
+        "es": "unidad de vibración que transporta calor",
+        "hi": "पदार्थ में ऊष्मा ले जाने वाली कंपन इकाई",
+        "de": "Vibrationseinheit, die Wärme leitet",
+        "vi": "đơn vị dao động truyền nhiệt trong vật liệu",
+        "pt-BR": "unidade de vibração que transporta calor",
+        "id": "satuan getaran pembawa panas dalam bahan",
+        "fr": "unité de vibration transportant la chaleur",
+        "ar": "وحدة اهتزاز تنقل الحرارة في المادة",
+        "tr": "maddede ısı taşıyan titreşim birimi",
+        "it": "unità di vibrazione che trasporta calore",
+        "pl": "jednostka drgań przenosząca ciepło"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A unit of vibration that carries heat through a material."
+          "en": "A unit of vibration that carries heat through a material.",
+          "ko": "물질에서 열을 전달하는 진동 단위",
+          "zh-Hans": "在材料中传递热量的振动单元",
+          "ja": "物質中で熱を運ぶ振動の単位",
+          "es": "unidad de vibración que transporta calor",
+          "hi": "पदार्थ में ऊष्मा ले जाने वाली कंपन इकाई",
+          "de": "Vibrationseinheit, die Wärme leitet",
+          "vi": "đơn vị dao động truyền nhiệt trong vật liệu",
+          "pt-BR": "unidade de vibração que transporta calor",
+          "id": "satuan getaran pembawa panas dalam bahan",
+          "fr": "unité de vibration transportant la chaleur",
+          "ar": "وحدة اهتزاز تنقل الحرارة في المادة",
+          "tr": "maddede ısı taşıyan titreşim birimi",
+          "it": "unità di vibrazione che trasporta calore",
+          "pl": "jednostka drgań przenosząca ciepło"
         },
         "example": {
           "en": "This type of heat transport, called phonon focusing, had only been seen before at extremely cold temperatures."
@@ -44,14 +100,42 @@
     {
       "id": "temperature",
       "en": "temperature",
-      "ko": "A measure of how hot or cold something is.",
+      "ko": "얼마나 뜨겁거나 차가운지의 정도",
       "l1": {
-        "en": "A measure of how hot or cold something is."
+        "en": "A measure of how hot or cold something is.",
+        "ko": "얼마나 뜨겁거나 차가운지의 정도",
+        "zh-Hans": "冷热程度的量度",
+        "ja": "どれだけ熱いか冷たいかの度合い",
+        "es": "medida de qué tan caliente o frío está",
+        "hi": "कितना गर्म या ठंडा है इसका माप",
+        "de": "Maß dafür, wie heiß oder kalt etwas ist",
+        "vi": "mức đo nóng hay lạnh của vật",
+        "pt-BR": "medida de quão quente ou frio está",
+        "id": "ukuran seberapa panas atau dingin",
+        "fr": "mesure de la chaleur ou du froid",
+        "ar": "مقياس مدى السخونة أو البرودة",
+        "tr": "ne kadar sıcak veya soğuk olduğu ölçüsü",
+        "it": "misura di quanto è caldo o freddo",
+        "pl": "miara tego, jak ciepło lub zimno"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A measure of how hot or cold something is."
+          "en": "A measure of how hot or cold something is.",
+          "ko": "얼마나 뜨겁거나 차가운지의 정도",
+          "zh-Hans": "冷热程度的量度",
+          "ja": "どれだけ熱いか冷たいかの度合い",
+          "es": "medida de qué tan caliente o frío está",
+          "hi": "कितना गर्म या ठंडा है इसका माप",
+          "de": "Maß dafür, wie heiß oder kalt etwas ist",
+          "vi": "mức đo nóng hay lạnh của vật",
+          "pt-BR": "medida de quão quente ou frio está",
+          "id": "ukuran seberapa panas atau dingin",
+          "fr": "mesure de la chaleur ou du froid",
+          "ar": "مقياس مدى السخونة أو البرودة",
+          "tr": "ne kadar sıcak veya soğuk olduğu ölçüsü",
+          "it": "misura di quanto è caldo o freddo",
+          "pl": "miara tego, jak ciepło lub zimno"
         },
         "example": {
           "en": "Scientists at the University of California, Los Angeles have discovered that heat can move through a crystal in focused, wave-like rays at room temperature instead of spreading randomly."
@@ -62,14 +146,42 @@
     {
       "id": "conductivity",
       "en": "conductivity",
-      "ko": "The ability of a material to allow heat or electricity to flow through it.",
+      "ko": "물질이 열이나 전기를 통하게 하는 능력",
       "l1": {
-        "en": "The ability of a material to allow heat or electricity to flow through it."
+        "en": "The ability of a material to allow heat or electricity to flow through it.",
+        "ko": "물질이 열이나 전기를 통하게 하는 능력",
+        "zh-Hans": "材料传导热或电的能力",
+        "ja": "物質が熱や電気を通す能力",
+        "es": "capacidad de un material para conducir calor o electricidad",
+        "hi": "पदार्थ की ऊष्मा या बिजली संचालन क्षमता",
+        "de": "Fähigkeit eines Materials, Wärme oder Strom zu leiten",
+        "vi": "khả năng dẫn nhiệt hoặc điện của vật liệu",
+        "pt-BR": "capacidade de conduzir calor ou eletricidade",
+        "id": "kemampuan bahan menghantarkan panas atau listrik",
+        "fr": "capacité d'un matériau à conduire chaleur ou électricité",
+        "ar": "قدرة المادة على توصيل الحرارة أو الكهرباء",
+        "tr": "maddenin ısı veya elektriği iletme yeteneği",
+        "it": "capacità di condurre calore o elettricità",
+        "pl": "zdolność materiału do przewodzenia ciepła lub prądu"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The ability of a material to allow heat or electricity to flow through it."
+          "en": "The ability of a material to allow heat or electricity to flow through it.",
+          "ko": "물질이 열이나 전기를 통하게 하는 능력",
+          "zh-Hans": "材料传导热或电的能力",
+          "ja": "物質が熱や電気を通す能力",
+          "es": "capacidad de un material para conducir calor o electricidad",
+          "hi": "पदार्थ की ऊष्मा या बिजली संचालन क्षमता",
+          "de": "Fähigkeit eines Materials, Wärme oder Strom zu leiten",
+          "vi": "khả năng dẫn nhiệt hoặc điện của vật liệu",
+          "pt-BR": "capacidade de conduzir calor ou eletricidade",
+          "id": "kemampuan bahan menghantarkan panas atau listrik",
+          "fr": "capacité d'un matériau à conduire chaleur ou électricité",
+          "ar": "قدرة المادة على توصيل الحرارة أو الكهرباء",
+          "tr": "maddenin ısı veya elektriği iletme yeteneği",
+          "it": "capacità di condurre calore o elettricità",
+          "pl": "zdolność materiału do przewodzenia ciepła lub prądu"
         },
         "example": {
           "en": "His team observed phonon focusing in boron arsenide, a crystalline semiconductor known for its high thermal conductivity."
@@ -80,14 +192,42 @@
     {
       "id": "semiconductor",
       "en": "semiconductor",
-      "ko": "A material that conducts electricity better than an insulator but less than a metal.",
+      "ko": "전기 전도성이 절연체와 금속 사이인 물질",
       "l1": {
-        "en": "A material that conducts electricity better than an insulator but less than a metal."
+        "en": "A material that conducts electricity better than an insulator but less than a metal.",
+        "ko": "전기 전도성이 절연체와 금속 사이인 물질",
+        "zh-Hans": "导电性介于绝缘体和金属之间的材料",
+        "ja": "絶縁体より電気を通し、金属より通しにくい物質",
+        "es": "Material que conduce electricidad entre un aislante y un metal.",
+        "hi": "विद्युत चालकता में अवरोधक और धातु के बीच का पदार्थ",
+        "de": "Material, das Strom besser als Isolator, aber schlechter als Metall leitet.",
+        "vi": "Vật liệu dẫn điện tốt hơn chất cách điện nhưng kém hơn kim loại.",
+        "pt-BR": "Material que conduz eletricidade entre um isolante e um metal.",
+        "id": "Bahan yang menghantarkan listrik antara isolator dan logam.",
+        "fr": "Matériau conducteur entre un isolant et un métal.",
+        "ar": "مادة توصل الكهرباء بين العازل والمعدن.",
+        "tr": "Yalıtkan ile metal arasında elektrik ileten malzeme.",
+        "it": "Materiale che conduce elettricità tra isolante e metallo.",
+        "pl": "Materiał przewodzący prąd między izolatorem a metalem."
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A material that conducts electricity better than an insulator but less than a metal."
+          "en": "A material that conducts electricity better than an insulator but less than a metal.",
+          "ko": "전기 전도성이 절연체와 금속 사이인 물질",
+          "zh-Hans": "导电性介于绝缘体和金属之间的材料",
+          "ja": "絶縁体より電気を通し、金属より通しにくい物質",
+          "es": "Material que conduce electricidad entre un aislante y un metal.",
+          "hi": "विद्युत चालकता में अवरोधक और धातु के बीच का पदार्थ",
+          "de": "Material, das Strom besser als Isolator, aber schlechter als Metall leitet.",
+          "vi": "Vật liệu dẫn điện tốt hơn chất cách điện nhưng kém hơn kim loại.",
+          "pt-BR": "Material que conduz eletricidade entre um isolante e um metal.",
+          "id": "Bahan yang menghantarkan listrik antara isolator dan logam.",
+          "fr": "Matériau conducteur entre un isolant et un métal.",
+          "ar": "مادة توصل الكهرباء بين العازل والمعدن.",
+          "tr": "Yalıtkan ile metal arasında elektrik ileten malzeme.",
+          "it": "Materiale che conduce elettricità tra isolante e metallo.",
+          "pl": "Materiał przewodzący prąd między izolatorem a metalem."
         },
         "example": {
           "en": "His team observed phonon focusing in boron arsenide, a crystalline semiconductor known for its high thermal conductivity."
@@ -98,14 +238,42 @@
     {
       "id": "nanoscale",
       "en": "nanoscale",
-      "ko": "At a size measured in nanometers",
+      "ko": "나노미터 크기의",
       "l1": {
-        "en": "At a size measured in nanometers"
+        "en": "At a size measured in nanometers",
+        "ko": "나노미터 크기의",
+        "zh-Hans": "纳米尺度的",
+        "ja": "ナノメートル規模の",
+        "es": "A escala de nanómetros.",
+        "hi": "नैनोमीटर के पैमाने पर",
+        "de": "Im Nanometerbereich",
+        "vi": "Ở kích thước nanomet",
+        "pt-BR": "Em escala de nanômetros.",
+        "id": "Pada skala nanometer.",
+        "fr": "À l'échelle nanométrique.",
+        "ar": "على مقياس النانومتر.",
+        "tr": "Nanometre ölçeğinde.",
+        "it": "Su scala nanometrica.",
+        "pl": "W skali nanometrowej."
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "At a size measured in nanometers"
+          "en": "At a size measured in nanometers",
+          "ko": "나노미터 크기의",
+          "zh-Hans": "纳米尺度的",
+          "ja": "ナノメートル規模の",
+          "es": "A escala de nanómetros.",
+          "hi": "नैनोमीटर के पैमाने पर",
+          "de": "Im Nanometerbereich",
+          "vi": "Ở kích thước nanomet",
+          "pt-BR": "Em escala de nanômetros.",
+          "id": "Pada skala nanometer.",
+          "fr": "À l'échelle nanométrique.",
+          "ar": "على مقياس النانومتر.",
+          "tr": "Nanometre ölçeğinde.",
+          "it": "Su scala nanometrica.",
+          "pl": "W skali nanometrowej."
         },
         "example": {
           "en": "To see this behavior, the researchers created a technique for mapping temperature at the nanoscale."
@@ -116,14 +284,42 @@
     {
       "id": "scatter",
       "en": "scatter",
-      "ko": "To spread in many different directions.",
+      "ko": "여러 방향으로 흩어지다",
       "l1": {
-        "en": "To spread in many different directions."
+        "en": "To spread in many different directions.",
+        "ko": "여러 방향으로 흩어지다",
+        "zh-Hans": "向不同方向散开",
+        "ja": "さまざまな方向に散らばる",
+        "es": "Dispersarse en muchas direcciones.",
+        "hi": "कई दिशाओं में फैलना",
+        "de": "Sich in viele Richtungen verteilen.",
+        "vi": "Lan tỏa theo nhiều hướng.",
+        "pt-BR": "Espalhar-se em muitas direções.",
+        "id": "Menyebar ke berbagai arah.",
+        "fr": "Se disperser dans plusieurs directions.",
+        "ar": "ينتشر في اتجاهات مختلفة.",
+        "tr": "Birçok yöne dağılmak.",
+        "it": "Dispersi in molte direzioni.",
+        "pl": "Rozpraszać się w wielu kierunkach."
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "To spread in many different directions."
+          "en": "To spread in many different directions.",
+          "ko": "여러 방향으로 흩어지다",
+          "zh-Hans": "向不同方向散开",
+          "ja": "さまざまな方向に散らばる",
+          "es": "Dispersarse en muchas direcciones.",
+          "hi": "कई दिशाओं में फैलना",
+          "de": "Sich in viele Richtungen verteilen.",
+          "vi": "Lan tỏa theo nhiều hướng.",
+          "pt-BR": "Espalhar-se em muitas direções.",
+          "id": "Menyebar ke berbagai arah.",
+          "fr": "Se disperser dans plusieurs directions.",
+          "ar": "ينتشر في اتجاهات مختلفة.",
+          "tr": "Birçok yöne dağılmak.",
+          "it": "Dispersi in molte direzioni.",
+          "pl": "Rozpraszać się w wielu kierunkach."
         },
         "example": {
           "en": "Scientists at the University of California, Los Angeles have discovered that heat can move through a crystal in focused, wave-like rays at room temperature instead of spreading randomly."
@@ -134,14 +330,42 @@
     {
       "id": "quantum",
       "en": "quantum",
-      "ko": "Related to the smallest possible units of energy and matter.",
+      "ko": "에너지와 물질의 최소 단위와 관련된",
       "l1": {
-        "en": "Related to the smallest possible units of energy and matter."
+        "en": "Related to the smallest possible units of energy and matter.",
+        "ko": "에너지와 물질의 최소 단위와 관련된",
+        "zh-Hans": "与能量和物质的最小单位有关",
+        "ja": "エネルギーと物質の最小単位に関する",
+        "es": "Relacionado con las unidades más pequeñas de energía y materia.",
+        "hi": "ऊर्जा और पदार्थ की सबसे छोटी इकाइयों से संबंधित",
+        "de": "Bezieht sich auf die kleinsten Einheiten von Energie und Materie.",
+        "vi": "Liên quan đến đơn vị nhỏ nhất của năng lượng và vật chất.",
+        "pt-BR": "Relacionado às menores unidades de energia e matéria.",
+        "id": "Terkait unit terkecil energi dan materi.",
+        "fr": "Relatif aux plus petites unités d'énergie et de matière.",
+        "ar": "يتعلق بأصغر وحدات الطاقة والمادة.",
+        "tr": "Enerji ve maddenin en küçük birimleriyle ilgili.",
+        "it": "Relativo alle più piccole unità di energia e materia.",
+        "pl": "Dotyczący najmniejszych jednostek energii i materii."
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Related to the smallest possible units of energy and matter."
+          "en": "Related to the smallest possible units of energy and matter.",
+          "ko": "에너지와 물질의 최소 단위와 관련된",
+          "zh-Hans": "与能量和物质的最小单位有关",
+          "ja": "エネルギーと物質の最小単位に関する",
+          "es": "Relacionado con las unidades más pequeñas de energía y materia.",
+          "hi": "ऊर्जा और पदार्थ की सबसे छोटी इकाइयों से संबंधित",
+          "de": "Bezieht sich auf die kleinsten Einheiten von Energie und Materie.",
+          "vi": "Liên quan đến đơn vị nhỏ nhất của năng lượng và vật chất.",
+          "pt-BR": "Relacionado às menores unidades de energia e matéria.",
+          "id": "Terkait unit terkecil energi dan materi.",
+          "fr": "Relatif aux plus petites unités d'énergie et de matière.",
+          "ar": "يتعلق بأصغر وحدات الطاقة والمادة.",
+          "tr": "Enerji ve maddenin en küçük birimleriyle ilgili.",
+          "it": "Relativo alle più piccole unità di energia e materia.",
+          "pl": "Dotyczący najmniejszych jednostek energii i materii."
         },
         "example": {
           "en": "The discovery could make it possible to route heat around sensitive parts of next-generation computer chips and quantum devices."
@@ -152,14 +376,42 @@
     {
       "id": "thermal",
       "en": "thermal",
-      "ko": "Related to heat.",
+      "ko": "열과 관련된",
       "l1": {
-        "en": "Related to heat."
+        "en": "Related to heat.",
+        "ko": "열과 관련된",
+        "zh-Hans": "与热有关的",
+        "ja": "熱に関する",
+        "es": "Relacionado con el calor.",
+        "hi": "ऊष्मा से संबंधित",
+        "de": "Mit Wärme zusammenhängend",
+        "vi": "Liên quan đến nhiệt.",
+        "pt-BR": "Relacionado ao calor.",
+        "id": "Terkait panas.",
+        "fr": "Relatif à la chaleur.",
+        "ar": "متعلق بالحرارة.",
+        "tr": "Isı ile ilgili.",
+        "it": "Relativo al calore.",
+        "pl": "Związany z ciepłem."
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Related to heat."
+          "en": "Related to heat.",
+          "ko": "열과 관련된",
+          "zh-Hans": "与热有关的",
+          "ja": "熱に関する",
+          "es": "Relacionado con el calor.",
+          "hi": "ऊष्मा से संबंधित",
+          "de": "Mit Wärme zusammenhängend",
+          "vi": "Liên quan đến nhiệt.",
+          "pt-BR": "Relacionado ao calor.",
+          "id": "Terkait panas.",
+          "fr": "Relatif à la chaleur.",
+          "ar": "متعلق بالحرارة.",
+          "tr": "Isı ile ilgili.",
+          "it": "Relativo al calore.",
+          "pl": "Związany z ciepłem."
         },
         "example": {
           "en": "His team observed phonon focusing in boron arsenide, a crystalline semiconductor known for its high thermal conductivity."
@@ -170,14 +422,42 @@
     {
       "id": "route",
       "en": "route",
-      "ko": "A path or way that something travels.",
+      "ko": "무언가가 이동하는 경로",
       "l1": {
-        "en": "A path or way that something travels."
+        "en": "A path or way that something travels.",
+        "ko": "무언가가 이동하는 경로",
+        "zh-Hans": "某物行进的路径",
+        "ja": "何かが進む経路",
+        "es": "Camino o ruta por donde viaja algo.",
+        "hi": "वह मार्ग जिससे कोई चीज़ यात्रा करती है",
+        "de": "Ein Weg, den etwas zurücklegt.",
+        "vi": "Đường đi mà một thứ gì đó di chuyển.",
+        "pt-BR": "Caminho ou rota por onde algo viaja.",
+        "id": "Jalur tempat sesuatu bergerak.",
+        "fr": "Chemin ou voie emprunté par quelque chose.",
+        "ar": "مسار يسلكه شيء ما.",
+        "tr": "Bir şeyin izlediği yol.",
+        "it": "Percorso o via che qualcosa segue.",
+        "pl": "Droga, którą coś podąża."
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A path or way that something travels."
+          "en": "A path or way that something travels.",
+          "ko": "무언가가 이동하는 경로",
+          "zh-Hans": "某物行进的路径",
+          "ja": "何かが進む経路",
+          "es": "Camino o ruta por donde viaja algo.",
+          "hi": "वह मार्ग जिससे कोई चीज़ यात्रा करती है",
+          "de": "Ein Weg, den etwas zurücklegt.",
+          "vi": "Đường đi mà một thứ gì đó di chuyển.",
+          "pt-BR": "Caminho ou rota por onde algo viaja.",
+          "id": "Jalur tempat sesuatu bergerak.",
+          "fr": "Chemin ou voie emprunté par quelque chose.",
+          "ar": "مسار يسلكه شيء ما.",
+          "tr": "Bir şeyin izlediği yol.",
+          "it": "Percorso o via che qualcosa segue.",
+          "pl": "Droga, którą coś podąża."
         },
         "example": {
           "en": "The discovery could make it possible to route heat around sensitive parts of next-generation computer chips and quantum devices."

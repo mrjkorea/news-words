@@ -8,14 +8,42 @@
     {
       "id": "typhoon",
       "en": "typhoon",
-      "ko": "A violent tropical storm with very strong winds and heavy rain.",
+      "ko": "강한 바람과 폭우를 동반한 열대성 폭풍",
       "l1": {
-        "en": "A violent tropical storm with very strong winds and heavy rain."
+        "en": "A violent tropical storm with very strong winds and heavy rain.",
+        "ko": "강한 바람과 폭우를 동반한 열대성 폭풍",
+        "zh-Hans": "伴有强风和暴雨的热带风暴",
+        "ja": "強風と大雨を伴う熱帯性暴風",
+        "es": "tormenta tropical violenta con fuertes vientos y lluvia",
+        "hi": "तेज़ हवाओं और भारी बारिश वाला उष्णकटिबंधीय तूफ़ान",
+        "de": "heftiger tropischer Sturm mit starkem Wind und Regen",
+        "vi": "bão nhiệt đới dữ dội với gió mạnh và mưa lớn",
+        "pt-BR": "tempestade tropical violenta com ventos fortes e chuva",
+        "id": "badai tropis hebat dengan angin kencang dan hujan lebat",
+        "fr": "violente tempête tropicale avec vents forts et pluie",
+        "ar": "عاصفة استوائية عنيفة برياح قوية وأمطار غزيرة",
+        "tr": "şiddetli rüzgar ve yağmurlu tropikal fırtına",
+        "it": "violenta tempesta tropicale con venti forti e pioggia",
+        "pl": "gwałtowny sztorm tropikalny z silnym wiatrem i deszczem"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A violent tropical storm with very strong winds and heavy rain."
+          "en": "A violent tropical storm with very strong winds and heavy rain.",
+          "ko": "강한 바람과 폭우를 동반한 열대성 폭풍",
+          "zh-Hans": "伴有强风和暴雨的热带风暴",
+          "ja": "強風と大雨を伴う熱帯性暴風",
+          "es": "tormenta tropical violenta con fuertes vientos y lluvia",
+          "hi": "तेज़ हवाओं और भारी बारिश वाला उष्णकटिबंधीय तूफ़ान",
+          "de": "heftiger tropischer Sturm mit starkem Wind und Regen",
+          "vi": "bão nhiệt đới dữ dội với gió mạnh và mưa lớn",
+          "pt-BR": "tempestade tropical violenta com ventos fortes e chuva",
+          "id": "badai tropis hebat dengan angin kencang dan hujan lebat",
+          "fr": "violente tempête tropicale avec vents forts et pluie",
+          "ar": "عاصفة استوائية عنيفة برياح قوية وأمطار غزيرة",
+          "tr": "şiddetli rüzgar ve yağmurlu tropikal fırtına",
+          "it": "violenta tempesta tropicale con venti forti e pioggia",
+          "pl": "gwałtowny sztorm tropikalny z silnym wiatrem i deszczem"
         },
         "example": {
           "en": "Typhoon Dolphin, the most powerful tropical cyclone to hit China this year, made landfall on the country's eastern coast on Sunday, bringing torrential rain and strong winds and triggering warnings of flooding and landslides."
@@ -26,14 +54,42 @@
     {
       "id": "landfall",
       "en": "landfall",
-      "ko": "The moment when a storm or ship reaches land.",
+      "ko": "폭풍이나 배가 육지에 도달하는 순간",
       "l1": {
-        "en": "The moment when a storm or ship reaches land."
+        "en": "The moment when a storm or ship reaches land.",
+        "ko": "폭풍이나 배가 육지에 도달하는 순간",
+        "zh-Hans": "风暴或船只到达陆地的时刻",
+        "ja": "嵐や船が陸地に到達する瞬間",
+        "es": "momento en que una tormenta o barco llega a tierra",
+        "hi": "तूफ़ान या जहाज़ के ज़मीन पर पहुँचने का क्षण",
+        "de": "Moment, in dem Sturm oder Schiff Land erreicht",
+        "vi": "thời điểm bão hoặc tàu chạm đất liền",
+        "pt-BR": "momento em que tempestade ou navio chega à terra",
+        "id": "saat badai atau kapal mencapai daratan",
+        "fr": "moment où une tempête ou un navire atteint la terre",
+        "ar": "لحظة وصول العاصفة أو السفينة إلى اليابسة",
+        "tr": "fırtınanın veya geminin karaya ulaşma anı",
+        "it": "momento in cui tempesta o nave raggiunge la terra",
+        "pl": "moment dotarcia burzy lub statku do lądu"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The moment when a storm or ship reaches land."
+          "en": "The moment when a storm or ship reaches land.",
+          "ko": "폭풍이나 배가 육지에 도달하는 순간",
+          "zh-Hans": "风暴或船只到达陆地的时刻",
+          "ja": "嵐や船が陸地に到達する瞬間",
+          "es": "momento en que una tormenta o barco llega a tierra",
+          "hi": "तूफ़ान या जहाज़ के ज़मीन पर पहुँचने का क्षण",
+          "de": "Moment, in dem Sturm oder Schiff Land erreicht",
+          "vi": "thời điểm bão hoặc tàu chạm đất liền",
+          "pt-BR": "momento em que tempestade ou navio chega à terra",
+          "id": "saat badai atau kapal mencapai daratan",
+          "fr": "moment où une tempête ou un navire atteint la terre",
+          "ar": "لحظة وصول العاصفة أو السفينة إلى اليابسة",
+          "tr": "fırtınanın veya geminin karaya ulaşma anı",
+          "it": "momento in cui tempesta o nave raggiunge la terra",
+          "pl": "moment dotarcia burzy lub statku do lądu"
         },
         "example": {
           "en": "Typhoon Dolphin, the most powerful tropical cyclone to hit China this year, made landfall on the country's eastern coast on Sunday, bringing torrential rain and strong winds and triggering warnings of flooding and landslides."
@@ -44,14 +100,42 @@
     {
       "id": "evacuate",
       "en": "evacuate",
-      "ko": "To move people from a dangerous place to a safer place.",
+      "ko": "사람들을 위험한 곳에서 안전한 곳으로 옮기다",
       "l1": {
-        "en": "To move people from a dangerous place to a safer place."
+        "en": "To move people from a dangerous place to a safer place.",
+        "ko": "사람들을 위험한 곳에서 안전한 곳으로 옮기다",
+        "zh-Hans": "将人们从危险地带转移到安全地带",
+        "ja": "人々を危険な場所から安全な場所へ移す",
+        "es": "trasladar personas de un lugar peligroso a uno seguro",
+        "hi": "लोगों को खतरनाक जगह से सुरक्षित जगह ले जाना",
+        "de": "Menschen von einem gefährlichen an einen sicheren Ort bringen",
+        "vi": "chuyển người từ nơi nguy hiểm đến nơi an toàn",
+        "pt-BR": "mover pessoas de local perigoso para local seguro",
+        "id": "memindahkan orang dari tempat berbahaya ke tempat aman",
+        "fr": "déplacer des personnes d'un lieu dangereux vers un lieu sûr",
+        "ar": "نقل الناس من مكان خطر إلى مكان آمن",
+        "tr": "insanları tehlikeli yerden güvenli yere taşımak",
+        "it": "spostare persone da un luogo pericoloso a uno sicuro",
+        "pl": "przenosić ludzi z niebezpiecznego miejsca w bezpieczne"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "To move people from a dangerous place to a safer place."
+          "en": "To move people from a dangerous place to a safer place.",
+          "ko": "사람들을 위험한 곳에서 안전한 곳으로 옮기다",
+          "zh-Hans": "将人们从危险地带转移到安全地带",
+          "ja": "人々を危険な場所から安全な場所へ移す",
+          "es": "trasladar personas de un lugar peligroso a uno seguro",
+          "hi": "लोगों को खतरनाक जगह से सुरक्षित जगह ले जाना",
+          "de": "Menschen von einem gefährlichen an einen sicheren Ort bringen",
+          "vi": "chuyển người từ nơi nguy hiểm đến nơi an toàn",
+          "pt-BR": "mover pessoas de local perigoso para local seguro",
+          "id": "memindahkan orang dari tempat berbahaya ke tempat aman",
+          "fr": "déplacer des personnes d'un lieu dangereux vers un lieu sûr",
+          "ar": "نقل الناس من مكان خطر إلى مكان آمن",
+          "tr": "insanları tehlikeli yerden güvenli yere taşımak",
+          "it": "spostare persone da un luogo pericoloso a uno sicuro",
+          "pl": "przenosić ludzi z niebezpiecznego miejsca w bezpieczne"
         },
         "example": {
           "en": "Typhoon Dolphin, the most powerful tropical cyclone to hit China this year, made landfall on the country's eastern coast on Sunday, bringing torrential rain and strong winds and triggering warnings of flooding and landslides."
@@ -62,14 +146,42 @@
     {
       "id": "torrential",
       "en": "torrential",
-      "ko": "Very heavy and fast-flowing",
+      "ko": "매우 세차게 쏟아지는",
       "l1": {
-        "en": "Very heavy and fast-flowing"
+        "en": "Very heavy and fast-flowing",
+        "ko": "매우 세차게 쏟아지는",
+        "zh-Hans": "非常猛烈且急速流动的",
+        "ja": "非常に激しく流れる",
+        "es": "muy intenso y de rápido caudal",
+        "hi": "बहुत तेज़ और प्रचंड बहाव वाला",
+        "de": "sehr stark und schnell fließend",
+        "vi": "rất mạnh và chảy xiết",
+        "pt-BR": "muito intenso e de fluxo rápido",
+        "id": "sangat deras dan mengalir cepat",
+        "fr": "très violent et à débit rapide",
+        "ar": "شديد الغزارة وسريع التدفق",
+        "tr": "çok şiddetli ve hızlı akan",
+        "it": "molto intenso e a flusso rapido",
+        "pl": "bardzo gwałtowny i szybko płynący"
       },
       "ww": {
         "pos": "adj",
         "def": {
-          "en": "Very heavy and fast-flowing"
+          "en": "Very heavy and fast-flowing",
+          "ko": "매우 세차게 쏟아지는",
+          "zh-Hans": "非常猛烈且急速流动的",
+          "ja": "非常に激しく流れる",
+          "es": "muy intenso y de rápido caudal",
+          "hi": "बहुत तेज़ और प्रचंड बहाव वाला",
+          "de": "sehr stark und schnell fließend",
+          "vi": "rất mạnh và chảy xiết",
+          "pt-BR": "muito intenso e de fluxo rápido",
+          "id": "sangat deras dan mengalir cepat",
+          "fr": "très violent et à débit rapide",
+          "ar": "شديد الغزارة وسريع التدفق",
+          "tr": "çok şiddetli ve hızlı akan",
+          "it": "molto intenso e a flusso rapido",
+          "pl": "bardzo gwałtowny i szybko płynący"
         },
         "example": {
           "en": "Typhoon Dolphin, the most powerful tropical cyclone to hit China this year, made landfall on the country's eastern coast on Sunday, bringing torrential rain and strong winds and triggering warnings of flooding and landslides."
@@ -80,14 +192,42 @@
     {
       "id": "forecaster",
       "en": "forecaster",
-      "ko": "A person who predicts what the weather will be.",
+      "ko": "날씨를 예측하는 사람",
       "l1": {
-        "en": "A person who predicts what the weather will be."
+        "en": "A person who predicts what the weather will be.",
+        "ko": "날씨를 예측하는 사람",
+        "zh-Hans": "预测天气的人",
+        "ja": "天気を予測する人",
+        "es": "persona que predice el tiempo",
+        "hi": "मौसम का पूर्वानुमान लगाने वाला व्यक्ति",
+        "de": "Person, die das Wetter vorhersagt",
+        "vi": "người dự báo thời tiết",
+        "pt-BR": "pessoa que prevê o tempo",
+        "id": "orang yang memprediksi cuaca",
+        "fr": "personne qui prédit la météo",
+        "ar": "شخص يتنبأ بالطقس",
+        "tr": "havayı tahmin eden kişi",
+        "it": "persona che prevede il tempo",
+        "pl": "osoba prognozująca pogodę"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A person who predicts what the weather will be."
+          "en": "A person who predicts what the weather will be.",
+          "ko": "날씨를 예측하는 사람",
+          "zh-Hans": "预测天气的人",
+          "ja": "天気を予測する人",
+          "es": "persona que predice el tiempo",
+          "hi": "मौसम का पूर्वानुमान लगाने वाला व्यक्ति",
+          "de": "Person, die das Wetter vorhersagt",
+          "vi": "người dự báo thời tiết",
+          "pt-BR": "pessoa que prevê o tempo",
+          "id": "orang yang memprediksi cuaca",
+          "fr": "personne qui prédit la météo",
+          "ar": "شخص يتنبأ بالطقس",
+          "tr": "havayı tahmin eden kişi",
+          "it": "persona che prevede il tempo",
+          "pl": "osoba prognozująca pogodę"
         },
         "example": {
           "en": "Typhoon Dolphin, the most powerful tropical cyclone to hit China this year, made landfall on the country's eastern coast on Sunday, bringing torrential rain and strong winds and triggering warnings of flooding and landslides."
@@ -98,14 +238,42 @@
     {
       "id": "coastal",
       "en": "coastal",
-      "ko": "Located on or near a coast or seashore.",
+      "ko": "해안이나 바닷가에 위치한",
       "l1": {
-        "en": "Located on or near a coast or seashore."
+        "en": "Located on or near a coast or seashore.",
+        "ko": "해안이나 바닷가에 위치한",
+        "zh-Hans": "位于海岸或海边的",
+        "ja": "海岸や海辺に位置する",
+        "es": "situado en la costa o cerca del mar",
+        "hi": "तट या समुद्र के किनारे स्थित",
+        "de": "an der Küste oder am Meer gelegen",
+        "vi": "nằm ở ven biển hoặc bờ biển",
+        "pt-BR": "localizado na costa ou beira-mar",
+        "id": "terletak di pesisir atau tepi laut",
+        "fr": "situé sur la côte ou le bord de mer",
+        "ar": "يقع على الساحل أو شاطئ البحر",
+        "tr": "kıyıda veya deniz kenarında bulunan",
+        "it": "situato sulla costa o sul mare",
+        "pl": "położony na wybrzeżu lub nad morzem"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Located on or near a coast or seashore."
+          "en": "Located on or near a coast or seashore.",
+          "ko": "해안이나 바닷가에 위치한",
+          "zh-Hans": "位于海岸或海边的",
+          "ja": "海岸や海辺に位置する",
+          "es": "situado en la costa o cerca del mar",
+          "hi": "तट या समुद्र के किनारे स्थित",
+          "de": "an der Küste oder am Meer gelegen",
+          "vi": "nằm ở ven biển hoặc bờ biển",
+          "pt-BR": "localizado na costa ou beira-mar",
+          "id": "terletak di pesisir atau tepi laut",
+          "fr": "situé sur la côte ou le bord de mer",
+          "ar": "يقع على الساحل أو شاطئ البحر",
+          "tr": "kıyıda veya deniz kenarında bulunan",
+          "it": "situato sulla costa o sul mare",
+          "pl": "położony na wybrzeżu lub nad morzem"
         },
         "example": {
           "en": "Typhoon Dolphin, the most powerful tropical cyclone to hit China this year, made landfall on the country's eastern coast on Sunday, bringing torrential rain and strong winds and triggering warnings of flooding and landslides."
@@ -116,14 +284,42 @@
     {
       "id": "flood",
       "en": "flood",
-      "ko": "A large amount of water covering land that is usually dry.",
+      "ko": "평소 마른 땅을 덮는 많은 물",
       "l1": {
-        "en": "A large amount of water covering land that is usually dry."
+        "en": "A large amount of water covering land that is usually dry.",
+        "ko": "평소 마른 땅을 덮는 많은 물",
+        "zh-Hans": "覆盖干燥陆地的大量水",
+        "ja": "普段は乾いた土地を覆う大量の水",
+        "es": "gran cantidad de agua que cubre tierra seca",
+        "hi": "सूखी जमीन को ढकने वाला बहुत पानी",
+        "de": "große Wassermenge, die trockenes Land bedeckt",
+        "vi": "lượng nước lớn bao phủ đất khô",
+        "pt-BR": "grande quantidade de água cobrindo terra seca",
+        "id": "air dalam jumlah besar menutupi tanah kering",
+        "fr": "grande quantité d'eau couvrant la terre sèche",
+        "ar": "كمية كبيرة من الماء تغطي الأرض الجافة",
+        "tr": "kuru toprağı kaplayan büyük su miktarı",
+        "it": "grande quantità d'acqua che copre terra asciutta",
+        "pl": "duża ilość wody pokrywająca suchy ląd"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A large amount of water covering land that is usually dry."
+          "en": "A large amount of water covering land that is usually dry.",
+          "ko": "평소 마른 땅을 덮는 많은 물",
+          "zh-Hans": "覆盖干燥陆地的大量水",
+          "ja": "普段は乾いた土地を覆う大量の水",
+          "es": "gran cantidad de agua que cubre tierra seca",
+          "hi": "सूखी जमीन को ढकने वाला बहुत पानी",
+          "de": "große Wassermenge, die trockenes Land bedeckt",
+          "vi": "lượng nước lớn bao phủ đất khô",
+          "pt-BR": "grande quantidade de água cobrindo terra seca",
+          "id": "air dalam jumlah besar menutupi tanah kering",
+          "fr": "grande quantité d'eau couvrant la terre sèche",
+          "ar": "كمية كبيرة من الماء تغطي الأرض الجافة",
+          "tr": "kuru toprağı kaplayan büyük su miktarı",
+          "it": "grande quantità d'acqua che copre terra asciutta",
+          "pl": "duża ilość wody pokrywająca suchy ląd"
         },
         "example": {
           "en": "Typhoon Dolphin, the most powerful tropical cyclone to hit China this year, made landfall on the country's eastern coast on Sunday, bringing torrential rain and strong winds and triggering warnings of flooding and landslides."
@@ -134,14 +330,42 @@
     {
       "id": "warning",
       "en": "warning",
-      "ko": "A statement telling people about possible danger.",
+      "ko": "가능한 위험을 알리는 말",
       "l1": {
-        "en": "A statement telling people about possible danger."
+        "en": "A statement telling people about possible danger.",
+        "ko": "가능한 위험을 알리는 말",
+        "zh-Hans": "告知可能危险的话",
+        "ja": "起こりうる危険を知らせる言葉",
+        "es": "aviso sobre un peligro posible",
+        "hi": "संभावित खतरे की सूचना",
+        "de": "Mitteilung über eine mögliche Gefahr",
+        "vi": "lời báo về nguy hiểm có thể xảy ra",
+        "pt-BR": "aviso sobre possível perigo",
+        "id": "pemberitahuan tentang kemungkinan bahaya",
+        "fr": "avertissement d'un danger possible",
+        "ar": "إعلان عن خطر محتمل",
+        "tr": "olası tehlikeyi bildiren ifade",
+        "it": "avviso di un possibile pericolo",
+        "pl": "ostrzeżenie o możliwym niebezpieczeństwie"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A statement telling people about possible danger."
+          "en": "A statement telling people about possible danger.",
+          "ko": "가능한 위험을 알리는 말",
+          "zh-Hans": "告知可能危险的话",
+          "ja": "起こりうる危険を知らせる言葉",
+          "es": "aviso sobre un peligro posible",
+          "hi": "संभावित खतरे की सूचना",
+          "de": "Mitteilung über eine mögliche Gefahr",
+          "vi": "lời báo về nguy hiểm có thể xảy ra",
+          "pt-BR": "aviso sobre possível perigo",
+          "id": "pemberitahuan tentang kemungkinan bahaya",
+          "fr": "avertissement d'un danger possible",
+          "ar": "إعلان عن خطر محتمل",
+          "tr": "olası tehlikeyi bildiren ifade",
+          "it": "avviso di un possibile pericolo",
+          "pl": "ostrzeżenie o możliwym niebezpieczeństwie"
         },
         "example": {
           "en": "The water resources ministry said several major rivers could see serious flooding, while smaller rivers in the hardest-hit areas could rise above warning levels."
@@ -152,14 +376,42 @@
     {
       "id": "vessel",
       "en": "vessel",
-      "ko": "A ship or large boat.",
+      "ko": "배나 큰 보트",
       "l1": {
-        "en": "A ship or large boat."
+        "en": "A ship or large boat.",
+        "ko": "배나 큰 보트",
+        "zh-Hans": "船或大艇",
+        "ja": "船や大型ボート",
+        "es": "barco o embarcación grande",
+        "hi": "जहाज या बड़ी नाव",
+        "de": "Schiff oder großes Boot",
+        "vi": "tàu hoặc thuyền lớn",
+        "pt-BR": "navio ou barco grande",
+        "id": "kapal atau perahu besar",
+        "fr": "navire ou grand bateau",
+        "ar": "سفينة أو قارب كبير",
+        "tr": "gemi veya büyük tekne",
+        "it": "nave o grande imbarcazione",
+        "pl": "statek lub duża łódź"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A ship or large boat."
+          "en": "A ship or large boat.",
+          "ko": "배나 큰 보트",
+          "zh-Hans": "船或大艇",
+          "ja": "船や大型ボート",
+          "es": "barco o embarcación grande",
+          "hi": "जहाज या बड़ी नाव",
+          "de": "Schiff oder großes Boot",
+          "vi": "tàu hoặc thuyền lớn",
+          "pt-BR": "navio ou barco grande",
+          "id": "kapal atau perahu besar",
+          "fr": "navire ou grand bateau",
+          "ar": "سفينة أو قارب كبير",
+          "tr": "gemi veya büyük tekne",
+          "it": "nave o grande imbarcazione",
+          "pl": "statek lub duża łódź"
         },
         "example": {
           "en": "Typhoon Dolphin, the most powerful tropical cyclone to hit China this year, made landfall on the country's eastern coast on Sunday, bringing torrential rain and strong winds and triggering warnings of flooding and landslides."
@@ -170,14 +422,42 @@
     {
       "id": "disrupt",
       "en": "disrupt",
-      "ko": "To interrupt or stop something from continuing normally.",
+      "ko": "정상적인 진행을 방해하거나 중단시키다",
       "l1": {
-        "en": "To interrupt or stop something from continuing normally."
+        "en": "To interrupt or stop something from continuing normally.",
+        "ko": "정상적인 진행을 방해하거나 중단시키다",
+        "zh-Hans": "打断或阻止正常进行",
+        "ja": "正常な進行を妨げたり止めたりする",
+        "es": "interrumpir o detener algo normal",
+        "hi": "सामान्य कार्य में बाधा डालना या रोकना",
+        "de": "etwas Normales unterbrechen oder stoppen",
+        "vi": "làm gián đoạn hoặc dừng việc bình thường",
+        "pt-BR": "interromper ou parar algo normal",
+        "id": "mengganggu atau menghentikan yang normal",
+        "fr": "interrompre ou arrêter le cours normal",
+        "ar": "مقاطعة أو إيقاف السير الطبيعي",
+        "tr": "normal gidişatı kesmek veya durdurmak",
+        "it": "interrompere o fermare il normale corso",
+        "pl": "przerwać lub zatrzymać normalny przebieg"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "To interrupt or stop something from continuing normally."
+          "en": "To interrupt or stop something from continuing normally.",
+          "ko": "정상적인 진행을 방해하거나 중단시키다",
+          "zh-Hans": "打断或阻止正常进行",
+          "ja": "正常な進行を妨げたり止めたりする",
+          "es": "interrumpir o detener algo normal",
+          "hi": "सामान्य कार्य में बाधा डालना या रोकना",
+          "de": "etwas Normales unterbrechen oder stoppen",
+          "vi": "làm gián đoạn hoặc dừng việc bình thường",
+          "pt-BR": "interromper ou parar algo normal",
+          "id": "mengganggu atau menghentikan yang normal",
+          "fr": "interrompre ou arrêter le cours normal",
+          "ar": "مقاطعة أو إيقاف السير الطبيعي",
+          "tr": "normal gidişatı kesmek veya durdurmak",
+          "it": "interrompere o fermare il normale corso",
+          "pl": "przerwać lub zatrzymać normalny przebieg"
         },
         "example": {
           "en": "Typhoon Dolphin, the most powerful tropical cyclone to hit China this year, made landfall on the country's eastern coast on Sunday, bringing torrential rain and strong winds and triggering warnings of flooding and landslides."

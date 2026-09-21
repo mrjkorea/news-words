@@ -11,14 +11,42 @@
       "id": "diabetes",
       "en": "diabetes",
       "pos": "noun",
-      "ko": "A long term condition in which the body has trouble controlling sugar in the blood.",
+      "ko": "당뇨병",
       "l1": {
-        "en": "A long term condition in which the body has trouble controlling sugar in the blood."
+        "en": "A long term condition in which the body has trouble controlling sugar in the blood.",
+        "ko": "당뇨병",
+        "zh-Hans": "糖尿病",
+        "ja": "糖尿病",
+        "es": "diabetes",
+        "hi": "मधुमेह",
+        "de": "Diabetes",
+        "vi": "tiểu đường",
+        "pt-BR": "diabetes",
+        "id": "diabetes",
+        "fr": "diabète",
+        "ar": "السكري",
+        "tr": "diyabet",
+        "it": "diabete",
+        "pl": "cukrzyca"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A long term condition in which the body has trouble controlling sugar in the blood."
+          "en": "A long term condition in which the body has trouble controlling sugar in the blood.",
+          "ko": "당뇨병",
+          "zh-Hans": "糖尿病",
+          "ja": "糖尿病",
+          "es": "diabetes",
+          "hi": "मधुमेह",
+          "de": "Diabetes",
+          "vi": "tiểu đường",
+          "pt-BR": "diabetes",
+          "id": "diabetes",
+          "fr": "diabète",
+          "ar": "السكري",
+          "tr": "diyabet",
+          "it": "diabete",
+          "pl": "cukrzyca"
         },
         "example": {
           "en": ""
@@ -29,14 +57,42 @@
       "id": "marathon",
       "en": "marathon",
       "pos": "noun",
-      "ko": "A running race of about forty-two kilometres.",
+      "ko": "마라톤",
       "l1": {
-        "en": "A running race of about forty-two kilometres."
+        "en": "A running race of about forty-two kilometres.",
+        "ko": "마라톤",
+        "zh-Hans": "马拉松",
+        "ja": "マラソン",
+        "es": "maratón",
+        "hi": "मैराथन",
+        "de": "Marathon",
+        "vi": "marathon",
+        "pt-BR": "maratona",
+        "id": "maraton",
+        "fr": "marathon",
+        "ar": "ماراثون",
+        "tr": "maraton",
+        "it": "maratona",
+        "pl": "maraton"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A running race of about forty-two kilometres."
+          "en": "A running race of about forty-two kilometres.",
+          "ko": "마라톤",
+          "zh-Hans": "马拉松",
+          "ja": "マラソン",
+          "es": "maratón",
+          "hi": "मैराथन",
+          "de": "Marathon",
+          "vi": "marathon",
+          "pt-BR": "maratona",
+          "id": "maraton",
+          "fr": "marathon",
+          "ar": "ماراثون",
+          "tr": "maraton",
+          "it": "maratona",
+          "pl": "maraton"
         },
         "example": {
           "en": ""
@@ -47,14 +103,42 @@
       "id": "glucose",
       "en": "glucose",
       "pos": "noun",
-      "ko": "A type of sugar that the body uses for energy.",
+      "ko": "포도당",
       "l1": {
-        "en": "A type of sugar that the body uses for energy."
+        "en": "A type of sugar that the body uses for energy.",
+        "ko": "포도당",
+        "zh-Hans": "葡萄糖",
+        "ja": "ブドウ糖",
+        "es": "glucosa",
+        "hi": "ग्लूकोज",
+        "de": "Glukose",
+        "vi": "glucose",
+        "pt-BR": "glicose",
+        "id": "glukosa",
+        "fr": "glucose",
+        "ar": "جلوكوز",
+        "tr": "glikoz",
+        "it": "glucosio",
+        "pl": "glukoza"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A type of sugar that the body uses for energy."
+          "en": "A type of sugar that the body uses for energy.",
+          "ko": "포도당",
+          "zh-Hans": "葡萄糖",
+          "ja": "ブドウ糖",
+          "es": "glucosa",
+          "hi": "ग्लूकोज",
+          "de": "Glukose",
+          "vi": "glucose",
+          "pt-BR": "glicose",
+          "id": "glukosa",
+          "fr": "glucose",
+          "ar": "جلوكوز",
+          "tr": "glikoz",
+          "it": "glucosio",
+          "pl": "glukoza"
         },
         "example": {
           "en": ""
@@ -65,14 +149,42 @@
       "id": "insulin",
       "en": "insulin",
       "pos": "noun",
-      "ko": "A hormone that moves sugar from the blood into the cells.",
+      "ko": "인슐린",
       "l1": {
-        "en": "A hormone that moves sugar from the blood into the cells."
+        "en": "A hormone that moves sugar from the blood into the cells.",
+        "ko": "인슐린",
+        "zh-Hans": "胰岛素",
+        "ja": "インスリン",
+        "es": "insulina",
+        "hi": "इंसुलिन",
+        "de": "Insulin",
+        "vi": "insulin",
+        "pt-BR": "insulina",
+        "id": "insulin",
+        "fr": "insuline",
+        "ar": "أنسولين",
+        "tr": "insülin",
+        "it": "insulina",
+        "pl": "insulina"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A hormone that moves sugar from the blood into the cells."
+          "en": "A hormone that moves sugar from the blood into the cells.",
+          "ko": "인슐린",
+          "zh-Hans": "胰岛素",
+          "ja": "インスリン",
+          "es": "insulina",
+          "hi": "इंसुलिन",
+          "de": "Insulin",
+          "vi": "insulin",
+          "pt-BR": "insulina",
+          "id": "insulin",
+          "fr": "insuline",
+          "ar": "أنسولين",
+          "tr": "insülin",
+          "it": "insulina",
+          "pl": "insulina"
         },
         "example": {
           "en": ""
@@ -83,14 +195,42 @@
       "id": "monitor",
       "en": "monitor",
       "pos": "noun",
-      "ko": "To watch something carefully over time or a device that shows information.",
+      "ko": "주의 깊게 관찰하다; 정보 표시 장치",
       "l1": {
-        "en": "To watch something carefully over time or a device that shows information."
+        "en": "To watch something carefully over time or a device that shows information.",
+        "ko": "주의 깊게 관찰하다; 정보 표시 장치",
+        "zh-Hans": "仔细观察；显示信息的设备",
+        "ja": "注意深く観察する；情報表示装置",
+        "es": "observar atentamente; dispositivo que muestra información",
+        "hi": "ध्यान से निरीक्षण करना; सूचना दिखाने वाला उपकरण",
+        "de": "aufmerksam beobachten; Gerät zur Informationsanzeige",
+        "vi": "quan sát kỹ; thiết bị hiển thị thông tin",
+        "pt-BR": "observar atentamente; dispositivo que mostra informações",
+        "id": "mengamati dengan cermat; perangkat penampil informasi",
+        "fr": "observer attentivement ; appareil d'affichage d'informations",
+        "ar": "يراقب بعناية؛ جهاز يعرض المعلومات",
+        "tr": "dikkatle izlemek; bilgi gösteren cihaz",
+        "it": "osservare attentamente; dispositivo che mostra informazioni",
+        "pl": "uważnie obserwować; urządzenie wyświetlające informacje"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "To watch something carefully over time or a device that shows information."
+          "en": "To watch something carefully over time or a device that shows information.",
+          "ko": "주의 깊게 관찰하다; 정보 표시 장치",
+          "zh-Hans": "仔细观察；显示信息的设备",
+          "ja": "注意深く観察する；情報表示装置",
+          "es": "observar atentamente; dispositivo que muestra información",
+          "hi": "ध्यान से निरीक्षण करना; सूचना दिखाने वाला उपकरण",
+          "de": "aufmerksam beobachten; Gerät zur Informationsanzeige",
+          "vi": "quan sát kỹ; thiết bị hiển thị thông tin",
+          "pt-BR": "observar atentamente; dispositivo que mostra informações",
+          "id": "mengamati dengan cermat; perangkat penampil informasi",
+          "fr": "observer attentivement ; appareil d'affichage d'informations",
+          "ar": "يراقب بعناية؛ جهاز يعرض المعلومات",
+          "tr": "dikkatle izlemek; bilgi gösteren cihaz",
+          "it": "osservare attentamente; dispositivo che mostra informazioni",
+          "pl": "uważnie obserwować; urządzenie wyświetlające informacje"
         },
         "example": {
           "en": ""
@@ -101,14 +241,42 @@
       "id": "sensor",
       "en": "sensor",
       "pos": "noun",
-      "ko": "A small device that measures something and sends the information.",
+      "ko": "측정하고 정보를 보내는 작은 장치",
       "l1": {
-        "en": "A small device that measures something and sends the information."
+        "en": "A small device that measures something and sends the information.",
+        "ko": "측정하고 정보를 보내는 작은 장치",
+        "zh-Hans": "测量并发送信息的小型设备",
+        "ja": "測定して情報を送る小型装置",
+        "es": "pequeño dispositivo que mide y envía información",
+        "hi": "मापने और सूचना भेजने वाला छोटा उपकरण",
+        "de": "kleines Gerät, das misst und Informationen sendet",
+        "vi": "thiết bị nhỏ đo và gửi thông tin",
+        "pt-BR": "pequeno dispositivo que mede e envia informações",
+        "id": "perangkat kecil yang mengukur dan mengirim informasi",
+        "fr": "petit appareil qui mesure et envoie des informations",
+        "ar": "جهاز صغير يقيس ويرسل المعلومات",
+        "tr": "ölçen ve bilgi gönderen küçük cihaz",
+        "it": "piccolo dispositivo che misura e invia informazioni",
+        "pl": "małe urządzenie mierzące i wysyłające informacje"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A small device that measures something and sends the information."
+          "en": "A small device that measures something and sends the information.",
+          "ko": "측정하고 정보를 보내는 작은 장치",
+          "zh-Hans": "测量并发送信息的小型设备",
+          "ja": "測定して情報を送る小型装置",
+          "es": "pequeño dispositivo que mide y envía información",
+          "hi": "मापने और सूचना भेजने वाला छोटा उपकरण",
+          "de": "kleines Gerät, das misst und Informationen sendet",
+          "vi": "thiết bị nhỏ đo và gửi thông tin",
+          "pt-BR": "pequeno dispositivo que mede e envia informações",
+          "id": "perangkat kecil yang mengukur dan mengirim informasi",
+          "fr": "petit appareil qui mesure et envoie des informations",
+          "ar": "جهاز صغير يقيس ويرسل المعلومات",
+          "tr": "ölçen ve bilgi gönderen küçük cihaz",
+          "it": "piccolo dispositivo che misura e invia informazioni",
+          "pl": "małe urządzenie mierzące i wysyłające informacje"
         },
         "example": {
           "en": ""
@@ -119,14 +287,42 @@
       "id": "endurance",
       "en": "endurance",
       "pos": "noun",
-      "ko": "The ability to keep going through long or difficult activity.",
+      "ko": "오래 힘든 활동을 계속할 수 있는 능력",
       "l1": {
-        "en": "The ability to keep going through long or difficult activity."
+        "en": "The ability to keep going through long or difficult activity.",
+        "ko": "오래 힘든 활동을 계속할 수 있는 능력",
+        "zh-Hans": "持续进行长时间或困难活动的能力",
+        "ja": "長く困難な活動を続ける能力",
+        "es": "capacidad de continuar una actividad larga o difícil",
+        "hi": "लंबी या कठिन गतिविधि जारी रखने की क्षमता",
+        "de": "Fähigkeit, lange oder schwierige Aktivität fortzusetzen",
+        "vi": "khả năng tiếp tục hoạt động lâu dài hoặc khó khăn",
+        "pt-BR": "capacidade de continuar atividade longa ou difícil",
+        "id": "kemampuan melanjutkan aktivitas panjang atau sulit",
+        "fr": "capacité à poursuivre une activité longue ou difficile",
+        "ar": "القدرة على مواصلة نشاط طويل أو صعب",
+        "tr": "uzun veya zor aktiviteyi sürdürme yeteneği",
+        "it": "capacità di continuare un'attività lunga o difficile",
+        "pl": "zdolność kontynuowania długiej lub trudnej aktywności"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The ability to keep going through long or difficult activity."
+          "en": "The ability to keep going through long or difficult activity.",
+          "ko": "오래 힘든 활동을 계속할 수 있는 능력",
+          "zh-Hans": "持续进行长时间或困难活动的能力",
+          "ja": "長く困難な活動を続ける能力",
+          "es": "capacidad de continuar una actividad larga o difícil",
+          "hi": "लंबी या कठिन गतिविधि जारी रखने की क्षमता",
+          "de": "Fähigkeit, lange oder schwierige Aktivität fortzusetzen",
+          "vi": "khả năng tiếp tục hoạt động lâu dài hoặc khó khăn",
+          "pt-BR": "capacidade de continuar atividade longa ou difícil",
+          "id": "kemampuan melanjutkan aktivitas panjang atau sulit",
+          "fr": "capacité à poursuivre une activité longue ou difficile",
+          "ar": "القدرة على مواصلة نشاط طويل أو صعب",
+          "tr": "uzun veya zor aktiviteyi sürdürme yeteneği",
+          "it": "capacità di continuare un'attività lunga o difficile",
+          "pl": "zdolność kontynuowania długiej lub trudnej aktywności"
         },
         "example": {
           "en": ""
@@ -137,14 +333,42 @@
       "id": "athlete",
       "en": "athlete",
       "pos": "noun",
-      "ko": "A person who is trained in and takes part in sport.",
+      "ko": "훈련된 스포츠 선수",
       "l1": {
-        "en": "A person who is trained in and takes part in sport."
+        "en": "A person who is trained in and takes part in sport.",
+        "ko": "훈련된 스포츠 선수",
+        "zh-Hans": "受过训练并参加体育运动的人",
+        "ja": "訓練を受けてスポーツに参加する人",
+        "es": "persona entrenada que practica deporte",
+        "hi": "प्रशिक्षित व्यक्ति जो खेल में भाग लेता है",
+        "de": "trainierte Person, die Sport treibt",
+        "vi": "người được huấn luyện tham gia thể thao",
+        "pt-BR": "pessoa treinada que pratica esporte",
+        "id": "orang terlatih yang berpartisipasi dalam olahraga",
+        "fr": "personne entraînée qui pratique un sport",
+        "ar": "شخص مدرب يشارك في الرياضة",
+        "tr": "sporla uğraşan eğitimli kişi",
+        "it": "persona allenata che pratica sport",
+        "pl": "wyszkolona osoba uprawiająca sport"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A person who is trained in and takes part in sport."
+          "en": "A person who is trained in and takes part in sport.",
+          "ko": "훈련된 스포츠 선수",
+          "zh-Hans": "受过训练并参加体育运动的人",
+          "ja": "訓練を受けてスポーツに参加する人",
+          "es": "persona entrenada que practica deporte",
+          "hi": "प्रशिक्षित व्यक्ति जो खेल में भाग लेता है",
+          "de": "trainierte Person, die Sport treibt",
+          "vi": "người được huấn luyện tham gia thể thao",
+          "pt-BR": "pessoa treinada que pratica esporte",
+          "id": "orang terlatih yang berpartisipasi dalam olahraga",
+          "fr": "personne entraînée qui pratique un sport",
+          "ar": "شخص مدرب يشارك في الرياضة",
+          "tr": "sporla uğraşan eğitimli kişi",
+          "it": "persona allenata che pratica sport",
+          "pl": "wyszkolona osoba uprawiająca sport"
         },
         "example": {
           "en": ""
@@ -155,14 +379,42 @@
       "id": "condition",
       "en": "condition",
       "pos": "noun",
-      "ko": "A long term illness or medical state of the body.",
+      "ko": "장기 질환이나 신체의 의학적 상태",
       "l1": {
-        "en": "A long term illness or medical state of the body."
+        "en": "A long term illness or medical state of the body.",
+        "ko": "장기 질환이나 신체의 의학적 상태",
+        "zh-Hans": "长期疾病或身体的医学状态",
+        "ja": "長期の病気や体の医学的状態",
+        "es": "enfermedad de largo plazo o estado médico del cuerpo",
+        "hi": "दीर्घकालिक बीमारी या शरीर की चिकित्सीय स्थिति",
+        "de": "Langzeiterkrankung oder medizinischer Zustand des Körpers",
+        "vi": "bệnh dài hạn hoặc tình trạng y tế của cơ thể",
+        "pt-BR": "doença de longo prazo ou estado médico do corpo",
+        "id": "penyakit jangka panjang atau kondisi medis tubuh",
+        "fr": "maladie de longue durée ou état médical du corps",
+        "ar": "مرض طويل الأمد أو حالة طبية للجسم",
+        "tr": "uzun süreli hastalık veya vücudun tıbbi durumu",
+        "it": "malattia a lungo termine o stato medico del corpo",
+        "pl": "choroba przewlekła lub stan medyczny ciała"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A long term illness or medical state of the body."
+          "en": "A long term illness or medical state of the body.",
+          "ko": "장기 질환이나 신체의 의학적 상태",
+          "zh-Hans": "长期疾病或身体的医学状态",
+          "ja": "長期の病気や体の医学的状態",
+          "es": "enfermedad de largo plazo o estado médico del cuerpo",
+          "hi": "दीर्घकालिक बीमारी या शरीर की चिकित्सीय स्थिति",
+          "de": "Langzeiterkrankung oder medizinischer Zustand des Körpers",
+          "vi": "bệnh dài hạn hoặc tình trạng y tế của cơ thể",
+          "pt-BR": "doença de longo prazo ou estado médico do corpo",
+          "id": "penyakit jangka panjang atau kondisi medis tubuh",
+          "fr": "maladie de longue durée ou état médical du corps",
+          "ar": "مرض طويل الأمد أو حالة طبية للجسم",
+          "tr": "uzun süreli hastalık veya vücudun tıbbi durumu",
+          "it": "malattia a lungo termine o stato medico del corpo",
+          "pl": "choroba przewlekła lub stan medyczny ciała"
         },
         "example": {
           "en": ""
@@ -173,14 +425,42 @@
       "id": "treatment",
       "en": "treatment",
       "pos": "noun",
-      "ko": "Medical care given to cure or manage an illness.",
+      "ko": "질병을 치료하거나 관리하는 의료 행위",
       "l1": {
-        "en": "Medical care given to cure or manage an illness."
+        "en": "Medical care given to cure or manage an illness.",
+        "ko": "질병을 치료하거나 관리하는 의료 행위",
+        "zh-Hans": "为治愈或控制疾病而提供的医疗护理",
+        "ja": "病気を治すまたは管理する医療",
+        "es": "atención médica para curar o controlar una enfermedad",
+        "hi": "बीमारी को ठीक या नियंत्रित करने के लिए चिकित्सा देखभाल",
+        "de": "medizinische Versorgung zur Heilung oder Kontrolle einer Krankheit",
+        "vi": "chăm sóc y tế để chữa hoặc kiểm soát bệnh",
+        "pt-BR": "cuidado médico para curar ou controlar uma doença",
+        "id": "perawatan medis untuk menyembuhkan atau mengendalikan penyakit",
+        "fr": "soins médicaux pour guérir ou gérer une maladie",
+        "ar": "رعاية طبية لعلاج أو إدارة مرض",
+        "tr": "hastalığı iyileştirmek veya yönetmek için tıbbi bakım",
+        "it": "cure mediche per guarire o gestire una malattia",
+        "pl": "opieka medyczna w celu wyleczenia lub opanowania choroby"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Medical care given to cure or manage an illness."
+          "en": "Medical care given to cure or manage an illness.",
+          "ko": "질병을 치료하거나 관리하는 의료 행위",
+          "zh-Hans": "为治愈或控制疾病而提供的医疗护理",
+          "ja": "病気を治すまたは管理する医療",
+          "es": "atención médica para curar o controlar una enfermedad",
+          "hi": "बीमारी को ठीक या नियंत्रित करने के लिए चिकित्सा देखभाल",
+          "de": "medizinische Versorgung zur Heilung oder Kontrolle einer Krankheit",
+          "vi": "chăm sóc y tế để chữa hoặc kiểm soát bệnh",
+          "pt-BR": "cuidado médico para curar ou controlar uma doença",
+          "id": "perawatan medis untuk menyembuhkan atau mengendalikan penyakit",
+          "fr": "soins médicaux pour guérir ou gérer une maladie",
+          "ar": "رعاية طبية لعلاج أو إدارة مرض",
+          "tr": "hastalığı iyileştirmek veya yönetmek için tıbbi bakım",
+          "it": "cure mediche per guarire o gestire una malattia",
+          "pl": "opieka medyczna w celu wyleczenia lub opanowania choroby"
         },
         "example": {
           "en": ""

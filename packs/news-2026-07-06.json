@@ -8,14 +8,42 @@
     {
       "id": "resignation",
       "en": "resignation",
-      "ko": "The act of officially leaving a job or position of power",
+      "ko": "직장이나 권력의 자리에서 공식적으로 물러나는 행위",
       "l1": {
-        "en": "The act of officially leaving a job or position of power"
+        "en": "The act of officially leaving a job or position of power",
+        "ko": "직장이나 권력의 자리에서 공식적으로 물러나는 행위",
+        "zh-Hans": "正式离开工作或权力职位的行为",
+        "ja": "仕事や権力の座を正式に辞める行為",
+        "es": "acto de dejar oficialmente un trabajo o cargo de poder",
+        "hi": "नौकरी या सत्ता के पद से आधिकारिक रूप से इस्तीफा देने का कार्य",
+        "de": "Amtsniederlegung oder offizieller Rücktritt von einer Position",
+        "vi": "hành động chính thức rời bỏ công việc hoặc chức vụ quyền lực",
+        "pt-BR": "ato de deixar oficialmente um emprego ou cargo de poder",
+        "id": "tindakan resmi meninggalkan pekerjaan atau jabatan berkuasa",
+        "fr": "action de quitter officiellement un emploi ou un poste de pouvoir",
+        "ar": "فعل ترك وظيفة أو منصب سلطة رسميًا",
+        "tr": "bir işten veya güç makamından resmen ayrılma eylemi",
+        "it": "atto di lasciare ufficialmente un lavoro o una posizione di potere",
+        "pl": "oficjalne odejście z pracy lub stanowiska władzy"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "The act of officially leaving a job or position of power"
+          "en": "The act of officially leaving a job or position of power",
+          "ko": "직장이나 권력의 자리에서 공식적으로 물러나는 행위",
+          "zh-Hans": "正式离开工作或权力职位的行为",
+          "ja": "仕事や権力の座を正式に辞める行為",
+          "es": "acto de dejar oficialmente un trabajo o cargo de poder",
+          "hi": "नौकरी या सत्ता के पद से आधिकारिक रूप से इस्तीफा देने का कार्य",
+          "de": "Amtsniederlegung oder offizieller Rücktritt von einer Position",
+          "vi": "hành động chính thức rời bỏ công việc hoặc chức vụ quyền lực",
+          "pt-BR": "ato de deixar oficialmente um emprego ou cargo de poder",
+          "id": "tindakan resmi meninggalkan pekerjaan atau jabatan berkuasa",
+          "fr": "action de quitter officiellement un emploi ou un poste de pouvoir",
+          "ar": "فعل ترك وظيفة أو منصب سلطة رسميًا",
+          "tr": "bir işten veya güç makamından resmen ayrılma eylemi",
+          "it": "atto di lasciare ufficialmente un lavoro o una posizione di potere",
+          "pl": "oficjalne odejście z pracy lub stanowiska władzy"
         },
         "example": {
           "en": "Today's news uses the word resignation."
@@ -26,14 +54,42 @@
     {
       "id": "prime",
       "en": "prime",
-      "ko": "First in importance rank or quality",
+      "ko": "중요성, 순위, 품질에서 첫 번째인",
       "l1": {
-        "en": "First in importance rank or quality"
+        "en": "First in importance rank or quality",
+        "ko": "중요성, 순위, 품질에서 첫 번째인",
+        "zh-Hans": "在重要性、等级或质量上第一的",
+        "ja": "重要性・順位・品質で第一の",
+        "es": "primero en importancia, rango o calidad",
+        "hi": "महत्व, श्रेणी या गुणवत्ता में पहला",
+        "de": "erster in Bedeutung, Rang oder Qualität",
+        "vi": "đứng đầu về tầm quan trọng, thứ hạng hoặc chất lượng",
+        "pt-BR": "primeiro em importância, posição ou qualidade",
+        "id": "pertama dalam kepentingan, peringkat, atau kualitas",
+        "fr": "premier en importance, rang ou qualité",
+        "ar": "الأول في الأهمية أو الرتبة أو الجودة",
+        "tr": "önem, rütbe veya kalitede birinci",
+        "it": "primo per importanza, rango o qualità",
+        "pl": "pierwszy pod względem ważności, rangi lub jakości"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "First in importance rank or quality"
+          "en": "First in importance rank or quality",
+          "ko": "중요성, 순위, 품질에서 첫 번째인",
+          "zh-Hans": "在重要性、等级或质量上第一的",
+          "ja": "重要性・順位・品質で第一の",
+          "es": "primero en importancia, rango o calidad",
+          "hi": "महत्व, श्रेणी या गुणवत्ता में पहला",
+          "de": "erster in Bedeutung, Rang oder Qualität",
+          "vi": "đứng đầu về tầm quan trọng, thứ hạng hoặc chất lượng",
+          "pt-BR": "primeiro em importância, posição ou qualidade",
+          "id": "pertama dalam kepentingan, peringkat, atau kualitas",
+          "fr": "premier en importance, rang ou qualité",
+          "ar": "الأول في الأهمية أو الرتبة أو الجودة",
+          "tr": "önem, rütbe veya kalitede birinci",
+          "it": "primo per importanza, rango o qualità",
+          "pl": "pierwszy pod względem ważności, rangi lub jakości"
         },
         "example": {
           "en": "Today's news uses the word prime."
@@ -44,14 +100,42 @@
     {
       "id": "minister",
       "en": "minister",
-      "ko": "A senior government official in charge of a department",
+      "ko": "정부 부처를 책임지는 고위 공무원",
       "l1": {
-        "en": "A senior government official in charge of a department"
+        "en": "A senior government official in charge of a department",
+        "ko": "정부 부처를 책임지는 고위 공무원",
+        "zh-Hans": "负责政府部门的资深官员",
+        "ja": "政府の部門を担当する上級公務員",
+        "es": "alto funcionario a cargo de un ministerio",
+        "hi": "सरकारी विभाग का प्रभारी वरिष्ठ अधिकारी",
+        "de": "hoher Regierungsbeamter, der ein Ministerium leitet",
+        "vi": "quan chức cấp cao phụ trách một bộ",
+        "pt-BR": "alto funcionário responsável por um ministério",
+        "id": "pejabat tinggi yang mengepalai kementerian",
+        "fr": "haut fonctionnaire responsable d'un ministère",
+        "ar": "مسؤول حكومي رفيع يدير وزارة",
+        "tr": "bir bakanlığı yöneten üst düzey hükümet yetkilisi",
+        "it": "alto funzionario a capo di un ministero",
+        "pl": "wysoki urzędnik rządowy kierujący ministerstwem"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A senior government official in charge of a department"
+          "en": "A senior government official in charge of a department",
+          "ko": "정부 부처를 책임지는 고위 공무원",
+          "zh-Hans": "负责政府部门的资深官员",
+          "ja": "政府の部門を担当する上級公務員",
+          "es": "alto funcionario a cargo de un ministerio",
+          "hi": "सरकारी विभाग का प्रभारी वरिष्ठ अधिकारी",
+          "de": "hoher Regierungsbeamter, der ein Ministerium leitet",
+          "vi": "quan chức cấp cao phụ trách một bộ",
+          "pt-BR": "alto funcionário responsável por um ministério",
+          "id": "pejabat tinggi yang mengepalai kementerian",
+          "fr": "haut fonctionnaire responsable d'un ministère",
+          "ar": "مسؤول حكومي رفيع يدير وزارة",
+          "tr": "bir bakanlığı yöneten üst düzey hükümet yetkilisi",
+          "it": "alto funzionario a capo di un ministero",
+          "pl": "wysoki urzędnik rządowy kierujący ministerstwem"
         },
         "example": {
           "en": "Today's news uses the word minister."
@@ -62,14 +146,42 @@
     {
       "id": "parliament",
       "en": "parliament",
-      "ko": "The group of people who make laws for a country",
+      "ko": "국가의 법을 만드는 사람들의 모임",
       "l1": {
-        "en": "The group of people who make laws for a country"
+        "en": "The group of people who make laws for a country",
+        "ko": "국가의 법을 만드는 사람들의 모임",
+        "zh-Hans": "为国家制定法律的人群",
+        "ja": "国の法律を制定する人々の集まり",
+        "es": "grupo de personas que hacen las leyes de un país",
+        "hi": "देश के लिए कानून बनाने वाले लोगों का समूह",
+        "de": "Gruppe von Personen, die Gesetze für ein Land erlassen",
+        "vi": "nhóm người làm luật cho một quốc gia",
+        "pt-BR": "grupo de pessoas que fazem as leis de um país",
+        "id": "kelompok orang yang membuat undang-undang suatu negara",
+        "fr": "groupe de personnes qui font les lois d'un pays",
+        "ar": "مجموعة الأشخاص الذين يسنون قوانين البلاد",
+        "tr": "bir ülkenin yasalarını yapan kişiler grubu",
+        "it": "gruppo di persone che fanno le leggi di un paese",
+        "pl": "grupa osób tworzących prawa dla kraju"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The group of people who make laws for a country"
+          "en": "The group of people who make laws for a country",
+          "ko": "국가의 법을 만드는 사람들의 모임",
+          "zh-Hans": "为国家制定法律的人群",
+          "ja": "国の法律を制定する人々の集まり",
+          "es": "grupo de personas que hacen las leyes de un país",
+          "hi": "देश के लिए कानून बनाने वाले लोगों का समूह",
+          "de": "Gruppe von Personen, die Gesetze für ein Land erlassen",
+          "vi": "nhóm người làm luật cho một quốc gia",
+          "pt-BR": "grupo de pessoas que fazem as leis de um país",
+          "id": "kelompok orang yang membuat undang-undang suatu negara",
+          "fr": "groupe de personnes qui font les lois d'un pays",
+          "ar": "مجموعة الأشخاص الذين يسنون قوانين البلاد",
+          "tr": "bir ülkenin yasalarını yapan kişiler grubu",
+          "it": "gruppo di persone che fanno le leggi di un paese",
+          "pl": "grupa osób tworzących prawa dla kraju"
         },
         "example": {
           "en": "Today's news uses the word parliament."
@@ -80,14 +192,42 @@
     {
       "id": "crisis",
       "en": "crisis",
-      "ko": "A time of great danger difficulty or uncertainty",
+      "ko": "큰 위험이나 어려움이 닥친 시기",
       "l1": {
-        "en": "A time of great danger difficulty or uncertainty"
+        "en": "A time of great danger difficulty or uncertainty",
+        "ko": "큰 위험이나 어려움이 닥친 시기",
+        "zh-Hans": "巨大危险或困难的时期",
+        "ja": "大きな危険や困難の時期",
+        "es": "momento de gran peligro o dificultad",
+        "hi": "बड़े खतरे या कठिनाई का समय",
+        "de": "Zeit großer Gefahr oder Schwierigkeit",
+        "vi": "thời kỳ nguy hiểm hoặc khó khăn lớn",
+        "pt-BR": "momento de grande perigo ou dificuldade",
+        "id": "masa bahaya atau kesulitan besar",
+        "fr": "période de grand danger ou difficulté",
+        "ar": "وقت خطر أو صعوبة كبيرة",
+        "tr": "büyük tehlike veya zorluk dönemi",
+        "it": "momento di grande pericolo o difficoltà",
+        "pl": "okres wielkiego niebezpieczeństwa lub trudności"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A time of great danger difficulty or uncertainty"
+          "en": "A time of great danger difficulty or uncertainty",
+          "ko": "큰 위험이나 어려움이 닥친 시기",
+          "zh-Hans": "巨大危险或困难的时期",
+          "ja": "大きな危険や困難の時期",
+          "es": "momento de gran peligro o dificultad",
+          "hi": "बड़े खतरे या कठिनाई का समय",
+          "de": "Zeit großer Gefahr oder Schwierigkeit",
+          "vi": "thời kỳ nguy hiểm hoặc khó khăn lớn",
+          "pt-BR": "momento de grande perigo ou dificuldade",
+          "id": "masa bahaya atau kesulitan besar",
+          "fr": "période de grand danger ou difficulté",
+          "ar": "وقت خطر أو صعوبة كبيرة",
+          "tr": "büyük tehlike veya zorluk dönemi",
+          "it": "momento di grande pericolo o difficoltà",
+          "pl": "okres wielkiego niebezpieczeństwa lub trudności"
         },
         "example": {
           "en": "Today's news uses the word crisis."
@@ -98,14 +238,42 @@
     {
       "id": "candidate",
       "en": "candidate",
-      "ko": "A person who is competing for a position or office",
+      "ko": "직위나 선거에 나선 사람",
       "l1": {
-        "en": "A person who is competing for a position or office"
+        "en": "A person who is competing for a position or office",
+        "ko": "직위나 선거에 나선 사람",
+        "zh-Hans": "竞选职位或公职的人",
+        "ja": "役職や選挙に立候補した人",
+        "es": "persona que compite por un cargo",
+        "hi": "पद के लिए प्रतिस्पर्धा करने वाला व्यक्ति",
+        "de": "Person, die für ein Amt kandidiert",
+        "vi": "người tranh cử một vị trí",
+        "pt-BR": "pessoa que concorre a um cargo",
+        "id": "orang yang bersaing untuk suatu jabatan",
+        "fr": "personne qui se présente à un poste",
+        "ar": "شخص يتنافس على منصب",
+        "tr": "bir görev için yarışan kişi",
+        "it": "persona che compete per una carica",
+        "pl": "osoba ubiegająca się o stanowisko"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A person who is competing for a position or office"
+          "en": "A person who is competing for a position or office",
+          "ko": "직위나 선거에 나선 사람",
+          "zh-Hans": "竞选职位或公职的人",
+          "ja": "役職や選挙に立候補した人",
+          "es": "persona que compite por un cargo",
+          "hi": "पद के लिए प्रतिस्पर्धा करने वाला व्यक्ति",
+          "de": "Person, die für ein Amt kandidiert",
+          "vi": "người tranh cử một vị trí",
+          "pt-BR": "pessoa que concorre a um cargo",
+          "id": "orang yang bersaing untuk suatu jabatan",
+          "fr": "personne qui se présente à un poste",
+          "ar": "شخص يتنافس على منصب",
+          "tr": "bir görev için yarışan kişi",
+          "it": "persona che compete per una carica",
+          "pl": "osoba ubiegająca się o stanowisko"
         },
         "example": {
           "en": "Today's news uses the word candidate."
@@ -116,14 +284,42 @@
     {
       "id": "cabinet",
       "en": "cabinet",
-      "ko": "The group of senior ministers who advise the head of government",
+      "ko": "정부 수반을 보좌하는 고위 장관들",
       "l1": {
-        "en": "The group of senior ministers who advise the head of government"
+        "en": "The group of senior ministers who advise the head of government",
+        "ko": "정부 수반을 보좌하는 고위 장관들",
+        "zh-Hans": "辅佐政府首脑的高级部长们",
+        "ja": "政府の長を補佐する上級大臣たち",
+        "es": "grupo de ministros que asesoran al jefe de gobierno",
+        "hi": "सरकार के प्रमुख को सलाह देने वाले वरिष्ठ मंत्री",
+        "de": "Gruppe hoher Minister, die den Regierungschef beraten",
+        "vi": "nhóm bộ trưởng cấp cao cố vấn cho người đứng đầu chính phủ",
+        "pt-BR": "grupo de ministros que aconselham o chefe de governo",
+        "id": "kelompok menteri senior yang menasihati kepala pemerintahan",
+        "fr": "groupe de ministres qui conseillent le chef du gouvernement",
+        "ar": "مجموعة الوزراء الكبار الذين ينصحون رئيس الحكومة",
+        "tr": "hükümet başkanına danışmanlık yapan üst düzey bakanlar",
+        "it": "gruppo di ministri che consigliano il capo del governo",
+        "pl": "grupa ministrów doradzających szefowi rządu"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The group of senior ministers who advise the head of government"
+          "en": "The group of senior ministers who advise the head of government",
+          "ko": "정부 수반을 보좌하는 고위 장관들",
+          "zh-Hans": "辅佐政府首脑的高级部长们",
+          "ja": "政府の長を補佐する上級大臣たち",
+          "es": "grupo de ministros que asesoran al jefe de gobierno",
+          "hi": "सरकार के प्रमुख को सलाह देने वाले वरिष्ठ मंत्री",
+          "de": "Gruppe hoher Minister, die den Regierungschef beraten",
+          "vi": "nhóm bộ trưởng cấp cao cố vấn cho người đứng đầu chính phủ",
+          "pt-BR": "grupo de ministros que aconselham o chefe de governo",
+          "id": "kelompok menteri senior yang menasihati kepala pemerintahan",
+          "fr": "groupe de ministres qui conseillent le chef du gouvernement",
+          "ar": "مجموعة الوزراء الكبار الذين ينصحون رئيس الحكومة",
+          "tr": "hükümet başkanına danışmanlık yapan üst düzey bakanlar",
+          "it": "gruppo di ministri che consigliano il capo del governo",
+          "pl": "grupa ministrów doradzających szefowi rządu"
         },
         "example": {
           "en": "Today's news uses the word cabinet."
@@ -134,14 +330,42 @@
     {
       "id": "govern",
       "en": "govern",
-      "ko": "To officially control and manage a country or organization",
+      "ko": "국가나 조직을 공식적으로 통제하고 관리하다",
       "l1": {
-        "en": "To officially control and manage a country or organization"
+        "en": "To officially control and manage a country or organization",
+        "ko": "국가나 조직을 공식적으로 통제하고 관리하다",
+        "zh-Hans": "正式控制和管理国家或组织",
+        "ja": "国や組織を公式に統治し管理する",
+        "es": "controlar y administrar oficialmente un país u organización",
+        "hi": "किसी देश या संगठन को आधिकारिक रूप से नियंत्रित करना",
+        "de": "ein Land oder eine Organisation offiziell kontrollieren und leiten",
+        "vi": "chính thức kiểm soát và quản lý một quốc gia hoặc tổ chức",
+        "pt-BR": "controlar e administrar oficialmente um país ou organização",
+        "id": "secara resmi mengendalikan dan mengelola negara atau organisasi",
+        "fr": "contrôler et gérer officiellement un pays ou une organisation",
+        "ar": "السيطرة الرسمية على بلد أو منظمة وإدارتها",
+        "tr": "bir ülkeyi veya kuruluşu resmen yönetmek",
+        "it": "controllare e gestire ufficialmente un paese o un'organizzazione",
+        "pl": "oficjalnie kontrolować i zarządzać krajem lub organizacją"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "To officially control and manage a country or organization"
+          "en": "To officially control and manage a country or organization",
+          "ko": "국가나 조직을 공식적으로 통제하고 관리하다",
+          "zh-Hans": "正式控制和管理国家或组织",
+          "ja": "国や組織を公式に統治し管理する",
+          "es": "controlar y administrar oficialmente un país u organización",
+          "hi": "किसी देश या संगठन को आधिकारिक रूप से नियंत्रित करना",
+          "de": "ein Land oder eine Organisation offiziell kontrollieren und leiten",
+          "vi": "chính thức kiểm soát và quản lý một quốc gia hoặc tổ chức",
+          "pt-BR": "controlar e administrar oficialmente um país ou organização",
+          "id": "secara resmi mengendalikan dan mengelola negara atau organisasi",
+          "fr": "contrôler et gérer officiellement un pays ou une organisation",
+          "ar": "السيطرة الرسمية على بلد أو منظمة وإدارتها",
+          "tr": "bir ülkeyi veya kuruluşu resmen yönetmek",
+          "it": "controllare e gestire ufficialmente un paese o un'organizzazione",
+          "pl": "oficjalnie kontrolować i zarządzać krajem lub organizacją"
         },
         "example": {
           "en": "Today's news uses the word govern."
@@ -152,14 +376,42 @@
     {
       "id": "mandate",
       "en": "mandate",
-      "ko": "The authority given to a leader by the people who elected them",
+      "ko": "선거에서 국민이 지도자에게 부여한 권한",
       "l1": {
-        "en": "The authority given to a leader by the people who elected them"
+        "en": "The authority given to a leader by the people who elected them",
+        "ko": "선거에서 국민이 지도자에게 부여한 권한",
+        "zh-Hans": "选民赋予领导人的权力",
+        "ja": "選挙で有権者が指導者に与える権限",
+        "es": "autoridad que el pueblo da a un líder electo",
+        "hi": "चुनाव में जनता द्वारा नेता को दिया गया अधिकार",
+        "de": "Autorität, die Wähler einem gewählten Führer geben",
+        "vi": "quyền lực mà cử tri trao cho người lãnh đạo",
+        "pt-BR": "autoridade dada ao líder pelos eleitores",
+        "id": "wewenang yang diberikan pemilih kepada pemimpin",
+        "fr": "autorité donnée à un dirigeant par les électeurs",
+        "ar": "السلطة التي يمنحها الناخبون للقائد",
+        "tr": "seçmenlerin lidere verdiği yetki",
+        "it": "autorità data al leader dagli elettori",
+        "pl": "władza dana przywódcy przez wyborców"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The authority given to a leader by the people who elected them"
+          "en": "The authority given to a leader by the people who elected them",
+          "ko": "선거에서 국민이 지도자에게 부여한 권한",
+          "zh-Hans": "选民赋予领导人的权力",
+          "ja": "選挙で有権者が指導者に与える権限",
+          "es": "autoridad que el pueblo da a un líder electo",
+          "hi": "चुनाव में जनता द्वारा नेता को दिया गया अधिकार",
+          "de": "Autorität, die Wähler einem gewählten Führer geben",
+          "vi": "quyền lực mà cử tri trao cho người lãnh đạo",
+          "pt-BR": "autoridade dada ao líder pelos eleitores",
+          "id": "wewenang yang diberikan pemilih kepada pemimpin",
+          "fr": "autorité donnée à un dirigeant par les électeurs",
+          "ar": "السلطة التي يمنحها الناخبون للقائد",
+          "tr": "seçmenlerin lidere verdiği yetki",
+          "it": "autorità data al leader dagli elettori",
+          "pl": "władza dana przywódcy przez wyborców"
         },
         "example": {
           "en": "Today's news uses the word mandate."
@@ -170,14 +422,42 @@
     {
       "id": "scandal",
       "en": "scandal",
-      "ko": "An event that causes public shock and damage to someone's reputation",
+      "ko": "대중에게 충격을 주고 평판을 훼손하는 사건",
       "l1": {
-        "en": "An event that causes public shock and damage to someone's reputation"
+        "en": "An event that causes public shock and damage to someone's reputation",
+        "ko": "대중에게 충격을 주고 평판을 훼손하는 사건",
+        "zh-Hans": "引起公众震惊并损害名誉的事件",
+        "ja": "世間を驚かせ評判を傷つける出来事",
+        "es": "evento que causa conmoción pública y daña la reputación",
+        "hi": "जनता को स्तब्ध करने और प्रतिष्ठा को नुकसान पहुंचाने वाली घटना",
+        "de": "Ereignis, das die Öffentlichkeit schockiert und Ruf schädigt",
+        "vi": "sự kiện gây sốc công chúng và tổn hại danh tiếng",
+        "pt-BR": "evento que choca o público e prejudica a reputação",
+        "id": "peristiwa yang mengejutkan publik dan merusak reputasi",
+        "fr": "événement qui choque le public et nuit à la réputation",
+        "ar": "حدث يسبب صدمة عامة ويضر بالسمعة",
+        "tr": "kamuoyunu şoke eden ve itibara zarar veren olay",
+        "it": "evento che sciocca il pubblico e danneggia la reputazione",
+        "pl": "wydarzenie szokujące opinię publiczną i szkodzące reputacji"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "An event that causes public shock and damage to someone's reputation"
+          "en": "An event that causes public shock and damage to someone's reputation",
+          "ko": "대중에게 충격을 주고 평판을 훼손하는 사건",
+          "zh-Hans": "引起公众震惊并损害名誉的事件",
+          "ja": "世間を驚かせ評判を傷つける出来事",
+          "es": "evento que causa conmoción pública y daña la reputación",
+          "hi": "जनता को स्तब्ध करने और प्रतिष्ठा को नुकसान पहुंचाने वाली घटना",
+          "de": "Ereignis, das die Öffentlichkeit schockiert und Ruf schädigt",
+          "vi": "sự kiện gây sốc công chúng và tổn hại danh tiếng",
+          "pt-BR": "evento que choca o público e prejudica a reputação",
+          "id": "peristiwa yang mengejutkan publik dan merusak reputasi",
+          "fr": "événement qui choque le public et nuit à la réputation",
+          "ar": "حدث يسبب صدمة عامة ويضر بالسمعة",
+          "tr": "kamuoyunu şoke eden ve itibara zarar veren olay",
+          "it": "evento che sciocca il pubblico e danneggia la reputazione",
+          "pl": "wydarzenie szokujące opinię publiczną i szkodzące reputacji"
         },
         "example": {
           "en": "Today's news uses the word scandal."

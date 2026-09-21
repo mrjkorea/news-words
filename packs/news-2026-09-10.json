@@ -8,14 +8,42 @@
     {
       "id": "arthritis",
       "en": "arthritis",
-      "ko": "A disease that causes painful stiff joints",
+      "ko": "관절이 아프고 뻣뻣해지는 병",
       "l1": {
-        "en": "A disease that causes painful stiff joints"
+        "en": "A disease that causes painful stiff joints",
+        "ko": "관절이 아프고 뻣뻣해지는 병",
+        "zh-Hans": "导致关节疼痛僵硬的疾病",
+        "ja": "関節が痛く硬くなる病気",
+        "es": "enfermedad que causa dolor y rigidez en las articulaciones",
+        "hi": "जोड़ों में दर्द और अकड़न पैदा करने वाली बीमारी",
+        "de": "Krankheit mit schmerzhaften steifen Gelenken",
+        "vi": "bệnh gây đau và cứng khớp",
+        "pt-BR": "doença que causa dor e rigidez nas articulações",
+        "id": "penyakit yang menyebabkan nyeri dan kaku sendi",
+        "fr": "maladie causant des douleurs et raideurs articulaires",
+        "ar": "مرض يسبب ألم وتيبس المفاصل",
+        "tr": "eklemlerde ağrı ve sertliğe neden olan hastalık",
+        "it": "malattia che causa dolore e rigidità articolare",
+        "pl": "choroba powodująca ból i sztywność stawów"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A disease that causes painful stiff joints"
+          "en": "A disease that causes painful stiff joints",
+          "ko": "관절이 아프고 뻣뻣해지는 병",
+          "zh-Hans": "导致关节疼痛僵硬的疾病",
+          "ja": "関節が痛く硬くなる病気",
+          "es": "enfermedad que causa dolor y rigidez en las articulaciones",
+          "hi": "जोड़ों में दर्द और अकड़न पैदा करने वाली बीमारी",
+          "de": "Krankheit mit schmerzhaften steifen Gelenken",
+          "vi": "bệnh gây đau và cứng khớp",
+          "pt-BR": "doença que causa dor e rigidez nas articulações",
+          "id": "penyakit yang menyebabkan nyeri dan kaku sendi",
+          "fr": "maladie causant des douleurs et raideurs articulaires",
+          "ar": "مرض يسبب ألم وتيبس المفاصل",
+          "tr": "eklemlerde ağrı ve sertliğe neden olan hastalık",
+          "it": "malattia che causa dolore e rigidità articolare",
+          "pl": "choroba powodująca ból i sztywność stawów"
         },
         "example": {
           "en": "For English learners, this health story connects words like injection, lubrication, and symptom with a real attempt to make arthritis care last longer."
@@ -26,14 +54,42 @@
     {
       "id": "injection",
       "en": "injection",
-      "ko": "Medicine put into the body with a needle",
+      "ko": "바늘로 몸에 약을 넣음",
       "l1": {
-        "en": "Medicine put into the body with a needle"
+        "en": "Medicine put into the body with a needle",
+        "ko": "바늘로 몸에 약을 넣음",
+        "zh-Hans": "用针将药物注入体内",
+        "ja": "針で薬を体内に入れること",
+        "es": "medicamento introducido con una aguja",
+        "hi": "सुई से शरीर में दवा डालना",
+        "de": "Medizin mit einer Nadel in den Körper geben",
+        "vi": "thuốc đưa vào cơ thể bằng kim tiêm",
+        "pt-BR": "medicamento aplicado com agulha",
+        "id": "obat yang dimasukkan dengan jarum",
+        "fr": "médicament injecté avec une aiguille",
+        "ar": "دواء يُدخل بالإبرة",
+        "tr": "iğneyle vücuda verilen ilaç",
+        "it": "medicina iniettata con un ago",
+        "pl": "lek wstrzykiwany igłą"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Medicine put into the body with a needle"
+          "en": "Medicine put into the body with a needle",
+          "ko": "바늘로 몸에 약을 넣음",
+          "zh-Hans": "用针将药物注入体内",
+          "ja": "針で薬を体内に入れること",
+          "es": "medicamento introducido con una aguja",
+          "hi": "सुई से शरीर में दवा डालना",
+          "de": "Medizin mit einer Nadel in den Körper geben",
+          "vi": "thuốc đưa vào cơ thể bằng kim tiêm",
+          "pt-BR": "medicamento aplicado com agulha",
+          "id": "obat yang dimasukkan dengan jarum",
+          "fr": "médicament injecté avec une aiguille",
+          "ar": "دواء يُدخل بالإبرة",
+          "tr": "iğneyle vücuda verilen ilaç",
+          "it": "medicina iniettata con un ago",
+          "pl": "lek wstrzykiwany igłą"
         },
         "example": {
           "en": "For English learners, this health story connects words like injection, lubrication, and symptom with a real attempt to make arthritis care last longer."
@@ -44,14 +100,42 @@
     {
       "id": "hydrogel",
       "en": "hydrogel",
-      "ko": "A water-based gel that can hold and release drugs",
+      "ko": "물을 머금고 약을 방출하는 젤",
       "l1": {
-        "en": "A water-based gel that can hold and release drugs"
+        "en": "A water-based gel that can hold and release drugs",
+        "ko": "물을 머금고 약을 방출하는 젤",
+        "zh-Hans": "能容纳并释放药物的水基凝胶",
+        "ja": "薬を保持・放出する水性ゲル",
+        "es": "gel acuoso que retiene y libera fármacos",
+        "hi": "पानी आधारित जेल जो दवा रोक और छोड़ सके",
+        "de": "wässriges Gel, das Medikamente speichert und freisetzt",
+        "vi": "gel gốc nước giữ và giải phóng thuốc",
+        "pt-BR": "gel à base de água que retém e libera fármacos",
+        "id": "gel berbasis air yang menahan dan melepas obat",
+        "fr": "gel aqueux qui retient et libère des médicaments",
+        "ar": "هلام مائي يحتفظ بالأدوية ويطلقها",
+        "tr": "ilacı tutup salabilen su bazlı jel",
+        "it": "gel acquoso che trattiene e rilascia farmaci",
+        "pl": "żel wodny zatrzymujący i uwalniający leki"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A water-based gel that can hold and release drugs"
+          "en": "A water-based gel that can hold and release drugs",
+          "ko": "물을 머금고 약을 방출하는 젤",
+          "zh-Hans": "能容纳并释放药物的水基凝胶",
+          "ja": "薬を保持・放出する水性ゲル",
+          "es": "gel acuoso que retiene y libera fármacos",
+          "hi": "पानी आधारित जेल जो दवा रोक और छोड़ सके",
+          "de": "wässriges Gel, das Medikamente speichert und freisetzt",
+          "vi": "gel gốc nước giữ và giải phóng thuốc",
+          "pt-BR": "gel à base de água que retém e libera fármacos",
+          "id": "gel berbasis air yang menahan dan melepas obat",
+          "fr": "gel aqueux qui retient et libère des médicaments",
+          "ar": "هلام مائي يحتفظ بالأدوية ويطلقها",
+          "tr": "ilacı tutup salabilen su bazlı jel",
+          "it": "gel acquoso che trattiene e rilascia farmaci",
+          "pl": "żel wodny zatrzymujący i uwalniający leki"
         },
         "example": {
           "en": "Scientists at the University at Buffalo say a new injectable hydrogel could change how osteoarthritis is treated."
@@ -62,14 +146,42 @@
     {
       "id": "joint",
       "en": "joint",
-      "ko": "A place where two bones meet and move",
+      "ko": "두 뼈가 만나 움직이는 곳",
       "l1": {
-        "en": "A place where two bones meet and move"
+        "en": "A place where two bones meet and move",
+        "ko": "두 뼈가 만나 움직이는 곳",
+        "zh-Hans": "两块骨头相接并活动的地方",
+        "ja": "二つの骨が接して動く部分",
+        "es": "lugar donde dos huesos se unen y mueven",
+        "hi": "जहाँ दो हड्डियाँ मिलकर हिलती हैं",
+        "de": "Stelle, wo zwei Knochen sich treffen und bewegen",
+        "vi": "nơi hai xương gặp nhau và cử động",
+        "pt-BR": "local onde dois ossos se encontram e movem",
+        "id": "tempat dua tulang bertemu dan bergerak",
+        "fr": "endroit où deux os se rejoignent et bougent",
+        "ar": "مكان التقاء عظمتين وحركتهما",
+        "tr": "iki kemiğin birleşip hareket ettiği yer",
+        "it": "punto in cui due ossa si incontrano e si muovono",
+        "pl": "miejsce, gdzie spotykają się i poruszają dwie kości"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A place where two bones meet and move"
+          "en": "A place where two bones meet and move",
+          "ko": "두 뼈가 만나 움직이는 곳",
+          "zh-Hans": "两块骨头相接并活动的地方",
+          "ja": "二つの骨が接して動く部分",
+          "es": "lugar donde dos huesos se unen y mueven",
+          "hi": "जहाँ दो हड्डियाँ मिलकर हिलती हैं",
+          "de": "Stelle, wo zwei Knochen sich treffen und bewegen",
+          "vi": "nơi hai xương gặp nhau và cử động",
+          "pt-BR": "local onde dois ossos se encontram e movem",
+          "id": "tempat dua tulang bertemu dan bergerak",
+          "fr": "endroit où deux os se rejoignent et bougent",
+          "ar": "مكان التقاء عظمتين وحركتهما",
+          "tr": "iki kemiğin birleşip hareket ettiği yer",
+          "it": "punto in cui due ossa si incontrano e si muovono",
+          "pl": "miejsce, gdzie spotykają się i poruszają dwie kości"
         },
         "example": {
           "en": "ScienceDaily reports that the material starts as a liquid, then turns into a smooth semisolid depot inside the joint at body temperature."
@@ -80,14 +192,42 @@
     {
       "id": "lubrication",
       "en": "lubrication",
-      "ko": "A slippery layer that reduces friction",
+      "ko": "마찰을 줄이는 미끄러운 층",
       "l1": {
-        "en": "A slippery layer that reduces friction"
+        "en": "A slippery layer that reduces friction",
+        "ko": "마찰을 줄이는 미끄러운 층",
+        "zh-Hans": "减少摩擦的润滑层",
+        "ja": "摩擦を減らす滑らかな層",
+        "es": "capa resbaladiza que reduce la fricción",
+        "hi": "घर्षण कम करने वाली फिसलन परत",
+        "de": "glatte Schicht, die Reibung verringert",
+        "vi": "lớp trơn giúp giảm ma sát",
+        "pt-BR": "camada escorregadia que reduz o atrito",
+        "id": "lapisan licin yang mengurangi gesekan",
+        "fr": "couche glissante qui réduit la friction",
+        "ar": "طبقة زلقة تقلل الاحتكاك",
+        "tr": "sürtünmeyi azaltan kaygan tabaka",
+        "it": "strato scivoloso che riduce l'attrito",
+        "pl": "śliska warstwa zmniejszająca tarcie"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A slippery layer that reduces friction"
+          "en": "A slippery layer that reduces friction",
+          "ko": "마찰을 줄이는 미끄러운 층",
+          "zh-Hans": "减少摩擦的润滑层",
+          "ja": "摩擦を減らす滑らかな層",
+          "es": "capa resbaladiza que reduce la fricción",
+          "hi": "घर्षण कम करने वाली फिसलन परत",
+          "de": "glatte Schicht, die Reibung verringert",
+          "vi": "lớp trơn giúp giảm ma sát",
+          "pt-BR": "camada escorregadia que reduz o atrito",
+          "id": "lapisan licin yang mengurangi gesekan",
+          "fr": "couche glissante qui réduit la friction",
+          "ar": "طبقة زلقة تقلل الاحتكاك",
+          "tr": "sürtünmeyi azaltan kaygan tabaka",
+          "it": "strato scivoloso che riduce l'attrito",
+          "pl": "śliska warstwa zmniejszająca tarcie"
         },
         "example": {
           "en": "The gel also improves lubrication, which could help stiff, painful knees move more smoothly during daily activity."
@@ -98,14 +238,42 @@
     {
       "id": "cartilage",
       "en": "cartilage",
-      "ko": "Smooth tissue that cushions bones in a joint",
+      "ko": "관절에서 뼈를 완충하는 매끄러운 조직",
       "l1": {
-        "en": "Smooth tissue that cushions bones in a joint"
+        "en": "Smooth tissue that cushions bones in a joint",
+        "ko": "관절에서 뼈를 완충하는 매끄러운 조직",
+        "zh-Hans": "关节中缓冲骨头的光滑组织",
+        "ja": "関節で骨を緩衝する滑らかな組織",
+        "es": "tejido liso que amortigua los huesos en la articulación",
+        "hi": "जोड़ में हड्डियों को सहारा देने वाला चिकना ऊतक",
+        "de": "glattes Gewebe, das Knochen im Gelenk polstert",
+        "vi": "mô trơn đệm xương trong khớp",
+        "pt-BR": "tecido liso que amortece os ossos na articulação",
+        "id": "jaringan halus yang melindungi tulang di sendi",
+        "fr": "tissu lisse qui amortit les os dans l'articulation",
+        "ar": "نسيج أملس يبطّن العظام في المفصل",
+        "tr": "eklemde kemikleri yastıklayan pürüzsüz doku",
+        "it": "tessuto liscio che ammortizza le ossa nell'articolazione",
+        "pl": "gładka tkanka amortyzująca kości w stawie"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Smooth tissue that cushions bones in a joint"
+          "en": "Smooth tissue that cushions bones in a joint",
+          "ko": "관절에서 뼈를 완충하는 매끄러운 조직",
+          "zh-Hans": "关节中缓冲骨头的光滑组织",
+          "ja": "関節で骨を緩衝する滑らかな組織",
+          "es": "tejido liso que amortigua los huesos en la articulación",
+          "hi": "जोड़ में हड्डियों को सहारा देने वाला चिकना ऊतक",
+          "de": "glattes Gewebe, das Knochen im Gelenk polstert",
+          "vi": "mô trơn đệm xương trong khớp",
+          "pt-BR": "tecido liso que amortece os ossos na articulação",
+          "id": "jaringan halus yang melindungi tulang di sendi",
+          "fr": "tissu lisse qui amortit les os dans l'articulation",
+          "ar": "نسيج أملس يبطّن العظام في المفصل",
+          "tr": "eklemde kemikleri yastıklayan pürüzsüz doku",
+          "it": "tessuto liscio che ammortizza le ossa nell'articolazione",
+          "pl": "gładka tkanka amortyzująca kości w stawie"
         },
         "example": {
           "en": "Small-molecule drugs and biologics can also wash out of synovial fluid fast, limiting how much medicine actually reaches damaged cartilage."
@@ -116,14 +284,42 @@
     {
       "id": "therapy",
       "en": "therapy",
-      "ko": "Treatment meant to improve health",
+      "ko": "건강을 개선하기 위한 치료",
       "l1": {
-        "en": "Treatment meant to improve health"
+        "en": "Treatment meant to improve health",
+        "ko": "건강을 개선하기 위한 치료",
+        "zh-Hans": "改善健康的治疗方法",
+        "ja": "健康を改善する治療",
+        "es": "tratamiento para mejorar la salud",
+        "hi": "स्वास्थ्य सुधार का उपचार",
+        "de": "Behandlung zur Gesundheitsverbesserung",
+        "vi": "điều trị cải thiện sức khỏe",
+        "pt-BR": "tratamento para melhorar a saúde",
+        "id": "perawatan untuk meningkatkan kesehatan",
+        "fr": "traitement pour améliorer la santé",
+        "ar": "علاج لتحسين الصحة",
+        "tr": "sağlığı iyileştiren tedavi",
+        "it": "trattamento per migliorare la salute",
+        "pl": "leczenie poprawiające zdrowie"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Treatment meant to improve health"
+          "en": "Treatment meant to improve health",
+          "ko": "건강을 개선하기 위한 치료",
+          "zh-Hans": "改善健康的治疗方法",
+          "ja": "健康を改善する治療",
+          "es": "tratamiento para mejorar la salud",
+          "hi": "स्वास्थ्य सुधार का उपचार",
+          "de": "Behandlung zur Gesundheitsverbesserung",
+          "vi": "điều trị cải thiện sức khỏe",
+          "pt-BR": "tratamento para melhorar a saúde",
+          "id": "perawatan untuk meningkatkan kesehatan",
+          "fr": "traitement pour améliorer la santé",
+          "ar": "علاج لتحسين الصحة",
+          "tr": "sağlığı iyileştiren tedavi",
+          "it": "trattamento per migliorare la salute",
+          "pl": "leczenie poprawiające zdrowie"
         },
         "example": {
           "en": "If trials succeed, one shot could mean weeks of targeted therapy instead of repeated appointments."
@@ -134,14 +330,42 @@
     {
       "id": "depot",
       "en": "depot",
-      "ko": "A storage place where material is held for later use",
+      "ko": "물품을 보관하는 장소",
       "l1": {
-        "en": "A storage place where material is held for later use"
+        "en": "A storage place where material is held for later use",
+        "ko": "물품을 보관하는 장소",
+        "zh-Hans": "存放物资的仓库",
+        "ja": "物資を保管する場所",
+        "es": "lugar de almacenamiento de materiales",
+        "hi": "सामग्री भंडारण स्थान",
+        "de": "Lagerplatz für Materialien",
+        "vi": "nơi lưu trữ vật liệu",
+        "pt-BR": "local de armazenamento de materiais",
+        "id": "tempat penyimpanan barang",
+        "fr": "lieu de stockage de matériaux",
+        "ar": "مكان تخزين المواد",
+        "tr": "malzeme depolama yeri",
+        "it": "luogo di deposito materiali",
+        "pl": "miejsce przechowywania materiałów"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A storage place where material is held for later use"
+          "en": "A storage place where material is held for later use",
+          "ko": "물품을 보관하는 장소",
+          "zh-Hans": "存放物资的仓库",
+          "ja": "物資を保管する場所",
+          "es": "lugar de almacenamiento de materiales",
+          "hi": "सामग्री भंडारण स्थान",
+          "de": "Lagerplatz für Materialien",
+          "vi": "nơi lưu trữ vật liệu",
+          "pt-BR": "local de armazenamento de materiais",
+          "id": "tempat penyimpanan barang",
+          "fr": "lieu de stockage de matériaux",
+          "ar": "مكان تخزين المواد",
+          "tr": "malzeme depolama yeri",
+          "it": "luogo di deposito materiali",
+          "pl": "miejsce przechowywania materiałów"
         },
         "example": {
           "en": "ScienceDaily reports that the material starts as a liquid, then turns into a smooth semisolid depot inside the joint at body temperature."
@@ -152,14 +376,42 @@
     {
       "id": "biologic",
       "en": "biologic",
-      "ko": "A medicine made from living cells or proteins",
+      "ko": "생체 세포나 단백질로 만든 약",
       "l1": {
-        "en": "A medicine made from living cells or proteins"
+        "en": "A medicine made from living cells or proteins",
+        "ko": "생체 세포나 단백질로 만든 약",
+        "zh-Hans": "由活细胞或蛋白质制成的药物",
+        "ja": "生きた細胞やタンパク質から作られた薬",
+        "es": "medicamento hecho de células o proteínas vivas",
+        "hi": "जीवित कोशिकाओं या प्रोटीन से बनी दवा",
+        "de": "Medikament aus lebenden Zellen oder Proteinen",
+        "vi": "thuốc làm từ tế bào hoặc protein sống",
+        "pt-BR": "medicamento feito de células ou proteínas vivas",
+        "id": "obat dari sel atau protein hidup",
+        "fr": "médicament issu de cellules ou protéines vivantes",
+        "ar": "دواء من خلايا أو بروتينات حية",
+        "tr": "canlı hücre veya proteinden yapılan ilaç",
+        "it": "farmaco da cellule o proteine viventi",
+        "pl": "lek z żywych komórek lub białek"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A medicine made from living cells or proteins"
+          "en": "A medicine made from living cells or proteins",
+          "ko": "생체 세포나 단백질로 만든 약",
+          "zh-Hans": "由活细胞或蛋白质制成的药物",
+          "ja": "生きた細胞やタンパク質から作られた薬",
+          "es": "medicamento hecho de células o proteínas vivas",
+          "hi": "जीवित कोशिकाओं या प्रोटीन से बनी दवा",
+          "de": "Medikament aus lebenden Zellen oder Proteinen",
+          "vi": "thuốc làm từ tế bào hoặc protein sống",
+          "pt-BR": "medicamento feito de células ou proteínas vivas",
+          "id": "obat dari sel atau protein hidup",
+          "fr": "médicament issu de cellules ou protéines vivantes",
+          "ar": "دواء من خلايا أو بروتينات حية",
+          "tr": "canlı hücre veya proteinden yapılan ilaç",
+          "it": "farmaco da cellule o proteine viventi",
+          "pl": "lek z żywych komórek lub białek"
         },
         "example": {
           "en": "Scientists at the University at Buffalo say a new injectable hydrogel could change how osteoarthritis is treated."
@@ -170,14 +422,42 @@
     {
       "id": "symptom",
       "en": "symptom",
-      "ko": "A sign of illness that a patient feels",
+      "ko": "환자가 느끼는 병의 징후",
       "l1": {
-        "en": "A sign of illness that a patient feels"
+        "en": "A sign of illness that a patient feels",
+        "ko": "환자가 느끼는 병의 징후",
+        "zh-Hans": "患者感觉到的疾病迹象",
+        "ja": "患者が感じる病気の兆候",
+        "es": "señal de enfermedad que siente el paciente",
+        "hi": "रोगी को महसूस होने वाला रोग संकेत",
+        "de": "Krankheitszeichen, das der Patient fühlt",
+        "vi": "dấu hiệu bệnh mà bệnh nhân cảm thấy",
+        "pt-BR": "sinal de doença que o paciente sente",
+        "id": "tanda penyakit yang dirasakan pasien",
+        "fr": "signe de maladie ressenti par le patient",
+        "ar": "علامة مرض يشعر بها المريض",
+        "tr": "hastanın hissettiği hastalık belirtisi",
+        "it": "segno di malattia che il paziente sente",
+        "pl": "objaw choroby odczuwany przez pacjenta"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A sign of illness that a patient feels"
+          "en": "A sign of illness that a patient feels",
+          "ko": "환자가 느끼는 병의 징후",
+          "zh-Hans": "患者感觉到的疾病迹象",
+          "ja": "患者が感じる病気の兆候",
+          "es": "señal de enfermedad que siente el paciente",
+          "hi": "रोगी को महसूस होने वाला रोग संकेत",
+          "de": "Krankheitszeichen, das der Patient fühlt",
+          "vi": "dấu hiệu bệnh mà bệnh nhân cảm thấy",
+          "pt-BR": "sinal de doença que o paciente sente",
+          "id": "tanda penyakit yang dirasakan pasien",
+          "fr": "signe de maladie ressenti par le patient",
+          "ar": "علامة مرض يشعر بها المريض",
+          "tr": "hastanın hissettiği hastalık belirtisi",
+          "it": "segno di malattia che il paziente sente",
+          "pl": "objaw choroby odczuwany przez pacjenta"
         },
         "example": {
           "en": "For English learners, this health story connects words like injection, lubrication, and symptom with a real attempt to make arthritis care last longer."

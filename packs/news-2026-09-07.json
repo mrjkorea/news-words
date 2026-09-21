@@ -8,14 +8,42 @@
     {
       "id": "detector",
       "en": "detector",
-      "ko": "A device that senses particles or signals",
+      "ko": "입자나 신호를 감지하는 장치",
       "l1": {
-        "en": "A device that senses particles or signals"
+        "en": "A device that senses particles or signals",
+        "ko": "입자나 신호를 감지하는 장치",
+        "zh-Hans": "探测粒子或信号的设备",
+        "ja": "粒子や信号を感知する装置",
+        "es": "Dispositivo que detecta partículas o señales",
+        "hi": "कणों या संकेतों को महसूस करने वाला उपकरण",
+        "de": "Ein Gerät, das Teilchen oder Signale erfasst",
+        "vi": "Thiết bị cảm nhận hạt hoặc tín hiệu",
+        "pt-BR": "Dispositivo que detecta partículas ou sinais",
+        "id": "Perangkat yang mendeteksi partikel atau sinyal",
+        "fr": "Appareil qui détecte des particules ou des signaux",
+        "ar": "جهاز يستشعر الجسيمات أو الإشارات",
+        "tr": "Parçacıkları veya sinyalleri algılayan cihaz",
+        "it": "Dispositivo che rileva particelle o segnali",
+        "pl": "Urządzenie wykrywające cząstki lub sygnały"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A device that senses particles or signals"
+          "en": "A device that senses particles or signals",
+          "ko": "입자나 신호를 감지하는 장치",
+          "zh-Hans": "探测粒子或信号的设备",
+          "ja": "粒子や信号を感知する装置",
+          "es": "Dispositivo que detecta partículas o señales",
+          "hi": "कणों या संकेतों को महसूस करने वाला उपकरण",
+          "de": "Ein Gerät, das Teilchen oder Signale erfasst",
+          "vi": "Thiết bị cảm nhận hạt hoặc tín hiệu",
+          "pt-BR": "Dispositivo que detecta partículas ou sinais",
+          "id": "Perangkat yang mendeteksi partikel atau sinyal",
+          "fr": "Appareil qui détecte des particules ou des signaux",
+          "ar": "جهاز يستشعر الجسيمات أو الإشارات",
+          "tr": "Parçacıkları veya sinyalleri algılayan cihaz",
+          "it": "Dispositivo che rileva particelle o segnali",
+          "pl": "Urządzenie wykrywające cząstki lub sygnały"
         },
         "example": {
           "en": "Physicists are buzzing about a single energetic flash inside the LUX-ZEPLIN experiment in South Dakota."
@@ -26,14 +54,42 @@
     {
       "id": "xenon",
       "en": "xenon",
-      "ko": "A heavy noble gas used in physics experiments",
+      "ko": "물리 실험에 쓰이는 무거운 비활성 기체",
       "l1": {
-        "en": "A heavy noble gas used in physics experiments"
+        "en": "A heavy noble gas used in physics experiments",
+        "ko": "물리 실험에 쓰이는 무거운 비활성 기체",
+        "zh-Hans": "用于物理实验的重惰性气体",
+        "ja": "物理実験に使われる重い希ガス",
+        "es": "Gas noble pesado usado en experimentos de física",
+        "hi": "भौतिकी प्रयोगों में प्रयुक्त भारी उत्कृष्ट गैस",
+        "de": "Ein schweres Edelgas, das in physikalischen Experimenten verwendet wird",
+        "vi": "Khí hiếm nặng dùng trong thí nghiệm vật lý",
+        "pt-BR": "Gás nobre pesado usado em experimentos de física",
+        "id": "Gas mulia berat yang digunakan dalam eksperimen fisika",
+        "fr": "Gaz noble lourd utilisé dans les expériences de physique",
+        "ar": "غاز نبيل ثقيل يُستخدم في تجارب الفيزياء",
+        "tr": "Fizik deneylerinde kullanılan ağır soy gaz",
+        "it": "Gas nobile pesante usato negli esperimenti di fisica",
+        "pl": "Ciężki gaz szlachetny używany w eksperymentach fizycznych"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A heavy noble gas used in physics experiments"
+          "en": "A heavy noble gas used in physics experiments",
+          "ko": "물리 실험에 쓰이는 무거운 비활성 기체",
+          "zh-Hans": "用于物理实验的重惰性气体",
+          "ja": "物理実験に使われる重い希ガス",
+          "es": "Gas noble pesado usado en experimentos de física",
+          "hi": "भौतिकी प्रयोगों में प्रयुक्त भारी उत्कृष्ट गैस",
+          "de": "Ein schweres Edelgas, das in physikalischen Experimenten verwendet wird",
+          "vi": "Khí hiếm nặng dùng trong thí nghiệm vật lý",
+          "pt-BR": "Gás nobre pesado usado em experimentos de física",
+          "id": "Gas mulia berat yang digunakan dalam eksperimen fisika",
+          "fr": "Gaz noble lourd utilisé dans les expériences de physique",
+          "ar": "غاز نبيل ثقيل يُستخدم في تجارب الفيزياء",
+          "tr": "Fizik deneylerinde kullanılan ağır soy gaz",
+          "it": "Gas nobile pesante usato negli esperimenti di fisica",
+          "pl": "Ciężki gaz szlachetny używany w eksperymentach fizycznych"
         },
         "example": {
           "en": "Nature reports that ten tonnes of ultra-pure liquid xenon recorded an unusual signal sometime in twenty twenty-three or twenty twenty-four."
@@ -44,14 +100,42 @@
     {
       "id": "particle",
       "en": "particle",
-      "ko": "A very small piece of matter",
+      "ko": "물질의 아주 작은 조각",
       "l1": {
-        "en": "A very small piece of matter"
+        "en": "A very small piece of matter",
+        "ko": "물질의 아주 작은 조각",
+        "zh-Hans": "物质的一小片",
+        "ja": "物質の非常に小さなかけら",
+        "es": "Una pieza muy pequeña de materia",
+        "hi": "पदार्थ का एक बहुत छोटा टुकड़ा",
+        "de": "Ein sehr kleines Stück Materie",
+        "vi": "Một mảnh vật chất rất nhỏ",
+        "pt-BR": "Um pedaço muito pequeno de matéria",
+        "id": "Potongan materi yang sangat kecil",
+        "fr": "Un très petit morceau de matière",
+        "ar": "قطعة صغيرة جدًا من المادة",
+        "tr": "Maddenin çok küçük bir parçası",
+        "it": "Un pezzetto molto piccolo di materia",
+        "pl": "Bardzo mały kawałek materii"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A very small piece of matter"
+          "en": "A very small piece of matter",
+          "ko": "물질의 아주 작은 조각",
+          "zh-Hans": "物质的一小片",
+          "ja": "物質の非常に小さなかけら",
+          "es": "Una pieza muy pequeña de materia",
+          "hi": "पदार्थ का एक बहुत छोटा टुकड़ा",
+          "de": "Ein sehr kleines Stück Materie",
+          "vi": "Một mảnh vật chất rất nhỏ",
+          "pt-BR": "Um pedaço muito pequeno de matéria",
+          "id": "Potongan materi yang sangat kecil",
+          "fr": "Un très petit morceau de matière",
+          "ar": "قطعة صغيرة جدًا من المادة",
+          "tr": "Maddenin çok küçük bir parçası",
+          "it": "Un pezzetto molto piccolo di materia",
+          "pl": "Bardzo mały kawałek materii"
         },
         "example": {
           "en": "The flash looked like what might happen if an invisible dark-matter particle struck a xenon nucleus."
@@ -62,14 +146,42 @@
     {
       "id": "collision",
       "en": "collision",
-      "ko": "When two objects hit each other",
+      "ko": "두 물체가 서로 부딪히는 것",
       "l1": {
-        "en": "When two objects hit each other"
+        "en": "When two objects hit each other",
+        "ko": "두 물체가 서로 부딪히는 것",
+        "zh-Hans": "两个物体相互撞击",
+        "ja": "二つの物体がぶつかること",
+        "es": "Cuando dos objetos chocan entre sí",
+        "hi": "जब दो वस्तुएँ एक-दूसरे से टकराती हैं",
+        "de": "Wenn zwei Objekte aufeinandertreffen",
+        "vi": "Khi hai vật thể đâm vào nhau",
+        "pt-BR": "Quando dois objetos se chocam",
+        "id": "Ketika dua benda saling bertabrakan",
+        "fr": "Quand deux objets se heurtent",
+        "ar": "عندما يصطدم جسمان ببعضهما",
+        "tr": "İki cismin birbirine çarpması",
+        "it": "Quando due oggetti si scontrano",
+        "pl": "Gdy dwa obiekty zderzają się"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "When two objects hit each other"
+          "en": "When two objects hit each other",
+          "ko": "두 물체가 서로 부딪히는 것",
+          "zh-Hans": "两个物体相互撞击",
+          "ja": "二つの物体がぶつかること",
+          "es": "Cuando dos objetos chocan entre sí",
+          "hi": "जब दो वस्तुएँ एक-दूसरे से टकराती हैं",
+          "de": "Wenn zwei Objekte aufeinandertreffen",
+          "vi": "Khi hai vật thể đâm vào nhau",
+          "pt-BR": "Quando dois objetos se chocam",
+          "id": "Ketika dua benda saling bertabrakan",
+          "fr": "Quand deux objets se heurtent",
+          "ar": "عندما يصطدم جسمان ببعضهما",
+          "tr": "İki cismin birbirine çarpması",
+          "it": "Quando due oggetti si scontrano",
+          "pl": "Gdy dwa obiekty zderzają się"
         },
         "example": {
           "en": "Physicists are buzzing about a single energetic flash inside the LUX-ZEPLIN experiment in South Dakota."
@@ -80,14 +192,42 @@
     {
       "id": "nucleus",
       "en": "nucleus",
-      "ko": "The dense center of an atom",
+      "ko": "원자의 밀집된 중심",
       "l1": {
-        "en": "The dense center of an atom"
+        "en": "The dense center of an atom",
+        "ko": "원자의 밀집된 중심",
+        "zh-Hans": "原子的致密中心",
+        "ja": "原子の密集した中心",
+        "es": "centro denso de un átomo",
+        "hi": "परमाणु का सघन केंद्र",
+        "de": "dichter Kern eines Atoms",
+        "vi": "trung tâm đặc của nguyên tử",
+        "pt-BR": "centro denso de um átomo",
+        "id": "pusat padat atom",
+        "fr": "centre dense d'un atome",
+        "ar": "مركز كثيف للذرة",
+        "tr": "atomun yoğun merkezi",
+        "it": "centro denso di un atomo",
+        "pl": "gęste jądro atomu"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The dense center of an atom"
+          "en": "The dense center of an atom",
+          "ko": "원자의 밀집된 중심",
+          "zh-Hans": "原子的致密中心",
+          "ja": "原子の密集した中心",
+          "es": "centro denso de un átomo",
+          "hi": "परमाणु का सघन केंद्र",
+          "de": "dichter Kern eines Atoms",
+          "vi": "trung tâm đặc của nguyên tử",
+          "pt-BR": "centro denso de um átomo",
+          "id": "pusat padat atom",
+          "fr": "centre dense d'un atome",
+          "ar": "مركز كثيف للذرة",
+          "tr": "atomun yoğun merkezi",
+          "it": "centro denso di un atomo",
+          "pl": "gęste jądro atomu"
         },
         "example": {
           "en": "The flash looked like what might happen if an invisible dark-matter particle struck a xenon nucleus."
@@ -98,14 +238,42 @@
     {
       "id": "underground",
       "en": "underground",
-      "ko": "Below the surface of the ground",
+      "ko": "지표 아래",
       "l1": {
-        "en": "Below the surface of the ground"
+        "en": "Below the surface of the ground",
+        "ko": "지표 아래",
+        "zh-Hans": "地面以下",
+        "ja": "地面の下",
+        "es": "bajo la superficie",
+        "hi": "भूमि के नीचे",
+        "de": "unter der Erde",
+        "vi": "dưới mặt đất",
+        "pt-BR": "abaixo da superfície",
+        "id": "di bawah tanah",
+        "fr": "sous la surface",
+        "ar": "تحت سطح الأرض",
+        "tr": "yer altında",
+        "it": "sotto la superficie",
+        "pl": "pod powierzchnią ziemi"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Below the surface of the ground"
+          "en": "Below the surface of the ground",
+          "ko": "지표 아래",
+          "zh-Hans": "地面以下",
+          "ja": "地面の下",
+          "es": "bajo la superficie",
+          "hi": "भूमि के नीचे",
+          "de": "unter der Erde",
+          "vi": "dưới mặt đất",
+          "pt-BR": "abaixo da superfície",
+          "id": "di bawah tanah",
+          "fr": "sous la surface",
+          "ar": "تحت سطح الأرض",
+          "tr": "yer altında",
+          "it": "sotto la superficie",
+          "pl": "pod powierzchnią ziemi"
         },
         "example": {
           "en": "Physicists are buzzing about a single energetic flash inside the LUX-ZEPLIN experiment in South Dakota."
@@ -116,14 +284,42 @@
     {
       "id": "experiment",
       "en": "experiment",
-      "ko": "A controlled test to learn something new",
+      "ko": "통제된 실험",
       "l1": {
-        "en": "A controlled test to learn something new"
+        "en": "A controlled test to learn something new",
+        "ko": "통제된 실험",
+        "zh-Hans": "受控实验",
+        "ja": "制御された実験",
+        "es": "prueba controlada",
+        "hi": "नियंत्रित परीक्षण",
+        "de": "kontrollierter Test",
+        "vi": "thí nghiệm có kiểm soát",
+        "pt-BR": "teste controlado",
+        "id": "uji terkendali",
+        "fr": "test contrôlé",
+        "ar": "اختبار مُتحكَّم به",
+        "tr": "kontrollü deney",
+        "it": "test controllato",
+        "pl": "kontrolowany test"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A controlled test to learn something new"
+          "en": "A controlled test to learn something new",
+          "ko": "통제된 실험",
+          "zh-Hans": "受控实验",
+          "ja": "制御された実験",
+          "es": "prueba controlada",
+          "hi": "नियंत्रित परीक्षण",
+          "de": "kontrollierter Test",
+          "vi": "thí nghiệm có kiểm soát",
+          "pt-BR": "teste controlado",
+          "id": "uji terkendali",
+          "fr": "test contrôlé",
+          "ar": "اختبار مُتحكَّم به",
+          "tr": "kontrollü deney",
+          "it": "test controllato",
+          "pl": "kontrolowany test"
         },
         "example": {
           "en": "Physicists are buzzing about a single energetic flash inside the LUX-ZEPLIN experiment in South Dakota."
@@ -134,14 +330,42 @@
     {
       "id": "signal",
       "en": "signal",
-      "ko": "A sign or measurement that carries information",
+      "ko": "정보를 전달하는 신호",
       "l1": {
-        "en": "A sign or measurement that carries information"
+        "en": "A sign or measurement that carries information",
+        "ko": "정보를 전달하는 신호",
+        "zh-Hans": "传递信息的信号",
+        "ja": "情報を伝える信号",
+        "es": "señal que lleva información",
+        "hi": "सूचना देने वाला संकेत",
+        "de": "informationsübertragendes Signal",
+        "vi": "tín hiệu mang thông tin",
+        "pt-BR": "sinal que carrega informação",
+        "id": "sinyal pembawa informasi",
+        "fr": "signal porteur d'information",
+        "ar": "إشارة تحمل معلومات",
+        "tr": "bilgi taşıyan sinyal",
+        "it": "segnale che porta informazione",
+        "pl": "sygnał niosący informację"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A sign or measurement that carries information"
+          "en": "A sign or measurement that carries information",
+          "ko": "정보를 전달하는 신호",
+          "zh-Hans": "传递信息的信号",
+          "ja": "情報を伝える信号",
+          "es": "señal que lleva información",
+          "hi": "सूचना देने वाला संकेत",
+          "de": "informationsübertragendes Signal",
+          "vi": "tín hiệu mang thông tin",
+          "pt-BR": "sinal que carrega informação",
+          "id": "sinyal pembawa informasi",
+          "fr": "signal porteur d'information",
+          "ar": "إشارة تحمل معلومات",
+          "tr": "bilgi taşıyan sinyal",
+          "it": "segnale che porta informazione",
+          "pl": "sygnał niosący informację"
         },
         "example": {
           "en": "Nature reports that ten tonnes of ultra-pure liquid xenon recorded an unusual signal sometime in twenty twenty-three or twenty twenty-four."
@@ -152,14 +376,42 @@
     {
       "id": "invisible",
       "en": "invisible",
-      "ko": "Unable to be seen with the eyes",
+      "ko": "눈에 보이지 않는",
       "l1": {
-        "en": "Unable to be seen with the eyes"
+        "en": "Unable to be seen with the eyes",
+        "ko": "눈에 보이지 않는",
+        "zh-Hans": "看不见的",
+        "ja": "目に見えない",
+        "es": "no se puede ver",
+        "hi": "आँखों से न दिखने वाला",
+        "de": "nicht sichtbar",
+        "vi": "không thể nhìn thấy",
+        "pt-BR": "não pode ser visto",
+        "id": "tidak terlihat",
+        "fr": "invisible à l'œil",
+        "ar": "لا يُرى بالعين",
+        "tr": "gözle görülemez",
+        "it": "non visibile",
+        "pl": "niewidoczny"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Unable to be seen with the eyes"
+          "en": "Unable to be seen with the eyes",
+          "ko": "눈에 보이지 않는",
+          "zh-Hans": "看不见的",
+          "ja": "目に見えない",
+          "es": "no se puede ver",
+          "hi": "आँखों से न दिखने वाला",
+          "de": "nicht sichtbar",
+          "vi": "không thể nhìn thấy",
+          "pt-BR": "não pode ser visto",
+          "id": "tidak terlihat",
+          "fr": "invisible à l'œil",
+          "ar": "لا يُرى بالعين",
+          "tr": "gözle görülemez",
+          "it": "non visibile",
+          "pl": "niewidoczny"
         },
         "example": {
           "en": "The flash looked like what might happen if an invisible dark-matter particle struck a xenon nucleus."
@@ -170,14 +422,42 @@
     {
       "id": "galaxy",
       "en": "galaxy",
-      "ko": "A huge system of stars gas and dark matter",
+      "ko": "거대한 별과 가스의 계",
       "l1": {
-        "en": "A huge system of stars gas and dark matter"
+        "en": "A huge system of stars gas and dark matter",
+        "ko": "거대한 별과 가스의 계",
+        "zh-Hans": "巨大的恒星和气体系统",
+        "ja": "恒星とガスの巨大な系",
+        "es": "gran sistema de estrellas y gas",
+        "hi": "तारों और गैस का विशाल तंत्र",
+        "de": "riesiges System aus Sternen und Gas",
+        "vi": "hệ thống sao và khí khổng lồ",
+        "pt-BR": "grande sistema de estrelas e gás",
+        "id": "sistem bintang dan gas raksasa",
+        "fr": "vaste système d'étoiles et de gaz",
+        "ar": "نظام هائل من النجوم والغاز",
+        "tr": "dev yıldız ve gaz sistemi",
+        "it": "grande sistema di stelle e gas",
+        "pl": "ogromny układ gwiazd i gazu"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A huge system of stars gas and dark matter"
+          "en": "A huge system of stars gas and dark matter",
+          "ko": "거대한 별과 가스의 계",
+          "zh-Hans": "巨大的恒星和气体系统",
+          "ja": "恒星とガスの巨大な系",
+          "es": "gran sistema de estrellas y gas",
+          "hi": "तारों और गैस का विशाल तंत्र",
+          "de": "riesiges System aus Sternen und Gas",
+          "vi": "hệ thống sao và khí khổng lồ",
+          "pt-BR": "grande sistema de estrelas e gás",
+          "id": "sistem bintang dan gas raksasa",
+          "fr": "vaste système d'étoiles et de gaz",
+          "ar": "نظام هائل من النجوم والغاز",
+          "tr": "dev yıldız ve gaz sistemi",
+          "it": "grande sistema di stelle e gas",
+          "pl": "ogromny układ gwiazd i gazu"
         },
         "example": {
           "en": "Physicists are buzzing about a single energetic flash inside the LUX-ZEPLIN experiment in South Dakota."

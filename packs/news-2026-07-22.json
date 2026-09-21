@@ -8,14 +8,42 @@
     {
       "id": "drought",
       "en": "drought",
-      "ko": "A long period with little or no rain.",
+      "ko": "오랜 가뭄",
       "l1": {
-        "en": "A long period with little or no rain."
+        "en": "A long period with little or no rain.",
+        "ko": "오랜 가뭄",
+        "zh-Hans": "长期干旱",
+        "ja": "長期間の干ばつ",
+        "es": "sequía prolongada",
+        "hi": "लंबा सूखा",
+        "de": "lange Dürre",
+        "vi": "hạn hán kéo dài",
+        "pt-BR": "seca prolongada",
+        "id": "kekeringan panjang",
+        "fr": "sécheresse prolongée",
+        "ar": "جفاف طويل",
+        "tr": "uzun kuraklık",
+        "it": "siccità prolungata",
+        "pl": "długa susza"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A long period with little or no rain."
+          "en": "A long period with little or no rain.",
+          "ko": "오랜 가뭄",
+          "zh-Hans": "长期干旱",
+          "ja": "長期間の干ばつ",
+          "es": "sequía prolongada",
+          "hi": "लंबा सूखा",
+          "de": "lange Dürre",
+          "vi": "hạn hán kéo dài",
+          "pt-BR": "seca prolongada",
+          "id": "kekeringan panjang",
+          "fr": "sécheresse prolongée",
+          "ar": "جفاف طويل",
+          "tr": "uzun kuraklık",
+          "it": "siccità prolungata",
+          "pl": "długa susza"
         },
         "example": {
           "en": "Today's news uses the word drought."
@@ -26,14 +54,42 @@
     {
       "id": "spread",
       "en": "spread",
-      "ko": "To extend over a larger area.",
+      "ko": "퍼지다",
       "l1": {
-        "en": "To extend over a larger area."
+        "en": "To extend over a larger area.",
+        "ko": "퍼지다",
+        "zh-Hans": "蔓延",
+        "ja": "広がる",
+        "es": "extenderse",
+        "hi": "फैलना",
+        "de": "sich ausbreiten",
+        "vi": "lan rộng",
+        "pt-BR": "espalhar-se",
+        "id": "menyebar",
+        "fr": "s'étendre",
+        "ar": "ينتشر",
+        "tr": "yayılmak",
+        "it": "diffondersi",
+        "pl": "rozprzestrzeniać się"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "To extend over a larger area."
+          "en": "To extend over a larger area.",
+          "ko": "퍼지다",
+          "zh-Hans": "蔓延",
+          "ja": "広がる",
+          "es": "extenderse",
+          "hi": "फैलना",
+          "de": "sich ausbreiten",
+          "vi": "lan rộng",
+          "pt-BR": "espalhar-se",
+          "id": "menyebar",
+          "fr": "s'étendre",
+          "ar": "ينتشر",
+          "tr": "yayılmak",
+          "it": "diffondersi",
+          "pl": "rozprzestrzeniać się"
         },
         "example": {
           "en": "Today's news uses the word spread."
@@ -44,14 +100,42 @@
     {
       "id": "ocean",
       "en": "ocean",
-      "ko": "A very large body of salt water.",
+      "ko": "대양",
       "l1": {
-        "en": "A very large body of salt water."
+        "en": "A very large body of salt water.",
+        "ko": "대양",
+        "zh-Hans": "海洋",
+        "ja": "海洋",
+        "es": "océano",
+        "hi": "महासागर",
+        "de": "Ozean",
+        "vi": "đại dương",
+        "pt-BR": "oceano",
+        "id": "samudra",
+        "fr": "océan",
+        "ar": "محيط",
+        "tr": "okyanus",
+        "it": "oceano",
+        "pl": "ocean"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A very large body of salt water."
+          "en": "A very large body of salt water.",
+          "ko": "대양",
+          "zh-Hans": "海洋",
+          "ja": "海洋",
+          "es": "océano",
+          "hi": "महासागर",
+          "de": "Ozean",
+          "vi": "đại dương",
+          "pt-BR": "oceano",
+          "id": "samudra",
+          "fr": "océan",
+          "ar": "محيط",
+          "tr": "okyanus",
+          "it": "oceano",
+          "pl": "ocean"
         },
         "example": {
           "en": "Today's news uses the word ocean."
@@ -62,14 +146,42 @@
     {
       "id": "temperature",
       "en": "temperature",
-      "ko": "A measurement of how hot or cold something is.",
+      "ko": "온도",
       "l1": {
-        "en": "A measurement of how hot or cold something is."
+        "en": "A measurement of how hot or cold something is.",
+        "ko": "온도",
+        "zh-Hans": "温度",
+        "ja": "温度",
+        "es": "temperatura",
+        "hi": "तापमान",
+        "de": "Temperatur",
+        "vi": "nhiệt độ",
+        "pt-BR": "temperatura",
+        "id": "suhu",
+        "fr": "température",
+        "ar": "درجة الحرارة",
+        "tr": "sıcaklık",
+        "it": "temperatura",
+        "pl": "temperatura"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A measurement of how hot or cold something is."
+          "en": "A measurement of how hot or cold something is.",
+          "ko": "온도",
+          "zh-Hans": "温度",
+          "ja": "温度",
+          "es": "temperatura",
+          "hi": "तापमान",
+          "de": "Temperatur",
+          "vi": "nhiệt độ",
+          "pt-BR": "temperatura",
+          "id": "suhu",
+          "fr": "température",
+          "ar": "درجة الحرارة",
+          "tr": "sıcaklık",
+          "it": "temperatura",
+          "pl": "temperatura"
         },
         "example": {
           "en": "Today's news uses the word temperature."
@@ -80,14 +192,42 @@
     {
       "id": "pattern",
       "en": "pattern",
-      "ko": "A regular or repeated arrangement or behavior.",
+      "ko": "패턴",
       "l1": {
-        "en": "A regular or repeated arrangement or behavior."
+        "en": "A regular or repeated arrangement or behavior.",
+        "ko": "패턴",
+        "zh-Hans": "模式",
+        "ja": "パターン",
+        "es": "patrón",
+        "hi": "पैटर्न",
+        "de": "Muster",
+        "vi": "mô hình",
+        "pt-BR": "padrão",
+        "id": "pola",
+        "fr": "modèle",
+        "ar": "نمط",
+        "tr": "desen",
+        "it": "modello",
+        "pl": "wzór"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A regular or repeated arrangement or behavior."
+          "en": "A regular or repeated arrangement or behavior.",
+          "ko": "패턴",
+          "zh-Hans": "模式",
+          "ja": "パターン",
+          "es": "patrón",
+          "hi": "पैटर्न",
+          "de": "Muster",
+          "vi": "mô hình",
+          "pt-BR": "padrão",
+          "id": "pola",
+          "fr": "modèle",
+          "ar": "نمط",
+          "tr": "desen",
+          "it": "modello",
+          "pl": "wzór"
         },
         "example": {
           "en": "Today's news uses the word pattern."
@@ -98,14 +238,42 @@
     {
       "id": "suppress",
       "en": "suppress",
-      "ko": "To stop or limit something from developing.",
+      "ko": "억제하다",
       "l1": {
-        "en": "To stop or limit something from developing."
+        "en": "To stop or limit something from developing.",
+        "ko": "억제하다",
+        "zh-Hans": "抑制",
+        "ja": "抑制する",
+        "es": "suprimir",
+        "hi": "दबाना",
+        "de": "unterdrücken",
+        "vi": "đàn áp",
+        "pt-BR": "suprimir",
+        "id": "menekan",
+        "fr": "supprimer",
+        "ar": "يكبت",
+        "tr": "bastırmak",
+        "it": "sopprimere",
+        "pl": "tłumić"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "To stop or limit something from developing."
+          "en": "To stop or limit something from developing.",
+          "ko": "억제하다",
+          "zh-Hans": "抑制",
+          "ja": "抑制する",
+          "es": "suprimir",
+          "hi": "दबाना",
+          "de": "unterdrücken",
+          "vi": "đàn áp",
+          "pt-BR": "suprimir",
+          "id": "menekan",
+          "fr": "supprimer",
+          "ar": "يكبت",
+          "tr": "bastırmak",
+          "it": "sopprimere",
+          "pl": "tłumić"
         },
         "example": {
           "en": "Today's news uses the word suppress."
@@ -116,14 +284,42 @@
     {
       "id": "amplify",
       "en": "amplify",
-      "ko": "To make something stronger or greater.",
+      "ko": "증폭시키다",
       "l1": {
-        "en": "To make something stronger or greater."
+        "en": "To make something stronger or greater.",
+        "ko": "증폭시키다",
+        "zh-Hans": "放大",
+        "ja": "増幅する",
+        "es": "amplificar",
+        "hi": "बढ़ाना",
+        "de": "verstärken",
+        "vi": "khuếch đại",
+        "pt-BR": "amplificar",
+        "id": "memperkuat",
+        "fr": "amplifier",
+        "ar": "يضخم",
+        "tr": "güçlendirmek",
+        "it": "amplificare",
+        "pl": "wzmacniać"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "To make something stronger or greater."
+          "en": "To make something stronger or greater.",
+          "ko": "증폭시키다",
+          "zh-Hans": "放大",
+          "ja": "増幅する",
+          "es": "amplificar",
+          "hi": "बढ़ाना",
+          "de": "verstärken",
+          "vi": "khuếch đại",
+          "pt-BR": "amplificar",
+          "id": "memperkuat",
+          "fr": "amplifier",
+          "ar": "يضخم",
+          "tr": "güçlendirmek",
+          "it": "amplificare",
+          "pl": "wzmacniać"
         },
         "example": {
           "en": "Today's news uses the word amplify."
@@ -134,14 +330,42 @@
     {
       "id": "hemisphere",
       "en": "hemisphere",
-      "ko": "One half of Earth.",
+      "ko": "반구",
       "l1": {
-        "en": "One half of Earth."
+        "en": "One half of Earth.",
+        "ko": "반구",
+        "zh-Hans": "半球",
+        "ja": "半球",
+        "es": "hemisferio",
+        "hi": "गोलार्ध",
+        "de": "Hemisphäre",
+        "vi": "bán cầu",
+        "pt-BR": "hemisfério",
+        "id": "belahan bumi",
+        "fr": "hémisphère",
+        "ar": "نصف الكرة",
+        "tr": "yarım küre",
+        "it": "emisfero",
+        "pl": "półkula"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "One half of Earth."
+          "en": "One half of Earth.",
+          "ko": "반구",
+          "zh-Hans": "半球",
+          "ja": "半球",
+          "es": "hemisferio",
+          "hi": "गोलार्ध",
+          "de": "Hemisphäre",
+          "vi": "bán cầu",
+          "pt-BR": "hemisfério",
+          "id": "belahan bumi",
+          "fr": "hémisphère",
+          "ar": "نصف الكرة",
+          "tr": "yarım küre",
+          "it": "emisfero",
+          "pl": "półkula"
         },
         "example": {
           "en": "Today's news uses the word hemisphere."
@@ -152,14 +376,42 @@
     {
       "id": "boundary",
       "en": "boundary",
-      "ko": "A line or limit separating areas.",
+      "ko": "경계",
       "l1": {
-        "en": "A line or limit separating areas."
+        "en": "A line or limit separating areas.",
+        "ko": "경계",
+        "zh-Hans": "边界",
+        "ja": "境界",
+        "es": "límite",
+        "hi": "सीमा",
+        "de": "Grenze",
+        "vi": "ranh giới",
+        "pt-BR": "limite",
+        "id": "batas",
+        "fr": "limite",
+        "ar": "حدود",
+        "tr": "sınır",
+        "it": "confine",
+        "pl": "granica"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A line or limit separating areas."
+          "en": "A line or limit separating areas.",
+          "ko": "경계",
+          "zh-Hans": "边界",
+          "ja": "境界",
+          "es": "límite",
+          "hi": "सीमा",
+          "de": "Grenze",
+          "vi": "ranh giới",
+          "pt-BR": "limite",
+          "id": "batas",
+          "fr": "limite",
+          "ar": "حدود",
+          "tr": "sınır",
+          "it": "confine",
+          "pl": "granica"
         },
         "example": {
           "en": "Today's news uses the word boundary."
@@ -170,14 +422,42 @@
     {
       "id": "forecast",
       "en": "forecast",
-      "ko": "A statement about what is expected to happen.",
+      "ko": "예보",
       "l1": {
-        "en": "A statement about what is expected to happen."
+        "en": "A statement about what is expected to happen.",
+        "ko": "예보",
+        "zh-Hans": "预测",
+        "ja": "予報",
+        "es": "pronóstico",
+        "hi": "पूर्वानुमान",
+        "de": "Vorhersage",
+        "vi": "dự báo",
+        "pt-BR": "previsão",
+        "id": "ramalan",
+        "fr": "prévision",
+        "ar": "توقعات",
+        "tr": "tahmin",
+        "it": "previsione",
+        "pl": "prognoza"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A statement about what is expected to happen."
+          "en": "A statement about what is expected to happen.",
+          "ko": "예보",
+          "zh-Hans": "预测",
+          "ja": "予報",
+          "es": "pronóstico",
+          "hi": "पूर्वानुमान",
+          "de": "Vorhersage",
+          "vi": "dự báo",
+          "pt-BR": "previsão",
+          "id": "ramalan",
+          "fr": "prévision",
+          "ar": "توقعات",
+          "tr": "tahmin",
+          "it": "previsione",
+          "pl": "prognoza"
         },
         "example": {
           "en": "Today's news uses the word forecast."

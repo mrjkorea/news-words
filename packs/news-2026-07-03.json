@@ -8,14 +8,42 @@
     {
       "id": "negotiators",
       "en": "negotiators",
-      "ko": "people who discuss an issue and try to reach an agreement",
+      "ko": "협상가",
       "l1": {
-        "en": "people who discuss an issue and try to reach an agreement"
+        "en": "people who discuss an issue and try to reach an agreement",
+        "ko": "협상가",
+        "zh-Hans": "谈判者",
+        "ja": "交渉者",
+        "es": "negociadores",
+        "hi": "वार्ताकार",
+        "de": "Verhandlungsführer",
+        "vi": "nhà đàm phán",
+        "pt-BR": "negociadores",
+        "id": "negosiator",
+        "fr": "négociateurs",
+        "ar": "مفاوضون",
+        "tr": "müzakereciler",
+        "it": "negoziatori",
+        "pl": "negocjatorzy"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "people who discuss an issue and try to reach an agreement"
+          "en": "people who discuss an issue and try to reach an agreement",
+          "ko": "협상가",
+          "zh-Hans": "谈判者",
+          "ja": "交渉者",
+          "es": "negociadores",
+          "hi": "वार्ताकार",
+          "de": "Verhandlungsführer",
+          "vi": "nhà đàm phán",
+          "pt-BR": "negociadores",
+          "id": "negosiator",
+          "fr": "négociateurs",
+          "ar": "مفاوضون",
+          "tr": "müzakereciler",
+          "it": "negoziatori",
+          "pl": "negocjatorzy"
         },
         "example": {
           "en": "Today's news uses the word negotiators."
@@ -26,14 +54,42 @@
     {
       "id": "mediators",
       "en": "mediators",
-      "ko": "people or countries that help two sides communicate and solve a conflict",
+      "ko": "중재자",
       "l1": {
-        "en": "people or countries that help two sides communicate and solve a conflict"
+        "en": "people or countries that help two sides communicate and solve a conflict",
+        "ko": "중재자",
+        "zh-Hans": "调解人",
+        "ja": "調停者",
+        "es": "mediadores",
+        "hi": "मध्यस्थ",
+        "de": "Vermittler",
+        "vi": "người hòa giải",
+        "pt-BR": "mediadores",
+        "id": "mediator",
+        "fr": "médiateurs",
+        "ar": "وسطاء",
+        "tr": "arabulucular",
+        "it": "mediatori",
+        "pl": "mediatorzy"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "people or countries that help two sides communicate and solve a conflict"
+          "en": "people or countries that help two sides communicate and solve a conflict",
+          "ko": "중재자",
+          "zh-Hans": "调解人",
+          "ja": "調停者",
+          "es": "mediadores",
+          "hi": "मध्यस्थ",
+          "de": "Vermittler",
+          "vi": "người hòa giải",
+          "pt-BR": "mediadores",
+          "id": "mediator",
+          "fr": "médiateurs",
+          "ar": "وسطاء",
+          "tr": "arabulucular",
+          "it": "mediatori",
+          "pl": "mediatorzy"
         },
         "example": {
           "en": "Today's news uses the word mediators."
@@ -44,14 +100,42 @@
     {
       "id": "discussions",
       "en": "discussions",
-      "ko": "serious conversations about an important topic",
+      "ko": "논의",
       "l1": {
-        "en": "serious conversations about an important topic"
+        "en": "serious conversations about an important topic",
+        "ko": "논의",
+        "zh-Hans": "讨论",
+        "ja": "話し合い",
+        "es": "discusiones",
+        "hi": "चर्चाएँ",
+        "de": "Diskussionen",
+        "vi": "thảo luận",
+        "pt-BR": "discussões",
+        "id": "diskusi",
+        "fr": "discussions",
+        "ar": "مناقشات",
+        "tr": "tartışmalar",
+        "it": "discussioni",
+        "pl": "dyskusje"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "serious conversations about an important topic"
+          "en": "serious conversations about an important topic",
+          "ko": "논의",
+          "zh-Hans": "讨论",
+          "ja": "話し合い",
+          "es": "discusiones",
+          "hi": "चर्चाएँ",
+          "de": "Diskussionen",
+          "vi": "thảo luận",
+          "pt-BR": "discussões",
+          "id": "diskusi",
+          "fr": "discussions",
+          "ar": "مناقشات",
+          "tr": "tartışmalar",
+          "it": "discussioni",
+          "pl": "dyskusje"
         },
         "example": {
           "en": "Today's news uses the word discussions."
@@ -62,14 +146,42 @@
     {
       "id": "agreement",
       "en": "agreement",
-      "ko": "a decision accepted by two or more sides",
+      "ko": "합의",
       "l1": {
-        "en": "a decision accepted by two or more sides"
+        "en": "a decision accepted by two or more sides",
+        "ko": "합의",
+        "zh-Hans": "协议",
+        "ja": "合意",
+        "es": "acuerdo",
+        "hi": "समझौता",
+        "de": "Vereinbarung",
+        "vi": "thỏa thuận",
+        "pt-BR": "acordo",
+        "id": "kesepakatan",
+        "fr": "accord",
+        "ar": "اتفاق",
+        "tr": "anlaşma",
+        "it": "accordo",
+        "pl": "porozumienie"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "a decision accepted by two or more sides"
+          "en": "a decision accepted by two or more sides",
+          "ko": "합의",
+          "zh-Hans": "协议",
+          "ja": "合意",
+          "es": "acuerdo",
+          "hi": "समझौता",
+          "de": "Vereinbarung",
+          "vi": "thỏa thuận",
+          "pt-BR": "acordo",
+          "id": "kesepakatan",
+          "fr": "accord",
+          "ar": "اتفاق",
+          "tr": "anlaşma",
+          "it": "accordo",
+          "pl": "porozumienie"
         },
         "example": {
           "en": "Today's news uses the word agreement."
@@ -80,14 +192,42 @@
     {
       "id": "strait",
       "en": "strait",
-      "ko": "a narrow passage of water connecting two larger bodies of water",
+      "ko": "두 큰 수역을 연결하는 좁은 수로",
       "l1": {
-        "en": "a narrow passage of water connecting two larger bodies of water"
+        "en": "a narrow passage of water connecting two larger bodies of water",
+        "ko": "두 큰 수역을 연결하는 좁은 수로",
+        "zh-Hans": "连接两个较大水域的狭窄水道",
+        "ja": "二つの大きな水域を結ぶ狭い水路",
+        "es": "estrecho que conecta dos grandes masas de agua",
+        "hi": "दो बड़े जलक्षेत्रों को जोड़ने वाला संकरा जलमार्ग",
+        "de": "schmale Wasserstraße zwischen zwei größeren Gewässern",
+        "vi": "eo biển hẹp nối hai vùng nước lớn",
+        "pt-BR": "estreito que liga dois grandes corpos d'água",
+        "id": "selat sempit yang menghubungkan dua perairan besar",
+        "fr": "détroit étroit reliant deux grandes étendues d'eau",
+        "ar": "مضيق مائي ضيق يربط بين مسطحين مائيين كبيرين",
+        "tr": "iki büyük su kütlesini birleştiren dar geçit",
+        "it": "stretto che collega due grandi specchi d'acqua",
+        "pl": "wąska cieśnina łącząca dwa duże akweny"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "a narrow passage of water connecting two larger bodies of water"
+          "en": "a narrow passage of water connecting two larger bodies of water",
+          "ko": "두 큰 수역을 연결하는 좁은 수로",
+          "zh-Hans": "连接两个较大水域的狭窄水道",
+          "ja": "二つの大きな水域を結ぶ狭い水路",
+          "es": "estrecho que conecta dos grandes masas de agua",
+          "hi": "दो बड़े जलक्षेत्रों को जोड़ने वाला संकरा जलमार्ग",
+          "de": "schmale Wasserstraße zwischen zwei größeren Gewässern",
+          "vi": "eo biển hẹp nối hai vùng nước lớn",
+          "pt-BR": "estreito que liga dois grandes corpos d'água",
+          "id": "selat sempit yang menghubungkan dua perairan besar",
+          "fr": "détroit étroit reliant deux grandes étendues d'eau",
+          "ar": "مضيق مائي ضيق يربط بين مسطحين مائيين كبيرين",
+          "tr": "iki büyük su kütlesini birleştiren dar geçit",
+          "it": "stretto che collega due grandi specchi d'acqua",
+          "pl": "wąska cieśnina łącząca dwa duże akweny"
         },
         "example": {
           "en": "Today's news uses the word strait."
@@ -98,14 +238,42 @@
     {
       "id": "waterway",
       "en": "waterway",
-      "ko": "a river canal or sea route used by boats and ships",
+      "ko": "배가 다니는 강이나 운하 같은 수로",
       "l1": {
-        "en": "a river canal or sea route used by boats and ships"
+        "en": "a river canal or sea route used by boats and ships",
+        "ko": "배가 다니는 강이나 운하 같은 수로",
+        "zh-Hans": "供船只航行的河流或运河等水道",
+        "ja": "船が通る川や運河などの水路",
+        "es": "vía fluvial o canal para barcos",
+        "hi": "नावों के लिए नदी या नहर जैसा जलमार्ग",
+        "de": "Wasserstraße wie Fluss oder Kanal für Schiffe",
+        "vi": "đường thủy như sông hoặc kênh cho tàu thuyền",
+        "pt-BR": "via navegável como rio ou canal para barcos",
+        "id": "jalur air seperti sungai atau kanal untuk kapal",
+        "fr": "voie navigable comme rivière ou canal pour bateaux",
+        "ar": "ممر مائي كالنهر أو القناة للسفن",
+        "tr": "gemiler için nehir veya kanal gibi su yolu",
+        "it": "via d'acqua come fiume o canale per navi",
+        "pl": "droga wodna jak rzeka lub kanał dla statków"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "a river canal or sea route used by boats and ships"
+          "en": "a river canal or sea route used by boats and ships",
+          "ko": "배가 다니는 강이나 운하 같은 수로",
+          "zh-Hans": "供船只航行的河流或运河等水道",
+          "ja": "船が通る川や運河などの水路",
+          "es": "vía fluvial o canal para barcos",
+          "hi": "नावों के लिए नदी या नहर जैसा जलमार्ग",
+          "de": "Wasserstraße wie Fluss oder Kanal für Schiffe",
+          "vi": "đường thủy như sông hoặc kênh cho tàu thuyền",
+          "pt-BR": "via navegável como rio ou canal para barcos",
+          "id": "jalur air seperti sungai atau kanal untuk kapal",
+          "fr": "voie navigable comme rivière ou canal pour bateaux",
+          "ar": "ممر مائي كالنهر أو القناة للسفن",
+          "tr": "gemiler için nehir veya kanal gibi su yolu",
+          "it": "via d'acqua come fiume o canale per navi",
+          "pl": "droga wodna jak rzeka lub kanał dla statków"
         },
         "example": {
           "en": "Today's news uses the word waterway."
@@ -116,14 +284,42 @@
     {
       "id": "leverage",
       "en": "leverage",
-      "ko": "power or influence used to get what you want in a negotiation",
+      "ko": "협상에서 원하는 것을 얻기 위한 힘이나 영향력",
       "l1": {
-        "en": "power or influence used to get what you want in a negotiation"
+        "en": "power or influence used to get what you want in a negotiation",
+        "ko": "협상에서 원하는 것을 얻기 위한 힘이나 영향력",
+        "zh-Hans": "谈判中用来获得想要东西的权力或影响力",
+        "ja": "交渉で望むものを得るための力や影響力",
+        "es": "poder o influencia para conseguir algo en una negociación",
+        "hi": "बातचीत में चाहा हुआ पाने की शक्ति या प्रभाव",
+        "de": "Macht oder Einfluss, um in Verhandlungen Ziele zu erreichen",
+        "vi": "quyền lực hay ảnh hưởng để đạt được điều muốn trong đàm phán",
+        "pt-BR": "poder ou influência para conseguir algo em negociação",
+        "id": "kekuatan atau pengaruh untuk mendapat yang diinginkan dalam negosiasi",
+        "fr": "pouvoir ou influence pour obtenir ce qu'on veut en négociation",
+        "ar": "قوة أو نفوذ للحصول على ما تريد في التفاوض",
+        "tr": "müzakerede istediğini elde etmek için güç veya etki",
+        "it": "potere o influenza per ottenere ciò che si vuole in una negoziazione",
+        "pl": "władza lub wpływ, by osiągnąć cel w negocjacjach"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "power or influence used to get what you want in a negotiation"
+          "en": "power or influence used to get what you want in a negotiation",
+          "ko": "협상에서 원하는 것을 얻기 위한 힘이나 영향력",
+          "zh-Hans": "谈判中用来获得想要东西的权力或影响力",
+          "ja": "交渉で望むものを得るための力や影響力",
+          "es": "poder o influencia para conseguir algo en una negociación",
+          "hi": "बातचीत में चाहा हुआ पाने की शक्ति या प्रभाव",
+          "de": "Macht oder Einfluss, um in Verhandlungen Ziele zu erreichen",
+          "vi": "quyền lực hay ảnh hưởng để đạt được điều muốn trong đàm phán",
+          "pt-BR": "poder ou influência para conseguir algo em negociação",
+          "id": "kekuatan atau pengaruh untuk mendapat yang diinginkan dalam negosiasi",
+          "fr": "pouvoir ou influence pour obtenir ce qu'on veut en négociation",
+          "ar": "قوة أو نفوذ للحصول على ما تريد في التفاوض",
+          "tr": "müzakerede istediğini elde etmek için güç veya etki",
+          "it": "potere o influenza per ottenere ciò che si vuole in una negoziazione",
+          "pl": "władza lub wpływ, by osiągnąć cel w negocjacjach"
         },
         "example": {
           "en": "Today's news uses the word leverage."
@@ -134,14 +330,42 @@
     {
       "id": "routes",
       "en": "routes",
-      "ko": "paths used to travel from one place to another",
+      "ko": "한 곳에서 다른 곳으로 가는 길",
       "l1": {
-        "en": "paths used to travel from one place to another"
+        "en": "paths used to travel from one place to another",
+        "ko": "한 곳에서 다른 곳으로 가는 길",
+        "zh-Hans": "从一个地方到另一个地方的路径",
+        "ja": "ある場所から別の場所へ行く道筋",
+        "es": "caminos para viajar de un lugar a otro",
+        "hi": "एक स्थान से दूसरे स्थान तक जाने के रास्ते",
+        "de": "Wege von einem Ort zum anderen",
+        "vi": "các tuyến đường đi từ nơi này đến nơi khác",
+        "pt-BR": "caminhos para viajar de um lugar a outro",
+        "id": "jalur perjalanan dari satu tempat ke tempat lain",
+        "fr": "chemins pour aller d'un endroit à un autre",
+        "ar": "طرق السفر من مكان إلى آخر",
+        "tr": "bir yerden başka bir yere giden yollar",
+        "it": "percorsi per viaggiare da un luogo a un altro",
+        "pl": "trasy podróży z jednego miejsca do drugiego"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "paths used to travel from one place to another"
+          "en": "paths used to travel from one place to another",
+          "ko": "한 곳에서 다른 곳으로 가는 길",
+          "zh-Hans": "从一个地方到另一个地方的路径",
+          "ja": "ある場所から別の場所へ行く道筋",
+          "es": "caminos para viajar de un lugar a otro",
+          "hi": "एक स्थान से दूसरे स्थान तक जाने के रास्ते",
+          "de": "Wege von einem Ort zum anderen",
+          "vi": "các tuyến đường đi từ nơi này đến nơi khác",
+          "pt-BR": "caminhos para viajar de um lugar a outro",
+          "id": "jalur perjalanan dari satu tempat ke tempat lain",
+          "fr": "chemins pour aller d'un endroit à un autre",
+          "ar": "طرق السفر من مكان إلى آخر",
+          "tr": "bir yerden başka bir yere giden yollar",
+          "it": "percorsi per viaggiare da un luogo a un altro",
+          "pl": "trasy podróży z jednego miejsca do drugiego"
         },
         "example": {
           "en": "Today's news uses the word routes."
@@ -152,14 +376,42 @@
     {
       "id": "vessel",
       "en": "vessel",
-      "ko": "a ship or large boat",
+      "ko": "배나 큰 보트",
       "l1": {
-        "en": "a ship or large boat"
+        "en": "a ship or large boat",
+        "ko": "배나 큰 보트",
+        "zh-Hans": "船或大型船只",
+        "ja": "船や大型ボート",
+        "es": "barco o embarcación grande",
+        "hi": "जहाज या बड़ी नाव",
+        "de": "Schiff oder großes Boot",
+        "vi": "tàu hoặc thuyền lớn",
+        "pt-BR": "navio ou embarcação grande",
+        "id": "kapal atau perahu besar",
+        "fr": "navire ou grand bateau",
+        "ar": "سفينة أو قارب كبير",
+        "tr": "gemi veya büyük tekne",
+        "it": "nave o grande imbarcazione",
+        "pl": "statek lub duża łódź"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "a ship or large boat"
+          "en": "a ship or large boat",
+          "ko": "배나 큰 보트",
+          "zh-Hans": "船或大型船只",
+          "ja": "船や大型ボート",
+          "es": "barco o embarcación grande",
+          "hi": "जहाज या बड़ी नाव",
+          "de": "Schiff oder großes Boot",
+          "vi": "tàu hoặc thuyền lớn",
+          "pt-BR": "navio ou embarcação grande",
+          "id": "kapal atau perahu besar",
+          "fr": "navire ou grand bateau",
+          "ar": "سفينة أو قارب كبير",
+          "tr": "gemi veya büyük tekne",
+          "it": "nave o grande imbarcazione",
+          "pl": "statek lub duża łódź"
         },
         "example": {
           "en": "Today's news uses the word vessel."
@@ -170,14 +422,42 @@
     {
       "id": "tension",
       "en": "tension",
-      "ko": "stress pressure or conflict between people groups or countries",
+      "ko": "사람, 집단, 국가 간의 긴장이나 갈등",
       "l1": {
-        "en": "stress pressure or conflict between people groups or countries"
+        "en": "stress pressure or conflict between people groups or countries",
+        "ko": "사람, 집단, 국가 간의 긴장이나 갈등",
+        "zh-Hans": "人与人、群体或国家之间的紧张或冲突",
+        "ja": "人・集団・国家間の緊張や対立",
+        "es": "tensión o conflicto entre personas, grupos o países",
+        "hi": "लोगों, समूहों या देशों के बीच तनाव या संघर्ष",
+        "de": "Spannung oder Konflikt zwischen Menschen, Gruppen oder Ländern",
+        "vi": "căng thẳng hay xung đột giữa người, nhóm hoặc quốc gia",
+        "pt-BR": "tensão ou conflito entre pessoas, grupos ou países",
+        "id": "ketegangan atau konflik antar orang, kelompok, atau negara",
+        "fr": "tension ou conflit entre personnes, groupes ou pays",
+        "ar": "توتر أو صراع بين الأشخاص أو الجماعات أو الدول",
+        "tr": "kişiler, gruplar veya ülkeler arasında gerginlik veya çatışma",
+        "it": "tensione o conflitto tra persone, gruppi o paesi",
+        "pl": "napięcie lub konflikt między ludźmi, grupami lub krajami"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "stress pressure or conflict between people groups or countries"
+          "en": "stress pressure or conflict between people groups or countries",
+          "ko": "사람, 집단, 국가 간의 긴장이나 갈등",
+          "zh-Hans": "人与人、群体或国家之间的紧张或冲突",
+          "ja": "人・集団・国家間の緊張や対立",
+          "es": "tensión o conflicto entre personas, grupos o países",
+          "hi": "लोगों, समूहों या देशों के बीच तनाव या संघर्ष",
+          "de": "Spannung oder Konflikt zwischen Menschen, Gruppen oder Ländern",
+          "vi": "căng thẳng hay xung đột giữa người, nhóm hoặc quốc gia",
+          "pt-BR": "tensão ou conflito entre pessoas, grupos ou países",
+          "id": "ketegangan atau konflik antar orang, kelompok, atau negara",
+          "fr": "tension ou conflit entre personnes, groupes ou pays",
+          "ar": "توتر أو صراع بين الأشخاص أو الجماعات أو الدول",
+          "tr": "kişiler, gruplar veya ülkeler arasında gerginlik veya çatışma",
+          "it": "tensione o conflitto tra persone, gruppi o paesi",
+          "pl": "napięcie lub konflikt między ludźmi, grupami lub krajami"
         },
         "example": {
           "en": "Today's news uses the word tension."

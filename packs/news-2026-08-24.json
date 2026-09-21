@@ -8,14 +8,42 @@
     {
       "id": "microbe",
       "en": "microbe",
-      "ko": "A very small living thing that cannot be seen without a microscope",
+      "ko": "현미경 없이는 볼 수 없는 아주 작은 생물",
       "l1": {
-        "en": "A very small living thing that cannot be seen without a microscope"
+        "en": "A very small living thing that cannot be seen without a microscope",
+        "ko": "현미경 없이는 볼 수 없는 아주 작은 생물",
+        "zh-Hans": "肉眼看不见的微小生物",
+        "ja": "顕微鏡でしか見えない微小な生物",
+        "es": "ser vivo muy pequeño que no se ve sin microscopio",
+        "hi": "सूक्ष्मदर्शी के बिना न दिखने वाला सूक्ष्म जीव",
+        "de": "sehr kleiner Organismus, nur mit Mikroskop sichtbar",
+        "vi": "sinh vật rất nhỏ, không thấy được nếu không có kính hiển vi",
+        "pt-BR": "ser vivo muito pequeno, invisível a olho nu",
+        "id": "makhluk hidup sangat kecil, tak terlihat tanpa mikroskop",
+        "fr": "être vivant minuscule, invisible à l'œil nu",
+        "ar": "كائن حي دقيق لا يُرى إلا بالمجهر",
+        "tr": "mikroskopsuz görülemeyen çok küçük canlı",
+        "it": "essere vivente minuscolo, visibile solo al microscopio",
+        "pl": "bardzo mały organizm, widoczny tylko pod mikroskopem"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A very small living thing that cannot be seen without a microscope"
+          "en": "A very small living thing that cannot be seen without a microscope",
+          "ko": "현미경 없이는 볼 수 없는 아주 작은 생물",
+          "zh-Hans": "肉眼看不见的微小生物",
+          "ja": "顕微鏡でしか見えない微小な生物",
+          "es": "ser vivo muy pequeño que no se ve sin microscopio",
+          "hi": "सूक्ष्मदर्शी के बिना न दिखने वाला सूक्ष्म जीव",
+          "de": "sehr kleiner Organismus, nur mit Mikroskop sichtbar",
+          "vi": "sinh vật rất nhỏ, không thấy được nếu không có kính hiển vi",
+          "pt-BR": "ser vivo muito pequeno, invisível a olho nu",
+          "id": "makhluk hidup sangat kecil, tak terlihat tanpa mikroskop",
+          "fr": "être vivant minuscule, invisible à l'œil nu",
+          "ar": "كائن حي دقيق لا يُرى إلا بالمجهر",
+          "tr": "mikroskopsuz görülemeyen çok küçük canlı",
+          "it": "essere vivente minuscolo, visibile solo al microscopio",
+          "pl": "bardzo mały organizm, widoczny tylko pod mikroskopem"
         },
         "example": {
           "en": "A NASA-led study says some Earth microbes could survive for a time on the moon."
@@ -26,14 +54,42 @@
     {
       "id": "fungus",
       "en": "fungus",
-      "ko": "A living thing such as mold or a mushroom that grows in damp places",
+      "ko": "습한 곳에서 자라는 곰팡이나 버섯 같은 생물",
       "l1": {
-        "en": "A living thing such as mold or a mushroom that grows in damp places"
+        "en": "A living thing such as mold or a mushroom that grows in damp places",
+        "ko": "습한 곳에서 자라는 곰팡이나 버섯 같은 생물",
+        "zh-Hans": "在潮湿处生长的霉菌或蘑菇等生物",
+        "ja": "湿った場所に生えるカビやキノコなどの生物",
+        "es": "ser vivo como moho u hongo que crece en lugares húmedos",
+        "hi": "नम स्थानों में उगने वाला मोल्ड या मशरूम जैसा जीव",
+        "de": "Lebewesen wie Schimmel oder Pilz, wächst an feuchten Orten",
+        "vi": "sinh vật như nấm mốc hoặc nấm, mọc ở nơi ẩm ướt",
+        "pt-BR": "ser vivo como mofo ou cogumelo que cresce em lugares úmidos",
+        "id": "makhluk hidup seperti jamur atau kapang yang tumbuh di tempat lembap",
+        "fr": "être vivant comme la moisissure ou le champignon, pousse dans les lieux humides",
+        "ar": "كائن حي كالعفن أو الفطر ينمو في الأماكن الرطبة",
+        "tr": "nemli yerlerde yetişen küf veya mantar gibi canlı",
+        "it": "essere vivente come muffa o fungo che cresce in luoghi umidi",
+        "pl": "organizm taki jak pleśń lub grzyb rosnący w wilgotnych miejscach"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A living thing such as mold or a mushroom that grows in damp places"
+          "en": "A living thing such as mold or a mushroom that grows in damp places",
+          "ko": "습한 곳에서 자라는 곰팡이나 버섯 같은 생물",
+          "zh-Hans": "在潮湿处生长的霉菌或蘑菇等生物",
+          "ja": "湿った場所に生えるカビやキノコなどの生物",
+          "es": "ser vivo como moho u hongo que crece en lugares húmedos",
+          "hi": "नम स्थानों में उगने वाला मोल्ड या मशरूम जैसा जीव",
+          "de": "Lebewesen wie Schimmel oder Pilz, wächst an feuchten Orten",
+          "vi": "sinh vật như nấm mốc hoặc nấm, mọc ở nơi ẩm ướt",
+          "pt-BR": "ser vivo como mofo ou cogumelo que cresce em lugares úmidos",
+          "id": "makhluk hidup seperti jamur atau kapang yang tumbuh di tempat lembap",
+          "fr": "être vivant comme la moisissure ou le champignon, pousse dans les lieux humides",
+          "ar": "كائن حي كالعفن أو الفطر ينمو في الأماكن الرطبة",
+          "tr": "nemli yerlerde yetişen küf veya mantar gibi canlı",
+          "it": "essere vivente come muffa o fungo che cresce in luoghi umidi",
+          "pl": "organizm taki jak pleśń lub grzyb rosnący w wilgotnych miejscach"
         },
         "example": {
           "en": "The researchers also studied Fusarium, a common soil fungus."
@@ -44,14 +100,42 @@
     {
       "id": "survive",
       "en": "survive",
-      "ko": "To continue to live or exist after a difficult situation",
+      "ko": "어려운 상황 후에도 계속 살아남다",
       "l1": {
-        "en": "To continue to live or exist after a difficult situation"
+        "en": "To continue to live or exist after a difficult situation",
+        "ko": "어려운 상황 후에도 계속 살아남다",
+        "zh-Hans": "在困境后继续生存或存在",
+        "ja": "困難な状況の後も生き続ける",
+        "es": "seguir viviendo o existiendo tras una situación difícil",
+        "hi": "कठिन परिस्थिति के बाद भी जीवित रहना",
+        "de": "nach einer schwierigen Situation weiterleben",
+        "vi": "tiếp tục sống hoặc tồn tại sau tình huống khó khăn",
+        "pt-BR": "continuar vivo ou existindo após situação difícil",
+        "id": "terus hidup atau ada setelah situasi sulit",
+        "fr": "continuer à vivre ou exister après une situation difficile",
+        "ar": "الاستمرار في الحياة بعد موقف صعب",
+        "tr": "zor durumdan sonra yaşamaya devam etmek",
+        "it": "continuare a vivere o esistere dopo una situazione difficile",
+        "pl": "przetrwać i nadal żyć po trudnej sytuacji"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "To continue to live or exist after a difficult situation"
+          "en": "To continue to live or exist after a difficult situation",
+          "ko": "어려운 상황 후에도 계속 살아남다",
+          "zh-Hans": "在困境后继续生存或存在",
+          "ja": "困難な状況の後も生き続ける",
+          "es": "seguir viviendo o existiendo tras una situación difícil",
+          "hi": "कठिन परिस्थिति के बाद भी जीवित रहना",
+          "de": "nach einer schwierigen Situation weiterleben",
+          "vi": "tiếp tục sống hoặc tồn tại sau tình huống khó khăn",
+          "pt-BR": "continuar vivo ou existindo após situação difícil",
+          "id": "terus hidup atau ada setelah situasi sulit",
+          "fr": "continuer à vivre ou exister après une situation difficile",
+          "ar": "الاستمرار في الحياة بعد موقف صعب",
+          "tr": "zor durumdan sonra yaşamaya devam etmek",
+          "it": "continuare a vivere o esistere dopo una situazione difficile",
+          "pl": "przetrwać i nadal żyć po trudnej sytuacji"
         },
         "example": {
           "en": "A NASA-led study says some Earth microbes could survive for a time on the moon."
@@ -62,14 +146,42 @@
     {
       "id": "crater",
       "en": "crater",
-      "ko": "A large round hole in the ground made by an impact or explosion",
+      "ko": "충돌이나 폭발로 생긴 큰 둥근 구멍",
       "l1": {
-        "en": "A large round hole in the ground made by an impact or explosion"
+        "en": "A large round hole in the ground made by an impact or explosion",
+        "ko": "충돌이나 폭발로 생긴 큰 둥근 구멍",
+        "zh-Hans": "撞击或爆炸形成的大圆坑",
+        "ja": "衝突や爆発でできた大きな丸い穴",
+        "es": "gran agujero redondo en el suelo por impacto o explosión",
+        "hi": "टक्कर या विस्फोट से बना बड़ा गोल गड्ढा",
+        "de": "großes rundes Loch im Boden durch Einschlag oder Explosion",
+        "vi": "hố tròn lớn trên mặt đất do va chạm hoặc nổ",
+        "pt-BR": "grande buraco redondo no solo por impacto ou explosão",
+        "id": "lubang bulat besar di tanah akibat tumbukan atau ledakan",
+        "fr": "grand trou rond dans le sol dû à un impact ou une explosion",
+        "ar": "حفرة مستديرة كبيرة في الأرض بسبب اصطدام أو انفجار",
+        "tr": "çarpma veya patlama sonucu oluşan büyük yuvarlak çukur",
+        "it": "grande buco rotondo nel terreno per impatto o esplosione",
+        "pl": "duży okrągły dół w ziemi po uderzeniu lub wybuchu"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A large round hole in the ground made by an impact or explosion"
+          "en": "A large round hole in the ground made by an impact or explosion",
+          "ko": "충돌이나 폭발로 생긴 큰 둥근 구멍",
+          "zh-Hans": "撞击或爆炸形成的大圆坑",
+          "ja": "衝突や爆発でできた大きな丸い穴",
+          "es": "gran agujero redondo en el suelo por impacto o explosión",
+          "hi": "टक्कर या विस्फोट से बना बड़ा गोल गड्ढा",
+          "de": "großes rundes Loch im Boden durch Einschlag oder Explosion",
+          "vi": "hố tròn lớn trên mặt đất do va chạm hoặc nổ",
+          "pt-BR": "grande buraco redondo no solo por impacto ou explosão",
+          "id": "lubang bulat besar di tanah akibat tumbukan atau ledakan",
+          "fr": "grand trou rond dans le sol dû à un impact ou une explosion",
+          "ar": "حفرة مستديرة كبيرة في الأرض بسبب اصطدام أو انفجار",
+          "tr": "çarpma veya patlama sonucu oluşan büyük yuvarlak çukur",
+          "it": "grande buco rotondo nel terreno per impatto o esplosione",
+          "pl": "duży okrągły dół w ziemi po uderzeniu lub wybuchu"
         },
         "example": {
           "en": "Still, the models mapped survivable niches as large as crater floors miles wide."
@@ -80,14 +192,42 @@
     {
       "id": "radiation",
       "en": "radiation",
-      "ko": "Energy that travels in waves or particles",
+      "ko": "파동이나 입자로 이동하는 에너지",
       "l1": {
-        "en": "Energy that travels in waves or particles"
+        "en": "Energy that travels in waves or particles",
+        "ko": "파동이나 입자로 이동하는 에너지",
+        "zh-Hans": "以波或粒子形式传播的能量",
+        "ja": "波や粒子として伝わるエネルギー",
+        "es": "energía que viaja en ondas o partículas",
+        "hi": "तरंगों या कणों में यात्रा करने वाली ऊर्जा",
+        "de": "Energie, die sich in Wellen oder Teilchen ausbreitet",
+        "vi": "năng lượng truyền dưới dạng sóng hoặc hạt",
+        "pt-BR": "energia que viaja em ondas ou partículas",
+        "id": "energi yang bergerak dalam gelombang atau partikel",
+        "fr": "énergie qui se propage en ondes ou particules",
+        "ar": "طاقة تنتقل في شكل موجات أو جسيمات",
+        "tr": "dalga veya parçacık olarak yayılan enerji",
+        "it": "energia che viaggia in onde o particelle",
+        "pl": "energia rozchodząca się w postaci fal lub cząstek"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Energy that travels in waves or particles"
+          "en": "Energy that travels in waves or particles",
+          "ko": "파동이나 입자로 이동하는 에너지",
+          "zh-Hans": "以波或粒子形式传播的能量",
+          "ja": "波や粒子として伝わるエネルギー",
+          "es": "energía que viaja en ondas o partículas",
+          "hi": "तरंगों या कणों में यात्रा करने वाली ऊर्जा",
+          "de": "Energie, die sich in Wellen oder Teilchen ausbreitet",
+          "vi": "năng lượng truyền dưới dạng sóng hoặc hạt",
+          "pt-BR": "energia que viaja em ondas ou partículas",
+          "id": "energi yang bergerak dalam gelombang atau partikel",
+          "fr": "énergie qui se propage en ondes ou particules",
+          "ar": "طاقة تنتقل في شكل موجات أو جسيمات",
+          "tr": "dalga veya parçacık olarak yayılan enerji",
+          "it": "energia che viaggia in onde o particelle",
+          "pl": "energia rozchodząca się w postaci fal lub cząstek"
         },
         "example": {
           "en": "The moon has no breathable air, extreme heat and cold, and strong space radiation."
@@ -98,14 +238,42 @@
     {
       "id": "simulation",
       "en": "simulation",
-      "ko": "A computer model that copies a real situation for study",
+      "ko": "실제 상황을 모방한 컴퓨터 모델",
       "l1": {
-        "en": "A computer model that copies a real situation for study"
+        "en": "A computer model that copies a real situation for study",
+        "ko": "실제 상황을 모방한 컴퓨터 모델",
+        "zh-Hans": "模仿真实情况的计算机模型",
+        "ja": "現実の状況を模倣したコンピュータモデル",
+        "es": "modelo informático que imita una situación real",
+        "hi": "वास्तविक स्थिति की नकल करने वाला कंप्यूटर मॉडल",
+        "de": "Computermodell, das eine reale Situation nachbildet",
+        "vi": "mô hình máy tính mô phỏng tình huống thực tế",
+        "pt-BR": "modelo computacional que imita uma situação real",
+        "id": "model komputer yang meniru situasi nyata",
+        "fr": "modèle informatique imitant une situation réelle",
+        "ar": "نموذج حاسوبي يحاكي موقفًا حقيقيًا",
+        "tr": "gerçek durumu taklit eden bilgisayar modeli",
+        "it": "modello computerizzato che imita una situazione reale",
+        "pl": "model komputerowy naśladujący rzeczywistą sytuację"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A computer model that copies a real situation for study"
+          "en": "A computer model that copies a real situation for study",
+          "ko": "실제 상황을 모방한 컴퓨터 모델",
+          "zh-Hans": "模仿真实情况的计算机模型",
+          "ja": "現実の状況を模倣したコンピュータモデル",
+          "es": "modelo informático que imita una situación real",
+          "hi": "वास्तविक स्थिति की नकल करने वाला कंप्यूटर मॉडल",
+          "de": "Computermodell, das eine reale Situation nachbildet",
+          "vi": "mô hình máy tính mô phỏng tình huống thực tế",
+          "pt-BR": "modelo computacional que imita uma situação real",
+          "id": "model komputer yang meniru situasi nyata",
+          "fr": "modèle informatique imitant une situation réelle",
+          "ar": "نموذج حاسوبي يحاكي موقفًا حقيقيًا",
+          "tr": "gerçek durumu taklit eden bilgisayar modeli",
+          "it": "modello computerizzato che imita una situazione reale",
+          "pl": "model komputerowy naśladujący rzeczywistą sytuację"
         },
         "example": {
           "en": "A NASA-led study says some Earth microbes could survive for a time on the moon."
@@ -116,14 +284,42 @@
     {
       "id": "bacteria",
       "en": "bacteria",
-      "ko": "Very small single-celled living things",
+      "ko": "아주 작은 단세포 생물",
       "l1": {
-        "en": "Very small single-celled living things"
+        "en": "Very small single-celled living things",
+        "ko": "아주 작은 단세포 생물",
+        "zh-Hans": "非常小的单细胞生物",
+        "ja": "非常に小さな単細胞生物",
+        "es": "seres vivos muy pequeños unicelulares",
+        "hi": "अत्यंत सूक्ष्म एककोशिकीय जीव",
+        "de": "sehr kleine einzellige Lebewesen",
+        "vi": "sinh vật đơn bào rất nhỏ",
+        "pt-BR": "seres vivos muito pequenos unicelulares",
+        "id": "makhluk hidup bersel satu yang sangat kecil",
+        "fr": "êtres vivants unicellulaires très petits",
+        "ar": "كائنات حية وحيدة الخلية دقيقة جدًا",
+        "tr": "çok küçük tek hücreli canlılar",
+        "it": "esseri viventi unicellulari molto piccoli",
+        "pl": "bardzo małe jednokomórkowe organizmy"
       },
       "ww": {
         "pos": "adj",
         "def": {
-          "en": "Very small single-celled living things"
+          "en": "Very small single-celled living things",
+          "ko": "아주 작은 단세포 생물",
+          "zh-Hans": "非常小的单细胞生物",
+          "ja": "非常に小さな単細胞生物",
+          "es": "seres vivos muy pequeños unicelulares",
+          "hi": "अत्यंत सूक्ष्म एककोशिकीय जीव",
+          "de": "sehr kleine einzellige Lebewesen",
+          "vi": "sinh vật đơn bào rất nhỏ",
+          "pt-BR": "seres vivos muito pequenos unicelulares",
+          "id": "makhluk hidup bersel satu yang sangat kecil",
+          "fr": "êtres vivants unicellulaires très petits",
+          "ar": "كائنات حية وحيدة الخلية دقيقة جدًا",
+          "tr": "çok küçük tek hücreli canlılar",
+          "it": "esseri viventi unicellulari molto piccoli",
+          "pl": "bardzo małe jednokomórkowe organizmy"
         },
         "example": {
           "en": "Researchers modeled five kinds of fungi and bacteria under harsh lunar conditions."
@@ -134,14 +330,42 @@
     {
       "id": "astronaut",
       "en": "astronaut",
-      "ko": "A person trained to travel and work in space",
+      "ko": "우주에서 여행하고 일하도록 훈련된 사람",
       "l1": {
-        "en": "A person trained to travel and work in space"
+        "en": "A person trained to travel and work in space",
+        "ko": "우주에서 여행하고 일하도록 훈련된 사람",
+        "zh-Hans": "受训在太空旅行和工作的人",
+        "ja": "宇宙で旅行し働く訓練を受けた人",
+        "es": "persona entrenada para viajar y trabajar en el espacio",
+        "hi": "अंतरिक्ष में यात्रा और काम के लिए प्रशिक्षित व्यक्ति",
+        "de": "Person, die für Reisen und Arbeit im Weltraum ausgebildet ist",
+        "vi": "người được huấn luyện để du hành và làm việc trong không gian",
+        "pt-BR": "pessoa treinada para viajar e trabalhar no espaço",
+        "id": "orang terlatih untuk bepergian dan bekerja di luar angkasa",
+        "fr": "personne entraînée à voyager et travailler dans l'espace",
+        "ar": "شخص مدرب على السفر والعمل في الفضاء",
+        "tr": "uzayda seyahat ve çalışma için eğitilmiş kişi",
+        "it": "persona addestrata a viaggiare e lavorare nello spazio",
+        "pl": "osoba szkolona do podróży i pracy w kosmosie"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A person trained to travel and work in space"
+          "en": "A person trained to travel and work in space",
+          "ko": "우주에서 여행하고 일하도록 훈련된 사람",
+          "zh-Hans": "受训在太空旅行和工作的人",
+          "ja": "宇宙で旅行し働く訓練を受けた人",
+          "es": "persona entrenada para viajar y trabajar en el espacio",
+          "hi": "अंतरिक्ष में यात्रा और काम के लिए प्रशिक्षित व्यक्ति",
+          "de": "Person, die für Reisen und Arbeit im Weltraum ausgebildet ist",
+          "vi": "người được huấn luyện để du hành và làm việc trong không gian",
+          "pt-BR": "pessoa treinada para viajar e trabalhar no espaço",
+          "id": "orang terlatih untuk bepergian dan bekerja di luar angkasa",
+          "fr": "personne entraînée à voyager et travailler dans l'espace",
+          "ar": "شخص مدرب على السفر والعمل في الفضاء",
+          "tr": "uzayda seyahat ve çalışma için eğitilmiş kişi",
+          "it": "persona addestrata a viaggiare e lavorare nello spazio",
+          "pl": "osoba szkolona do podróży i pracy w kosmosie"
         },
         "example": {
           "en": "A NASA-led study says some Earth microbes could survive for a time on the moon."
@@ -152,14 +376,42 @@
     {
       "id": "contamination",
       "en": "contamination",
-      "ko": "The act of making something dirty or unsafe by adding a harmful substance",
+      "ko": "유해 물질로 더럽혀지거나 안전하지 않게 됨",
       "l1": {
-        "en": "The act of making something dirty or unsafe by adding a harmful substance"
+        "en": "The act of making something dirty or unsafe by adding a harmful substance",
+        "ko": "유해 물질로 더럽혀지거나 안전하지 않게 됨",
+        "zh-Hans": "因有害物质而变脏或不安全",
+        "ja": "有害物質によって汚染されること",
+        "es": "Acción de contaminar o volver inseguro algo",
+        "hi": "हानिकारक पदार्थ से दूषित या असुरक्षित बनाना",
+        "de": "Verunreinigung durch schädliche Stoffe",
+        "vi": "Sự làm bẩn hoặc không an toàn do chất độc hại",
+        "pt-BR": "Ato de contaminar ou tornar inseguro",
+        "id": "Tindakan membuat kotor atau tidak aman",
+        "fr": "Action de rendre sale ou dangereux",
+        "ar": "جعل الشيء ملوثًا أو غير آمن",
+        "tr": "Zararlı maddeyle kirletme veya güvensiz hale getirme",
+        "it": "Atto di rendere sporco o non sicuro",
+        "pl": "Zanieczyszczenie szkodliwą substancją"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "The act of making something dirty or unsafe by adding a harmful substance"
+          "en": "The act of making something dirty or unsafe by adding a harmful substance",
+          "ko": "유해 물질로 더럽혀지거나 안전하지 않게 됨",
+          "zh-Hans": "因有害物质而变脏或不安全",
+          "ja": "有害物質によって汚染されること",
+          "es": "Acción de contaminar o volver inseguro algo",
+          "hi": "हानिकारक पदार्थ से दूषित या असुरक्षित बनाना",
+          "de": "Verunreinigung durch schädliche Stoffe",
+          "vi": "Sự làm bẩn hoặc không an toàn do chất độc hại",
+          "pt-BR": "Ato de contaminar ou tornar inseguro",
+          "id": "Tindakan membuat kotor atau tidak aman",
+          "fr": "Action de rendre sale ou dangereux",
+          "ar": "جعل الشيء ملوثًا أو غير آمن",
+          "tr": "Zararlı maddeyle kirletme veya güvensiz hale getirme",
+          "it": "Atto di rendere sporco o non sicuro",
+          "pl": "Zanieczyszczenie szkodliwą substancją"
         },
         "example": {
           "en": "A NASA-led study says some Earth microbes could survive for a time on the moon."
@@ -170,14 +422,42 @@
     {
       "id": "shadow",
       "en": "shadow",
-      "ko": "A dark area made when light is blocked by something",
+      "ko": "빛이 가려져 생기는 어두운 영역",
       "l1": {
-        "en": "A dark area made when light is blocked by something"
+        "en": "A dark area made when light is blocked by something",
+        "ko": "빛이 가려져 생기는 어두운 영역",
+        "zh-Hans": "光线被遮挡形成的暗区",
+        "ja": "光が遮られてできる暗い部分",
+        "es": "Zona oscura donde se bloquea la luz",
+        "hi": "प्रकाश रुकने से बना अंधेरा क्षेत्र",
+        "de": "Dunkler Bereich, wo Licht blockiert wird",
+        "vi": "Vùng tối do ánh sáng bị chặn",
+        "pt-BR": "Área escura onde a luz é bloqueada",
+        "id": "Area gelap karena cahaya terhalang",
+        "fr": "Zone sombre où la lumière est bloquée",
+        "ar": "منطقة مظلمة بسبب حجب الضوء",
+        "tr": "Işığın engellenmesiyle oluşan karanlık alan",
+        "it": "Zona scura dove la luce è bloccata",
+        "pl": "Ciemny obszar, gdy światło jest zablokowane"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A dark area made when light is blocked by something"
+          "en": "A dark area made when light is blocked by something",
+          "ko": "빛이 가려져 생기는 어두운 영역",
+          "zh-Hans": "光线被遮挡形成的暗区",
+          "ja": "光が遮られてできる暗い部分",
+          "es": "Zona oscura donde se bloquea la luz",
+          "hi": "प्रकाश रुकने से बना अंधेरा क्षेत्र",
+          "de": "Dunkler Bereich, wo Licht blockiert wird",
+          "vi": "Vùng tối do ánh sáng bị chặn",
+          "pt-BR": "Área escura onde a luz é bloqueada",
+          "id": "Area gelap karena cahaya terhalang",
+          "fr": "Zone sombre où la lumière est bloquée",
+          "ar": "منطقة مظلمة بسبب حجب الضوء",
+          "tr": "Işığın engellenmesiyle oluşan karanlık alan",
+          "it": "Zona scura dove la luce è bloccata",
+          "pl": "Ciemny obszar, gdy światło jest zablokowane"
         },
         "example": {
           "en": "A NASA-led study says some Earth microbes could survive for a time on the moon."

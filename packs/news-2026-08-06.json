@@ -8,14 +8,42 @@
     {
       "id": "volcano",
       "en": "volcano",
-      "ko": "A mountain with an opening through which hot rock and gas can escape.",
+      "ko": "뜨거운 암석과 가스가 분출하는 산",
       "l1": {
-        "en": "A mountain with an opening through which hot rock and gas can escape."
+        "en": "A mountain with an opening through which hot rock and gas can escape.",
+        "ko": "뜨거운 암석과 가스가 분출하는 산",
+        "zh-Hans": "喷出炽热岩石和气体的山",
+        "ja": "熱い岩石やガスが噴出する山",
+        "es": "montaña que expulsa roca y gas calientes",
+        "hi": "पहाड़ जिससे गर्म चट्टान और गैस निकलती है",
+        "de": "Berg, aus dem heißes Gestein und Gas austritt",
+        "vi": "núi phun ra đá và khí nóng",
+        "pt-BR": "montanha que expele rocha e gás quentes",
+        "id": "gunung yang mengeluarkan batuan dan gas panas",
+        "fr": "montagne qui expulse roche et gaz chauds",
+        "ar": "جبل تخرج منه صخور وغازات ساخنة",
+        "tr": "sıcak kaya ve gaz püskürten dağ",
+        "it": "montagna che emette roccia e gas caldi",
+        "pl": "góra wyrzucająca gorące skały i gazy"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A mountain with an opening through which hot rock and gas can escape."
+          "en": "A mountain with an opening through which hot rock and gas can escape.",
+          "ko": "뜨거운 암석과 가스가 분출하는 산",
+          "zh-Hans": "喷出炽热岩石和气体的山",
+          "ja": "熱い岩石やガスが噴出する山",
+          "es": "montaña que expulsa roca y gas calientes",
+          "hi": "पहाड़ जिससे गर्म चट्टान और गैस निकलती है",
+          "de": "Berg, aus dem heißes Gestein und Gas austritt",
+          "vi": "núi phun ra đá và khí nóng",
+          "pt-BR": "montanha que expele rocha e gás quentes",
+          "id": "gunung yang mengeluarkan batuan dan gas panas",
+          "fr": "montagne qui expulse roche et gaz chauds",
+          "ar": "جبل تخرج منه صخور وغازات ساخنة",
+          "tr": "sıcak kaya ve gaz püskürten dağ",
+          "it": "montagna che emette roccia e gas caldi",
+          "pl": "góra wyrzucająca gorące skały i gazy"
         },
         "example": {
           "en": "On land, a volcanic eruption is dramatic, with columns of ash, fountains of lava, and a complete remaking of the terrain."
@@ -26,14 +54,42 @@
     {
       "id": "eruption",
       "en": "eruption",
-      "ko": "A sudden release of hot rock ash and gas from a volcano.",
+      "ko": "화산에서 뜨거운 암석과 재와 가스가 갑자기 분출하는 일",
       "l1": {
-        "en": "A sudden release of hot rock ash and gas from a volcano."
+        "en": "A sudden release of hot rock ash and gas from a volcano.",
+        "ko": "화산에서 뜨거운 암석과 재와 가스가 갑자기 분출하는 일",
+        "zh-Hans": "火山突然喷出炽热岩石、灰和气体",
+        "ja": "火山から熱い岩石や灰、ガスが突然噴出すること",
+        "es": "liberación repentina de roca y gas de un volcán",
+        "hi": "ज्वालामुखी से अचानक गर्म चट्टान और गैस का निकलना",
+        "de": "plötzlicher Ausstoß von Gestein und Gas aus einem Vulkan",
+        "vi": "sự phun trào đột ngột của núi lửa",
+        "pt-BR": "liberação repentina de rocha e gás de um vulcão",
+        "id": "letusan mendadak batu dan gas dari gunung berapi",
+        "fr": "libération soudaine de roche et gaz d'un volcan",
+        "ar": "انفجار مفاجئ للصخور والغاز من بركان",
+        "tr": "yanardağdan ani sıcak kaya ve gaz çıkışı",
+        "it": "improvvisa fuoriuscita di roccia e gas da un vulcano",
+        "pl": "nagłe wyrzucenie skał i gazów z wulkanu"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A sudden release of hot rock ash and gas from a volcano."
+          "en": "A sudden release of hot rock ash and gas from a volcano.",
+          "ko": "화산에서 뜨거운 암석과 재와 가스가 갑자기 분출하는 일",
+          "zh-Hans": "火山突然喷出炽热岩石、灰和气体",
+          "ja": "火山から熱い岩石や灰、ガスが突然噴出すること",
+          "es": "liberación repentina de roca y gas de un volcán",
+          "hi": "ज्वालामुखी से अचानक गर्म चट्टान और गैस का निकलना",
+          "de": "plötzlicher Ausstoß von Gestein und Gas aus einem Vulkan",
+          "vi": "sự phun trào đột ngột của núi lửa",
+          "pt-BR": "liberação repentina de rocha e gás de um vulcão",
+          "id": "letusan mendadak batu dan gas dari gunung berapi",
+          "fr": "libération soudaine de roche et gaz d'un volcan",
+          "ar": "انفجار مفاجئ للصخور والغاز من بركان",
+          "tr": "yanardağdan ani sıcak kaya ve gaz çıkışı",
+          "it": "improvvisa fuoriuscita di roccia e gas da un vulcano",
+          "pl": "nagłe wyrzucenie skał i gazów z wulkanu"
         },
         "example": {
           "en": "On land, a volcanic eruption is dramatic, with columns of ash, fountains of lava, and a complete remaking of the terrain."
@@ -44,14 +100,42 @@
     {
       "id": "pumice",
       "en": "pumice",
-      "ko": "A very light grey rock full of air holes formed from volcanic foam.",
+      "ko": "화산재로 만들어진 구멍이 많은 가벼운 회색 암석",
       "l1": {
-        "en": "A very light grey rock full of air holes formed from volcanic foam."
+        "en": "A very light grey rock full of air holes formed from volcanic foam.",
+        "ko": "화산재로 만들어진 구멍이 많은 가벼운 회색 암석",
+        "zh-Hans": "一种充满气孔的浅灰色火山岩",
+        "ja": "火山 foam からできた気孔の多い軽い灰色の岩石",
+        "es": "Roca gris muy ligera llena de agujeros formada por espuma volcánica.",
+        "hi": "ज्वालामुखीय झाग से बनी हल्की धूसर छिद्रयुक्त चट्टान",
+        "de": "Sehr leichter grauer Stein voller Luftlöcher aus Vulkanschaum.",
+        "vi": "Đá xám rất nhẹ có nhiều lỗ khí từ bọt núi lửa.",
+        "pt-BR": "Rocha cinza muito leve cheia de buracos formada por espuma vulcânica.",
+        "id": "Batu abu-abu sangat ringan penuh lubang udara dari busa vulkanik.",
+        "fr": "Roche grise très légère pleine de trous formée par la mousse volcanique.",
+        "ar": "صخر رمادي خفيف جدًا مليء بالثقوب الهوائية من الرغوة البركانية.",
+        "tr": "Volkanik köpükten oluşan hava delikleriyle dolu çok hafif gri kaya.",
+        "it": "Roccia grigia molto leggera piena di fori d'aria formata da schiuma vulcanica.",
+        "pl": "Bardzo lekka szara skała pełna pęcherzyków powietrza z piany wulkanicznej."
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A very light grey rock full of air holes formed from volcanic foam."
+          "en": "A very light grey rock full of air holes formed from volcanic foam.",
+          "ko": "화산재로 만들어진 구멍이 많은 가벼운 회색 암석",
+          "zh-Hans": "一种充满气孔的浅灰色火山岩",
+          "ja": "火山 foam からできた気孔の多い軽い灰色の岩石",
+          "es": "Roca gris muy ligera llena de agujeros formada por espuma volcánica.",
+          "hi": "ज्वालामुखीय झाग से बनी हल्की धूसर छिद्रयुक्त चट्टान",
+          "de": "Sehr leichter grauer Stein voller Luftlöcher aus Vulkanschaum.",
+          "vi": "Đá xám rất nhẹ có nhiều lỗ khí từ bọt núi lửa.",
+          "pt-BR": "Rocha cinza muito leve cheia de buracos formada por espuma vulcânica.",
+          "id": "Batu abu-abu sangat ringan penuh lubang udara dari busa vulkanik.",
+          "fr": "Roche grise très légère pleine de trous formée par la mousse volcanique.",
+          "ar": "صخر رمادي خفيف جدًا مليء بالثقوب الهوائية من الرغوة البركانية.",
+          "tr": "Volkanik köpükten oluşan hava delikleriyle dolu çok hafif gri kaya.",
+          "it": "Roccia grigia molto leggera piena di fori d'aria formata da schiuma vulcanica.",
+          "pl": "Bardzo lekka szara skała pełna pęcherzyków powietrza z piany wulkanicznej."
         },
         "example": {
           "en": "By early June, satellite images showed that brownish-gray streaks, rafts of volcanic material called pumice, had begun to surround the Admiralty Islands."
@@ -62,14 +146,42 @@
     {
       "id": "submarine",
       "en": "submarine",
-      "ko": "Existing or happening below the surface of the sea.",
+      "ko": "해수면 아래에 존재하거나 일어나는",
       "l1": {
-        "en": "Existing or happening below the surface of the sea."
+        "en": "Existing or happening below the surface of the sea.",
+        "ko": "해수면 아래에 존재하거나 일어나는",
+        "zh-Hans": "存在于海面下的",
+        "ja": "海面下に存在する",
+        "es": "Que existe o ocurre bajo la superficie del mar.",
+        "hi": "समुद्र की सतह के नीचे मौजूद या होने वाला",
+        "de": "Unter der Meeresoberfläche existierend oder stattfindend.",
+        "vi": "Tồn tại hoặc xảy ra dưới mặt biển.",
+        "pt-BR": "Que existe ou ocorre abaixo da superfície do mar.",
+        "id": "Berada atau terjadi di bawah permukaan laut.",
+        "fr": "Qui existe ou se produit sous la surface de la mer.",
+        "ar": "موجود أو يحدث تحت سطح البحر.",
+        "tr": "Deniz yüzeyinin altında var olan veya olan.",
+        "it": "Che esiste o avviene sotto la superficie del mare.",
+        "pl": "Istniejący lub dziejący się pod powierzchnią morza."
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Existing or happening below the surface of the sea."
+          "en": "Existing or happening below the surface of the sea.",
+          "ko": "해수면 아래에 존재하거나 일어나는",
+          "zh-Hans": "存在于海面下的",
+          "ja": "海面下に存在する",
+          "es": "Que existe o ocurre bajo la superficie del mar.",
+          "hi": "समुद्र की सतह के नीचे मौजूद या होने वाला",
+          "de": "Unter der Meeresoberfläche existierend oder stattfindend.",
+          "vi": "Tồn tại hoặc xảy ra dưới mặt biển.",
+          "pt-BR": "Que existe ou ocorre abaixo da superfície do mar.",
+          "id": "Berada atau terjadi di bawah permukaan laut.",
+          "fr": "Qui existe ou se produit sous la surface de la mer.",
+          "ar": "موجود أو يحدث تحت سطح البحر.",
+          "tr": "Deniz yüzeyinin altında var olan veya olan.",
+          "it": "Che esiste o avviene sotto la superficie del mare.",
+          "pl": "Istniejący lub dziejący się pod powierzchnią morza."
         },
         "example": {
           "en": "A secret submarine eruption made its presence known in the Bismarck Sea near Papua New Guinea."
@@ -80,14 +192,42 @@
     {
       "id": "ridge",
       "en": "ridge",
-      "ko": "A long narrow raised area such as a line of mountains or hills underwater.",
+      "ko": "산맥이나 해저 산맥 같은 길고 좁게 솟은 지형",
       "l1": {
-        "en": "A long narrow raised area such as a line of mountains or hills underwater."
+        "en": "A long narrow raised area such as a line of mountains or hills underwater.",
+        "ko": "산맥이나 해저 산맥 같은 길고 좁게 솟은 지형",
+        "zh-Hans": "长而窄的隆起地带，如山脊或海岭",
+        "ja": "山脈や海嶺のような長く狭い隆起",
+        "es": "Una larga y estrecha elevación como una cordillera o dorsal oceánica.",
+        "hi": "पर्वत श्रृंखला या समुद्री कटक जैसी लंबी संकरी उभरी हुई भूमि",
+        "de": "Ein langer schmaler erhöhter Bereich wie ein Gebirgszug oder Meeresrücken.",
+        "vi": "Dải đất cao hẹp dài như dãy núi hoặc sống núi dưới biển.",
+        "pt-BR": "Uma área elevada longa e estreita como uma cordilheira ou dorsal oceânica.",
+        "id": "Area tinggi sempit memanjang seperti pegunungan atau punggungan bawah laut.",
+        "fr": "Une longue crête étroite comme une chaîne de montagnes ou une dorsale sous-marine.",
+        "ar": "منطقة مرتفعة طويلة وضيقة مثل سلسلة جبال أو حيد تحت البحر.",
+        "tr": "Dağ sırası veya denizaltı sırtı gibi uzun dar yükselti.",
+        "it": "Una lunga e stretta area rialzata come una catena montuosa o dorsale sottomarina.",
+        "pl": "Długie wąskie wzniesienie, takie jak pasmo górskie lub grzbiet podwodny."
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A long narrow raised area such as a line of mountains or hills underwater."
+          "en": "A long narrow raised area such as a line of mountains or hills underwater.",
+          "ko": "산맥이나 해저 산맥 같은 길고 좁게 솟은 지형",
+          "zh-Hans": "长而窄的隆起地带，如山脊或海岭",
+          "ja": "山脈や海嶺のような長く狭い隆起",
+          "es": "Una larga y estrecha elevación como una cordillera o dorsal oceánica.",
+          "hi": "पर्वत श्रृंखला या समुद्री कटक जैसी लंबी संकरी उभरी हुई भूमि",
+          "de": "Ein langer schmaler erhöhter Bereich wie ein Gebirgszug oder Meeresrücken.",
+          "vi": "Dải đất cao hẹp dài như dãy núi hoặc sống núi dưới biển.",
+          "pt-BR": "Uma área elevada longa e estreita como uma cordilheira ou dorsal oceânica.",
+          "id": "Area tinggi sempit memanjang seperti pegunungan atau punggungan bawah laut.",
+          "fr": "Une longue crête étroite comme une chaîne de montagnes ou une dorsale sous-marine.",
+          "ar": "منطقة مرتفعة طويلة وضيقة مثل سلسلة جبال أو حيد تحت البحر.",
+          "tr": "Dağ sırası veya denizaltı sırtı gibi uzun dar yükselti.",
+          "it": "Una lunga e stretta area rialzata come una catena montuosa o dorsale sottomarina.",
+          "pl": "Długie wąskie wzniesienie, takie jak pasmo górskie lub grzbiet podwodny."
         },
         "example": {
           "en": "The eruption is likely located along the Titan Ridge, a volcanic area that last saw an eruption in nineteen seventy-two."
@@ -98,14 +238,42 @@
     {
       "id": "magma",
       "en": "magma",
-      "ko": "Hot liquid rock below the surface of the Earth.",
+      "ko": "지구 표면 아래에 있는 뜨거운 액체 암석",
       "l1": {
-        "en": "Hot liquid rock below the surface of the Earth."
+        "en": "Hot liquid rock below the surface of the Earth.",
+        "ko": "지구 표면 아래에 있는 뜨거운 액체 암석",
+        "zh-Hans": "地球表面下的炽热液态岩石",
+        "ja": "地球表面下の高温の液体岩石",
+        "es": "Roca líquida caliente bajo la superficie de la Tierra.",
+        "hi": "पृथ्वी की सतह के नीचे गर्म तरल चट्टान",
+        "de": "Heißes flüssiges Gestein unter der Erdoberfläche.",
+        "vi": "Đá lỏng nóng dưới bề mặt Trái Đất.",
+        "pt-BR": "Rocha líquida quente abaixo da superfície da Terra.",
+        "id": "Batuan cair panas di bawah permukaan Bumi.",
+        "fr": "Roche liquide chaude sous la surface de la Terre.",
+        "ar": "صخر سائل ساخن تحت سطح الأرض.",
+        "tr": "Yer yüzeyinin altındaki sıcak sıvı kaya.",
+        "it": "Roccia liquida calda sotto la superficie terrestre.",
+        "pl": "Gorąca płynna skała pod powierzchnią Ziemi."
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Hot liquid rock below the surface of the Earth."
+          "en": "Hot liquid rock below the surface of the Earth.",
+          "ko": "지구 표면 아래에 있는 뜨거운 액체 암석",
+          "zh-Hans": "地球表面下的炽热液态岩石",
+          "ja": "地球表面下の高温の液体岩石",
+          "es": "Roca líquida caliente bajo la superficie de la Tierra.",
+          "hi": "पृथ्वी की सतह के नीचे गर्म तरल चट्टान",
+          "de": "Heißes flüssiges Gestein unter der Erdoberfläche.",
+          "vi": "Đá lỏng nóng dưới bề mặt Trái Đất.",
+          "pt-BR": "Rocha líquida quente abaixo da superfície da Terra.",
+          "id": "Batuan cair panas di bawah permukaan Bumi.",
+          "fr": "Roche liquide chaude sous la surface de la Terre.",
+          "ar": "صخر سائل ساخن تحت سطح الأرض.",
+          "tr": "Yer yüzeyinin altındaki sıcak sıvı kaya.",
+          "it": "Roccia liquida calda sotto la superficie terrestre.",
+          "pl": "Gorąca płynna skała pod powierzchnią Ziemi."
         },
         "example": {
           "en": "If the magma contains enough gas and the eruption is shallow enough, the pumice can float up to the ocean surface, where it can linger for years."
@@ -116,14 +284,42 @@
     {
       "id": "swarm",
       "en": "swarm",
-      "ko": "A large group of things moving together such as a swarm of earthquakes.",
+      "ko": "지진 떼처럼 함께 움직이는 많은 것들의 무리",
       "l1": {
-        "en": "A large group of things moving together such as a swarm of earthquakes."
+        "en": "A large group of things moving together such as a swarm of earthquakes.",
+        "ko": "지진 떼처럼 함께 움직이는 많은 것들의 무리",
+        "zh-Hans": "一大群一起移动的事物，如地震群",
+        "ja": "地震群のような一緒に動く多数のものの集まり",
+        "es": "Un gran grupo de cosas que se mueven juntas como un enjambre de terremotos.",
+        "hi": "एक साथ चलने वाली चीज़ों का बड़ा समूह जैसे भूकंपों का झुंड",
+        "de": "Eine große Gruppe von Dingen, die sich zusammen bewegen, wie ein Erdbebenschwarm.",
+        "vi": "Một nhóm lớn các thứ di chuyển cùng nhau như chùm động đất.",
+        "pt-BR": "Um grande grupo de coisas que se movem juntas como um enxame de terremotos.",
+        "id": "Sekelompok besar hal yang bergerak bersama seperti swarm gempa.",
+        "fr": "Un grand groupe de choses se déplaçant ensemble comme un essaim de séismes.",
+        "ar": "مجموعة كبيرة من الأشياء تتحرك معًا مثل سرب من الزلازل.",
+        "tr": "Deprem sürüsü gibi birlikte hareket eden büyük bir grup.",
+        "it": "Un grande gruppo di cose che si muovono insieme come uno sciame di terremoti.",
+        "pl": "Duża grupa rzeczy poruszających się razem, jak rój trzęsień ziemi."
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A large group of things moving together such as a swarm of earthquakes."
+          "en": "A large group of things moving together such as a swarm of earthquakes.",
+          "ko": "지진 떼처럼 함께 움직이는 많은 것들의 무리",
+          "zh-Hans": "一大群一起移动的事物，如地震群",
+          "ja": "地震群のような一緒に動く多数のものの集まり",
+          "es": "Un gran grupo de cosas que se mueven juntas como un enjambre de terremotos.",
+          "hi": "एक साथ चलने वाली चीज़ों का बड़ा समूह जैसे भूकंपों का झुंड",
+          "de": "Eine große Gruppe von Dingen, die sich zusammen bewegen, wie ein Erdbebenschwarm.",
+          "vi": "Một nhóm lớn các thứ di chuyển cùng nhau như chùm động đất.",
+          "pt-BR": "Um grande grupo de coisas que se movem juntas como um enxame de terremotos.",
+          "id": "Sekelompok besar hal yang bergerak bersama seperti swarm gempa.",
+          "fr": "Un grand groupe de choses se déplaçant ensemble comme un essaim de séismes.",
+          "ar": "مجموعة كبيرة من الأشياء تتحرك معًا مثل سرب من الزلازل.",
+          "tr": "Deprem sürüsü gibi birlikte hareket eden büyük bir grup.",
+          "it": "Un grande gruppo di cose che si muovono insieme come uno sciame di terremoti.",
+          "pl": "Duża grupa rzeczy poruszających się razem, jak rój trzęsień ziemi."
         },
         "example": {
           "en": "The first hint came from a small swarm of earthquakes in early May, and NASA satellites spotted steamy volcanic plumes and discolored water the next day."
@@ -134,14 +330,42 @@
     {
       "id": "satellite",
       "en": "satellite",
-      "ko": "A machine sent into space that orbits the Earth to collect information.",
+      "ko": "지구 궤도를 돌며 정보를 수집하는 우주 기계",
       "l1": {
-        "en": "A machine sent into space that orbits the Earth to collect information."
+        "en": "A machine sent into space that orbits the Earth to collect information.",
+        "ko": "지구 궤도를 돌며 정보를 수집하는 우주 기계",
+        "zh-Hans": "送入太空绕地球运行以收集信息的机器",
+        "ja": "情報収集のために地球軌道を回る宇宙機",
+        "es": "Máquina enviada al espacio que orbita la Tierra para recopilar información.",
+        "hi": "सूचना एकत्र करने के लिए पृथ्वी की परिक्रमा करने वाला अंतरिक्ष यंत्र",
+        "de": "Eine Maschine im Weltraum, die die Erde umkreist, um Informationen zu sammeln.",
+        "vi": "Máy móc được gửi vào không gian quay quanh Trái Đất để thu thập thông tin.",
+        "pt-BR": "Máquina enviada ao espaço que orbita a Terra para coletar informações.",
+        "id": "Mesin yang dikirim ke luar angkasa mengorbit Bumi untuk mengumpulkan informasi.",
+        "fr": "Machine envoyée dans l'espace qui orbite autour de la Terre pour collecter des informations.",
+        "ar": "آلة تُرسل إلى الفضاء وتدور حول الأرض لجمع المعلومات.",
+        "tr": "Bilgi toplamak için Dünya yörüngesine gönderilen uzay makinesi.",
+        "it": "Macchina inviata nello spazio che orbita attorno alla Terra per raccogliere informazioni.",
+        "pl": "Maszyna wysłana w kosmos, krążąca wokół Ziemi w celu zbierania informacji."
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A machine sent into space that orbits the Earth to collect information."
+          "en": "A machine sent into space that orbits the Earth to collect information.",
+          "ko": "지구 궤도를 돌며 정보를 수집하는 우주 기계",
+          "zh-Hans": "送入太空绕地球运行以收集信息的机器",
+          "ja": "情報収集のために地球軌道を回る宇宙機",
+          "es": "Máquina enviada al espacio que orbita la Tierra para recopilar información.",
+          "hi": "सूचना एकत्र करने के लिए पृथ्वी की परिक्रमा करने वाला अंतरिक्ष यंत्र",
+          "de": "Eine Maschine im Weltraum, die die Erde umkreist, um Informationen zu sammeln.",
+          "vi": "Máy móc được gửi vào không gian quay quanh Trái Đất để thu thập thông tin.",
+          "pt-BR": "Máquina enviada ao espaço que orbita a Terra para coletar informações.",
+          "id": "Mesin yang dikirim ke luar angkasa mengorbit Bumi untuk mengumpulkan informasi.",
+          "fr": "Machine envoyée dans l'espace qui orbite autour de la Terre pour collecter des informations.",
+          "ar": "آلة تُرسل إلى الفضاء وتدور حول الأرض لجمع المعلومات.",
+          "tr": "Bilgi toplamak için Dünya yörüngesine gönderilen uzay makinesi.",
+          "it": "Macchina inviata nello spazio che orbita attorno alla Terra per raccogliere informazioni.",
+          "pl": "Maszyna wysłana w kosmos, krążąca wokół Ziemi w celu zbierania informacji."
         },
         "example": {
           "en": "By early June, satellite images showed that brownish-gray streaks, rafts of volcanic material called pumice, had begun to surround the Admiralty Islands."
@@ -152,14 +376,42 @@
     {
       "id": "survey",
       "en": "survey",
-      "ko": "To carefully examine and measure an area or situation.",
+      "ko": "지역이나 상황을 주의 깊게 조사하고 측정하다",
       "l1": {
-        "en": "To carefully examine and measure an area or situation."
+        "en": "To carefully examine and measure an area or situation.",
+        "ko": "지역이나 상황을 주의 깊게 조사하고 측정하다",
+        "zh-Hans": "仔细检查并测量一个区域或情况",
+        "ja": "地域や状況を注意深く調査し測定する",
+        "es": "Examinar y medir cuidadosamente un área o situación.",
+        "hi": "किसी क्षेत्र या स्थिति की सावधानीपूर्वक जाँच और माप करना",
+        "de": "Ein Gebiet oder eine Situation sorgfältig untersuchen und messen.",
+        "vi": "Kiểm tra và đo đạc cẩn thận một khu vực hoặc tình huống.",
+        "pt-BR": "Examinar e medir cuidadosamente uma área ou situação.",
+        "id": "Memeriksa dan mengukur dengan cermat suatu area atau situasi.",
+        "fr": "Examiner et mesurer attentivement une zone ou une situation.",
+        "ar": "فحص وقياس منطقة أو حالة بعناية.",
+        "tr": "Bir alanı veya durumu dikkatlice incelemek ve ölçmek.",
+        "it": "Esaminare e misurare attentamente un'area o una situazione.",
+        "pl": "Dokładne badanie i mierzenie obszaru lub sytuacji."
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "To carefully examine and measure an area or situation."
+          "en": "To carefully examine and measure an area or situation.",
+          "ko": "지역이나 상황을 주의 깊게 조사하고 측정하다",
+          "zh-Hans": "仔细检查并测量一个区域或情况",
+          "ja": "地域や状況を注意深く調査し測定する",
+          "es": "Examinar y medir cuidadosamente un área o situación.",
+          "hi": "किसी क्षेत्र या स्थिति की सावधानीपूर्वक जाँच और माप करना",
+          "de": "Ein Gebiet oder eine Situation sorgfältig untersuchen und messen.",
+          "vi": "Kiểm tra và đo đạc cẩn thận một khu vực hoặc tình huống.",
+          "pt-BR": "Examinar e medir cuidadosamente uma área ou situação.",
+          "id": "Memeriksa dan mengukur dengan cermat suatu area atau situasi.",
+          "fr": "Examiner et mesurer attentivement une zone ou une situation.",
+          "ar": "فحص وقياس منطقة أو حالة بعناية.",
+          "tr": "Bir alanı veya durumu dikkatlice incelemek ve ölçmek.",
+          "it": "Esaminare e misurare attentamente un'area o una situazione.",
+          "pl": "Dokładne badanie i mierzenie obszaru lub sytuacji."
         },
         "example": {
           "en": "On land, a volcanic eruption is dramatic, with columns of ash, fountains of lava, and a complete remaking of the terrain."
@@ -170,14 +422,42 @@
     {
       "id": "crater",
       "en": "crater",
-      "ko": "A large bowl-shaped hole especially at the top of a volcano.",
+      "ko": "특히 화산 꼭대기에 있는 큰 그릇 모양의 구멍",
       "l1": {
-        "en": "A large bowl-shaped hole especially at the top of a volcano."
+        "en": "A large bowl-shaped hole especially at the top of a volcano.",
+        "ko": "특히 화산 꼭대기에 있는 큰 그릇 모양의 구멍",
+        "zh-Hans": "大碗状凹坑，尤指火山口",
+        "ja": "特に火山の頂上にある大きな椀状の穴",
+        "es": "Un gran agujero en forma de cuenco, especialmente en la cima de un volcán.",
+        "hi": "बड़ा कटोरे के आकार का गड्ढा, विशेषकर ज्वालामुखी के शीर्ष पर",
+        "de": "Ein großes schüsselförmiges Loch, besonders oben auf einem Vulkan.",
+        "vi": "Hố lớn hình bát, đặc biệt ở đỉnh núi lửa.",
+        "pt-BR": "Um grande buraco em forma de tigela, especialmente no topo de um vulcão.",
+        "id": "Lubang besar berbentuk mangkuk, terutama di puncak gunung berapi.",
+        "fr": "Un grand trou en forme de bol, surtout au sommet d'un volcan.",
+        "ar": "حفرة كبيرة على شكل وعاء، خاصة عند قمة البركان.",
+        "tr": "Özellikle bir yanardağın tepesindeki büyük kase şeklinde çukur.",
+        "it": "Un grande buco a forma di ciotola, specialmente sulla cima di un vulcano.",
+        "pl": "Duży otwór w kształcie misy, zwłaszcza na szczycie wulkanu."
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A large bowl-shaped hole especially at the top of a volcano."
+          "en": "A large bowl-shaped hole especially at the top of a volcano.",
+          "ko": "특히 화산 꼭대기에 있는 큰 그릇 모양의 구멍",
+          "zh-Hans": "大碗状凹坑，尤指火山口",
+          "ja": "特に火山の頂上にある大きな椀状の穴",
+          "es": "Un gran agujero en forma de cuenco, especialmente en la cima de un volcán.",
+          "hi": "बड़ा कटोरे के आकार का गड्ढा, विशेषकर ज्वालामुखी के शीर्ष पर",
+          "de": "Ein großes schüsselförmiges Loch, besonders oben auf einem Vulkan.",
+          "vi": "Hố lớn hình bát, đặc biệt ở đỉnh núi lửa.",
+          "pt-BR": "Um grande buraco em forma de tigela, especialmente no topo de um vulcão.",
+          "id": "Lubang besar berbentuk mangkuk, terutama di puncak gunung berapi.",
+          "fr": "Un grand trou en forme de bol, surtout au sommet d'un volcan.",
+          "ar": "حفرة كبيرة على شكل وعاء، خاصة عند قمة البركان.",
+          "tr": "Özellikle bir yanardağın tepesindeki büyük kase şeklinde çukur.",
+          "it": "Un grande buco a forma di ciotola, specialmente sulla cima di un vulcano.",
+          "pl": "Duży otwór w kształcie misy, zwłaszcza na szczycie wulkanu."
         },
         "example": {
           "en": "They may find a new cone, a new crater, or pillow lava, rounded bulbous forms that you almost never see on land."

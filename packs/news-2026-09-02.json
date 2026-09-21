@@ -8,14 +8,42 @@
     {
       "id": "renaissance",
       "en": "renaissance",
-      "ko": "A period of European art and learning in the fifteenth century",
+      "ko": "르네상스",
       "l1": {
-        "en": "A period of European art and learning in the fifteenth century"
+        "en": "A period of European art and learning in the fifteenth century",
+        "ko": "르네상스",
+        "zh-Hans": "文艺复兴",
+        "ja": "ルネサンス",
+        "es": "renacimiento",
+        "hi": "पुनर्जागरण",
+        "de": "Renaissance",
+        "vi": "thời Phục hưng",
+        "pt-BR": "renascimento",
+        "id": "renaisans",
+        "fr": "renaissance",
+        "ar": "عصر النهضة",
+        "tr": "rönesans",
+        "it": "rinascimento",
+        "pl": "renesans"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A period of European art and learning in the fifteenth century"
+          "en": "A period of European art and learning in the fifteenth century",
+          "ko": "르네상스",
+          "zh-Hans": "文艺复兴",
+          "ja": "ルネサンス",
+          "es": "renacimiento",
+          "hi": "पुनर्जागरण",
+          "de": "Renaissance",
+          "vi": "thời Phục hưng",
+          "pt-BR": "renascimento",
+          "id": "renaisans",
+          "fr": "renaissance",
+          "ar": "عصر النهضة",
+          "tr": "rönesans",
+          "it": "rinascimento",
+          "pl": "renesans"
         },
         "example": {
           "en": "Four important Renaissance paintings were stolen from a museum in Messina, Sicily, during a national holiday."
@@ -26,14 +54,42 @@
     {
       "id": "painting",
       "en": "painting",
-      "ko": "A picture made with paint on a surface",
+      "ko": "그림",
       "l1": {
-        "en": "A picture made with paint on a surface"
+        "en": "A picture made with paint on a surface",
+        "ko": "그림",
+        "zh-Hans": "绘画",
+        "ja": "絵画",
+        "es": "pintura",
+        "hi": "चित्र",
+        "de": "Gemälde",
+        "vi": "bức tranh",
+        "pt-BR": "pintura",
+        "id": "lukisan",
+        "fr": "peinture",
+        "ar": "لوحة",
+        "tr": "resim",
+        "it": "dipinto",
+        "pl": "obraz"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A picture made with paint on a surface"
+          "en": "A picture made with paint on a surface",
+          "ko": "그림",
+          "zh-Hans": "绘画",
+          "ja": "絵画",
+          "es": "pintura",
+          "hi": "चित्र",
+          "de": "Gemälde",
+          "vi": "bức tranh",
+          "pt-BR": "pintura",
+          "id": "lukisan",
+          "fr": "peinture",
+          "ar": "لوحة",
+          "tr": "resim",
+          "it": "dipinto",
+          "pl": "obraz"
         },
         "example": {
           "en": "Four important Renaissance paintings were stolen from a museum in Messina, Sicily, during a national holiday."
@@ -44,14 +100,42 @@
     {
       "id": "museum",
       "en": "museum",
-      "ko": "A building that keeps and shows art or history",
+      "ko": "예술이나 역사를 보관하고 전시하는 건물",
       "l1": {
-        "en": "A building that keeps and shows art or history"
+        "en": "A building that keeps and shows art or history",
+        "ko": "예술이나 역사를 보관하고 전시하는 건물",
+        "zh-Hans": "保存和展示艺术或历史的建筑",
+        "ja": "芸術や歴史を保存・展示する建物",
+        "es": "edificio que conserva y exhibe arte o historia",
+        "hi": "कला या इतिहास को रखने और दिखाने वाली इमारत",
+        "de": "Gebäude, das Kunst oder Geschichte bewahrt und zeigt",
+        "vi": "tòa nhà lưu giữ và trưng bày nghệ thuật hoặc lịch sử",
+        "pt-BR": "edifício que conserva e exibe arte ou história",
+        "id": "bangunan yang menyimpan dan memamerkan seni atau sejarah",
+        "fr": "bâtiment qui conserve et expose l'art ou l'histoire",
+        "ar": "مبنى يحفظ ويعرض الفن أو التاريخ",
+        "tr": "sanat veya tarihi koruyup sergileyen bina",
+        "it": "edificio che conserva ed espone arte o storia",
+        "pl": "budynek przechowujący i wystawiający sztukę lub historię"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A building that keeps and shows art or history"
+          "en": "A building that keeps and shows art or history",
+          "ko": "예술이나 역사를 보관하고 전시하는 건물",
+          "zh-Hans": "保存和展示艺术或历史的建筑",
+          "ja": "芸術や歴史を保存・展示する建物",
+          "es": "edificio que conserva y exhibe arte o historia",
+          "hi": "कला या इतिहास को रखने और दिखाने वाली इमारत",
+          "de": "Gebäude, das Kunst oder Geschichte bewahrt und zeigt",
+          "vi": "tòa nhà lưu giữ và trưng bày nghệ thuật hoặc lịch sử",
+          "pt-BR": "edifício que conserva e exibe arte ou história",
+          "id": "bangunan yang menyimpan dan memamerkan seni atau sejarah",
+          "fr": "bâtiment qui conserve et expose l'art ou l'histoire",
+          "ar": "مبنى يحفظ ويعرض الفن أو التاريخ",
+          "tr": "sanat veya tarihi koruyup sergileyen bina",
+          "it": "edificio che conserva ed espone arte o storia",
+          "pl": "budynek przechowujący i wystawiający sztukę lub historię"
         },
         "example": {
           "en": "Four important Renaissance paintings were stolen from a museum in Messina, Sicily, during a national holiday."
@@ -62,14 +146,42 @@
     {
       "id": "altarpiece",
       "en": "altarpiece",
-      "ko": "A painted artwork made for the front of a church altar",
+      "ko": "교회 제단 앞에 놓는 그림",
       "l1": {
-        "en": "A painted artwork made for the front of a church altar"
+        "en": "A painted artwork made for the front of a church altar",
+        "ko": "교회 제단 앞에 놓는 그림",
+        "zh-Hans": "教堂祭坛前的绘画作品",
+        "ja": "教会の祭壇前に飾る絵画",
+        "es": "obra pintada para la parte frontal de un altar",
+        "hi": "चर्च की वेदी के सामने रखी चित्रकृति",
+        "de": "gemaltes Kunstwerk für die Vorderseite eines Altars",
+        "vi": "tác phẩm hội họa đặt trước bàn thờ nhà thờ",
+        "pt-BR": "pintura feita para a frente de um altar",
+        "id": "lukisan untuk bagian depan altar gereja",
+        "fr": "peinture destinée au devant d'un autel",
+        "ar": "لوحة فنية توضع أمام مذبح الكنيسة",
+        "tr": "kilise sunağının önü için yapılmış resim",
+        "it": "dipinto per la parte anteriore di un altare",
+        "pl": "malowany obraz na przednią część ołtarza"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A painted artwork made for the front of a church altar"
+          "en": "A painted artwork made for the front of a church altar",
+          "ko": "교회 제단 앞에 놓는 그림",
+          "zh-Hans": "教堂祭坛前的绘画作品",
+          "ja": "教会の祭壇前に飾る絵画",
+          "es": "obra pintada para la parte frontal de un altar",
+          "hi": "चर्च की वेदी के सामने रखी चित्रकृति",
+          "de": "gemaltes Kunstwerk für die Vorderseite eines Altars",
+          "vi": "tác phẩm hội họa đặt trước bàn thờ nhà thờ",
+          "pt-BR": "pintura feita para a frente de um altar",
+          "id": "lukisan untuk bagian depan altar gereja",
+          "fr": "peinture destinée au devant d'un autel",
+          "ar": "لوحة فنية توضع أمام مذبح الكنيسة",
+          "tr": "kilise sunağının önü için yapılmış resim",
+          "it": "dipinto per la parte anteriore di un altare",
+          "pl": "malowany obraz na przednią część ołtarza"
         },
         "example": {
           "en": "They took three of the five surviving panels of an altarpiece called the Polittico di San Gregorio, dated fourteen seventy-three."
@@ -80,14 +192,42 @@
     {
       "id": "panel",
       "en": "panel",
-      "ko": "A flat piece of wood used as part of a larger painting",
+      "ko": "그림의 일부로 쓰이는 평평한 나무판",
       "l1": {
-        "en": "A flat piece of wood used as part of a larger painting"
+        "en": "A flat piece of wood used as part of a larger painting",
+        "ko": "그림의 일부로 쓰이는 평평한 나무판",
+        "zh-Hans": "用作大型绘画一部分的平板",
+        "ja": "大きな絵画の一部に使う平らな板",
+        "es": "tabla plana usada como parte de una pintura",
+        "hi": "बड़े चित्र के हिस्से के रूप में सपाट लकड़ी का टुकड़ा",
+        "de": "flaches Holzstück als Teil eines größeren Gemäldes",
+        "vi": "tấm gỗ phẳng dùng làm phần của bức tranh lớn",
+        "pt-BR": "peça plana de madeira usada como parte de uma pintura",
+        "id": "potongan kayu datar sebagai bagian dari lukisan besar",
+        "fr": "panneau de bois plat faisant partie d'une peinture",
+        "ar": "قطعة خشب مسطحة تستخدم كجزء من لوحة كبيرة",
+        "tr": "büyük bir resmin parçası olarak kullanılan düz ahşap",
+        "it": "tavola piatta usata come parte di un dipinto più grande",
+        "pl": "płaski kawałek drewna jako część większego obrazu"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A flat piece of wood used as part of a larger painting"
+          "en": "A flat piece of wood used as part of a larger painting",
+          "ko": "그림의 일부로 쓰이는 평평한 나무판",
+          "zh-Hans": "用作大型绘画一部分的平板",
+          "ja": "大きな絵画の一部に使う平らな板",
+          "es": "tabla plana usada como parte de una pintura",
+          "hi": "बड़े चित्र के हिस्से के रूप में सपाट लकड़ी का टुकड़ा",
+          "de": "flaches Holzstück als Teil eines größeren Gemäldes",
+          "vi": "tấm gỗ phẳng dùng làm phần của bức tranh lớn",
+          "pt-BR": "peça plana de madeira usada como parte de uma pintura",
+          "id": "potongan kayu datar sebagai bagian dari lukisan besar",
+          "fr": "panneau de bois plat faisant partie d'une peinture",
+          "ar": "قطعة خشب مسطحة تستخدم كجزء من لوحة كبيرة",
+          "tr": "büyük bir resmin parçası olarak kullanılan düz ahşap",
+          "it": "tavola piatta usata come parte di un dipinto più grande",
+          "pl": "płaski kawałek drewna jako część większego obrazu"
         },
         "example": {
           "en": "They also took a small double-sided panel of the Madonna and Christ in Pieta from an armored case."
@@ -98,14 +238,42 @@
     {
       "id": "thief",
       "en": "thief",
-      "ko": "A person who steals something",
+      "ko": "물건을 훔치는 사람",
       "l1": {
-        "en": "A person who steals something"
+        "en": "A person who steals something",
+        "ko": "물건을 훔치는 사람",
+        "zh-Hans": "偷东西的人",
+        "ja": "物を盗む人",
+        "es": "persona que roba algo",
+        "hi": "चोरी करने वाला व्यक्ति",
+        "de": "Person, die etwas stiehlt",
+        "vi": "người ăn cắp đồ vật",
+        "pt-BR": "pessoa que rouba algo",
+        "id": "orang yang mencuri sesuatu",
+        "fr": "personne qui vole quelque chose",
+        "ar": "شخص يسرق شيئًا",
+        "tr": "bir şey çalan kişi",
+        "it": "persona che ruba qualcosa",
+        "pl": "osoba, która coś kradnie"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A person who steals something"
+          "en": "A person who steals something",
+          "ko": "물건을 훔치는 사람",
+          "zh-Hans": "偷东西的人",
+          "ja": "物を盗む人",
+          "es": "persona que roba algo",
+          "hi": "चोरी करने वाला व्यक्ति",
+          "de": "Person, die etwas stiehlt",
+          "vi": "người ăn cắp đồ vật",
+          "pt-BR": "pessoa que rouba algo",
+          "id": "orang yang mencuri sesuatu",
+          "fr": "personne qui vole quelque chose",
+          "ar": "شخص يسرق شيئًا",
+          "tr": "bir şey çalan kişi",
+          "it": "persona che ruba qualcosa",
+          "pl": "osoba, która coś kradnie"
         },
         "example": {
           "en": "Four important Renaissance paintings were stolen from a museum in Messina, Sicily, during a national holiday."
@@ -116,14 +284,42 @@
     {
       "id": "holiday",
       "en": "holiday",
-      "ko": "A special day of rest or celebration",
+      "ko": "쉬거나 축하하는 특별한 날",
       "l1": {
-        "en": "A special day of rest or celebration"
+        "en": "A special day of rest or celebration",
+        "ko": "쉬거나 축하하는 특별한 날",
+        "zh-Hans": "休息或庆祝的特殊日子",
+        "ja": "休んだり祝ったりする特別な日",
+        "es": "día especial de descanso o celebración",
+        "hi": "आराम या उत्सव का विशेष दिन",
+        "de": "besonderer Tag zum Ausruhen oder Feiern",
+        "vi": "ngày đặc biệt để nghỉ ngơi hoặc ăn mừng",
+        "pt-BR": "dia especial de descanso ou celebração",
+        "id": "hari khusus untuk istirahat atau perayaan",
+        "fr": "jour spécial de repos ou de fête",
+        "ar": "يوم خاص للراحة أو الاحتفال",
+        "tr": "dinlenme veya kutlama için özel gün",
+        "it": "giorno speciale di riposo o celebrazione",
+        "pl": "specjalny dzień odpoczynku lub świętowania"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A special day of rest or celebration"
+          "en": "A special day of rest or celebration",
+          "ko": "쉬거나 축하하는 특별한 날",
+          "zh-Hans": "休息或庆祝的特殊日子",
+          "ja": "休んだり祝ったりする特別な日",
+          "es": "día especial de descanso o celebración",
+          "hi": "आराम या उत्सव का विशेष दिन",
+          "de": "besonderer Tag zum Ausruhen oder Feiern",
+          "vi": "ngày đặc biệt để nghỉ ngơi hoặc ăn mừng",
+          "pt-BR": "dia especial de descanso ou celebração",
+          "id": "hari khusus untuk istirahat atau perayaan",
+          "fr": "jour spécial de repos ou de fête",
+          "ar": "يوم خاص للراحة أو الاحتفال",
+          "tr": "dinlenme veya kutlama için özel gün",
+          "it": "giorno speciale di riposo o celebrazione",
+          "pl": "specjalny dzień odpoczynku lub świętowania"
         },
         "example": {
           "en": "Four important Renaissance paintings were stolen from a museum in Messina, Sicily, during a national holiday."
@@ -134,14 +330,42 @@
     {
       "id": "security",
       "en": "security",
-      "ko": "Systems and rules that protect a place from crime",
+      "ko": "범죄로부터 장소를 보호하는 시스템과 규칙",
       "l1": {
-        "en": "Systems and rules that protect a place from crime"
+        "en": "Systems and rules that protect a place from crime",
+        "ko": "범죄로부터 장소를 보호하는 시스템과 규칙",
+        "zh-Hans": "保护场所免受犯罪侵害的系统和规则",
+        "ja": "犯罪から場所を守るシステムと規則",
+        "es": "sistemas y reglas que protegen un lugar del crimen",
+        "hi": "अपराध से स्थान की रक्षा करने वाली प्रणालियाँ और नियम",
+        "de": "Systeme und Regeln, die einen Ort vor Verbrechen schützen",
+        "vi": "hệ thống và quy tắc bảo vệ nơi khỏi tội phạm",
+        "pt-BR": "sistemas e regras que protegem um local contra crimes",
+        "id": "sistem dan aturan yang melindungi tempat dari kejahatan",
+        "fr": "systèmes et règles protégeant un lieu contre le crime",
+        "ar": "أنظمة وقواعد تحمي مكانًا من الجريمة",
+        "tr": "bir yeri suçtan koruyan sistemler ve kurallar",
+        "it": "sistemi e regole che proteggono un luogo dal crimine",
+        "pl": "systemy i zasady chroniące miejsce przed przestępczością"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Systems and rules that protect a place from crime"
+          "en": "Systems and rules that protect a place from crime",
+          "ko": "범죄로부터 장소를 보호하는 시스템과 규칙",
+          "zh-Hans": "保护场所免受犯罪侵害的系统和规则",
+          "ja": "犯罪から場所を守るシステムと規則",
+          "es": "sistemas y reglas que protegen un lugar del crimen",
+          "hi": "अपराध से स्थान की रक्षा करने वाली प्रणालियाँ और नियम",
+          "de": "Systeme und Regeln, die einen Ort vor Verbrechen schützen",
+          "vi": "hệ thống và quy tắc bảo vệ nơi khỏi tội phạm",
+          "pt-BR": "sistemas e regras que protegem um local contra crimes",
+          "id": "sistem dan aturan yang melindungi tempat dari kejahatan",
+          "fr": "systèmes et règles protégeant un lieu contre le crime",
+          "ar": "أنظمة وقواعد تحمي مكانًا من الجريمة",
+          "tr": "bir yeri suçtan koruyan sistemler ve kurallar",
+          "it": "sistemi e regole che proteggono un luogo dal crimine",
+          "pl": "systemy i zasady chroniące miejsce przed przestępczością"
         },
         "example": {
           "en": "The gang bypassed alarm systems and broke into a security display."
@@ -152,14 +376,42 @@
     {
       "id": "investigation",
       "en": "investigation",
-      "ko": "A careful official search for facts about a crime",
+      "ko": "범죄에 대한 사실을 찾는 공식적인 조사",
       "l1": {
-        "en": "A careful official search for facts about a crime"
+        "en": "A careful official search for facts about a crime",
+        "ko": "범죄에 대한 사실을 찾는 공식적인 조사",
+        "zh-Hans": "对犯罪事实的正式调查",
+        "ja": "犯罪の事実を探す公式な捜査",
+        "es": "búsqueda oficial y cuidadosa de hechos sobre un crimen",
+        "hi": "अपराध के तथ्यों की आधिकारिक जाँच",
+        "de": "offizielle gründliche Suche nach Fakten über ein Verbrechen",
+        "vi": "cuộc điều tra chính thức tìm sự thật về tội ác",
+        "pt-BR": "busca oficial e cuidadosa de fatos sobre um crime",
+        "id": "penyelidikan resmi untuk mencari fakta tentang kejahatan",
+        "fr": "recherche officielle et minutieuse des faits d'un crime",
+        "ar": "بحث رسمي دقيق عن حقائق جريمة",
+        "tr": "bir suçla ilgili gerçeklerin resmi araştırması",
+        "it": "ricerca ufficiale e accurata di fatti su un crimine",
+        "pl": "oficjalne, staranne poszukiwanie faktów o przestępstwie"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A careful official search for facts about a crime"
+          "en": "A careful official search for facts about a crime",
+          "ko": "범죄에 대한 사실을 찾는 공식적인 조사",
+          "zh-Hans": "对犯罪事实的正式调查",
+          "ja": "犯罪の事実を探す公式な捜査",
+          "es": "búsqueda oficial y cuidadosa de hechos sobre un crimen",
+          "hi": "अपराध के तथ्यों की आधिकारिक जाँच",
+          "de": "offizielle gründliche Suche nach Fakten über ein Verbrechen",
+          "vi": "cuộc điều tra chính thức tìm sự thật về tội ác",
+          "pt-BR": "busca oficial e cuidadosa de fatos sobre um crime",
+          "id": "penyelidikan resmi untuk mencari fakta tentang kejahatan",
+          "fr": "recherche officielle et minutieuse des faits d'un crime",
+          "ar": "بحث رسمي دقيق عن حقائق جريمة",
+          "tr": "bir suçla ilgili gerçeklerin resmi araştırması",
+          "it": "ricerca ufficiale e accurata di fatti su un crimine",
+          "pl": "oficjalne, staranne poszukiwanie faktów o przestępstwie"
         },
         "example": {
           "en": "Prosecutors in Messina opened an investigation."
@@ -170,14 +422,42 @@
     {
       "id": "masterpiece",
       "en": "masterpiece",
-      "ko": "A work of art of the highest quality",
+      "ko": "최고 품질의 예술 작품",
       "l1": {
-        "en": "A work of art of the highest quality"
+        "en": "A work of art of the highest quality",
+        "ko": "최고 품질의 예술 작품",
+        "zh-Hans": "最高品质的艺术作品",
+        "ja": "最高品質の芸術作品",
+        "es": "obra de arte de la más alta calidad",
+        "hi": "उच्चतम गुणवत्ता की कला कृति",
+        "de": "Kunstwerk von höchster Qualität",
+        "vi": "tác phẩm nghệ thuật chất lượng cao nhất",
+        "pt-BR": "obra de arte da mais alta qualidade",
+        "id": "karya seni dengan kualitas tertinggi",
+        "fr": "œuvre d'art de la plus haute qualité",
+        "ar": "عمل فني بأعلى جودة",
+        "tr": "en yüksek kalitede sanat eseri",
+        "it": "opera d'arte della massima qualità",
+        "pl": "dzieło sztuki najwyższej jakości"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A work of art of the highest quality"
+          "en": "A work of art of the highest quality",
+          "ko": "최고 품질의 예술 작품",
+          "zh-Hans": "最高品质的艺术作品",
+          "ja": "最高品質の芸術作品",
+          "es": "obra de arte de la más alta calidad",
+          "hi": "उच्चतम गुणवत्ता की कला कृति",
+          "de": "Kunstwerk von höchster Qualität",
+          "vi": "tác phẩm nghệ thuật chất lượng cao nhất",
+          "pt-BR": "obra de arte da mais alta qualidade",
+          "id": "karya seni dengan kualitas tertinggi",
+          "fr": "œuvre d'art de la plus haute qualité",
+          "ar": "عمل فني بأعلى جودة",
+          "tr": "en yüksek kalitede sanat eseri",
+          "it": "opera d'arte della massima qualità",
+          "pl": "dzieło sztuki najwyższej jakości"
         },
         "example": {
           "en": "Four important Renaissance paintings were stolen from a museum in Messina, Sicily, during a national holiday."

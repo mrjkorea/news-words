@@ -8,14 +8,42 @@
     {
       "id": "sardine",
       "en": "sardine",
-      "ko": "A small oily fish often sold in tins",
+      "ko": "통조림으로 자주 파는 작은 기름진 생선",
       "l1": {
-        "en": "A small oily fish often sold in tins"
+        "en": "A small oily fish often sold in tins",
+        "ko": "통조림으로 자주 파는 작은 기름진 생선",
+        "zh-Hans": "常制成罐头出售的小型油性鱼",
+        "ja": "缶詰でよく売られる小さな脂の多い魚",
+        "es": "pez pequeño y aceitoso que se vende en lata",
+        "hi": "छोटी तैलीय मछली जो अक्सर डिब्बे में बिकती है",
+        "de": "kleiner öliger Fisch, oft in Dosen verkauft",
+        "vi": "cá nhỏ nhiều dầu thường bán đóng hộp",
+        "pt-BR": "peixe pequeno e oleoso vendido em lata",
+        "id": "ikan kecil berminyak yang sering dijual dalam kaleng",
+        "fr": "petit poisson gras souvent vendu en conserve",
+        "ar": "سمكة صغيرة دهنية تباع غالبًا في علب",
+        "tr": "genellikle konserve satılan küçük yağlı balık",
+        "it": "pesce piccolo e oleoso venduto in scatola",
+        "pl": "mała tłusta ryba często sprzedawana w puszkach"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A small oily fish often sold in tins"
+          "en": "A small oily fish often sold in tins",
+          "ko": "통조림으로 자주 파는 작은 기름진 생선",
+          "zh-Hans": "常制成罐头出售的小型油性鱼",
+          "ja": "缶詰でよく売られる小さな脂の多い魚",
+          "es": "pez pequeño y aceitoso que se vende en lata",
+          "hi": "छोटी तैलीय मछली जो अक्सर डिब्बे में बिकती है",
+          "de": "kleiner öliger Fisch, oft in Dosen verkauft",
+          "vi": "cá nhỏ nhiều dầu thường bán đóng hộp",
+          "pt-BR": "peixe pequeno e oleoso vendido em lata",
+          "id": "ikan kecil berminyak yang sering dijual dalam kaleng",
+          "fr": "petit poisson gras souvent vendu en conserve",
+          "ar": "سمكة صغيرة دهنية تباع غالبًا في علب",
+          "tr": "genellikle konserve satılan küçük yağlı balık",
+          "it": "pesce piccolo e oleoso venduto in scatola",
+          "pl": "mała tłusta ryba często sprzedawana w puszkach"
         },
         "example": {
           "en": "Sardine brands that once looked old-fashioned now compete with trendy tinned seafood lines aimed at younger buyers."
@@ -26,14 +54,42 @@
     {
       "id": "shortage",
       "en": "shortage",
-      "ko": "A situation where there is not enough of something",
+      "ko": "무언가가 충분하지 않은 상황",
       "l1": {
-        "en": "A situation where there is not enough of something"
+        "en": "A situation where there is not enough of something",
+        "ko": "무언가가 충분하지 않은 상황",
+        "zh-Hans": "某物不足的情况",
+        "ja": "何かが足りない状況",
+        "es": "situación en que falta algo",
+        "hi": "किसी चीज़ की कमी की स्थिति",
+        "de": "Situation, in der etwas nicht ausreicht",
+        "vi": "tình trạng thiếu thứ gì đó",
+        "pt-BR": "situação em que falta algo",
+        "id": "situasi kekurangan sesuatu",
+        "fr": "situation où il manque quelque chose",
+        "ar": "حالة نقص في شيء ما",
+        "tr": "bir şeyin yetersiz olduğu durum",
+        "it": "situazione in cui manca qualcosa",
+        "pl": "sytuacja, gdy czegoś brakuje"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A situation where there is not enough of something"
+          "en": "A situation where there is not enough of something",
+          "ko": "무언가가 충분하지 않은 상황",
+          "zh-Hans": "某物不足的情况",
+          "ja": "何かが足りない状況",
+          "es": "situación en que falta algo",
+          "hi": "किसी चीज़ की कमी की स्थिति",
+          "de": "Situation, in der etwas nicht ausreicht",
+          "vi": "tình trạng thiếu thứ gì đó",
+          "pt-BR": "situação em que falta algo",
+          "id": "situasi kekurangan sesuatu",
+          "fr": "situation où il manque quelque chose",
+          "ar": "حالة نقص في شيء ما",
+          "tr": "bir şeyin yetersiz olduğu durum",
+          "it": "situazione in cui manca qualcosa",
+          "pl": "sytuacja, gdy czegoś brakuje"
         },
         "example": {
           "en": "The shortage is cultural as well as economic: a grandparent's pantry food has become a social-media star."
@@ -44,14 +100,42 @@
     {
       "id": "protein",
       "en": "protein",
-      "ko": "A nutrient that helps build muscle and tissue",
+      "ko": "근육과 조직을 만드는 데 도움이 되는 영양소",
       "l1": {
-        "en": "A nutrient that helps build muscle and tissue"
+        "en": "A nutrient that helps build muscle and tissue",
+        "ko": "근육과 조직을 만드는 데 도움이 되는 영양소",
+        "zh-Hans": "帮助构建肌肉和组织的营养素",
+        "ja": "筋肉や組織の構築を助ける栄養素",
+        "es": "nutriente que ayuda a construir músculo y tejido",
+        "hi": "मांसपेशियों और ऊतक बनाने में मदद करने वाला पोषक तत्व",
+        "de": "Nährstoff, der Muskeln und Gewebe aufbaut",
+        "vi": "chất dinh dưỡng giúp xây dựng cơ và mô",
+        "pt-BR": "nutriente que ajuda a construir músculos e tecidos",
+        "id": "nutrisi yang membantu membangun otot dan jaringan",
+        "fr": "nutriment qui aide à construire muscles et tissus",
+        "ar": "مغذٍ يساعد في بناء العضلات والأنسجة",
+        "tr": "kas ve doku yapımına yardımcı besin",
+        "it": "nutriente che aiuta a costruire muscoli e tessuti",
+        "pl": "składnik odżywczy budujący mięśnie i tkanki"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A nutrient that helps build muscle and tissue"
+          "en": "A nutrient that helps build muscle and tissue",
+          "ko": "근육과 조직을 만드는 데 도움이 되는 영양소",
+          "zh-Hans": "帮助构建肌肉和组织的营养素",
+          "ja": "筋肉や組織の構築を助ける栄養素",
+          "es": "nutriente que ayuda a construir músculo y tejido",
+          "hi": "मांसपेशियों और ऊतक बनाने में मदद करने वाला पोषक तत्व",
+          "de": "Nährstoff, der Muskeln und Gewebe aufbaut",
+          "vi": "chất dinh dưỡng giúp xây dựng cơ và mô",
+          "pt-BR": "nutriente que ajuda a construir músculos e tecidos",
+          "id": "nutrisi yang membantu membangun otot dan jaringan",
+          "fr": "nutriment qui aide à construire muscles et tissus",
+          "ar": "مغذٍ يساعد في بناء العضلات والأنسجة",
+          "tr": "kas ve doku yapımına yardımcı besin",
+          "it": "nutriente che aiuta a costruire muscoli e tessuti",
+          "pl": "składnik odżywczy budujący mięśnie i tkanki"
         },
         "example": {
           "en": "Sardines are rich in protein, omega-three fats, vitamin B twelve, and minerals like phosphorus and selenium."
@@ -62,14 +146,42 @@
     {
       "id": "omega",
       "en": "omega",
-      "ko": "A type of healthy fat found in fish",
+      "ko": "생선에 들어 있는 건강한 지방의 한 종류",
       "l1": {
-        "en": "A type of healthy fat found in fish"
+        "en": "A type of healthy fat found in fish",
+        "ko": "생선에 들어 있는 건강한 지방의 한 종류",
+        "zh-Hans": "鱼类中发现的一种健康脂肪",
+        "ja": "魚に含まれる健康的な脂肪の一種",
+        "es": "tipo de grasa saludable que se encuentra en el pescado",
+        "hi": "मछली में पाया जाने वाला स्वस्थ वसा का प्रकार",
+        "de": "eine Art gesundes Fett in Fisch",
+        "vi": "một loại chất béo lành mạnh có trong cá",
+        "pt-BR": "tipo de gordura saudável encontrada em peixes",
+        "id": "jenis lemak sehat yang ditemukan pada ikan",
+        "fr": "type de graisse saine présente dans le poisson",
+        "ar": "نوع من الدهون الصحية الموجودة في الأسماك",
+        "tr": "balıkta bulunan sağlıklı yağ türü",
+        "it": "tipo di grasso sano presente nel pesce",
+        "pl": "rodzaj zdrowego tłuszczu w rybach"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A type of healthy fat found in fish"
+          "en": "A type of healthy fat found in fish",
+          "ko": "생선에 들어 있는 건강한 지방의 한 종류",
+          "zh-Hans": "鱼类中发现的一种健康脂肪",
+          "ja": "魚に含まれる健康的な脂肪の一種",
+          "es": "tipo de grasa saludable que se encuentra en el pescado",
+          "hi": "मछली में पाया जाने वाला स्वस्थ वसा का प्रकार",
+          "de": "eine Art gesundes Fett in Fisch",
+          "vi": "một loại chất béo lành mạnh có trong cá",
+          "pt-BR": "tipo de gordura saudável encontrada em peixes",
+          "id": "jenis lemak sehat yang ditemukan pada ikan",
+          "fr": "type de graisse saine présente dans le poisson",
+          "ar": "نوع من الدهون الصحية الموجودة في الأسماك",
+          "tr": "balıkta bulunan sağlıklı yağ türü",
+          "it": "tipo di grasso sano presente nel pesce",
+          "pl": "rodzaj zdrowego tłuszczu w rybach"
         },
         "example": {
           "en": "Sardines are rich in protein, omega-three fats, vitamin B twelve, and minerals like phosphorus and selenium."
@@ -80,14 +192,42 @@
     {
       "id": "pantry",
       "en": "pantry",
-      "ko": "A cupboard where dry food is stored at home",
+      "ko": "식료품 저장실",
       "l1": {
-        "en": "A cupboard where dry food is stored at home"
+        "en": "A cupboard where dry food is stored at home",
+        "ko": "식료품 저장실",
+        "zh-Hans": "食品储藏室",
+        "ja": "食料品庫",
+        "es": "despensa",
+        "hi": "खाद्य भंडार",
+        "de": "Speisekammer",
+        "vi": "tủ đựng thức ăn khô",
+        "pt-BR": "despensa",
+        "id": "lemari makanan kering",
+        "fr": "garde-manger",
+        "ar": "مخزن المؤن",
+        "tr": "kiler",
+        "it": "dispensa",
+        "pl": "spiżarnia"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A cupboard where dry food is stored at home"
+          "en": "A cupboard where dry food is stored at home",
+          "ko": "식료품 저장실",
+          "zh-Hans": "食品储藏室",
+          "ja": "食料品庫",
+          "es": "despensa",
+          "hi": "खाद्य भंडार",
+          "de": "Speisekammer",
+          "vi": "tủ đựng thức ăn khô",
+          "pt-BR": "despensa",
+          "id": "lemari makanan kering",
+          "fr": "garde-manger",
+          "ar": "مخزن المؤن",
+          "tr": "kiler",
+          "it": "dispensa",
+          "pl": "spiżarnia"
         },
         "example": {
           "en": "NBC News says the humble fish, once a cheap pantry staple, can be hard to find in some stores."
@@ -98,14 +238,42 @@
     {
       "id": "supply",
       "en": "supply",
-      "ko": "The amount of a product available to buy",
+      "ko": "공급량",
       "l1": {
-        "en": "The amount of a product available to buy"
+        "en": "The amount of a product available to buy",
+        "ko": "공급량",
+        "zh-Hans": "供应量",
+        "ja": "供給量",
+        "es": "suministro",
+        "hi": "आपूर्ति",
+        "de": "Angebot",
+        "vi": "nguồn cung",
+        "pt-BR": "oferta",
+        "id": "pasokan",
+        "fr": "offre",
+        "ar": "عرض",
+        "tr": "arz",
+        "it": "offerta",
+        "pl": "podaż"
       },
       "ww": {
         "pos": "adv",
         "def": {
-          "en": "The amount of a product available to buy"
+          "en": "The amount of a product available to buy",
+          "ko": "공급량",
+          "zh-Hans": "供应量",
+          "ja": "供給量",
+          "es": "suministro",
+          "hi": "आपूर्ति",
+          "de": "Angebot",
+          "vi": "nguồn cung",
+          "pt-BR": "oferta",
+          "id": "pasokan",
+          "fr": "offre",
+          "ar": "عرض",
+          "tr": "arz",
+          "it": "offerta",
+          "pl": "podaż"
         },
         "example": {
           "en": "Fishing limits, changing ocean conditions, and processing bottlenecks all squeeze supply."
@@ -116,14 +284,42 @@
     {
       "id": "demand",
       "en": "demand",
-      "ko": "How much people want to buy a product",
+      "ko": "수요",
       "l1": {
-        "en": "How much people want to buy a product"
+        "en": "How much people want to buy a product",
+        "ko": "수요",
+        "zh-Hans": "需求",
+        "ja": "需要",
+        "es": "demanda",
+        "hi": "मांग",
+        "de": "Nachfrage",
+        "vi": "nhu cầu",
+        "pt-BR": "demanda",
+        "id": "permintaan",
+        "fr": "demande",
+        "ar": "طلب",
+        "tr": "talep",
+        "it": "domanda",
+        "pl": "popyt"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "How much people want to buy a product"
+          "en": "How much people want to buy a product",
+          "ko": "수요",
+          "zh-Hans": "需求",
+          "ja": "需要",
+          "es": "demanda",
+          "hi": "मांग",
+          "de": "Nachfrage",
+          "vi": "nhu cầu",
+          "pt-BR": "demanda",
+          "id": "permintaan",
+          "fr": "demande",
+          "ar": "طلب",
+          "tr": "talep",
+          "it": "domanda",
+          "pl": "popyt"
         },
         "example": {
           "en": "Social media cooks and budget-conscious eaters have helped push demand higher."
@@ -134,14 +330,42 @@
     {
       "id": "catch",
       "en": "catch",
-      "ko": "The amount of fish brought in by boats",
+      "ko": "어획량",
       "l1": {
-        "en": "The amount of fish brought in by boats"
+        "en": "The amount of fish brought in by boats",
+        "ko": "어획량",
+        "zh-Hans": "捕获量",
+        "ja": "漁獲量",
+        "es": "captura",
+        "hi": "पकड़",
+        "de": "Fang",
+        "vi": "sản lượng đánh bắt",
+        "pt-BR": "captura",
+        "id": "hasil tangkapan",
+        "fr": "prise",
+        "ar": "كمية الصيد",
+        "tr": "avlanan miktar",
+        "it": "pescato",
+        "pl": "połów"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The amount of fish brought in by boats"
+          "en": "The amount of fish brought in by boats",
+          "ko": "어획량",
+          "zh-Hans": "捕获量",
+          "ja": "漁獲量",
+          "es": "captura",
+          "hi": "पकड़",
+          "de": "Fang",
+          "vi": "sản lượng đánh bắt",
+          "pt-BR": "captura",
+          "id": "hasil tangkapan",
+          "fr": "prise",
+          "ar": "كمية الصيد",
+          "tr": "avlanan miktar",
+          "it": "pescato",
+          "pl": "połów"
         },
         "example": {
           "en": "Shoppers are noticing empty spaces where tinned sardines used to sit."
@@ -152,14 +376,42 @@
     {
       "id": "shelf",
       "en": "shelf",
-      "ko": "A flat board in a store where goods are displayed",
+      "ko": "선반",
       "l1": {
-        "en": "A flat board in a store where goods are displayed"
+        "en": "A flat board in a store where goods are displayed",
+        "ko": "선반",
+        "zh-Hans": "货架",
+        "ja": "棚",
+        "es": "estante",
+        "hi": "शेल्फ",
+        "de": "Regal",
+        "vi": "kệ",
+        "pt-BR": "prateleira",
+        "id": "rak",
+        "fr": "étagère",
+        "ar": "رف",
+        "tr": "raf",
+        "it": "scaffale",
+        "pl": "półka"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A flat board in a store where goods are displayed"
+          "en": "A flat board in a store where goods are displayed",
+          "ko": "선반",
+          "zh-Hans": "货架",
+          "ja": "棚",
+          "es": "estante",
+          "hi": "शेल्फ",
+          "de": "Regal",
+          "vi": "kệ",
+          "pt-BR": "prateleira",
+          "id": "rak",
+          "fr": "étagère",
+          "ar": "رف",
+          "tr": "raf",
+          "it": "scaffale",
+          "pl": "półka"
         },
         "example": {
           "en": "Shoppers are noticing empty spaces where tinned sardines used to sit."
@@ -170,14 +422,42 @@
     {
       "id": "staple",
       "en": "staple",
-      "ko": "A basic food that people use often",
+      "ko": "주식",
       "l1": {
-        "en": "A basic food that people use often"
+        "en": "A basic food that people use often",
+        "ko": "주식",
+        "zh-Hans": "主食",
+        "ja": "主食",
+        "es": "alimento básico",
+        "hi": "मुख्य भोजन",
+        "de": "Grundnahrungsmittel",
+        "vi": "lương thực chính",
+        "pt-BR": "alimento básico",
+        "id": "makanan pokok",
+        "fr": "aliment de base",
+        "ar": "غذاء أساسي",
+        "tr": "temel gıda",
+        "it": "alimento base",
+        "pl": "podstawowy produkt spożywczy"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A basic food that people use often"
+          "en": "A basic food that people use often",
+          "ko": "주식",
+          "zh-Hans": "主食",
+          "ja": "主食",
+          "es": "alimento básico",
+          "hi": "मुख्य भोजन",
+          "de": "Grundnahrungsmittel",
+          "vi": "lương thực chính",
+          "pt-BR": "alimento básico",
+          "id": "makanan pokok",
+          "fr": "aliment de base",
+          "ar": "غذاء أساسي",
+          "tr": "temel gıda",
+          "it": "alimento base",
+          "pl": "podstawowy produkt spożywczy"
         },
         "example": {
           "en": "NBC News says the humble fish, once a cheap pantry staple, can be hard to find in some stores."

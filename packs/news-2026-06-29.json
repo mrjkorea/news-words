@@ -8,14 +8,42 @@
     {
       "id": "microbial",
       "en": "microbial",
-      "ko": "relating to or caused by very small living things (microbes)",
+      "ko": "미생물과 관련된",
       "l1": {
-        "en": "relating to or caused by very small living things (microbes)"
+        "en": "relating to or caused by very small living things (microbes)",
+        "ko": "미생물과 관련된",
+        "zh-Hans": "与微生物有关的",
+        "ja": "微生物に関連する",
+        "es": "relativo a los microbios",
+        "hi": "सूक्ष्मजीवों से संबंधित",
+        "de": "Mikroben betreffend",
+        "vi": "liên quan đến vi sinh vật",
+        "pt-BR": "relativo a micróbios",
+        "id": "berkaitan dengan mikroba",
+        "fr": "relatif aux microbes",
+        "ar": "متعلق بالكائنات الدقيقة",
+        "tr": "mikroplarla ilgili",
+        "it": "relativo ai microbi",
+        "pl": "dotyczący drobnoustrojów"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "relating to or caused by very small living things (microbes)"
+          "en": "relating to or caused by very small living things (microbes)",
+          "ko": "미생물과 관련된",
+          "zh-Hans": "与微生物有关的",
+          "ja": "微生物に関連する",
+          "es": "relativo a los microbios",
+          "hi": "सूक्ष्मजीवों से संबंधित",
+          "de": "Mikroben betreffend",
+          "vi": "liên quan đến vi sinh vật",
+          "pt-BR": "relativo a micróbios",
+          "id": "berkaitan dengan mikroba",
+          "fr": "relatif aux microbes",
+          "ar": "متعلق بالكائنات الدقيقة",
+          "tr": "mikroplarla ilgili",
+          "it": "relativo ai microbi",
+          "pl": "dotyczący drobnoustrojów"
         },
         "example": {
           "en": "Today's news uses the word microbial."
@@ -26,14 +54,42 @@
     {
       "id": "organic",
       "en": "organic",
-      "ko": "coming from living matter; containing carbon compounds",
+      "ko": "생물에서 유래한, 탄소 화합물을 포함한",
       "l1": {
-        "en": "coming from living matter; containing carbon compounds"
+        "en": "coming from living matter; containing carbon compounds",
+        "ko": "생물에서 유래한, 탄소 화합물을 포함한",
+        "zh-Hans": "来自生物体的，含碳化合物的",
+        "ja": "生物由来の、炭素化合物を含む",
+        "es": "proveniente de seres vivos, con carbono",
+        "hi": "जीवित पदार्थ से, कार्बन यौगिक युक्त",
+        "de": "aus Lebewesen stammend, kohlenstoffhaltig",
+        "vi": "có nguồn gốc sinh vật, chứa cacbon",
+        "pt-BR": "proveniente de seres vivos, com carbono",
+        "id": "berasal dari makhluk hidup, mengandung karbon",
+        "fr": "provenant du vivant, contenant du carbone",
+        "ar": "من أصل حيوي، يحتوي على الكربون",
+        "tr": "canlılardan gelen, karbon içeren",
+        "it": "proveniente da esseri viventi, con carbonio",
+        "pl": "pochodzący z organizmów, zawierający węgiel"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "coming from living matter; containing carbon compounds"
+          "en": "coming from living matter; containing carbon compounds",
+          "ko": "생물에서 유래한, 탄소 화합물을 포함한",
+          "zh-Hans": "来自生物体的，含碳化合物的",
+          "ja": "生物由来の、炭素化合物を含む",
+          "es": "proveniente de seres vivos, con carbono",
+          "hi": "जीवित पदार्थ से, कार्बन यौगिक युक्त",
+          "de": "aus Lebewesen stammend, kohlenstoffhaltig",
+          "vi": "có nguồn gốc sinh vật, chứa cacbon",
+          "pt-BR": "proveniente de seres vivos, com carbono",
+          "id": "berasal dari makhluk hidup, mengandung karbon",
+          "fr": "provenant du vivant, contenant du carbone",
+          "ar": "من أصل حيوي، يحتوي على الكربون",
+          "tr": "canlılardan gelen, karbon içeren",
+          "it": "proveniente da esseri viventi, con carbonio",
+          "pl": "pochodzący z organizmów, zawierający węgiel"
         },
         "example": {
           "en": "Today's news uses the word organic."
@@ -44,14 +100,42 @@
     {
       "id": "carbon",
       "en": "carbon",
-      "ko": "a chemical element found in all living things and organic compounds",
+      "ko": "모든 생물과 유기 화합물에 있는 화학 원소",
       "l1": {
-        "en": "a chemical element found in all living things and organic compounds"
+        "en": "a chemical element found in all living things and organic compounds",
+        "ko": "모든 생물과 유기 화합물에 있는 화학 원소",
+        "zh-Hans": "存在于所有生物和有机化合物中的化学元素",
+        "ja": "すべての生物と有機化合物に含まれる元素",
+        "es": "elemento químico presente en seres vivos",
+        "hi": "सभी जीवित चीजों में पाया जाने वाला तत्व",
+        "de": "chemisches Element in allen Lebewesen",
+        "vi": "nguyên tố hóa học có trong mọi sinh vật",
+        "pt-BR": "elemento químico presente em seres vivos",
+        "id": "unsur kimia dalam semua makhluk hidup",
+        "fr": "élément chimique présent chez les êtres vivants",
+        "ar": "عنصر كيميائي موجود في الكائنات الحية",
+        "tr": "tüm canlılarda bulunan kimyasal element",
+        "it": "elemento chimico presente negli esseri viventi",
+        "pl": "pierwiastek chemiczny obecny w organizmach"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "a chemical element found in all living things and organic compounds"
+          "en": "a chemical element found in all living things and organic compounds",
+          "ko": "모든 생물과 유기 화합물에 있는 화학 원소",
+          "zh-Hans": "存在于所有生物和有机化合物中的化学元素",
+          "ja": "すべての生物と有機化合物に含まれる元素",
+          "es": "elemento químico presente en seres vivos",
+          "hi": "सभी जीवित चीजों में पाया जाने वाला तत्व",
+          "de": "chemisches Element in allen Lebewesen",
+          "vi": "nguyên tố hóa học có trong mọi sinh vật",
+          "pt-BR": "elemento químico presente em seres vivos",
+          "id": "unsur kimia dalam semua makhluk hidup",
+          "fr": "élément chimique présent chez les êtres vivants",
+          "ar": "عنصر كيميائي موجود في الكائنات الحية",
+          "tr": "tüm canlılarda bulunan kimyasal element",
+          "it": "elemento chimico presente negli esseri viventi",
+          "pl": "pierwiastek chemiczny obecny w organizmach"
         },
         "example": {
           "en": "Today's news uses the word carbon."
@@ -62,14 +146,42 @@
     {
       "id": "molecule",
       "en": "molecule",
-      "ko": "the smallest unit of a chemical compound made of two or more atoms",
+      "ko": "두 개 이상의 원자로 이루어진 화합물의 최소 단위",
       "l1": {
-        "en": "the smallest unit of a chemical compound made of two or more atoms"
+        "en": "the smallest unit of a chemical compound made of two or more atoms",
+        "ko": "두 개 이상의 원자로 이루어진 화합물의 최소 단위",
+        "zh-Hans": "由两个或多个原子组成的化合物的最小单位",
+        "ja": "2つ以上の原子からなる化合物の最小単位",
+        "es": "unidad mínima de un compuesto químico",
+        "hi": "दो या अधिक परमाणुओं से बनी सबसे छोटी इकाई",
+        "de": "kleinste Einheit einer chemischen Verbindung",
+        "vi": "đơn vị nhỏ nhất của hợp chất hóa học",
+        "pt-BR": "menor unidade de um composto químico",
+        "id": "unit terkecil senyawa kimia",
+        "fr": "plus petite unité d'un composé chimique",
+        "ar": "أصغر وحدة لمركب كيميائي",
+        "tr": "kimyasal bileşiğin en küçük birimi",
+        "it": "unità più piccola di un composto chimico",
+        "pl": "najmniejsza jednostka związku chemicznego"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "the smallest unit of a chemical compound made of two or more atoms"
+          "en": "the smallest unit of a chemical compound made of two or more atoms",
+          "ko": "두 개 이상의 원자로 이루어진 화합물의 최소 단위",
+          "zh-Hans": "由两个或多个原子组成的化合物的最小单位",
+          "ja": "2つ以上の原子からなる化合物の最小単位",
+          "es": "unidad mínima de un compuesto químico",
+          "hi": "दो या अधिक परमाणुओं से बनी सबसे छोटी इकाई",
+          "de": "kleinste Einheit einer chemischen Verbindung",
+          "vi": "đơn vị nhỏ nhất của hợp chất hóa học",
+          "pt-BR": "menor unidade de um composto químico",
+          "id": "unit terkecil senyawa kimia",
+          "fr": "plus petite unité d'un composé chimique",
+          "ar": "أصغر وحدة لمركب كيميائي",
+          "tr": "kimyasal bileşiğin en küçük birimi",
+          "it": "unità più piccola di un composto chimico",
+          "pl": "najmniejsza jednostka związku chemicznego"
         },
         "example": {
           "en": "Today's news uses the word molecule."
@@ -80,14 +192,42 @@
     {
       "id": "biosignature",
       "en": "biosignature",
-      "ko": "a chemical or physical marker that indicates past or present life",
+      "ko": "생명의 흔적을 나타내는 화학적 또는 물리적 표지",
       "l1": {
-        "en": "a chemical or physical marker that indicates past or present life"
+        "en": "a chemical or physical marker that indicates past or present life",
+        "ko": "생명의 흔적을 나타내는 화학적 또는 물리적 표지",
+        "zh-Hans": "表明存在生命的化学或物理标记",
+        "ja": "生命の存在を示す化学的または物理的な指標",
+        "es": "marcador químico o físico que indica vida",
+        "hi": "जीवन का संकेत देने वाला रासायनिक या भौतिक चिह्न",
+        "de": "chemischer oder physikalischer Hinweis auf Leben",
+        "vi": "dấu hiệu hóa học hoặc vật lý cho thấy sự sống",
+        "pt-BR": "marcador químico ou físico que indica vida",
+        "id": "penanda kimia atau fisik yang menunjukkan kehidupan",
+        "fr": "marqueur chimique ou physique indiquant la vie",
+        "ar": "علامة كيميائية أو فيزيائية تدل على الحياة",
+        "tr": "yaşamı gösteren kimyasal veya fiziksel iz",
+        "it": "marcatore chimico o fisico che indica vita",
+        "pl": "chemiczny lub fizyczny wskaźnik życia"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "a chemical or physical marker that indicates past or present life"
+          "en": "a chemical or physical marker that indicates past or present life",
+          "ko": "생명의 흔적을 나타내는 화학적 또는 물리적 표지",
+          "zh-Hans": "表明存在生命的化学或物理标记",
+          "ja": "生命の存在を示す化学的または物理的な指標",
+          "es": "marcador químico o físico que indica vida",
+          "hi": "जीवन का संकेत देने वाला रासायनिक या भौतिक चिह्न",
+          "de": "chemischer oder physikalischer Hinweis auf Leben",
+          "vi": "dấu hiệu hóa học hoặc vật lý cho thấy sự sống",
+          "pt-BR": "marcador químico ou físico que indica vida",
+          "id": "penanda kimia atau fisik yang menunjukkan kehidupan",
+          "fr": "marqueur chimique ou physique indiquant la vie",
+          "ar": "علامة كيميائية أو فيزيائية تدل على الحياة",
+          "tr": "yaşamı gösteren kimyasal veya fiziksel iz",
+          "it": "marcatore chimico o fisico che indica vita",
+          "pl": "chemiczny lub fizyczny wskaźnik życia"
         },
         "example": {
           "en": "Today's news uses the word biosignature."
@@ -98,14 +238,42 @@
     {
       "id": "canyon",
       "en": "canyon",
-      "ko": "a deep valley with steep sides carved by a river or water",
+      "ko": "강물에 의해 깎여 생긴 깊은 협곡",
       "l1": {
-        "en": "a deep valley with steep sides carved by a river or water"
+        "en": "a deep valley with steep sides carved by a river or water",
+        "ko": "강물에 의해 깎여 생긴 깊은 협곡",
+        "zh-Hans": "河流冲刷形成的深谷",
+        "ja": "川によって削られた深い峡谷",
+        "es": "valle profundo con lados empinados tallado por un río",
+        "hi": "नदी द्वारा कटी गहरी घाटी",
+        "de": "tiefe Schlucht, die von einem Fluss gegraben wurde",
+        "vi": "thung lũng sâu do sông cắt thành",
+        "pt-BR": "vale profundo com lados íngremes esculpido por um rio",
+        "id": "lembah dalam dengan sisi curam yang diukir sungai",
+        "fr": "vallée profonde aux flancs escarpés creusée par une rivière",
+        "ar": "وادٍ عميق ذو جوانب شديدة الانحدار حفره نهر",
+        "tr": "nehirle oyulmuş dik kenarlı derin vadi",
+        "it": "valle profonda con lati ripidi scavata da un fiume",
+        "pl": "głęboka dolina o stromych zboczach wyrzeźbiona przez rzekę"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "a deep valley with steep sides carved by a river or water"
+          "en": "a deep valley with steep sides carved by a river or water",
+          "ko": "강물에 의해 깎여 생긴 깊은 협곡",
+          "zh-Hans": "河流冲刷形成的深谷",
+          "ja": "川によって削られた深い峡谷",
+          "es": "valle profundo con lados empinados tallado por un río",
+          "hi": "नदी द्वारा कटी गहरी घाटी",
+          "de": "tiefe Schlucht, die von einem Fluss gegraben wurde",
+          "vi": "thung lũng sâu do sông cắt thành",
+          "pt-BR": "vale profundo com lados íngremes esculpido por um rio",
+          "id": "lembah dalam dengan sisi curam yang diukir sungai",
+          "fr": "vallée profonde aux flancs escarpés creusée par une rivière",
+          "ar": "وادٍ عميق ذو جوانب شديدة الانحدار حفره نهر",
+          "tr": "nehirle oyulmuş dik kenarlı derin vadi",
+          "it": "valle profonda con lati ripidi scavata da un fiume",
+          "pl": "głęboka dolina o stromych zboczach wyrzeźbiona przez rzekę"
         },
         "example": {
           "en": "Today's news uses the word canyon."
@@ -116,14 +284,42 @@
     {
       "id": "sediment",
       "en": "sediment",
-      "ko": "small particles of rock and soil that settle at the bottom of liquid",
+      "ko": "액체 바닥에 가라앉는 작은 암석과 흙 입자",
       "l1": {
-        "en": "small particles of rock and soil that settle at the bottom of liquid"
+        "en": "small particles of rock and soil that settle at the bottom of liquid",
+        "ko": "액체 바닥에 가라앉는 작은 암석과 흙 입자",
+        "zh-Hans": "沉在液体底部的岩石和土壤颗粒",
+        "ja": "液体の底に沈む小さな岩石や土の粒子",
+        "es": "partículas pequeñas de roca y suelo que se asientan en un líquido",
+        "hi": "तरल के तल में जमने वाले छोटे कण",
+        "de": "kleine Gesteins- und Bodenpartikel, die sich absetzen",
+        "vi": "hạt nhỏ của đá và đất lắng xuống đáy chất lỏng",
+        "pt-BR": "pequenas partículas de rocha e solo que se depositam em um líquido",
+        "id": "partikel kecil batuan dan tanah yang mengendap di dasar cairan",
+        "fr": "petites particules de roche et de sol qui se déposent dans un liquide",
+        "ar": "جزيئات صغيرة من الصخور والتربة تترسب في قاع السائل",
+        "tr": "sıvı dibinde çöken küçük kaya ve toprak parçacıkları",
+        "it": "piccole particelle di roccia e suolo che si depositano in un liquido",
+        "pl": "małe cząstki skał i gleby osadzające się na dnie cieczy"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "small particles of rock and soil that settle at the bottom of liquid"
+          "en": "small particles of rock and soil that settle at the bottom of liquid",
+          "ko": "액체 바닥에 가라앉는 작은 암석과 흙 입자",
+          "zh-Hans": "沉在液体底部的岩石和土壤颗粒",
+          "ja": "液体の底に沈む小さな岩石や土の粒子",
+          "es": "partículas pequeñas de roca y suelo que se asientan en un líquido",
+          "hi": "तरल के तल में जमने वाले छोटे कण",
+          "de": "kleine Gesteins- und Bodenpartikel, die sich absetzen",
+          "vi": "hạt nhỏ của đá và đất lắng xuống đáy chất lỏng",
+          "pt-BR": "pequenas partículas de rocha e solo que se depositam em um líquido",
+          "id": "partikel kecil batuan dan tanah yang mengendap di dasar cairan",
+          "fr": "petites particules de roche et de sol qui se déposent dans un liquide",
+          "ar": "جزيئات صغيرة من الصخور والتربة تترسب في قاع السائل",
+          "tr": "sıvı dibinde çöken küçük kaya ve toprak parçacıkları",
+          "it": "piccole particelle di roccia e suolo che si depositano in un liquido",
+          "pl": "małe cząstki skał i gleby osadzające się na dnie cieczy"
         },
         "example": {
           "en": "Today's news uses the word sediment."
@@ -134,14 +330,42 @@
     {
       "id": "delta",
       "en": "delta",
-      "ko": "a fan-shaped area where a river splits before reaching the sea",
+      "ko": "강이 바다로 흘러들기 전에 갈라지는 부채꼴 모양의 지역",
       "l1": {
-        "en": "a fan-shaped area where a river splits before reaching the sea"
+        "en": "a fan-shaped area where a river splits before reaching the sea",
+        "ko": "강이 바다로 흘러들기 전에 갈라지는 부채꼴 모양의 지역",
+        "zh-Hans": "河流入海前分叉的扇形区域",
+        "ja": "川が海に注ぐ前に分かれる扇形の地域",
+        "es": "área en forma de abanico donde un río se divide antes de llegar al mar",
+        "hi": "नदी के समुद्र में मिलने से पहले शाखाओं में बंटने वाला क्षेत्र",
+        "de": "fächerförmiges Gebiet, wo ein Fluss sich vor dem Meer teilt",
+        "vi": "vùng hình quạt nơi sông chia nhánh trước khi ra biển",
+        "pt-BR": "área em forma de leque onde um rio se divide antes de chegar ao mar",
+        "id": "area berbentuk kipas tempat sungai terbelah sebelum mencapai laut",
+        "fr": "zone en forme d'éventail où un fleuve se divise avant la mer",
+        "ar": "منطقة على شكل مروحة ينقسم فيها النهر قبل البحر",
+        "tr": "nehrin denize ulaşmadan önce bölündüğü yelpaze şeklindeki alan",
+        "it": "area a forma di ventaglio dove un fiume si divide prima del mare",
+        "pl": "wachlarzowaty obszar, gdzie rzeka dzieli się przed morzem"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "a fan-shaped area where a river splits before reaching the sea"
+          "en": "a fan-shaped area where a river splits before reaching the sea",
+          "ko": "강이 바다로 흘러들기 전에 갈라지는 부채꼴 모양의 지역",
+          "zh-Hans": "河流入海前分叉的扇形区域",
+          "ja": "川が海に注ぐ前に分かれる扇形の地域",
+          "es": "área en forma de abanico donde un río se divide antes de llegar al mar",
+          "hi": "नदी के समुद्र में मिलने से पहले शाखाओं में बंटने वाला क्षेत्र",
+          "de": "fächerförmiges Gebiet, wo ein Fluss sich vor dem Meer teilt",
+          "vi": "vùng hình quạt nơi sông chia nhánh trước khi ra biển",
+          "pt-BR": "área em forma de leque onde um rio se divide antes de chegar ao mar",
+          "id": "area berbentuk kipas tempat sungai terbelah sebelum mencapai laut",
+          "fr": "zone en forme d'éventail où un fleuve se divise avant la mer",
+          "ar": "منطقة على شكل مروحة ينقسم فيها النهر قبل البحر",
+          "tr": "nehrin denize ulaşmadan önce bölündüğü yelpaze şeklindeki alan",
+          "it": "area a forma di ventaglio dove un fiume si divide prima del mare",
+          "pl": "wachlarzowaty obszar, gdzie rzeka dzieli się przed morzem"
         },
         "example": {
           "en": "Today's news uses the word delta."
@@ -152,14 +376,42 @@
     {
       "id": "habitable",
       "en": "habitable",
-      "ko": "suitable or good enough to live in",
+      "ko": "살기에 적합한",
       "l1": {
-        "en": "suitable or good enough to live in"
+        "en": "suitable or good enough to live in",
+        "ko": "살기에 적합한",
+        "zh-Hans": "适合居住的",
+        "ja": "住むのに適した",
+        "es": "adecuado para vivir",
+        "hi": "रहने योग्य",
+        "de": "zum Wohnen geeignet",
+        "vi": "thích hợp để ở",
+        "pt-BR": "adequado para se viver",
+        "id": "layak untuk ditinggali",
+        "fr": "propice à l'habitation",
+        "ar": "صالح للسكن",
+        "tr": "yaşanabilir",
+        "it": "adatto per viverci",
+        "pl": "nadający się do zamieszkania"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "suitable or good enough to live in"
+          "en": "suitable or good enough to live in",
+          "ko": "살기에 적합한",
+          "zh-Hans": "适合居住的",
+          "ja": "住むのに適した",
+          "es": "adecuado para vivir",
+          "hi": "रहने योग्य",
+          "de": "zum Wohnen geeignet",
+          "vi": "thích hợp để ở",
+          "pt-BR": "adequado para se viver",
+          "id": "layak untuk ditinggali",
+          "fr": "propice à l'habitation",
+          "ar": "صالح للسكن",
+          "tr": "yaşanabilir",
+          "it": "adatto per viverci",
+          "pl": "nadający się do zamieszkania"
         },
         "example": {
           "en": "Today's news uses the word habitable."
@@ -170,14 +422,42 @@
     {
       "id": "fossilized",
       "en": "fossilized",
-      "ko": "preserved and turned into stone over millions of years",
+      "ko": "수백만 년 동안 보존되어 돌이 된",
       "l1": {
-        "en": "preserved and turned into stone over millions of years"
+        "en": "preserved and turned into stone over millions of years",
+        "ko": "수백만 년 동안 보존되어 돌이 된",
+        "zh-Hans": "经过数百万年保存变成石头的",
+        "ja": "何百万年もかけて石になった",
+        "es": "preservado y convertido en piedra durante millones de años",
+        "hi": "लाखों वर्षों में संरक्षित होकर पत्थर बन गया",
+        "de": "über Millionen Jahre zu Stein geworden",
+        "vi": "được bảo tồn và hóa đá qua hàng triệu năm",
+        "pt-BR": "preservado e transformado em pedra ao longo de milhões de anos",
+        "id": "terawetkan dan menjadi batu selama jutaan tahun",
+        "fr": "préservé et transformé en pierre sur des millions d'années",
+        "ar": "محفوظ وتحول إلى حجر عبر ملايين السنين",
+        "tr": "milyonlarca yılda taşlaşmış",
+        "it": "preservato e trasformato in pietra in milioni di anni",
+        "pl": "zachowany i zamieniony w kamień przez miliony lat"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "preserved and turned into stone over millions of years"
+          "en": "preserved and turned into stone over millions of years",
+          "ko": "수백만 년 동안 보존되어 돌이 된",
+          "zh-Hans": "经过数百万年保存变成石头的",
+          "ja": "何百万年もかけて石になった",
+          "es": "preservado y convertido en piedra durante millones de años",
+          "hi": "लाखों वर्षों में संरक्षित होकर पत्थर बन गया",
+          "de": "über Millionen Jahre zu Stein geworden",
+          "vi": "được bảo tồn và hóa đá qua hàng triệu năm",
+          "pt-BR": "preservado e transformado em pedra ao longo de milhões de anos",
+          "id": "terawetkan dan menjadi batu selama jutaan tahun",
+          "fr": "préservé et transformé en pierre sur des millions d'années",
+          "ar": "محفوظ وتحول إلى حجر عبر ملايين السنين",
+          "tr": "milyonlarca yılda taşlaşmış",
+          "it": "preservato e trasformato in pietra in milioni di anni",
+          "pl": "zachowany i zamieniony w kamień przez miliony lat"
         },
         "example": {
           "en": "Today's news uses the word fossilized."

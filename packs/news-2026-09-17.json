@@ -8,14 +8,42 @@
     {
       "id": "championship",
       "en": "championship",
-      "ko": "An important competition to find the best competitor",
+      "ko": "최고를 가리는 중요한 대회",
       "l1": {
-        "en": "An important competition to find the best competitor"
+        "en": "An important competition to find the best competitor",
+        "ko": "최고를 가리는 중요한 대회",
+        "zh-Hans": "决出最佳选手的重要比赛",
+        "ja": "最高の選手を決める重要な大会",
+        "es": "competición importante para encontrar al mejor",
+        "hi": "सर्वश्रेष्ठ खिलाड़ी खोजने की महत्वपूर्ण प्रतियोगिता",
+        "de": "wichtiger Wettbewerb zur Ermittlung des Besten",
+        "vi": "cuộc thi quan trọng để tìm người giỏi nhất",
+        "pt-BR": "competição importante para encontrar o melhor",
+        "id": "kompetisi penting untuk menemukan yang terbaik",
+        "fr": "compétition importante pour trouver le meilleur",
+        "ar": "مسابقة مهمة لإيجاد الأفضل",
+        "tr": "en iyiyi bulmak için önemli yarışma",
+        "it": "competizione importante per trovare il migliore",
+        "pl": "ważne zawody wyłaniające najlepszego"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "An important competition to find the best competitor"
+          "en": "An important competition to find the best competitor",
+          "ko": "최고를 가리는 중요한 대회",
+          "zh-Hans": "决出最佳选手的重要比赛",
+          "ja": "最高の選手を決める重要な大会",
+          "es": "competición importante para encontrar al mejor",
+          "hi": "सर्वश्रेष्ठ खिलाड़ी खोजने की महत्वपूर्ण प्रतियोगिता",
+          "de": "wichtiger Wettbewerb zur Ermittlung des Besten",
+          "vi": "cuộc thi quan trọng để tìm người giỏi nhất",
+          "pt-BR": "competição importante para encontrar o melhor",
+          "id": "kompetisi penting untuk menemukan yang terbaik",
+          "fr": "compétition importante pour trouver le meilleur",
+          "ar": "مسابقة مهمة لإيجاد الأفضل",
+          "tr": "en iyiyi bulmak için önemli yarışma",
+          "it": "competizione importante per trovare il migliore",
+          "pl": "ważne zawody wyłaniające najlepszego"
         },
         "example": {
           "en": "Budapest in Hungary hosted the first ever World Athletics Ultimate Championship from the eleventh to the thirteenth of September."
@@ -26,14 +54,42 @@
     {
       "id": "athletics",
       "en": "athletics",
-      "ko": "The sports of running jumping and throwing",
+      "ko": "달리기, 점프, 던지기 스포츠",
       "l1": {
-        "en": "The sports of running jumping and throwing"
+        "en": "The sports of running jumping and throwing",
+        "ko": "달리기, 점프, 던지기 스포츠",
+        "zh-Hans": "跑步、跳跃和投掷运动",
+        "ja": "走る・跳ぶ・投げるスポーツ",
+        "es": "deportes de correr, saltar y lanzar",
+        "hi": "दौड़ना, कूदना और फेंकना खेल",
+        "de": "Sportarten wie Laufen, Springen und Werfen",
+        "vi": "môn chạy, nhảy và ném",
+        "pt-BR": "esportes de correr, saltar e arremessar",
+        "id": "olahraga lari, lompat, dan lempar",
+        "fr": "sports de course, saut et lancer",
+        "ar": "رياضات الجري والقفز والرمي",
+        "tr": "koşma, atlama ve atma sporları",
+        "it": "sport di corsa, salto e lancio",
+        "pl": "sporty biegania, skakania i rzucania"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The sports of running jumping and throwing"
+          "en": "The sports of running jumping and throwing",
+          "ko": "달리기, 점프, 던지기 스포츠",
+          "zh-Hans": "跑步、跳跃和投掷运动",
+          "ja": "走る・跳ぶ・投げるスポーツ",
+          "es": "deportes de correr, saltar y lanzar",
+          "hi": "दौड़ना, कूदना और फेंकना खेल",
+          "de": "Sportarten wie Laufen, Springen und Werfen",
+          "vi": "môn chạy, nhảy và ném",
+          "pt-BR": "esportes de correr, saltar e arremessar",
+          "id": "olahraga lari, lompat, dan lempar",
+          "fr": "sports de course, saut et lancer",
+          "ar": "رياضات الجري والقفز والرمي",
+          "tr": "koşma, atlama ve atma sporları",
+          "it": "sport di corsa, salto e lancio",
+          "pl": "sporty biegania, skakania i rzucania"
         },
         "example": {
           "en": "Budapest in Hungary hosted the first ever World Athletics Ultimate Championship from the eleventh to the thirteenth of September."
@@ -44,14 +100,42 @@
     {
       "id": "hurdles",
       "en": "hurdles",
-      "ko": "Races in which runners jump over barriers",
+      "ko": "장애물을 뛰어넘는 경주",
       "l1": {
-        "en": "Races in which runners jump over barriers"
+        "en": "Races in which runners jump over barriers",
+        "ko": "장애물을 뛰어넘는 경주",
+        "zh-Hans": "跨越障碍物的赛跑",
+        "ja": "障害物を跳び越える競走",
+        "es": "carreras donde se saltan vallas",
+        "hi": "बाधाओं को कूदने वाली दौड़",
+        "de": "Rennen, bei denen Hindernisse übersprungen werden",
+        "vi": "cuộc đua nhảy qua rào chắn",
+        "pt-BR": "corridas em que se saltam barreiras",
+        "id": "lomba lari melompati rintangan",
+        "fr": "courses où l'on saute des haies",
+        "ar": "سباقات القفز فوق الحواجز",
+        "tr": "engellerin üzerinden atlanan yarışlar",
+        "it": "gare in cui si saltano gli ostacoli",
+        "pl": "wyścigi ze skakaniem przez płotki"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Races in which runners jump over barriers"
+          "en": "Races in which runners jump over barriers",
+          "ko": "장애물을 뛰어넘는 경주",
+          "zh-Hans": "跨越障碍物的赛跑",
+          "ja": "障害物を跳び越える競走",
+          "es": "carreras donde se saltan vallas",
+          "hi": "बाधाओं को कूदने वाली दौड़",
+          "de": "Rennen, bei denen Hindernisse übersprungen werden",
+          "vi": "cuộc đua nhảy qua rào chắn",
+          "pt-BR": "corridas em que se saltam barreiras",
+          "id": "lomba lari melompati rintangan",
+          "fr": "courses où l'on saute des haies",
+          "ar": "سباقات القفز فوق الحواجز",
+          "tr": "engellerin üzerinden atlanan yarışlar",
+          "it": "gare in cui si saltano gli ostacoli",
+          "pl": "wyścigi ze skakaniem przez płotki"
         },
         "example": {
           "en": "The short hurdles races produced two close finishes."
@@ -62,14 +146,42 @@
     {
       "id": "vault",
       "en": "vault",
-      "ko": "The act of jumping over something using a pole or your hands",
+      "ko": "장대나 손으로 뛰어넘는 동작",
       "l1": {
-        "en": "The act of jumping over something using a pole or your hands"
+        "en": "The act of jumping over something using a pole or your hands",
+        "ko": "장대나 손으로 뛰어넘는 동작",
+        "zh-Hans": "用杆或手跳过的动作",
+        "ja": "棒や手を使って跳び越えること",
+        "es": "salto sobre algo con pértiga o manos",
+        "hi": "खंभे या हाथों से कूदने की क्रिया",
+        "de": "Sprung über etwas mit Stange oder Händen",
+        "vi": "động tác nhảy qua bằng sào hoặc tay",
+        "pt-BR": "ato de saltar com vara ou mãos",
+        "id": "lompatan melewati dengan tongkat atau tangan",
+        "fr": "action de sauter avec perche ou mains",
+        "ar": "القفز فوق شيء بعصا أو باليدين",
+        "tr": "sırık veya elle atlama hareketi",
+        "it": "salto oltre qualcosa con asta o mani",
+        "pl": "skok przez coś przy użyciu tyczki lub rąk"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "The act of jumping over something using a pole or your hands"
+          "en": "The act of jumping over something using a pole or your hands",
+          "ko": "장대나 손으로 뛰어넘는 동작",
+          "zh-Hans": "用杆或手跳过的动作",
+          "ja": "棒や手を使って跳び越えること",
+          "es": "salto sobre algo con pértiga o manos",
+          "hi": "खंभे या हाथों से कूदने की क्रिया",
+          "de": "Sprung über etwas mit Stange oder Händen",
+          "vi": "động tác nhảy qua bằng sào hoặc tay",
+          "pt-BR": "ato de saltar com vara ou mãos",
+          "id": "lompatan melewati dengan tongkat atau tangan",
+          "fr": "action de sauter avec perche ou mains",
+          "ar": "القفز فوق شيء بعصا أو باليدين",
+          "tr": "sırık veya elle atlama hareketi",
+          "it": "salto oltre qualcosa con asta o mani",
+          "pl": "skok przez coś przy użyciu tyczki lub rąk"
         },
         "example": {
           "en": "Sweden's Armand Duplantis, known to fans as Mondo, won the men's pole vault by clearing six point two metres, ahead of Greek rival Emmanouil Karalis."
@@ -80,14 +192,42 @@
     {
       "id": "sprint",
       "en": "sprint",
-      "ko": "A short race run at top speed",
+      "ko": "전력으로 달리는 짧은 경주",
       "l1": {
-        "en": "A short race run at top speed"
+        "en": "A short race run at top speed",
+        "ko": "전력으로 달리는 짧은 경주",
+        "zh-Hans": "全速短跑比赛",
+        "ja": "全力で走る短距離競走",
+        "es": "carrera corta a máxima velocidad",
+        "hi": "पूरी गति से दौड़ी जाने वाली छोटी दौड़",
+        "de": "Kurzstreckenrennen mit Höchstgeschwindigkeit",
+        "vi": "cuộc đua ngắn chạy hết tốc lực",
+        "pt-BR": "corrida curta em velocidade máxima",
+        "id": "lomba lari cepat jarak pendek",
+        "fr": "course courte à toute vitesse",
+        "ar": "سباق قصير بأقصى سرعة",
+        "tr": "son süratle koşulan kısa yarış",
+        "it": "corsa breve alla massima velocità",
+        "pl": "krótki bieg z maksymalną prędkością"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A short race run at top speed"
+          "en": "A short race run at top speed",
+          "ko": "전력으로 달리는 짧은 경주",
+          "zh-Hans": "全速短跑比赛",
+          "ja": "全力で走る短距離競走",
+          "es": "carrera corta a máxima velocidad",
+          "hi": "पूरी गति से दौड़ी जाने वाली छोटी दौड़",
+          "de": "Kurzstreckenrennen mit Höchstgeschwindigkeit",
+          "vi": "cuộc đua ngắn chạy hết tốc lực",
+          "pt-BR": "corrida curta em velocidade máxima",
+          "id": "lomba lari cepat jarak pendek",
+          "fr": "course courte à toute vitesse",
+          "ar": "سباق قصير بأقصى سرعة",
+          "tr": "son süratle koşulan kısa yarış",
+          "it": "corsa breve alla massima velocità",
+          "pl": "krótki bieg z maksymalną prędkością"
         },
         "example": {
           "en": "American Melissa Jefferson-Wooden ran ten point six two seconds to win the women's one hundred metres, and her teammate Kenny Bednarek took the men's sprint in an upset."
@@ -98,14 +238,42 @@
     {
       "id": "medal",
       "en": "medal",
-      "ko": "A metal award given to top competitors",
+      "ko": "우승자에게 주는 금속 상장",
       "l1": {
-        "en": "A metal award given to top competitors"
+        "en": "A metal award given to top competitors",
+        "ko": "우승자에게 주는 금속 상장",
+        "zh-Hans": "颁发给优胜者的金属奖章",
+        "ja": "優秀な競技者に与えられる金属製の賞",
+        "es": "premio metálico para los mejores competidores",
+        "hi": "शीर्ष प्रतियोगियों को दिया जाने वाला धातु पदक",
+        "de": "Metallauszeichnung für Spitzenkonkurrenten",
+        "vi": "huy chương kim loại cho người thắng cuộc",
+        "pt-BR": "medalha de metal para os melhores competidores",
+        "id": "medali logam untuk juara",
+        "fr": "médaille métallique pour les meilleurs compétiteurs",
+        "ar": "ميدالية معدنية تُمنح للمتنافسين الأوائل",
+        "tr": "en iyi yarışmacılara verilen metal madalya",
+        "it": "medaglia di metallo per i migliori concorrenti",
+        "pl": "metalowy medal dla najlepszych zawodników"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A metal award given to top competitors"
+          "en": "A metal award given to top competitors",
+          "ko": "우승자에게 주는 금속 상장",
+          "zh-Hans": "颁发给优胜者的金属奖章",
+          "ja": "優秀な競技者に与えられる金属製の賞",
+          "es": "premio metálico para los mejores competidores",
+          "hi": "शीर्ष प्रतियोगियों को दिया जाने वाला धातु पदक",
+          "de": "Metallauszeichnung für Spitzenkonkurrenten",
+          "vi": "huy chương kim loại cho người thắng cuộc",
+          "pt-BR": "medalha de metal para os melhores competidores",
+          "id": "medali logam untuk juara",
+          "fr": "médaille métallique pour les meilleurs compétiteurs",
+          "ar": "ميدالية معدنية تُمنح للمتنافسين الأوائل",
+          "tr": "en iyi yarışmacılara verilen metal madalya",
+          "it": "medaglia di metallo per i migliori concorrenti",
+          "pl": "metalowy medal dla najlepszych zawodników"
         },
         "example": {
           "en": "Budapest in Hungary hosted the first ever World Athletics Ultimate Championship from the eleventh to the thirteenth of September."
@@ -116,14 +284,42 @@
     {
       "id": "prize",
       "en": "prize",
-      "ko": "Something valuable given to a winner",
+      "ko": "우승자에게 주는 값진 것",
       "l1": {
-        "en": "Something valuable given to a winner"
+        "en": "Something valuable given to a winner",
+        "ko": "우승자에게 주는 값진 것",
+        "zh-Hans": "给获胜者的有价值的东西",
+        "ja": "勝者に与えられる価値あるもの",
+        "es": "algo valioso que se da al ganador",
+        "hi": "विजेता को दी जाने वाली मूल्यवान वस्तु",
+        "de": "etwas Wertvolles für den Gewinner",
+        "vi": "thứ có giá trị trao cho người thắng",
+        "pt-BR": "algo valioso dado ao vencedor",
+        "id": "sesuatu berharga untuk pemenang",
+        "fr": "chose de valeur donnée au gagnant",
+        "ar": "شيء ثمين يُمنح للفائز",
+        "tr": "kazanana verilen değerli şey",
+        "it": "qualcosa di prezioso dato al vincitore",
+        "pl": "coś cennego dla zwycięzcy"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Something valuable given to a winner"
+          "en": "Something valuable given to a winner",
+          "ko": "우승자에게 주는 값진 것",
+          "zh-Hans": "给获胜者的有价值的东西",
+          "ja": "勝者に与えられる価値あるもの",
+          "es": "algo valioso que se da al ganador",
+          "hi": "विजेता को दी जाने वाली मूल्यवान वस्तु",
+          "de": "etwas Wertvolles für den Gewinner",
+          "vi": "thứ có giá trị trao cho người thắng",
+          "pt-BR": "algo valioso dado ao vencedor",
+          "id": "sesuatu berharga untuk pemenang",
+          "fr": "chose de valeur donnée au gagnant",
+          "ar": "شيء ثمين يُمنح للفائز",
+          "tr": "kazanana verilen değerli şey",
+          "it": "qualcosa di prezioso dato al vincitore",
+          "pl": "coś cennego dla zwycięzcy"
         },
         "example": {
           "en": "Organizers offered a record ten million dollars in prize money across twenty-eight disciplines, and every event winner received one hundred and fifty thousand dollars."
@@ -134,14 +330,42 @@
     {
       "id": "record",
       "en": "record",
-      "ko": "The best result ever achieved in a sport",
+      "ko": "스포츠에서 달성한 최고 기록",
       "l1": {
-        "en": "The best result ever achieved in a sport"
+        "en": "The best result ever achieved in a sport",
+        "ko": "스포츠에서 달성한 최고 기록",
+        "zh-Hans": "体育中取得的最佳成绩",
+        "ja": "スポーツで達成された最高記録",
+        "es": "mejor resultado logrado en un deporte",
+        "hi": "खेल में अब तक का सर्वश्रेष्ठ परिणाम",
+        "de": "beste je erreichte Sportleistung",
+        "vi": "thành tích tốt nhất trong thể thao",
+        "pt-BR": "melhor resultado já alcançado no esporte",
+        "id": "hasil terbaik dalam olahraga",
+        "fr": "meilleur résultat jamais atteint en sport",
+        "ar": "أفضل نتيجة تحققت في الرياضة",
+        "tr": "sporda ulaşılan en iyi sonuç",
+        "it": "miglior risultato mai ottenuto nello sport",
+        "pl": "najlepszy wynik w historii sportu"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The best result ever achieved in a sport"
+          "en": "The best result ever achieved in a sport",
+          "ko": "스포츠에서 달성한 최고 기록",
+          "zh-Hans": "体育中取得的最佳成绩",
+          "ja": "スポーツで達成された最高記録",
+          "es": "mejor resultado logrado en un deporte",
+          "hi": "खेल में अब तक का सर्वश्रेष्ठ परिणाम",
+          "de": "beste je erreichte Sportleistung",
+          "vi": "thành tích tốt nhất trong thể thao",
+          "pt-BR": "melhor resultado já alcançado no esporte",
+          "id": "hasil terbaik dalam olahraga",
+          "fr": "meilleur résultat jamais atteint en sport",
+          "ar": "أفضل نتيجة تحققت في الرياضة",
+          "tr": "sporda ulaşılan en iyi sonuç",
+          "it": "miglior risultato mai ottenuto nello sport",
+          "pl": "najlepszy wynik w historii sportu"
         },
         "example": {
           "en": "Organizers offered a record ten million dollars in prize money across twenty-eight disciplines, and every event winner received one hundred and fifty thousand dollars."
@@ -152,14 +376,42 @@
     {
       "id": "injury",
       "en": "injury",
-      "ko": "Physical harm to the body",
+      "ko": "신체에 가해진 상해",
       "l1": {
-        "en": "Physical harm to the body"
+        "en": "Physical harm to the body",
+        "ko": "신체에 가해진 상해",
+        "zh-Hans": "身体受到的伤害",
+        "ja": "体に受ける損傷",
+        "es": "daño físico al cuerpo",
+        "hi": "शरीर को शारीरिक नुकसान",
+        "de": "körperlicher Schaden am Körper",
+        "vi": "tổn thương thể chất",
+        "pt-BR": "dano físico ao corpo",
+        "id": "kerusakan fisik pada tubuh",
+        "fr": "dommage physique au corps",
+        "ar": "ضرر جسدي بالجسم",
+        "tr": "bedende fiziksel hasar",
+        "it": "danno fisico al corpo",
+        "pl": "uszkodzenie ciała"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Physical harm to the body"
+          "en": "Physical harm to the body",
+          "ko": "신체에 가해진 상해",
+          "zh-Hans": "身体受到的伤害",
+          "ja": "体に受ける損傷",
+          "es": "daño físico al cuerpo",
+          "hi": "शरीर को शारीरिक नुकसान",
+          "de": "körperlicher Schaden am Körper",
+          "vi": "tổn thương thể chất",
+          "pt-BR": "dano físico ao corpo",
+          "id": "kerusakan fisik pada tubuh",
+          "fr": "dommage physique au corps",
+          "ar": "ضرر جسدي بالجسم",
+          "tr": "bedende fiziksel hasar",
+          "it": "danno fisico al corpo",
+          "pl": "uszkodzenie ciała"
         },
         "example": {
           "en": "Budapest in Hungary hosted the first ever World Athletics Ultimate Championship from the eleventh to the thirteenth of September."
@@ -170,14 +422,42 @@
     {
       "id": "stadium",
       "en": "stadium",
-      "ko": "A large sports ground with seats for spectators",
+      "ko": "관중석이 있는 큰 운동장",
       "l1": {
-        "en": "A large sports ground with seats for spectators"
+        "en": "A large sports ground with seats for spectators",
+        "ko": "관중석이 있는 큰 운동장",
+        "zh-Hans": "有观众席的大型运动场",
+        "ja": "観客席のある大きな競技場",
+        "es": "gran recinto deportivo con asientos para espectadores",
+        "hi": "दर्शकों के लिए सीटों वाला बड़ा खेल मैदान",
+        "de": "großer Sportplatz mit Sitzplätzen für Zuschauer",
+        "vi": "sân vận động lớn có chỗ ngồi cho khán giả",
+        "pt-BR": "grande estádio com assentos para espectadores",
+        "id": "stadion besar dengan kursi penonton",
+        "fr": "grand stade avec places pour spectateurs",
+        "ar": "ملعب كبير بمقاعد للمتفرجين",
+        "tr": "seyirciler için koltuklu büyük stadyum",
+        "it": "grande stadio con posti per spettatori",
+        "pl": "duży stadion z miejscami dla widzów"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A large sports ground with seats for spectators"
+          "en": "A large sports ground with seats for spectators",
+          "ko": "관중석이 있는 큰 운동장",
+          "zh-Hans": "有观众席的大型运动场",
+          "ja": "観客席のある大きな競技場",
+          "es": "gran recinto deportivo con asientos para espectadores",
+          "hi": "दर्शकों के लिए सीटों वाला बड़ा खेल मैदान",
+          "de": "großer Sportplatz mit Sitzplätzen für Zuschauer",
+          "vi": "sân vận động lớn có chỗ ngồi cho khán giả",
+          "pt-BR": "grande estádio com assentos para espectadores",
+          "id": "stadion besar dengan kursi penonton",
+          "fr": "grand stade avec places pour spectateurs",
+          "ar": "ملعب كبير بمقاعد للمتفرجين",
+          "tr": "seyirciler için koltuklu büyük stadyum",
+          "it": "grande stadio con posti per spettatori",
+          "pl": "duży stadion z miejscami dla widzów"
         },
         "example": {
           "en": "Budapest in Hungary hosted the first ever World Athletics Ultimate Championship from the eleventh to the thirteenth of September."

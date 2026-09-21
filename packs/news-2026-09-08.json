@@ -8,14 +8,42 @@
     {
       "id": "economy",
       "en": "economy",
-      "ko": "The system of money",
+      "ko": "돈의 체계",
       "l1": {
-        "en": "The system of money"
+        "en": "The system of money",
+        "ko": "돈의 체계",
+        "zh-Hans": "货币体系",
+        "ja": "お金の仕組み",
+        "es": "sistema de dinero",
+        "hi": "धन की व्यवस्था",
+        "de": "System des Geldes",
+        "vi": "hệ thống tiền tệ",
+        "pt-BR": "sistema de dinheiro",
+        "id": "sistem uang",
+        "fr": "système monétaire",
+        "ar": "نظام المال",
+        "tr": "para sistemi",
+        "it": "sistema del denaro",
+        "pl": "system pieniądza"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The system of money"
+          "en": "The system of money",
+          "ko": "돈의 체계",
+          "zh-Hans": "货币体系",
+          "ja": "お金の仕組み",
+          "es": "sistema de dinero",
+          "hi": "धन की व्यवस्था",
+          "de": "System des Geldes",
+          "vi": "hệ thống tiền tệ",
+          "pt-BR": "sistema de dinheiro",
+          "id": "sistem uang",
+          "fr": "système monétaire",
+          "ar": "نظام المال",
+          "tr": "para sistemi",
+          "it": "sistema del denaro",
+          "pl": "system pieniądza"
         },
         "example": {
           "en": "Australia's economy grew faster than economists expected in the second quarter."
@@ -26,14 +54,42 @@
     {
       "id": "growth",
       "en": "growth",
-      "ko": "An increase in size",
+      "ko": "크기의 증가",
       "l1": {
-        "en": "An increase in size"
+        "en": "An increase in size",
+        "ko": "크기의 증가",
+        "zh-Hans": "尺寸的增加",
+        "ja": "大きさの増加",
+        "es": "aumento de tamaño",
+        "hi": "आकार में वृद्धि",
+        "de": "Zunahme der Größe",
+        "vi": "sự tăng kích thước",
+        "pt-BR": "aumento de tamanho",
+        "id": "pertambahan ukuran",
+        "fr": "augmentation de taille",
+        "ar": "زيادة في الحجم",
+        "tr": "boyut artışı",
+        "it": "aumento di dimensioni",
+        "pl": "wzrost rozmiaru"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "An increase in size"
+          "en": "An increase in size",
+          "ko": "크기의 증가",
+          "zh-Hans": "尺寸的增加",
+          "ja": "大きさの増加",
+          "es": "aumento de tamaño",
+          "hi": "आकार में वृद्धि",
+          "de": "Zunahme der Größe",
+          "vi": "sự tăng kích thước",
+          "pt-BR": "aumento de tamanho",
+          "id": "pertambahan ukuran",
+          "fr": "augmentation de taille",
+          "ar": "زيادة في الحجم",
+          "tr": "boyut artışı",
+          "it": "aumento di dimensioni",
+          "pl": "wzrost rozmiaru"
         },
         "example": {
           "en": "At its August meeting, some board members had already argued for additional rate increases because price growth was still too high."
@@ -44,14 +100,42 @@
     {
       "id": "inflation",
       "en": "inflation",
-      "ko": "A general rise in prices over time",
+      "ko": "시간이 지나면서 물가가 전반적으로 오르는 현상",
       "l1": {
-        "en": "A general rise in prices over time"
+        "en": "A general rise in prices over time",
+        "ko": "시간이 지나면서 물가가 전반적으로 오르는 현상",
+        "zh-Hans": "物价总体持续上涨",
+        "ja": "物価が全体的に上がり続けること",
+        "es": "aumento general de los precios con el tiempo",
+        "hi": "समय के साथ कीमतों में सामान्य वृद्धि",
+        "de": "allgemeiner Anstieg der Preise über die Zeit",
+        "vi": "giá cả chung tăng theo thời gian",
+        "pt-BR": "aumento geral dos preços ao longo do tempo",
+        "id": "kenaikan harga secara umum seiring waktu",
+        "fr": "hausse générale des prix dans le temps",
+        "ar": "ارتفاع عام في الأسعار مع الوقت",
+        "tr": "fiyatların zamanla genel olarak artması",
+        "it": "aumento generale dei prezzi nel tempo",
+        "pl": "ogólny wzrost cen w czasie"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A general rise in prices over time"
+          "en": "A general rise in prices over time",
+          "ko": "시간이 지나면서 물가가 전반적으로 오르는 현상",
+          "zh-Hans": "物价总体持续上涨",
+          "ja": "物価が全体的に上がり続けること",
+          "es": "aumento general de los precios con el tiempo",
+          "hi": "समय के साथ कीमतों में सामान्य वृद्धि",
+          "de": "allgemeiner Anstieg der Preise über die Zeit",
+          "vi": "giá cả chung tăng theo thời gian",
+          "pt-BR": "aumento geral dos preços ao longo do tempo",
+          "id": "kenaikan harga secara umum seiring waktu",
+          "fr": "hausse générale des prix dans le temps",
+          "ar": "ارتفاع عام في الأسعار مع الوقت",
+          "tr": "fiyatların zamanla genel olarak artması",
+          "it": "aumento generale dei prezzi nel tempo",
+          "pl": "ogólny wzrost cen w czasie"
         },
         "example": {
           "en": "The stronger print gives the Reserve Bank of Australia more room to tighten policy as it fights inflation."
@@ -62,14 +146,42 @@
     {
       "id": "household",
       "en": "household",
-      "ko": "A home and the people who live there",
+      "ko": "집과 그곳에 사는 사람들",
       "l1": {
-        "en": "A home and the people who live there"
+        "en": "A home and the people who live there",
+        "ko": "집과 그곳에 사는 사람들",
+        "zh-Hans": "家以及住在那里的人",
+        "ja": "家とそこに住む人々",
+        "es": "casa y las personas que viven allí",
+        "hi": "घर और वहाँ रहने वाले लोग",
+        "de": "Haushalt: Zuhause und dort lebende Personen",
+        "vi": "nhà và những người sống ở đó",
+        "pt-BR": "casa e as pessoas que moram nela",
+        "id": "rumah dan orang yang tinggal di sana",
+        "fr": "foyer : logement et personnes qui y vivent",
+        "ar": "المنزل والأشخاص الذين يعيشون فيه",
+        "tr": "ev ve orada yaşayan kişiler",
+        "it": "casa e le persone che vi abitano",
+        "pl": "dom i mieszkające w nim osoby"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A home and the people who live there"
+          "en": "A home and the people who live there",
+          "ko": "집과 그곳에 사는 사람들",
+          "zh-Hans": "家以及住在那里的人",
+          "ja": "家とそこに住む人々",
+          "es": "casa y las personas que viven allí",
+          "hi": "घर और वहाँ रहने वाले लोग",
+          "de": "Haushalt: Zuhause und dort lebende Personen",
+          "vi": "nhà và những người sống ở đó",
+          "pt-BR": "casa e as pessoas que moram nela",
+          "id": "rumah dan orang yang tinggal di sana",
+          "fr": "foyer : logement et personnes qui y vivent",
+          "ar": "المنزل والأشخاص الذين يعيشون فيه",
+          "tr": "ev ve orada yaşayan kişiler",
+          "it": "casa e le persone che vi abitano",
+          "pl": "dom i mieszkające w nim osoby"
         },
         "example": {
           "en": "Australia's economy grew faster than economists expected in the second quarter."
@@ -80,14 +192,42 @@
     {
       "id": "export",
       "en": "export",
-      "ko": "A product sold to another country",
+      "ko": "다른 나라에 파는 상품",
       "l1": {
-        "en": "A product sold to another country"
+        "en": "A product sold to another country",
+        "ko": "다른 나라에 파는 상품",
+        "zh-Hans": "卖到另一国家的产品",
+        "ja": "他国へ売る商品",
+        "es": "producto vendido a otro país",
+        "hi": "दूसरे देश को बेचा गया उत्पाद",
+        "de": "ein in ein anderes Land verkauftes Produkt",
+        "vi": "sản phẩm bán sang nước khác",
+        "pt-BR": "produto vendido para outro país",
+        "id": "produk yang dijual ke negara lain",
+        "fr": "produit vendu à un autre pays",
+        "ar": "منتج يُباع إلى بلد آخر",
+        "tr": "başka bir ülkeye satılan ürün",
+        "it": "prodotto venduto a un altro paese",
+        "pl": "produkt sprzedawany do innego kraju"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A product sold to another country"
+          "en": "A product sold to another country",
+          "ko": "다른 나라에 파는 상품",
+          "zh-Hans": "卖到另一国家的产品",
+          "ja": "他国へ売る商品",
+          "es": "producto vendido a otro país",
+          "hi": "दूसरे देश को बेचा गया उत्पाद",
+          "de": "ein in ein anderes Land verkauftes Produkt",
+          "vi": "sản phẩm bán sang nước khác",
+          "pt-BR": "produto vendido para outro país",
+          "id": "produk yang dijual ke negara lain",
+          "fr": "produit vendu à un autre pays",
+          "ar": "منتج يُباع إلى بلد آخر",
+          "tr": "başka bir ülkeye satılan ürün",
+          "it": "prodotto venduto a un altro paese",
+          "pl": "produkt sprzedawany do innego kraju"
         },
         "example": {
           "en": "Australia's economy grew faster than economists expected in the second quarter."
@@ -98,14 +238,42 @@
     {
       "id": "mining",
       "en": "mining",
-      "ko": "The business of digging valuable materials from the earth",
+      "ko": "땅에서 귀중한 자원을 캐는 산업",
       "l1": {
-        "en": "The business of digging valuable materials from the earth"
+        "en": "The business of digging valuable materials from the earth",
+        "ko": "땅에서 귀중한 자원을 캐는 산업",
+        "zh-Hans": "从地下开采有价值材料的行业",
+        "ja": "地中から有用な資源を掘る産業",
+        "es": "industria de extraer materiales valiosos de la tierra",
+        "hi": "धरती से मूल्यवान सामग्री निकालने का व्यवसाय",
+        "de": "Gewerbe, wertvolle Stoffe aus der Erde zu graben",
+        "vi": "ngành khai thác vật liệu quý từ lòng đất",
+        "pt-BR": "atividade de extrair materiais valiosos da terra",
+        "id": "usaha menggali bahan berharga dari bumi",
+        "fr": "activité d’extraire des matériaux précieux du sol",
+        "ar": "مهنة استخراج مواد ثمينة من الأرض",
+        "tr": "değerli maddeleri yerden çıkarma işi",
+        "it": "attività di estrarre materiali preziosi dal suolo",
+        "pl": "wydobywanie cennych materiałów z ziemi"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The business of digging valuable materials from the earth"
+          "en": "The business of digging valuable materials from the earth",
+          "ko": "땅에서 귀중한 자원을 캐는 산업",
+          "zh-Hans": "从地下开采有价值材料的行业",
+          "ja": "地中から有用な資源を掘る産業",
+          "es": "industria de extraer materiales valiosos de la tierra",
+          "hi": "धरती से मूल्यवान सामग्री निकालने का व्यवसाय",
+          "de": "Gewerbe, wertvolle Stoffe aus der Erde zu graben",
+          "vi": "ngành khai thác vật liệu quý từ lòng đất",
+          "pt-BR": "atividade de extrair materiais valiosos da terra",
+          "id": "usaha menggali bahan berharga dari bumi",
+          "fr": "activité d’extraire des matériaux précieux du sol",
+          "ar": "مهنة استخراج مواد ثمينة من الأرض",
+          "tr": "değerli maddeleri yerden çıkarma işi",
+          "it": "attività di estrarre materiali preziosi dal suolo",
+          "pl": "wydobywanie cennych materiałów z ziemi"
         },
         "example": {
           "en": "The Australian Bureau of Statistics said private demand and mining exports helped drive the modest quarterly gain."
@@ -116,14 +284,42 @@
     {
       "id": "forecast",
       "en": "forecast",
-      "ko": "A prediction about future numbers or events",
+      "ko": "미래의 수치나 사건에 대한 예측",
       "l1": {
-        "en": "A prediction about future numbers or events"
+        "en": "A prediction about future numbers or events",
+        "ko": "미래의 수치나 사건에 대한 예측",
+        "zh-Hans": "对未来数字或事件的预测",
+        "ja": "将来の数値や出来事の予測",
+        "es": "predicción sobre cifras o eventos futuros",
+        "hi": "भविष्य के आंकड़ों या घटनाओं की भविष्यवाणी",
+        "de": "Vorhersage über künftige Zahlen oder Ereignisse",
+        "vi": "dự đoán về số liệu hoặc sự kiện tương lai",
+        "pt-BR": "previsão sobre números ou eventos futuros",
+        "id": "prediksi tentang angka atau peristiwa mendatang",
+        "fr": "prévision de chiffres ou d’événements futurs",
+        "ar": "توقع لأرقام أو أحداث مستقبلية",
+        "tr": "gelecekteki sayı veya olaylara dair tahmin",
+        "it": "previsione su numeri o eventi futuri",
+        "pl": "prognoza przyszłych liczb lub zdarzeń"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A prediction about future numbers or events"
+          "en": "A prediction about future numbers or events",
+          "ko": "미래의 수치나 사건에 대한 예측",
+          "zh-Hans": "对未来数字或事件的预测",
+          "ja": "将来の数値や出来事の予測",
+          "es": "predicción sobre cifras o eventos futuros",
+          "hi": "भविष्य के आंकड़ों या घटनाओं की भविष्यवाणी",
+          "de": "Vorhersage über künftige Zahlen oder Ereignisse",
+          "vi": "dự đoán về số liệu hoặc sự kiện tương lai",
+          "pt-BR": "previsão sobre números ou eventos futuros",
+          "id": "prediksi tentang angka atau peristiwa mendatang",
+          "fr": "prévision de chiffres ou d’événements futurs",
+          "ar": "توقع لأرقام أو أحداث مستقبلية",
+          "tr": "gelecekteki sayı veya olaylara dair tahmin",
+          "it": "previsione su numeri o eventi futuri",
+          "pl": "prognoza przyszłych liczb lub zdarzeń"
         },
         "example": {
           "en": "CNBC says gross domestic product rose two point one percent from a year earlier, beating the one point eight percent forecast."
@@ -134,14 +330,42 @@
     {
       "id": "demand",
       "en": "demand",
-      "ko": "How much people want to buy something",
+      "ko": "사람들이 어떤 것을 사고 싶어 하는 정도",
       "l1": {
-        "en": "How much people want to buy something"
+        "en": "How much people want to buy something",
+        "ko": "사람들이 어떤 것을 사고 싶어 하는 정도",
+        "zh-Hans": "人们想购买某物的程度",
+        "ja": "人々が何かを買いたい度合い",
+        "es": "cuánto quiere comprar la gente algo",
+        "hi": "लोग किसी चीज़ को कितना खरीदना चाहते हैं",
+        "de": "wie sehr Menschen etwas kaufen wollen",
+        "vi": "mức độ người ta muốn mua thứ gì đó",
+        "pt-BR": "quanto as pessoas querem comprar algo",
+        "id": "seberapa besar orang ingin membeli sesuatu",
+        "fr": "combien les gens veulent acheter quelque chose",
+        "ar": "مقدار رغبة الناس في شراء شيء ما",
+        "tr": "insanların bir şeyi alma isteği düzeyi",
+        "it": "quanto la gente vuole comprare qualcosa",
+        "pl": "jak bardzo ludzie chcą coś kupić"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "How much people want to buy something"
+          "en": "How much people want to buy something",
+          "ko": "사람들이 어떤 것을 사고 싶어 하는 정도",
+          "zh-Hans": "人们想购买某物的程度",
+          "ja": "人々が何かを買いたい度合い",
+          "es": "cuánto quiere comprar la gente algo",
+          "hi": "लोग किसी चीज़ को कितना खरीदना चाहते हैं",
+          "de": "wie sehr Menschen etwas kaufen wollen",
+          "vi": "mức độ người ta muốn mua thứ gì đó",
+          "pt-BR": "quanto as pessoas querem comprar algo",
+          "id": "seberapa besar orang ingin membeli sesuatu",
+          "fr": "combien les gens veulent acheter quelque chose",
+          "ar": "مقدار رغبة الناس في شراء شيء ما",
+          "tr": "insanların bir şeyi alma isteği düzeyi",
+          "it": "quanto la gente vuole comprare qualcosa",
+          "pl": "jak bardzo ludzie chcą coś kupić"
         },
         "example": {
           "en": "The Australian Bureau of Statistics said private demand and mining exports helped drive the modest quarterly gain."
@@ -152,14 +376,42 @@
     {
       "id": "spending",
       "en": "spending",
-      "ko": "Money used to pay for goods and services",
+      "ko": "상품과 서비스에 지불하는 돈",
       "l1": {
-        "en": "Money used to pay for goods and services"
+        "en": "Money used to pay for goods and services",
+        "ko": "상품과 서비스에 지불하는 돈",
+        "zh-Hans": "用于购买商品和服务的钱",
+        "ja": "商品やサービスに払うお金",
+        "es": "dinero usado para bienes y servicios",
+        "hi": "वस्तुओं और सेवाओं पर खर्च किया गया धन",
+        "de": "Geld für Waren und Dienstleistungen",
+        "vi": "tiền dùng để mua hàng hóa và dịch vụ",
+        "pt-BR": "dinheiro usado em bens e serviços",
+        "id": "uang yang dipakai untuk barang dan jasa",
+        "fr": "argent dépensé pour biens et services",
+        "ar": "المال المستخدم لشراء السلع والخدمات",
+        "tr": "mal ve hizmetlere harcanan para",
+        "it": "denaro speso per beni e servizi",
+        "pl": "pieniądze wydane na towary i usługi"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Money used to pay for goods and services"
+          "en": "Money used to pay for goods and services",
+          "ko": "상품과 서비스에 지불하는 돈",
+          "zh-Hans": "用于购买商品和服务的钱",
+          "ja": "商品やサービスに払うお金",
+          "es": "dinero usado para bienes y servicios",
+          "hi": "वस्तुओं और सेवाओं पर खर्च किया गया धन",
+          "de": "Geld für Waren und Dienstleistungen",
+          "vi": "tiền dùng để mua hàng hóa và dịch vụ",
+          "pt-BR": "dinheiro usado em bens e serviços",
+          "id": "uang yang dipakai untuk barang dan jasa",
+          "fr": "argent dépensé pour biens et services",
+          "ar": "المال المستخدم لشراء السلع والخدمات",
+          "tr": "mal ve hizmetlere harcanan para",
+          "it": "denaro speso per beni e servizi",
+          "pl": "pieniądze wydane na towary i usługi"
         },
         "example": {
           "en": "Consumer spending rose only zero point four percent as families trimmed fuel use because of higher prices linked to Middle East conflict tensions."
@@ -170,14 +422,42 @@
     {
       "id": "reserve",
       "en": "reserve",
-      "ko": "Money or policy tools kept back for future use",
+      "ko": "나중을 위해 남겨 둔 돈이나 정책 수단",
       "l1": {
-        "en": "Money or policy tools kept back for future use"
+        "en": "Money or policy tools kept back for future use",
+        "ko": "나중을 위해 남겨 둔 돈이나 정책 수단",
+        "zh-Hans": "为将来保留的资金或政策工具",
+        "ja": "将来のために取っておく資金や政策手段",
+        "es": "dinero o herramientas de política guardados para el futuro",
+        "hi": "भविष्य के लिए रखा गया धन या नीति साधन",
+        "de": "für später zurückgelegtes Geld oder Politikmittel",
+        "vi": "tiền hoặc công cụ chính sách để dành cho tương lai",
+        "pt-BR": "dinheiro ou instrumentos de política guardados para o futuro",
+        "id": "uang atau alat kebijakan yang disimpan untuk masa depan",
+        "fr": "argent ou outils de politique gardés pour l’avenir",
+        "ar": "مال أو أدوات سياسة تُحفظ للاستخدام المستقبلي",
+        "tr": "gelecek için ayrılan para veya politika araçları",
+        "it": "denaro o strumenti di politica tenuti per il futuro",
+        "pl": "pieniądze lub narzędzia polityki zachowane na przyszłość"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Money or policy tools kept back for future use"
+          "en": "Money or policy tools kept back for future use",
+          "ko": "나중을 위해 남겨 둔 돈이나 정책 수단",
+          "zh-Hans": "为将来保留的资金或政策工具",
+          "ja": "将来のために取っておく資金や政策手段",
+          "es": "dinero o herramientas de política guardados para el futuro",
+          "hi": "भविष्य के लिए रखा गया धन या नीति साधन",
+          "de": "für später zurückgelegtes Geld oder Politikmittel",
+          "vi": "tiền hoặc công cụ chính sách để dành cho tương lai",
+          "pt-BR": "dinheiro ou instrumentos de política guardados para o futuro",
+          "id": "uang atau alat kebijakan yang disimpan untuk masa depan",
+          "fr": "argent ou outils de politique gardés pour l’avenir",
+          "ar": "مال أو أدوات سياسة تُحفظ للاستخدام المستقبلي",
+          "tr": "gelecek için ayrılan para veya politika araçları",
+          "it": "denaro o strumenti di politica tenuti per il futuro",
+          "pl": "pieniądze lub narzędzia polityki zachowane na przyszłość"
         },
         "example": {
           "en": "The stronger print gives the Reserve Bank of Australia more room to tighten policy as it fights inflation."

@@ -15,14 +15,42 @@
       "id": "species",
       "en": "species",
       "pos": "noun",
-      "ko": "A group of living things that can have young together and are different from other groups.",
+      "ko": "함께 새끼를 낳을 수 있는 생물 그룹",
       "l1": {
-        "en": "A group of living things that can have young together and are different from other groups."
+        "en": "A group of living things that can have young together and are different from other groups.",
+        "ko": "함께 새끼를 낳을 수 있는 생물 그룹",
+        "zh-Hans": "能共同生育后代的生物群体",
+        "ja": "一緒に子孫を残せる生物のグループ",
+        "es": "grupo de seres vivos que pueden reproducirse juntos",
+        "hi": "जीवों का समूह जो साथ में संतान उत्पन्न कर सकते हैं",
+        "de": "Gruppe von Lebewesen, die sich gemeinsam fortpflanzen können",
+        "vi": "nhóm sinh vật có thể sinh sản cùng nhau",
+        "pt-BR": "grupo de seres vivos que podem se reproduzir juntos",
+        "id": "kelompok makhluk hidup yang dapat berkembang biak bersama",
+        "fr": "groupe d'êtres vivants pouvant se reproduire ensemble",
+        "ar": "مجموعة من الكائنات الحية تتكاثر معًا",
+        "tr": "birlikte üreyebilen canlı grubu",
+        "it": "gruppo di esseri viventi che possono riprodursi insieme",
+        "pl": "grupa organizmów mogących się razem rozmnażać"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A group of living things that can have young together and are different from other groups."
+          "en": "A group of living things that can have young together and are different from other groups.",
+          "ko": "함께 새끼를 낳을 수 있는 생물 그룹",
+          "zh-Hans": "能共同生育后代的生物群体",
+          "ja": "一緒に子孫を残せる生物のグループ",
+          "es": "grupo de seres vivos que pueden reproducirse juntos",
+          "hi": "जीवों का समूह जो साथ में संतान उत्पन्न कर सकते हैं",
+          "de": "Gruppe von Lebewesen, die sich gemeinsam fortpflanzen können",
+          "vi": "nhóm sinh vật có thể sinh sản cùng nhau",
+          "pt-BR": "grupo de seres vivos que podem se reproduzir juntos",
+          "id": "kelompok makhluk hidup yang dapat berkembang biak bersama",
+          "fr": "groupe d'êtres vivants pouvant se reproduire ensemble",
+          "ar": "مجموعة من الكائنات الحية تتكاثر معًا",
+          "tr": "birlikte üreyebilen canlı grubu",
+          "it": "gruppo di esseri viventi che possono riprodursi insieme",
+          "pl": "grupa organizmów mogących się razem rozmnażać"
         },
         "example": {
           "en": ""
@@ -34,14 +62,42 @@
       "id": "feline",
       "en": "feline",
       "pos": "noun",
-      "ko": "Relating to cats or a member of the cat family.",
+      "ko": "고양이과에 속하는, 고양이와 관련된",
       "l1": {
-        "en": "Relating to cats or a member of the cat family."
+        "en": "Relating to cats or a member of the cat family.",
+        "ko": "고양이과에 속하는, 고양이와 관련된",
+        "zh-Hans": "猫科的，与猫有关的",
+        "ja": "ネコ科の、猫に関する",
+        "es": "felino, relacionado con los gatos",
+        "hi": "बिल्ली से संबंधित, बिल्ली परिवार का",
+        "de": "katzenartig, zur Katzenfamilie gehörend",
+        "vi": "thuộc họ mèo, liên quan đến mèo",
+        "pt-BR": "felino, relacionado a gatos",
+        "id": "berkaitan dengan kucing, anggota keluarga kucing",
+        "fr": "félin, relatif aux chats",
+        "ar": "متعلق بالقطط، من فصيلة القطط",
+        "tr": "kedigillerden, kediyle ilgili",
+        "it": "felino, relativo ai gatti",
+        "pl": "koci, należący do rodziny kotów"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Relating to cats or a member of the cat family."
+          "en": "Relating to cats or a member of the cat family.",
+          "ko": "고양이과에 속하는, 고양이와 관련된",
+          "zh-Hans": "猫科的，与猫有关的",
+          "ja": "ネコ科の、猫に関する",
+          "es": "felino, relacionado con los gatos",
+          "hi": "बिल्ली से संबंधित, बिल्ली परिवार का",
+          "de": "katzenartig, zur Katzenfamilie gehörend",
+          "vi": "thuộc họ mèo, liên quan đến mèo",
+          "pt-BR": "felino, relacionado a gatos",
+          "id": "berkaitan dengan kucing, anggota keluarga kucing",
+          "fr": "félin, relatif aux chats",
+          "ar": "متعلق بالقطط، من فصيلة القطط",
+          "tr": "kedigillerden, kediyle ilgili",
+          "it": "felino, relativo ai gatti",
+          "pl": "koci, należący do rodziny kotów"
         },
         "example": {
           "en": ""
@@ -53,14 +109,42 @@
       "id": "habitat",
       "en": "habitat",
       "pos": "noun",
-      "ko": "The natural home of an animal or plant.",
+      "ko": "동물이나 식물의 자연 서식지",
       "l1": {
-        "en": "The natural home of an animal or plant."
+        "en": "The natural home of an animal or plant.",
+        "ko": "동물이나 식물의 자연 서식지",
+        "zh-Hans": "动物或植物的自然栖息地",
+        "ja": "動物や植物の自然の生息地",
+        "es": "hábitat natural de un animal o planta",
+        "hi": "किसी जीव या पौधे का प्राकृतिक आवास",
+        "de": "natürlicher Lebensraum eines Tieres oder einer Pflanze",
+        "vi": "môi trường sống tự nhiên của động vật hoặc thực vật",
+        "pt-BR": "habitat natural de um animal ou planta",
+        "id": "habitat alami hewan atau tumbuhan",
+        "fr": "habitat naturel d'un animal ou d'une plante",
+        "ar": "الموطن الطبيعي لحيوان أو نبات",
+        "tr": "bir hayvan veya bitkinin doğal yaşam alanı",
+        "it": "habitat naturale di un animale o pianta",
+        "pl": "naturalne środowisko zwierzęcia lub rośliny"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The natural home of an animal or plant."
+          "en": "The natural home of an animal or plant.",
+          "ko": "동물이나 식물의 자연 서식지",
+          "zh-Hans": "动物或植物的自然栖息地",
+          "ja": "動物や植物の自然の生息地",
+          "es": "hábitat natural de un animal o planta",
+          "hi": "किसी जीव या पौधे का प्राकृतिक आवास",
+          "de": "natürlicher Lebensraum eines Tieres oder einer Pflanze",
+          "vi": "môi trường sống tự nhiên của động vật hoặc thực vật",
+          "pt-BR": "habitat natural de um animal ou planta",
+          "id": "habitat alami hewan atau tumbuhan",
+          "fr": "habitat naturel d'un animal ou d'une plante",
+          "ar": "الموطن الطبيعي لحيوان أو نبات",
+          "tr": "bir hayvan veya bitkinin doğal yaşam alanı",
+          "it": "habitat naturale di un animale o pianta",
+          "pl": "naturalne środowisko zwierzęcia lub rośliny"
         },
         "example": {
           "en": ""
@@ -72,14 +156,42 @@
       "id": "genetic",
       "en": "genetic",
       "pos": "noun",
-      "ko": "Relating to the D N A that parents pass to their children.",
+      "ko": "부모가 자녀에게 물려주는 DNA와 관련된",
       "l1": {
-        "en": "Relating to the D N A that parents pass to their children."
+        "en": "Relating to the D N A that parents pass to their children.",
+        "ko": "부모가 자녀에게 물려주는 DNA와 관련된",
+        "zh-Hans": "与父母传给子女的DNA有关",
+        "ja": "親から子に伝わるDNAに関する",
+        "es": "relacionado con el ADN que los padres transmiten",
+        "hi": "माता-पिता से मिलने वाले डीएनए से संबंधित",
+        "de": "die DNA betreffend, die Eltern weitergeben",
+        "vi": "liên quan đến DNA cha mẹ truyền cho con",
+        "pt-BR": "relacionado ao DNA transmitido pelos pais",
+        "id": "berkaitan dengan DNA yang diwariskan orang tua",
+        "fr": "relatif à l'ADN transmis par les parents",
+        "ar": "متعلق بالحمض النووي الذي يورثه الآباء",
+        "tr": "ebeveynlerin aktardığı DNA ile ilgili",
+        "it": "relativo al DNA trasmesso dai genitori",
+        "pl": "dotyczący DNA przekazywanego przez rodziców"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Relating to the D N A that parents pass to their children."
+          "en": "Relating to the D N A that parents pass to their children.",
+          "ko": "부모가 자녀에게 물려주는 DNA와 관련된",
+          "zh-Hans": "与父母传给子女的DNA有关",
+          "ja": "親から子に伝わるDNAに関する",
+          "es": "relacionado con el ADN que los padres transmiten",
+          "hi": "माता-पिता से मिलने वाले डीएनए से संबंधित",
+          "de": "die DNA betreffend, die Eltern weitergeben",
+          "vi": "liên quan đến DNA cha mẹ truyền cho con",
+          "pt-BR": "relacionado ao DNA transmitido pelos pais",
+          "id": "berkaitan dengan DNA yang diwariskan orang tua",
+          "fr": "relatif à l'ADN transmis par les parents",
+          "ar": "متعلق بالحمض النووي الذي يورثه الآباء",
+          "tr": "ebeveynlerin aktardığı DNA ile ilgili",
+          "it": "relativo al DNA trasmesso dai genitori",
+          "pl": "dotyczący DNA przekazywanego przez rodziców"
         },
         "example": {
           "en": ""
@@ -91,14 +203,42 @@
       "id": "rosette",
       "en": "rosette",
       "pos": "noun",
-      "ko": "A round marking shaped like a rose on the skin or fur of an animal.",
+      "ko": "동물의 피부나 털에 있는 장미 모양의 둥근 무늬",
       "l1": {
-        "en": "A round marking shaped like a rose on the skin or fur of an animal."
+        "en": "A round marking shaped like a rose on the skin or fur of an animal.",
+        "ko": "동물의 피부나 털에 있는 장미 모양의 둥근 무늬",
+        "zh-Hans": "动物皮肤或皮毛上玫瑰形的圆形斑纹",
+        "ja": "動物の皮膚や毛にあるバラ形の丸い模様",
+        "es": "marca redonda en forma de rosa en la piel o pelaje",
+        "hi": "जानवर की त्वचा या फर पर गुलाब जैसा गोल निशान",
+        "de": "rosenförmige runde Markierung auf Haut oder Fell",
+        "vi": "đốm tròn hình hoa hồng trên da hoặc lông động vật",
+        "pt-BR": "marca redonda em forma de rosa na pele ou pelo",
+        "id": "tanda bulat berbentuk mawar pada kulit atau bulu",
+        "fr": "marque ronde en forme de rose sur la peau ou le pelage",
+        "ar": "علامة مستديرة كالوردة على جلد أو فرو الحيوان",
+        "tr": "hayvan derisinde veya kürkünde gül şeklinde yuvarlak leke",
+        "it": "marchio rotondo a forma di rosa su pelle o pelo",
+        "pl": "okrągły znak w kształcie róży na skórze lub futrze"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A round marking shaped like a rose on the skin or fur of an animal."
+          "en": "A round marking shaped like a rose on the skin or fur of an animal.",
+          "ko": "동물의 피부나 털에 있는 장미 모양의 둥근 무늬",
+          "zh-Hans": "动物皮肤或皮毛上玫瑰形的圆形斑纹",
+          "ja": "動物の皮膚や毛にあるバラ形の丸い模様",
+          "es": "marca redonda en forma de rosa en la piel o pelaje",
+          "hi": "जानवर की त्वचा या फर पर गुलाब जैसा गोल निशान",
+          "de": "rosenförmige runde Markierung auf Haut oder Fell",
+          "vi": "đốm tròn hình hoa hồng trên da hoặc lông động vật",
+          "pt-BR": "marca redonda em forma de rosa na pele ou pelo",
+          "id": "tanda bulat berbentuk mawar pada kulit atau bulu",
+          "fr": "marque ronde en forme de rose sur la peau ou le pelage",
+          "ar": "علامة مستديرة كالوردة على جلد أو فرو الحيوان",
+          "tr": "hayvan derisinde veya kürkünde gül şeklinde yuvarlak leke",
+          "it": "marchio rotondo a forma di rosa su pelle o pelo",
+          "pl": "okrągły znak w kształcie róży na skórze lub futrze"
         },
         "example": {
           "en": ""
@@ -110,14 +250,42 @@
       "id": "sanctuary",
       "en": "sanctuary",
       "pos": "noun",
-      "ko": "A safe place where wild animals are protected and cared for.",
+      "ko": "야생 동물을 보호하고 돌보는 안전한 장소",
       "l1": {
-        "en": "A safe place where wild animals are protected and cared for."
+        "en": "A safe place where wild animals are protected and cared for.",
+        "ko": "야생 동물을 보호하고 돌보는 안전한 장소",
+        "zh-Hans": "保护并照顾野生动物的安全场所",
+        "ja": "野生動物を保護し世話をする安全な場所",
+        "es": "lugar seguro donde se protegen animales salvajes",
+        "hi": "जंगली जानवरों की सुरक्षा का सुरक्षित स्थान",
+        "de": "sicherer Ort, an dem Wildtiere geschützt werden",
+        "vi": "nơi an toàn bảo vệ và chăm sóc động vật hoang dã",
+        "pt-BR": "local seguro que protege e cuida de animais selvagens",
+        "id": "tempat aman yang melindungi satwa liar",
+        "fr": "lieu sûr où les animaux sauvages sont protégés",
+        "ar": "مكان آمن لحماية ورعاية الحيوانات البرية",
+        "tr": "yabani hayvanların korunduğu güvenli yer",
+        "it": "luogo sicuro dove si proteggono animali selvatici",
+        "pl": "bezpieczne miejsce ochrony dzikich zwierząt"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A safe place where wild animals are protected and cared for."
+          "en": "A safe place where wild animals are protected and cared for.",
+          "ko": "야생 동물을 보호하고 돌보는 안전한 장소",
+          "zh-Hans": "保护并照顾野生动物的安全场所",
+          "ja": "野生動物を保護し世話をする安全な場所",
+          "es": "lugar seguro donde se protegen animales salvajes",
+          "hi": "जंगली जानवरों की सुरक्षा का सुरक्षित स्थान",
+          "de": "sicherer Ort, an dem Wildtiere geschützt werden",
+          "vi": "nơi an toàn bảo vệ và chăm sóc động vật hoang dã",
+          "pt-BR": "local seguro que protege e cuida de animais selvagens",
+          "id": "tempat aman yang melindungi satwa liar",
+          "fr": "lieu sûr où les animaux sauvages sont protégés",
+          "ar": "مكان آمن لحماية ورعاية الحيوانات البرية",
+          "tr": "yabani hayvanların korunduğu güvenli yer",
+          "it": "luogo sicuro dove si proteggono animali selvatici",
+          "pl": "bezpieczne miejsce ochrony dzikich zwierząt"
         },
         "example": {
           "en": ""
@@ -129,14 +297,42 @@
       "id": "lineage",
       "en": "lineage",
       "pos": "noun",
-      "ko": "A line of related living things going back through time.",
+      "ko": "시간을 거슬러 이어지는 혈통이나 계보",
       "l1": {
-        "en": "A line of related living things going back through time."
+        "en": "A line of related living things going back through time.",
+        "ko": "시간을 거슬러 이어지는 혈통이나 계보",
+        "zh-Hans": "追溯时间的血统或世系",
+        "ja": "時間をさかのぼる血統や系統",
+        "es": "linaje de seres relacionados a través del tiempo",
+        "hi": "समय में पीछे जाती संबंधित वंशावली",
+        "de": "Abstammungslinie verwandter Lebewesen über die Zeit",
+        "vi": "dòng dõi các sinh vật liên quan qua thời gian",
+        "pt-BR": "linhagem de seres relacionados ao longo do tempo",
+        "id": "garis keturunan makhluk terkait sepanjang waktu",
+        "fr": "lignée d'êtres apparentés à travers le temps",
+        "ar": "سلالة من الكائنات المترابطة عبر الزمن",
+        "tr": "zaman içinde uzanan soy hattı",
+        "it": "lignaggio di esseri imparentati nel tempo",
+        "pl": "linia spokrewnionych istot w czasie"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A line of related living things going back through time."
+          "en": "A line of related living things going back through time.",
+          "ko": "시간을 거슬러 이어지는 혈통이나 계보",
+          "zh-Hans": "追溯时间的血统或世系",
+          "ja": "時間をさかのぼる血統や系統",
+          "es": "linaje de seres relacionados a través del tiempo",
+          "hi": "समय में पीछे जाती संबंधित वंशावली",
+          "de": "Abstammungslinie verwandter Lebewesen über die Zeit",
+          "vi": "dòng dõi các sinh vật liên quan qua thời gian",
+          "pt-BR": "linhagem de seres relacionados ao longo do tempo",
+          "id": "garis keturunan makhluk terkait sepanjang waktu",
+          "fr": "lignée d'êtres apparentés à travers le temps",
+          "ar": "سلالة من الكائنات المترابطة عبر الزمن",
+          "tr": "zaman içinde uzanan soy hattı",
+          "it": "lignaggio di esseri imparentati nel tempo",
+          "pl": "linia spokrewnionych istot w czasie"
         },
         "example": {
           "en": ""
@@ -148,14 +344,42 @@
       "id": "conservation",
       "en": "conservation",
       "pos": "noun",
-      "ko": "Careful protection of nature and animals and plants.",
+      "ko": "자연과 동식물을 소중히 보호함",
       "l1": {
-        "en": "Careful protection of nature and animals and plants."
+        "en": "Careful protection of nature and animals and plants.",
+        "ko": "자연과 동식물을 소중히 보호함",
+        "zh-Hans": "对自然和动植物的精心保护",
+        "ja": "自然や動植物を大切に保護すること",
+        "es": "protección cuidadosa de la naturaleza y seres vivos",
+        "hi": "प्रकृति और जीव-जंतुओं की सावधानीपूर्वक सुरक्षा",
+        "de": "sorgfältiger Schutz von Natur und Lebewesen",
+        "vi": "bảo vệ cẩn thận thiên nhiên và sinh vật",
+        "pt-BR": "proteção cuidadosa da natureza e dos seres vivos",
+        "id": "perlindungan cermat alam dan makhluk hidup",
+        "fr": "protection soigneuse de la nature et des êtres vivants",
+        "ar": "حماية دقيقة للطبيعة والكائنات الحية",
+        "tr": "doğanın ve canlıların dikkatli korunması",
+        "it": "protezione accurata della natura e degli esseri viventi",
+        "pl": "staranna ochrona przyrody i organizmów"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Careful protection of nature and animals and plants."
+          "en": "Careful protection of nature and animals and plants.",
+          "ko": "자연과 동식물을 소중히 보호함",
+          "zh-Hans": "对自然和动植物的精心保护",
+          "ja": "自然や動植物を大切に保護すること",
+          "es": "protección cuidadosa de la naturaleza y seres vivos",
+          "hi": "प्रकृति और जीव-जंतुओं की सावधानीपूर्वक सुरक्षा",
+          "de": "sorgfältiger Schutz von Natur und Lebewesen",
+          "vi": "bảo vệ cẩn thận thiên nhiên và sinh vật",
+          "pt-BR": "proteção cuidadosa da natureza e dos seres vivos",
+          "id": "perlindungan cermat alam dan makhluk hidup",
+          "fr": "protection soigneuse de la nature et des êtres vivants",
+          "ar": "حماية دقيقة للطبيعة والكائنات الحية",
+          "tr": "doğanın ve canlıların dikkatli korunması",
+          "it": "protezione accurata della natura e degli esseri viventi",
+          "pl": "staranna ochrona przyrody i organizmów"
         },
         "example": {
           "en": ""
@@ -167,14 +391,42 @@
       "id": "extinction",
       "en": "extinction",
       "pos": "noun",
-      "ko": "The complete disappearance of a kind of animal or plant from the Earth.",
+      "ko": "동식물 종의 완전한 멸종",
       "l1": {
-        "en": "The complete disappearance of a kind of animal or plant from the Earth."
+        "en": "The complete disappearance of a kind of animal or plant from the Earth.",
+        "ko": "동식물 종의 완전한 멸종",
+        "zh-Hans": "动植物物种完全消失",
+        "ja": "動植物種の完全な絶滅",
+        "es": "desaparición total de una especie",
+        "hi": "प्रजाति का पूर्ण विलुप्त होना",
+        "de": "vollständiges Aussterben einer Art",
+        "vi": "sự tuyệt chủng hoàn toàn của loài",
+        "pt-BR": "desaparecimento total de uma espécie",
+        "id": "kepunahan total suatu spesies",
+        "fr": "disparition totale d'une espèce",
+        "ar": "الانقراض الكامل لنوع ما",
+        "tr": "bir türün tamamen yok olması",
+        "it": "estinzione completa di una specie",
+        "pl": "całkowite wymarcie gatunku"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The complete disappearance of a kind of animal or plant from the Earth."
+          "en": "The complete disappearance of a kind of animal or plant from the Earth.",
+          "ko": "동식물 종의 완전한 멸종",
+          "zh-Hans": "动植物物种完全消失",
+          "ja": "動植物種の完全な絶滅",
+          "es": "desaparición total de una especie",
+          "hi": "प्रजाति का पूर्ण विलुप्त होना",
+          "de": "vollständiges Aussterben einer Art",
+          "vi": "sự tuyệt chủng hoàn toàn của loài",
+          "pt-BR": "desaparecimento total de uma espécie",
+          "id": "kepunahan total suatu spesies",
+          "fr": "disparition totale d'une espèce",
+          "ar": "الانقراض الكامل لنوع ما",
+          "tr": "bir türün tamamen yok olması",
+          "it": "estinzione completa di una specie",
+          "pl": "całkowite wymarcie gatunku"
         },
         "example": {
           "en": ""
@@ -186,14 +438,42 @@
       "id": "deforestation",
       "en": "deforestation",
       "pos": "noun",
-      "ko": "The cutting down of large areas of forest.",
+      "ko": "대규모 삼림 벌채",
       "l1": {
-        "en": "The cutting down of large areas of forest."
+        "en": "The cutting down of large areas of forest.",
+        "ko": "대규모 삼림 벌채",
+        "zh-Hans": "大面积砍伐森林",
+        "ja": "大規模な森林伐採",
+        "es": "tala de grandes áreas de bosque",
+        "hi": "वनों की बड़े पैमाने पर कटाई",
+        "de": "Abholzung großer Waldflächen",
+        "vi": "chặt phá rừng quy mô lớn",
+        "pt-BR": "desmatamento de grandes áreas",
+        "id": "penebangan hutan besar-besaran",
+        "fr": "déforestation de vastes zones",
+        "ar": "إزالة الغابات على نطاق واسع",
+        "tr": "geniş ormanların yok edilmesi",
+        "it": "disboscamento di vaste aree",
+        "pl": "wycinanie dużych obszarów lasów"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The cutting down of large areas of forest."
+          "en": "The cutting down of large areas of forest.",
+          "ko": "대규모 삼림 벌채",
+          "zh-Hans": "大面积砍伐森林",
+          "ja": "大規模な森林伐採",
+          "es": "tala de grandes áreas de bosque",
+          "hi": "वनों की बड़े पैमाने पर कटाई",
+          "de": "Abholzung großer Waldflächen",
+          "vi": "chặt phá rừng quy mô lớn",
+          "pt-BR": "desmatamento de grandes áreas",
+          "id": "penebangan hutan besar-besaran",
+          "fr": "déforestation de vastes zones",
+          "ar": "إزالة الغابات على نطاق واسع",
+          "tr": "geniş ormanların yok edilmesi",
+          "it": "disboscamento di vaste aree",
+          "pl": "wycinanie dużych obszarów lasów"
         },
         "example": {
           "en": ""

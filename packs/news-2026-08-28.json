@@ -8,14 +8,42 @@
     {
       "id": "narwhal",
       "en": "narwhal",
-      "ko": "A medium whale of the Arctic with a long spiral tusk",
+      "ko": "긴 나선형 엄니를 가진 북극의 중형 고래",
       "l1": {
-        "en": "A medium whale of the Arctic with a long spiral tusk"
+        "en": "A medium whale of the Arctic with a long spiral tusk",
+        "ko": "긴 나선형 엄니를 가진 북극의 중형 고래",
+        "zh-Hans": "一种北极的中型鲸，有长螺旋形的长牙",
+        "ja": "長い螺旋状の牙を持つ北極の中型のクジラ",
+        "es": "ballena mediana del Ártico con un largo colmillo en espiral",
+        "hi": "लंबे सर्पिल दांत वाली आर्कटिक की मध्यम आकार की व्हेल",
+        "de": "mittelgroßer Wal der Arktis mit langem spiralförmigem Stoßzahn",
+        "vi": "cá voi trung bình ở Bắc Cực có ngà xoắn dài",
+        "pt-BR": "baleia média do Ártico com uma longa presa em espiral",
+        "id": "paus sedang Arktik dengan gading spiral panjang",
+        "fr": "baleine moyenne de l'Arctique avec une longue défense en spirale",
+        "ar": "حوت متوسط في القطب الشمالي له ناب حلزوني طويل",
+        "tr": "Arktik'te yaşayan, uzun sarmal dişli orta boy balina",
+        "it": "balena media dell'Artico con una lunga zanna a spirale",
+        "pl": "średniej wielkości wieloryb arktyczny z długim spiralnym kłem"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A medium whale of the Arctic with a long spiral tusk"
+          "en": "A medium whale of the Arctic with a long spiral tusk",
+          "ko": "긴 나선형 엄니를 가진 북극의 중형 고래",
+          "zh-Hans": "一种北极的中型鲸，有长螺旋形的长牙",
+          "ja": "長い螺旋状の牙を持つ北極の中型のクジラ",
+          "es": "ballena mediana del Ártico con un largo colmillo en espiral",
+          "hi": "लंबे सर्पिल दांत वाली आर्कटिक की मध्यम आकार की व्हेल",
+          "de": "mittelgroßer Wal der Arktis mit langem spiralförmigem Stoßzahn",
+          "vi": "cá voi trung bình ở Bắc Cực có ngà xoắn dài",
+          "pt-BR": "baleia média do Ártico com uma longa presa em espiral",
+          "id": "paus sedang Arktik dengan gading spiral panjang",
+          "fr": "baleine moyenne de l'Arctique avec une longue défense en spirale",
+          "ar": "حوت متوسط في القطب الشمالي له ناب حلزوني طويل",
+          "tr": "Arktik'te yaşayan, uzun sarmal dişli orta boy balina",
+          "it": "balena media dell'Artico con una lunga zanna a spirale",
+          "pl": "średniej wielkości wieloryb arktyczny z długim spiralnym kłem"
         },
         "example": {
           "en": "In the Middle Ages, narwhal tusks were sold as unicorn horns."
@@ -26,14 +54,42 @@
     {
       "id": "tusk",
       "en": "tusk",
-      "ko": "A long pointed tooth that grows outside the mouth of some animals",
+      "ko": "일부 동물의 입 밖으로 자라는 길고 뾰족한 이빨",
       "l1": {
-        "en": "A long pointed tooth that grows outside the mouth of some animals"
+        "en": "A long pointed tooth that grows outside the mouth of some animals",
+        "ko": "일부 동물의 입 밖으로 자라는 길고 뾰족한 이빨",
+        "zh-Hans": "某些动物嘴外生长的长而尖的牙齿",
+        "ja": "一部の動物の口の外に伸びる長く尖った歯",
+        "es": "diente largo y puntiagudo que crece fuera de la boca de algunos animales",
+        "hi": "कुछ जानवरों के मुंह से बाहर निकलने वाला लंबा नुकीला दांत",
+        "de": "langer spitzer Zahn, der außerhalb des Mundes mancher Tiere wächst",
+        "vi": "răng dài nhọn mọc ra ngoài miệng của một số động vật",
+        "pt-BR": "dente longo e pontudo que cresce fora da boca de alguns animais",
+        "id": "gigi panjang runcing yang tumbuh di luar mulut beberapa hewan",
+        "fr": "longue dent pointue qui pousse hors de la bouche de certains animaux",
+        "ar": "سن طويل مدبب ينمو خارج فم بعض الحيوانات",
+        "tr": "bazı hayvanların ağzının dışına çıkan uzun sivri diş",
+        "it": "dente lungo e appuntito che cresce fuori dalla bocca di alcuni animali",
+        "pl": "długi spiczasty ząb rosnący poza pyskiem niektórych zwierząt"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A long pointed tooth that grows outside the mouth of some animals"
+          "en": "A long pointed tooth that grows outside the mouth of some animals",
+          "ko": "일부 동물의 입 밖으로 자라는 길고 뾰족한 이빨",
+          "zh-Hans": "某些动物嘴外生长的长而尖的牙齿",
+          "ja": "一部の動物の口の外に伸びる長く尖った歯",
+          "es": "diente largo y puntiagudo que crece fuera de la boca de algunos animales",
+          "hi": "कुछ जानवरों के मुंह से बाहर निकलने वाला लंबा नुकीला दांत",
+          "de": "langer spitzer Zahn, der außerhalb des Mundes mancher Tiere wächst",
+          "vi": "răng dài nhọn mọc ra ngoài miệng của một số động vật",
+          "pt-BR": "dente longo e pontudo que cresce fora da boca de alguns animais",
+          "id": "gigi panjang runcing yang tumbuh di luar mulut beberapa hewan",
+          "fr": "longue dent pointue qui pousse hors de la bouche de certains animaux",
+          "ar": "سن طويل مدبب ينمو خارج فم بعض الحيوانات",
+          "tr": "bazı hayvanların ağzının dışına çıkan uzun sivri diş",
+          "it": "dente lungo e appuntito che cresce fuori dalla bocca di alcuni animali",
+          "pl": "długi spiczasty ząb rosnący poza pyskiem niektórych zwierząt"
         },
         "example": {
           "en": "A narwhal tusk is not a horn."
@@ -44,14 +100,42 @@
     {
       "id": "unicorn",
       "en": "unicorn",
-      "ko": "A mythical horse with a single horn on its forehead",
+      "ko": "이마에 뿔이 하나 있는 신화 속 말",
       "l1": {
-        "en": "A mythical horse with a single horn on its forehead"
+        "en": "A mythical horse with a single horn on its forehead",
+        "ko": "이마에 뿔이 하나 있는 신화 속 말",
+        "zh-Hans": "额头上有一只角的 mythical 马",
+        "ja": "額に一本の角を持つ神話の馬",
+        "es": "caballo mítico con un solo cuerno en la frente",
+        "hi": "माथे पर एक सींग वाला पौराणिक घोड़ा",
+        "de": "mythisches Pferd mit einem einzelnen Horn auf der Stirn",
+        "vi": "ngựa thần thoại có một sừng trên trán",
+        "pt-BR": "cavalo mítico com um único chifre na testa",
+        "id": "kuda mitos dengan satu tanduk di dahi",
+        "fr": "cheval mythique avec une seule corne sur le front",
+        "ar": "حصان أسطوري له قرن واحد على جبهته",
+        "tr": "alnında tek boynuz olan efsanevi at",
+        "it": "cavallo mitico con un solo corno sulla fronte",
+        "pl": "mityczny koń z jednym rogiem na czole"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A mythical horse with a single horn on its forehead"
+          "en": "A mythical horse with a single horn on its forehead",
+          "ko": "이마에 뿔이 하나 있는 신화 속 말",
+          "zh-Hans": "额头上有一只角的 mythical 马",
+          "ja": "額に一本の角を持つ神話の馬",
+          "es": "caballo mítico con un solo cuerno en la frente",
+          "hi": "माथे पर एक सींग वाला पौराणिक घोड़ा",
+          "de": "mythisches Pferd mit einem einzelnen Horn auf der Stirn",
+          "vi": "ngựa thần thoại có một sừng trên trán",
+          "pt-BR": "cavalo mítico com um único chifre na testa",
+          "id": "kuda mitos dengan satu tanduk di dahi",
+          "fr": "cheval mythique avec une seule corne sur le front",
+          "ar": "حصان أسطوري له قرن واحد على جبهته",
+          "tr": "alnında tek boynuz olan efsanevi at",
+          "it": "cavallo mitico con un solo corno sulla fronte",
+          "pl": "mityczny koń z jednym rogiem na czole"
         },
         "example": {
           "en": "In the Middle Ages, narwhal tusks were sold as unicorn horns."
@@ -62,14 +146,42 @@
     {
       "id": "dentine",
       "en": "dentine",
-      "ko": "The hard inner tissue of a tooth below the enamel",
+      "ko": "에나멜 아래에 있는 단단한 치아 내부 조직",
       "l1": {
-        "en": "The hard inner tissue of a tooth below the enamel"
+        "en": "The hard inner tissue of a tooth below the enamel",
+        "ko": "에나멜 아래에 있는 단단한 치아 내부 조직",
+        "zh-Hans": "牙釉质下方的坚硬牙齿内部组织",
+        "ja": "エナメル質の下にある硬い歯の内部組織",
+        "es": "tejido interno duro del diente debajo del esmalte",
+        "hi": "इनेमल के नीचे दांत का कठोर आंतरिक ऊतक",
+        "de": "hartes inneres Zahngewebe unter dem Zahnschmelz",
+        "vi": "mô cứng bên trong răng nằm dưới men răng",
+        "pt-BR": "tecido interno duro do dente abaixo do esmalte",
+        "id": "jaringan keras bagian dalam gigi di bawah enamel",
+        "fr": "tissu interne dur de la dent sous l'émail",
+        "ar": "النسيج الداخلي الصلب للسن تحت المينا",
+        "tr": "dişin minesinin altındaki sert iç doku",
+        "it": "tessuto interno duro del dente sotto lo smalto",
+        "pl": "twarda wewnętrzna tkanka zęba pod szkliwem"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The hard inner tissue of a tooth below the enamel"
+          "en": "The hard inner tissue of a tooth below the enamel",
+          "ko": "에나멜 아래에 있는 단단한 치아 내부 조직",
+          "zh-Hans": "牙釉质下方的坚硬牙齿内部组织",
+          "ja": "エナメル質の下にある硬い歯の内部組織",
+          "es": "tejido interno duro del diente debajo del esmalte",
+          "hi": "इनेमल के नीचे दांत का कठोर आंतरिक ऊतक",
+          "de": "hartes inneres Zahngewebe unter dem Zahnschmelz",
+          "vi": "mô cứng bên trong răng nằm dưới men răng",
+          "pt-BR": "tecido interno duro do dente abaixo do esmalte",
+          "id": "jaringan keras bagian dalam gigi di bawah enamel",
+          "fr": "tissu interne dur de la dent sous l'émail",
+          "ar": "النسيج الداخلي الصلب للسن تحت المينا",
+          "tr": "dişin minesinin altındaki sert iç doku",
+          "it": "tessuto interno duro del dente sotto lo smalto",
+          "pl": "twarda wewnętrzna tkanka zęba pod szkliwem"
         },
         "example": {
           "en": "The inner tissue is dentine, and it shows a right-handed spiral."
@@ -80,14 +192,42 @@
     {
       "id": "cementum",
       "en": "cementum",
-      "ko": "The outer dental tissue that covers the root of a tooth",
+      "ko": "치아 뿌리를 덮는 바깥 치아 조직",
       "l1": {
-        "en": "The outer dental tissue that covers the root of a tooth"
+        "en": "The outer dental tissue that covers the root of a tooth",
+        "ko": "치아 뿌리를 덮는 바깥 치아 조직",
+        "zh-Hans": "覆盖牙根的外层牙齿组织",
+        "ja": "歯根を覆う外側の歯組織",
+        "es": "tejido dental externo que cubre la raíz del diente",
+        "hi": "दांत की जड़ को ढकने वाला बाहरी दंत ऊतक",
+        "de": "äußeres Zahngewebe, das die Zahnwurzel bedeckt",
+        "vi": "mô răng bên ngoài bao phủ chân răng",
+        "pt-BR": "tecido dentário externo que cobre a raiz do dente",
+        "id": "jaringan gigi luar yang menutupi akar gigi",
+        "fr": "tissu dentaire externe qui recouvre la racine de la dent",
+        "ar": "النسيج السني الخارجي الذي يغطي جذر السن",
+        "tr": "diş kökünü kaplayan dış diş dokusu",
+        "it": "tessuto dentale esterno che copre la radice del dente",
+        "pl": "zewnętrzna tkanka zęba pokrywająca korzeń"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The outer dental tissue that covers the root of a tooth"
+          "en": "The outer dental tissue that covers the root of a tooth",
+          "ko": "치아 뿌리를 덮는 바깥 치아 조직",
+          "zh-Hans": "覆盖牙根的外层牙齿组织",
+          "ja": "歯根を覆う外側の歯組織",
+          "es": "tejido dental externo que cubre la raíz del diente",
+          "hi": "दांत की जड़ को ढकने वाला बाहरी दंत ऊतक",
+          "de": "äußeres Zahngewebe, das die Zahnwurzel bedeckt",
+          "vi": "mô răng bên ngoài bao phủ chân răng",
+          "pt-BR": "tecido dentário externo que cobre a raiz do dente",
+          "id": "jaringan gigi luar yang menutupi akar gigi",
+          "fr": "tissu dentaire externe qui recouvre la racine de la dent",
+          "ar": "النسيج السني الخارجي الذي يغطي جذر السن",
+          "tr": "diş kökünü kaplayan dış diş dokusu",
+          "it": "tessuto dentale esterno che copre la radice del dente",
+          "pl": "zewnętrzna tkanka zęba pokrywająca korzeń"
         },
         "example": {
           "en": "The outer layer is a dental tissue called cementum, and it shows a left-handed spiral."
@@ -98,14 +238,42 @@
     {
       "id": "imaging",
       "en": "imaging",
-      "ko": "The process of making pictures of the inside of something",
+      "ko": "내부를 사진으로 찍는 과정",
       "l1": {
-        "en": "The process of making pictures of the inside of something"
+        "en": "The process of making pictures of the inside of something",
+        "ko": "내부를 사진으로 찍는 과정",
+        "zh-Hans": "拍摄内部图像的过程",
+        "ja": "内部の画像を作る過程",
+        "es": "proceso de obtener imágenes del interior de algo",
+        "hi": "किसी चीज़ के अंदरूनी हिस्से की तस्वीरें बनाने की प्रक्रिया",
+        "de": "Verfahren zur Erstellung von Bildern des Inneren",
+        "vi": "quá trình tạo hình ảnh bên trong của một vật",
+        "pt-BR": "processo de fazer imagens do interior de algo",
+        "id": "proses membuat gambar bagian dalam sesuatu",
+        "fr": "processus de création d'images de l'intérieur de quelque chose",
+        "ar": "عملية تكوين صور للجزء الداخلي لشيء ما",
+        "tr": "bir şeyin içinin görüntülerini oluşturma süreci",
+        "it": "processo di creazione di immagini dell'interno di qualcosa",
+        "pl": "proces tworzenia obrazów wnętrza czegoś"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "The process of making pictures of the inside of something"
+          "en": "The process of making pictures of the inside of something",
+          "ko": "내부를 사진으로 찍는 과정",
+          "zh-Hans": "拍摄内部图像的过程",
+          "ja": "内部の画像を作る過程",
+          "es": "proceso de obtener imágenes del interior de algo",
+          "hi": "किसी चीज़ के अंदरूनी हिस्से की तस्वीरें बनाने की प्रक्रिया",
+          "de": "Verfahren zur Erstellung von Bildern des Inneren",
+          "vi": "quá trình tạo hình ảnh bên trong của một vật",
+          "pt-BR": "processo de fazer imagens do interior de algo",
+          "id": "proses membuat gambar bagian dalam sesuatu",
+          "fr": "processus de création d'images de l'intérieur de quelque chose",
+          "ar": "عملية تكوين صور للجزء الداخلي لشيء ما",
+          "tr": "bir şeyin içinin görüntülerini oluşturma süreci",
+          "it": "processo di creazione di immagini dell'interno di qualcosa",
+          "pl": "proces tworzenia obrazów wnętrza czegoś"
         },
         "example": {
           "en": "Researchers used advanced three-dimensional X-ray imaging to look inside."
@@ -116,14 +284,42 @@
     {
       "id": "canine",
       "en": "canine",
-      "ko": "A long pointed tooth used for holding or tearing food",
+      "ko": "음식을 붙잡거나 찢는 데 쓰는 길고 뾰족한 이빨",
       "l1": {
-        "en": "A long pointed tooth used for holding or tearing food"
+        "en": "A long pointed tooth used for holding or tearing food",
+        "ko": "음식을 붙잡거나 찢는 데 쓰는 길고 뾰족한 이빨",
+        "zh-Hans": "用于固定或撕裂食物的长而尖的牙齿",
+        "ja": "食べ物を押さえたり引き裂いたりする長く尖った歯",
+        "es": "diente largo y puntiagudo para sujetar o desgarrar comida",
+        "hi": "भोजन को पकड़ने या चीरने के लिए लंबा नुकीला दांत",
+        "de": "langer spitzer Zahn zum Festhalten oder Zerreißen von Nahrung",
+        "vi": "răng dài nhọn dùng để giữ hoặc xé thức ăn",
+        "pt-BR": "dente longo e pontudo para segurar ou rasgar comida",
+        "id": "gigi panjang runcing untuk menahan atau merobek makanan",
+        "fr": "longue dent pointue pour tenir ou déchirer la nourriture",
+        "ar": "سن طويل مدبب يستخدم للإمساك بالطعام أو تمزيقه",
+        "tr": "yiyeceği tutmak veya parçalamak için uzun sivri diş",
+        "it": "dente lungo e appuntito per trattenere o strappare il cibo",
+        "pl": "długi spiczasty ząb do przytrzymywania lub rozrywania pokarmu"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A long pointed tooth used for holding or tearing food"
+          "en": "A long pointed tooth used for holding or tearing food",
+          "ko": "음식을 붙잡거나 찢는 데 쓰는 길고 뾰족한 이빨",
+          "zh-Hans": "用于固定或撕裂食物的长而尖的牙齿",
+          "ja": "食べ物を押さえたり引き裂いたりする長く尖った歯",
+          "es": "diente largo y puntiagudo para sujetar o desgarrar comida",
+          "hi": "भोजन को पकड़ने या चीरने के लिए लंबा नुकीला दांत",
+          "de": "langer spitzer Zahn zum Festhalten oder Zerreißen von Nahrung",
+          "vi": "răng dài nhọn dùng để giữ hoặc xé thức ăn",
+          "pt-BR": "dente longo e pontudo para segurar ou rasgar comida",
+          "id": "gigi panjang runcing untuk menahan atau merobek makanan",
+          "fr": "longue dent pointue pour tenir ou déchirer la nourriture",
+          "ar": "سن طويل مدبب يستخدم للإمساك بالطعام أو تمزيقه",
+          "tr": "yiyeceği tutmak veya parçalamak için uzun sivri diş",
+          "it": "dente lungo e appuntito per trattenere o strappare il cibo",
+          "pl": "długi spiczasty ząb do przytrzymywania lub rozrywania pokarmu"
         },
         "example": {
           "en": "It is a long, straight canine tooth that grows out of the whale's mouth."
@@ -134,14 +330,42 @@
     {
       "id": "arctic",
       "en": "arctic",
-      "ko": "The very cold northern region around the North Pole",
+      "ko": "북극 주변의 매우 추운 북쪽 지역",
       "l1": {
-        "en": "The very cold northern region around the North Pole"
+        "en": "The very cold northern region around the North Pole",
+        "ko": "북극 주변의 매우 추운 북쪽 지역",
+        "zh-Hans": "北极周围非常寒冷的北部地区",
+        "ja": "北極周辺の非常に寒い北部地域",
+        "es": "región norte muy fría alrededor del Polo Norte",
+        "hi": "उत्तरी ध्रुव के आसपास का बहुत ठंडा उत्तरी क्षेत्र",
+        "de": "sehr kalte nördliche Region um den Nordpol",
+        "vi": "vùng phía bắc rất lạnh quanh Bắc Cực",
+        "pt-BR": "região norte muito fria ao redor do Polo Norte",
+        "id": "wilayah utara yang sangat dingin di sekitar Kutub Utara",
+        "fr": "région nordique très froide autour du pôle Nord",
+        "ar": "المنطقة الشمالية شديدة البرودة حول القطب الشمالي",
+        "tr": "Kuzey Kutbu çevresindeki çok soğuk kuzey bölgesi",
+        "it": "regione settentrionale molto fredda intorno al Polo Nord",
+        "pl": "bardzo zimny region północny wokół bieguna północnego"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The very cold northern region around the North Pole"
+          "en": "The very cold northern region around the North Pole",
+          "ko": "북극 주변의 매우 추운 북쪽 지역",
+          "zh-Hans": "北极周围非常寒冷的北部地区",
+          "ja": "北極周辺の非常に寒い北部地域",
+          "es": "región norte muy fría alrededor del Polo Norte",
+          "hi": "उत्तरी ध्रुव के आसपास का बहुत ठंडा उत्तरी क्षेत्र",
+          "de": "sehr kalte nördliche Region um den Nordpol",
+          "vi": "vùng phía bắc rất lạnh quanh Bắc Cực",
+          "pt-BR": "região norte muito fria ao redor do Polo Norte",
+          "id": "wilayah utara yang sangat dingin di sekitar Kutub Utara",
+          "fr": "région nordique très froide autour du pôle Nord",
+          "ar": "المنطقة الشمالية شديدة البرودة حول القطب الشمالي",
+          "tr": "Kuzey Kutbu çevresindeki çok soğuk kuzey bölgesi",
+          "it": "regione settentrionale molto fredda intorno al Polo Nord",
+          "pl": "bardzo zimny region północny wokół bieguna północnego"
         },
         "example": {
           "en": "Narwhals live in the cold Arctic Ocean, mainly near Canada, Greenland, Norway, and Russia."
@@ -152,14 +376,42 @@
     {
       "id": "hierarchy",
       "en": "hierarchy",
-      "ko": "A system that ranks people or animals by importance or power",
+      "ko": "중요도나 권력에 따라 사람이나 동물을 순위로 나눈 체계",
       "l1": {
-        "en": "A system that ranks people or animals by importance or power"
+        "en": "A system that ranks people or animals by importance or power",
+        "ko": "중요도나 권력에 따라 사람이나 동물을 순위로 나눈 체계",
+        "zh-Hans": "按重要性或权力将人或动物分等级的系统",
+        "ja": "重要度や権力で人や動物を順位づけする仕組み",
+        "es": "sistema que clasifica a personas o animales por importancia o poder",
+        "hi": "महत्व या शक्ति के आधार पर लोगों या जानवरों को श्रेणीबद्ध करने वाली व्यवस्था",
+        "de": "System, das Menschen oder Tiere nach Wichtigkeit oder Macht einordnet",
+        "vi": "hệ thống xếp hạng người hoặc động vật theo tầm quan trọng hoặc quyền lực",
+        "pt-BR": "sistema que classifica pessoas ou animais por importância ou poder",
+        "id": "sistem yang mengurutkan orang atau hewan berdasarkan kepentingan atau kekuasaan",
+        "fr": "système qui classe les personnes ou les animaux selon l'importance ou le pouvoir",
+        "ar": "نظام يرتب الناس أو الحيوانات حسب الأهمية أو السلطة",
+        "tr": "insanları veya hayvanları önem veya güce göre sıralayan sistem",
+        "it": "sistema che classifica persone o animali per importanza o potere",
+        "pl": "system szeregujący ludzi lub zwierzęta według ważności lub władzy"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A system that ranks people or animals by importance or power"
+          "en": "A system that ranks people or animals by importance or power",
+          "ko": "중요도나 권력에 따라 사람이나 동물을 순위로 나눈 체계",
+          "zh-Hans": "按重要性或权力将人或动物分等级的系统",
+          "ja": "重要度や権力で人や動物を順位づけする仕組み",
+          "es": "sistema que clasifica a personas o animales por importancia o poder",
+          "hi": "महत्व या शक्ति के आधार पर लोगों या जानवरों को श्रेणीबद्ध करने वाली व्यवस्था",
+          "de": "System, das Menschen oder Tiere nach Wichtigkeit oder Macht einordnet",
+          "vi": "hệ thống xếp hạng người hoặc động vật theo tầm quan trọng hoặc quyền lực",
+          "pt-BR": "sistema que classifica pessoas ou animais por importância ou poder",
+          "id": "sistem yang mengurutkan orang atau hewan berdasarkan kepentingan atau kekuasaan",
+          "fr": "système qui classe les personnes ou les animaux selon l'importance ou le pouvoir",
+          "ar": "نظام يرتب الناس أو الحيوانات حسب الأهمية أو السلطة",
+          "tr": "insanları veya hayvanları önem veya güce göre sıralayan sistem",
+          "it": "sistema che classifica persone o animali per importanza o potere",
+          "pl": "system szeregujący ludzi lub zwierzęta według ważności lub władzy"
         },
         "example": {
           "en": "In the Middle Ages, narwhal tusks were sold as unicorn horns."
@@ -170,14 +422,42 @@
     {
       "id": "whale",
       "en": "whale",
-      "ko": "A very large sea animal that breathes air and feeds its young milk",
+      "ko": "공기로 숨 쉬고 새끼에게 젖을 먹이는 매우 큰 바다 동물",
       "l1": {
-        "en": "A very large sea animal that breathes air and feeds its young milk"
+        "en": "A very large sea animal that breathes air and feeds its young milk",
+        "ko": "공기로 숨 쉬고 새끼에게 젖을 먹이는 매우 큰 바다 동물",
+        "zh-Hans": "呼吸空气并用乳汁喂养幼崽的巨型海洋动物",
+        "ja": "空気で呼吸し、子に乳を与える非常に大きな海の動物",
+        "es": "animal marino muy grande que respira aire y amamanta a sus crías",
+        "hi": "बहुत बड़ा समुद्री जानवर जो हवा में सांस लेता है और बच्चों को दूध पिलाता है",
+        "de": "sehr großes Meerestier, das Luft atmet und seine Jungen säugt",
+        "vi": "động vật biển rất lớn, hít thở không khí và cho con bú sữa",
+        "pt-BR": "animal marinho muito grande que respira ar e amamenta os filhotes",
+        "id": "hewan laut sangat besar yang bernapas udara dan menyusui anaknya",
+        "fr": "très grand animal marin qui respire de l'air et allaite ses petits",
+        "ar": "حيوان بحري ضخم يتنفس الهواء ويرضع صغاره",
+        "tr": "havayla soluyan ve yavrusunu sütle besleyen çok büyük deniz hayvanı",
+        "it": "animale marino molto grande che respira aria e allatta i piccoli",
+        "pl": "bardzo duże zwierzę morskie, które oddycha powietrzem i karmi młode mlekiem"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A very large sea animal that breathes air and feeds its young milk"
+          "en": "A very large sea animal that breathes air and feeds its young milk",
+          "ko": "공기로 숨 쉬고 새끼에게 젖을 먹이는 매우 큰 바다 동물",
+          "zh-Hans": "呼吸空气并用乳汁喂养幼崽的巨型海洋动物",
+          "ja": "空気で呼吸し、子に乳を与える非常に大きな海の動物",
+          "es": "animal marino muy grande que respira aire y amamanta a sus crías",
+          "hi": "बहुत बड़ा समुद्री जानवर जो हवा में सांस लेता है और बच्चों को दूध पिलाता है",
+          "de": "sehr großes Meerestier, das Luft atmet und seine Jungen säugt",
+          "vi": "động vật biển rất lớn, hít thở không khí và cho con bú sữa",
+          "pt-BR": "animal marinho muito grande que respira ar e amamenta os filhotes",
+          "id": "hewan laut sangat besar yang bernapas udara dan menyusui anaknya",
+          "fr": "très grand animal marin qui respire de l'air et allaite ses petits",
+          "ar": "حيوان بحري ضخم يتنفس الهواء ويرضع صغاره",
+          "tr": "havayla soluyan ve yavrusunu sütle besleyen çok büyük deniz hayvanı",
+          "it": "animale marino molto grande che respira aria e allatta i piccoli",
+          "pl": "bardzo duże zwierzę morskie, które oddycha powietrzem i karmi młode mlekiem"
         },
         "example": {
           "en": "It is a long, straight canine tooth that grows out of the whale's mouth."

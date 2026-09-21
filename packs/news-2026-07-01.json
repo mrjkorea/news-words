@@ -8,14 +8,42 @@
     {
       "id": "tournament",
       "en": "tournament",
-      "ko": "a competition with a series of games where losers are eliminated until one winner remains",
+      "ko": "토너먼트, 패자 탈락 방식의 대회",
       "l1": {
-        "en": "a competition with a series of games where losers are eliminated until one winner remains"
+        "en": "a competition with a series of games where losers are eliminated until one winner remains",
+        "ko": "토너먼트, 패자 탈락 방식의 대회",
+        "zh-Hans": "锦标赛，淘汰赛",
+        "ja": "トーナメント、勝ち抜き戦",
+        "es": "torneo, competencia eliminatoria",
+        "hi": "टूर्नामेंट, नॉकआउट प्रतियोगिता",
+        "de": "Turnier, Ausscheidungswettkampf",
+        "vi": "giải đấu, cuộc thi đấu loại trực tiếp",
+        "pt-BR": "torneio, competição eliminatória",
+        "id": "turnamen, kompetisi sistem gugur",
+        "fr": "tournoi, compétition à élimination",
+        "ar": "بطولة، مسابقة إقصائية",
+        "tr": "turnuva, eleme usulü yarışma",
+        "it": "torneo, competizione a eliminazione",
+        "pl": "turniej, zawody systemem pucharowym"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "a competition with a series of games where losers are eliminated until one winner remains"
+          "en": "a competition with a series of games where losers are eliminated until one winner remains",
+          "ko": "토너먼트, 패자 탈락 방식의 대회",
+          "zh-Hans": "锦标赛，淘汰赛",
+          "ja": "トーナメント、勝ち抜き戦",
+          "es": "torneo, competencia eliminatoria",
+          "hi": "टूर्नामेंट, नॉकआउट प्रतियोगिता",
+          "de": "Turnier, Ausscheidungswettkampf",
+          "vi": "giải đấu, cuộc thi đấu loại trực tiếp",
+          "pt-BR": "torneio, competição eliminatória",
+          "id": "turnamen, kompetisi sistem gugur",
+          "fr": "tournoi, compétition à élimination",
+          "ar": "بطولة، مسابقة إقصائية",
+          "tr": "turnuva, eleme usulü yarışma",
+          "it": "torneo, competizione a eliminazione",
+          "pl": "turniej, zawody systemem pucharowym"
         },
         "example": {
           "en": "Today's news uses the word tournament."
@@ -26,14 +54,42 @@
     {
       "id": "knockout",
       "en": "knockout",
-      "ko": "a stage where the loser of a single match is eliminated from the competition",
+      "ko": "토너먼트 방식, 단판 승부",
       "l1": {
-        "en": "a stage where the loser of a single match is eliminated from the competition"
+        "en": "a stage where the loser of a single match is eliminated from the competition",
+        "ko": "토너먼트 방식, 단판 승부",
+        "zh-Hans": "淘汰赛",
+        "ja": "ノックアウト方式、勝ち抜き戦",
+        "es": "eliminación directa",
+        "hi": "नॉकआउट, एकल मैच में हारने पर बाहर",
+        "de": "K.-o.-System, Ausscheidungsrunde",
+        "vi": "vòng loại trực tiếp",
+        "pt-BR": "mata-mata, eliminatória",
+        "id": "sistem gugur",
+        "fr": "élimination directe",
+        "ar": "خروج المغلوب",
+        "tr": "eleme usulü, tek maçlı eleme",
+        "it": "eliminazione diretta",
+        "pl": "system pucharowy, faza pucharowa"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "a stage where the loser of a single match is eliminated from the competition"
+          "en": "a stage where the loser of a single match is eliminated from the competition",
+          "ko": "토너먼트 방식, 단판 승부",
+          "zh-Hans": "淘汰赛",
+          "ja": "ノックアウト方式、勝ち抜き戦",
+          "es": "eliminación directa",
+          "hi": "नॉकआउट, एकल मैच में हारने पर बाहर",
+          "de": "K.-o.-System, Ausscheidungsrunde",
+          "vi": "vòng loại trực tiếp",
+          "pt-BR": "mata-mata, eliminatória",
+          "id": "sistem gugur",
+          "fr": "élimination directe",
+          "ar": "خروج المغلوب",
+          "tr": "eleme usulü, tek maçlı eleme",
+          "it": "eliminazione diretta",
+          "pl": "system pucharowy, faza pucharowa"
         },
         "example": {
           "en": "Today's news uses the word knockout."
@@ -44,14 +100,42 @@
     {
       "id": "qualify",
       "en": "qualify",
-      "ko": "to reach the required standard to enter a competition",
+      "ko": "예선을 통과하다, 자격을 얻다",
       "l1": {
-        "en": "to reach the required standard to enter a competition"
+        "en": "to reach the required standard to enter a competition",
+        "ko": "예선을 통과하다, 자격을 얻다",
+        "zh-Hans": "获得资格，晋级",
+        "ja": "予選を通過する、資格を得る",
+        "es": "clasificarse, obtener la clasificación",
+        "hi": "क्वालिफाई करना, योग्यता प्राप्त करना",
+        "de": "sich qualifizieren",
+        "vi": "vượt qua vòng loại, đủ điều kiện",
+        "pt-BR": "classificar-se, qualificar-se",
+        "id": "lolos, memenuhi syarat",
+        "fr": "se qualifier",
+        "ar": "يتأهل",
+        "tr": "elemeleri geçmek, hak kazanmak",
+        "it": "qualificarsi",
+        "pl": "zakwalifikować się"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "to reach the required standard to enter a competition"
+          "en": "to reach the required standard to enter a competition",
+          "ko": "예선을 통과하다, 자격을 얻다",
+          "zh-Hans": "获得资格，晋级",
+          "ja": "予選を通過する、資格を得る",
+          "es": "clasificarse, obtener la clasificación",
+          "hi": "क्वालिफाई करना, योग्यता प्राप्त करना",
+          "de": "sich qualifizieren",
+          "vi": "vượt qua vòng loại, đủ điều kiện",
+          "pt-BR": "classificar-se, qualificar-se",
+          "id": "lolos, memenuhi syarat",
+          "fr": "se qualifier",
+          "ar": "يتأهل",
+          "tr": "elemeleri geçmek, hak kazanmak",
+          "it": "qualificarsi",
+          "pl": "zakwalifikować się"
         },
         "example": {
           "en": "Today's news uses the word qualify."
@@ -62,14 +146,42 @@
     {
       "id": "squad",
       "en": "squad",
-      "ko": "a group of players selected to represent a team",
+      "ko": "선수단, 팀 명단",
       "l1": {
-        "en": "a group of players selected to represent a team"
+        "en": "a group of players selected to represent a team",
+        "ko": "선수단, 팀 명단",
+        "zh-Hans": "球队阵容，大名单",
+        "ja": "チーム編成、選手団",
+        "es": "plantilla, equipo",
+        "hi": "टीम, खिलाड़ियों का समूह",
+        "de": "Kader, Mannschaft",
+        "vi": "đội hình, danh sách đội",
+        "pt-BR": "elenco, equipe",
+        "id": "skuad, tim",
+        "fr": "équipe, effectif",
+        "ar": "فريق، تشكيلة",
+        "tr": "kadro, takım",
+        "it": "rosa, squadra",
+        "pl": "kadra, drużyna"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "a group of players selected to represent a team"
+          "en": "a group of players selected to represent a team",
+          "ko": "선수단, 팀 명단",
+          "zh-Hans": "球队阵容，大名单",
+          "ja": "チーム編成、選手団",
+          "es": "plantilla, equipo",
+          "hi": "टीम, खिलाड़ियों का समूह",
+          "de": "Kader, Mannschaft",
+          "vi": "đội hình, danh sách đội",
+          "pt-BR": "elenco, equipe",
+          "id": "skuad, tim",
+          "fr": "équipe, effectif",
+          "ar": "فريق، تشكيلة",
+          "tr": "kadro, takım",
+          "it": "rosa, squadra",
+          "pl": "kadra, drużyna"
         },
         "example": {
           "en": "Today's news uses the word squad."
@@ -80,14 +192,42 @@
     {
       "id": "defender",
       "en": "defender",
-      "ko": "a player whose job is to stop the opposing team from scoring",
+      "ko": "수비수",
       "l1": {
-        "en": "a player whose job is to stop the opposing team from scoring"
+        "en": "a player whose job is to stop the opposing team from scoring",
+        "ko": "수비수",
+        "zh-Hans": "后卫，防守球员",
+        "ja": "ディフェンダー、守備の選手",
+        "es": "defensor, defensa",
+        "hi": "डिफेंडर, रक्षक खिलाड़ी",
+        "de": "Verteidiger",
+        "vi": "hậu vệ",
+        "pt-BR": "defensor, zagueiro",
+        "id": "pemain bertahan, bek",
+        "fr": "défenseur",
+        "ar": "مدافع",
+        "tr": "defans oyuncusu, savunmacı",
+        "it": "difensore",
+        "pl": "obrońca"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "a player whose job is to stop the opposing team from scoring"
+          "en": "a player whose job is to stop the opposing team from scoring",
+          "ko": "수비수",
+          "zh-Hans": "后卫，防守球员",
+          "ja": "ディフェンダー、守備の選手",
+          "es": "defensor, defensa",
+          "hi": "डिफेंडर, रक्षक खिलाड़ी",
+          "de": "Verteidiger",
+          "vi": "hậu vệ",
+          "pt-BR": "defensor, zagueiro",
+          "id": "pemain bertahan, bek",
+          "fr": "défenseur",
+          "ar": "مدافع",
+          "tr": "defans oyuncusu, savunmacı",
+          "it": "difensore",
+          "pl": "obrońca"
         },
         "example": {
           "en": "Today's news uses the word defender."
@@ -98,14 +238,42 @@
     {
       "id": "striker",
       "en": "striker",
-      "ko": "a player whose main job is to score goals",
+      "ko": "공격수, 스트라이커",
       "l1": {
-        "en": "a player whose main job is to score goals"
+        "en": "a player whose main job is to score goals",
+        "ko": "공격수, 스트라이커",
+        "zh-Hans": "前锋，射手",
+        "ja": "ストライカー、攻撃の選手",
+        "es": "delantero, goleador",
+        "hi": "स्ट्राइकर, गोल करने वाला खिलाड़ी",
+        "de": "Stürmer, Angreifer",
+        "vi": "tiền đạo",
+        "pt-BR": "atacante, artilheiro",
+        "id": "penyerang, striker",
+        "fr": "attaquant, buteur",
+        "ar": "مهاجم",
+        "tr": "forvet, golcü",
+        "it": "attaccante",
+        "pl": "napastnik"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "a player whose main job is to score goals"
+          "en": "a player whose main job is to score goals",
+          "ko": "공격수, 스트라이커",
+          "zh-Hans": "前锋，射手",
+          "ja": "ストライカー、攻撃の選手",
+          "es": "delantero, goleador",
+          "hi": "स्ट्राइकर, गोल करने वाला खिलाड़ी",
+          "de": "Stürmer, Angreifer",
+          "vi": "tiền đạo",
+          "pt-BR": "atacante, artilheiro",
+          "id": "penyerang, striker",
+          "fr": "attaquant, buteur",
+          "ar": "مهاجم",
+          "tr": "forvet, golcü",
+          "it": "attaccante",
+          "pl": "napastnik"
         },
         "example": {
           "en": "Today's news uses the word striker."
@@ -116,14 +284,42 @@
     {
       "id": "elimination",
       "en": "elimination",
-      "ko": "the process of being removed from a competition after losing",
+      "ko": "탈락",
       "l1": {
-        "en": "the process of being removed from a competition after losing"
+        "en": "the process of being removed from a competition after losing",
+        "ko": "탈락",
+        "zh-Hans": "淘汰",
+        "ja": "敗退、脱落",
+        "es": "eliminación",
+        "hi": "उन्मूलन, बाहर होना",
+        "de": "Ausscheiden, Eliminierung",
+        "vi": "sự loại bỏ",
+        "pt-BR": "eliminação",
+        "id": "eliminasi, tersingkir",
+        "fr": "élimination",
+        "ar": "إقصاء",
+        "tr": "eleme, elenme",
+        "it": "eliminazione",
+        "pl": "eliminacja"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "the process of being removed from a competition after losing"
+          "en": "the process of being removed from a competition after losing",
+          "ko": "탈락",
+          "zh-Hans": "淘汰",
+          "ja": "敗退、脱落",
+          "es": "eliminación",
+          "hi": "उन्मूलन, बाहर होना",
+          "de": "Ausscheiden, Eliminierung",
+          "vi": "sự loại bỏ",
+          "pt-BR": "eliminação",
+          "id": "eliminasi, tersingkir",
+          "fr": "élimination",
+          "ar": "إقصاء",
+          "tr": "eleme, elenme",
+          "it": "eliminazione",
+          "pl": "eliminacja"
         },
         "example": {
           "en": "Today's news uses the word elimination."
@@ -134,14 +330,42 @@
     {
       "id": "underdog",
       "en": "underdog",
-      "ko": "a competitor thought to have little chance of winning",
+      "ko": "약체, 이길 가능성이 낮은 팀",
       "l1": {
-        "en": "a competitor thought to have little chance of winning"
+        "en": "a competitor thought to have little chance of winning",
+        "ko": "약체, 이길 가능성이 낮은 팀",
+        "zh-Hans": "弱队，不被看好的选手",
+        "ja": "劣勢なチーム、アンダードッグ",
+        "es": "equipo débil, desfavorecido",
+        "hi": "कमजोर प्रतियोगी, अंडरडॉग",
+        "de": "Außenseiter, Underdog",
+        "vi": "đội yếu, người được đánh giá thấp",
+        "pt-BR": "azarão, time desfavorecido",
+        "id": "tim yang tidak diunggulkan",
+        "fr": "outsider, favori moins probable",
+        "ar": "الطرف الأضعف، المرشح الأقل حظًا",
+        "tr": "zayıf taraf, favori olmayan",
+        "it": "sfavorito, squadra sfavorita",
+        "pl": "outsider, słabszy zawodnik"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "a competitor thought to have little chance of winning"
+          "en": "a competitor thought to have little chance of winning",
+          "ko": "약체, 이길 가능성이 낮은 팀",
+          "zh-Hans": "弱队，不被看好的选手",
+          "ja": "劣勢なチーム、アンダードッグ",
+          "es": "equipo débil, desfavorecido",
+          "hi": "कमजोर प्रतियोगी, अंडरडॉग",
+          "de": "Außenseiter, Underdog",
+          "vi": "đội yếu, người được đánh giá thấp",
+          "pt-BR": "azarão, time desfavorecido",
+          "id": "tim yang tidak diunggulkan",
+          "fr": "outsider, favori moins probable",
+          "ar": "الطرف الأضعف، المرشح الأقل حظًا",
+          "tr": "zayıf taraf, favori olmayan",
+          "it": "sfavorito, squadra sfavorita",
+          "pl": "outsider, słabszy zawodnik"
         },
         "example": {
           "en": "Today's news uses the word underdog."
@@ -152,14 +376,42 @@
     {
       "id": "bracket",
       "en": "bracket",
-      "ko": "a chart showing the pairings and progress of teams in a tournament",
+      "ko": "토너먼트 대진표",
       "l1": {
-        "en": "a chart showing the pairings and progress of teams in a tournament"
+        "en": "a chart showing the pairings and progress of teams in a tournament",
+        "ko": "토너먼트 대진표",
+        "zh-Hans": "锦标赛对阵图",
+        "ja": "トーナメント表",
+        "es": "cuadro de eliminatorias",
+        "hi": "टूर्नामेंट ब्रैकेट",
+        "de": "Turnierbaum",
+        "vi": "bảng đấu loại trực tiếp",
+        "pt-BR": "chave de torneio",
+        "id": "bagan turnamen",
+        "fr": "tableau de tournoi",
+        "ar": "جدول البطولة",
+        "tr": "turnuva eşleşme tablosu",
+        "it": "tabellone del torneo",
+        "pl": "drabinka turniejowa"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "a chart showing the pairings and progress of teams in a tournament"
+          "en": "a chart showing the pairings and progress of teams in a tournament",
+          "ko": "토너먼트 대진표",
+          "zh-Hans": "锦标赛对阵图",
+          "ja": "トーナメント表",
+          "es": "cuadro de eliminatorias",
+          "hi": "टूर्नामेंट ब्रैकेट",
+          "de": "Turnierbaum",
+          "vi": "bảng đấu loại trực tiếp",
+          "pt-BR": "chave de torneio",
+          "id": "bagan turnamen",
+          "fr": "tableau de tournoi",
+          "ar": "جدول البطولة",
+          "tr": "turnuva eşleşme tablosu",
+          "it": "tabellone del torneo",
+          "pl": "drabinka turniejowa"
         },
         "example": {
           "en": "Today's news uses the word bracket."
@@ -170,14 +422,42 @@
     {
       "id": "favourite",
       "en": "favourite",
-      "ko": "the team or player expected to win",
+      "ko": "우승 후보",
       "l1": {
-        "en": "the team or player expected to win"
+        "en": "the team or player expected to win",
+        "ko": "우승 후보",
+        "zh-Hans": "最有可能获胜者",
+        "ja": "優勝候補",
+        "es": "favorito",
+        "hi": "पसंदीदा",
+        "de": "Favorit",
+        "vi": "đội được đánh giá cao",
+        "pt-BR": "favorito",
+        "id": "favorit",
+        "fr": "favori",
+        "ar": "المرشح الأوفر حظا",
+        "tr": "favori",
+        "it": "favorito",
+        "pl": "faworyt"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "the team or player expected to win"
+          "en": "the team or player expected to win",
+          "ko": "우승 후보",
+          "zh-Hans": "最有可能获胜者",
+          "ja": "優勝候補",
+          "es": "favorito",
+          "hi": "पसंदीदा",
+          "de": "Favorit",
+          "vi": "đội được đánh giá cao",
+          "pt-BR": "favorito",
+          "id": "favorit",
+          "fr": "favori",
+          "ar": "المرشح الأوفر حظا",
+          "tr": "favori",
+          "it": "favorito",
+          "pl": "faworyt"
         },
         "example": {
           "en": "Today's news uses the word favourite."

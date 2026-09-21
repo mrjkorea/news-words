@@ -8,14 +8,42 @@
     {
       "id": "cricketer",
       "en": "cricketer",
-      "ko": "A person who plays the sport of cricket.",
+      "ko": "크리켓 선수",
       "l1": {
-        "en": "A person who plays the sport of cricket."
+        "en": "A person who plays the sport of cricket.",
+        "ko": "크리켓 선수",
+        "zh-Hans": "板球运动员",
+        "ja": "クリケット選手",
+        "es": "jugador de críquet",
+        "hi": "क्रिकेट खिलाड़ी",
+        "de": "Kricketspieler",
+        "vi": "cầu thủ cricket",
+        "pt-BR": "jogador de críquete",
+        "id": "pemain kriket",
+        "fr": "joueur de cricket",
+        "ar": "لاعب كريكيت",
+        "tr": "kriket oyuncusu",
+        "it": "giocatore di cricket",
+        "pl": "krykiecista"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A person who plays the sport of cricket."
+          "en": "A person who plays the sport of cricket.",
+          "ko": "크리켓 선수",
+          "zh-Hans": "板球运动员",
+          "ja": "クリケット選手",
+          "es": "jugador de críquet",
+          "hi": "क्रिकेट खिलाड़ी",
+          "de": "Kricketspieler",
+          "vi": "cầu thủ cricket",
+          "pt-BR": "jogador de críquete",
+          "id": "pemain kriket",
+          "fr": "joueur de cricket",
+          "ar": "لاعب كريكيت",
+          "tr": "kriket oyuncusu",
+          "it": "giocatore di cricket",
+          "pl": "krykiecista"
         },
         "example": {
           "en": "A twenty-nine-year-old all-rounder named Auqib Nabi has become the first cricketer from Jammu and Kashmir to earn a call-up to India's Test team."
@@ -26,14 +54,42 @@
     {
       "id": "allrounder",
       "en": "all-rounder",
-      "ko": "A cricket player who is good at both batting and bowling.",
+      "ko": "올라운더",
       "l1": {
-        "en": "A cricket player who is good at both batting and bowling."
+        "en": "A cricket player who is good at both batting and bowling.",
+        "ko": "올라운더",
+        "zh-Hans": "全能选手",
+        "ja": "オールラウンダー",
+        "es": "jugador completo",
+        "hi": "ऑलराउंडर",
+        "de": "Allrounder",
+        "vi": "cầu thủ toàn diện",
+        "pt-BR": "jogador completo",
+        "id": "pemain serba bisa",
+        "fr": "joueur polyvalent",
+        "ar": "لاعب شامل",
+        "tr": "çok yönlü oyuncu",
+        "it": "giocatore completo",
+        "pl": "wszechstronny zawodnik"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A cricket player who is good at both batting and bowling."
+          "en": "A cricket player who is good at both batting and bowling.",
+          "ko": "올라운더",
+          "zh-Hans": "全能选手",
+          "ja": "オールラウンダー",
+          "es": "jugador completo",
+          "hi": "ऑलराउंडर",
+          "de": "Allrounder",
+          "vi": "cầu thủ toàn diện",
+          "pt-BR": "jogador completo",
+          "id": "pemain serba bisa",
+          "fr": "joueur polyvalent",
+          "ar": "لاعب شامل",
+          "tr": "çok yönlü oyuncu",
+          "it": "giocatore completo",
+          "pl": "wszechstronny zawodnik"
         },
         "example": {
           "en": "A twenty-nine-year-old all-rounder named Auqib Nabi has become the first cricketer from Jammu and Kashmir to earn a call-up to India's Test team."
@@ -44,14 +100,42 @@
     {
       "id": "squad",
       "en": "squad",
-      "ko": "A team of players selected for a sport.",
+      "ko": "선수단",
       "l1": {
-        "en": "A team of players selected for a sport."
+        "en": "A team of players selected for a sport.",
+        "ko": "선수단",
+        "zh-Hans": "运动队",
+        "ja": "チーム",
+        "es": "equipo",
+        "hi": "टीम",
+        "de": "Kader",
+        "vi": "đội hình",
+        "pt-BR": "equipe",
+        "id": "skuad",
+        "fr": "équipe",
+        "ar": "فريق",
+        "tr": "kadro",
+        "it": "squadra",
+        "pl": "drużyna"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A team of players selected for a sport."
+          "en": "A team of players selected for a sport.",
+          "ko": "선수단",
+          "zh-Hans": "运动队",
+          "ja": "チーム",
+          "es": "equipo",
+          "hi": "टीम",
+          "de": "Kader",
+          "vi": "đội hình",
+          "pt-BR": "equipe",
+          "id": "skuad",
+          "fr": "équipe",
+          "ar": "فريق",
+          "tr": "kadro",
+          "it": "squadra",
+          "pl": "drużyna"
         },
         "example": {
           "en": "He replaced Jasprit Bumrah in the squad for the two-match series against Sri Lanka, which begins on August fifteenth."
@@ -62,14 +146,42 @@
     {
       "id": "debut",
       "en": "debut",
-      "ko": "A first public performance or first appearance in a competition.",
+      "ko": "데뷔",
       "l1": {
-        "en": "A first public performance or first appearance in a competition."
+        "en": "A first public performance or first appearance in a competition.",
+        "ko": "데뷔",
+        "zh-Hans": "首次亮相",
+        "ja": "デビュー",
+        "es": "debut",
+        "hi": "पदार्पण",
+        "de": "Debüt",
+        "vi": "ra mắt",
+        "pt-BR": "estreia",
+        "id": "debut",
+        "fr": "débuts",
+        "ar": "ظهور أول",
+        "tr": "ilk çıkış",
+        "it": "debutto",
+        "pl": "debiut"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A first public performance or first appearance in a competition."
+          "en": "A first public performance or first appearance in a competition.",
+          "ko": "데뷔",
+          "zh-Hans": "首次亮相",
+          "ja": "デビュー",
+          "es": "debut",
+          "hi": "पदार्पण",
+          "de": "Debüt",
+          "vi": "ra mắt",
+          "pt-BR": "estreia",
+          "id": "debut",
+          "fr": "débuts",
+          "ar": "ظهور أول",
+          "tr": "ilk çıkış",
+          "it": "debutto",
+          "pl": "debiut"
         },
         "example": {
           "en": "His breakthrough came in twenty twenty when he made his Ranji Trophy debut for Jammu and Kashmir, taking a five-wicket haul against Jharkhand."
@@ -80,14 +192,42 @@
     {
       "id": "wicket",
       "en": "wicket",
-      "ko": "In cricket",
+      "ko": "위켓",
       "l1": {
-        "en": "In cricket"
+        "en": "In cricket",
+        "ko": "위켓",
+        "zh-Hans": "三柱门",
+        "ja": "ウィケット",
+        "es": "wicket",
+        "hi": "विकेट",
+        "de": "Wicket",
+        "vi": "wicket",
+        "pt-BR": "wicket",
+        "id": "wicket",
+        "fr": "guichet",
+        "ar": "ويكيت",
+        "tr": "wicket",
+        "it": "wicket",
+        "pl": "wicket"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "In cricket"
+          "en": "In cricket",
+          "ko": "위켓",
+          "zh-Hans": "三柱门",
+          "ja": "ウィケット",
+          "es": "wicket",
+          "hi": "विकेट",
+          "de": "Wicket",
+          "vi": "wicket",
+          "pt-BR": "wicket",
+          "id": "wicket",
+          "fr": "guichet",
+          "ar": "ويكيت",
+          "tr": "wicket",
+          "it": "wicket",
+          "pl": "wicket"
         },
         "example": {
           "en": "His breakthrough came in twenty twenty when he made his Ranji Trophy debut for Jammu and Kashmir, taking a five-wicket haul against Jharkhand."
@@ -98,14 +238,42 @@
     {
       "id": "tournament",
       "en": "tournament",
-      "ko": "A series of competitions in which teams play to find a winner.",
+      "ko": "토너먼트",
       "l1": {
-        "en": "A series of competitions in which teams play to find a winner."
+        "en": "A series of competitions in which teams play to find a winner.",
+        "ko": "토너먼트",
+        "zh-Hans": "锦标赛",
+        "ja": "トーナメント",
+        "es": "torneo",
+        "hi": "टूर्नामेंट",
+        "de": "Turnier",
+        "vi": "giải đấu",
+        "pt-BR": "torneio",
+        "id": "turnamen",
+        "fr": "tournoi",
+        "ar": "بطولة",
+        "tr": "turnuva",
+        "it": "torneo",
+        "pl": "turniej"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A series of competitions in which teams play to find a winner."
+          "en": "A series of competitions in which teams play to find a winner.",
+          "ko": "토너먼트",
+          "zh-Hans": "锦标赛",
+          "ja": "トーナメント",
+          "es": "torneo",
+          "hi": "टूर्नामेंट",
+          "de": "Turnier",
+          "vi": "giải đấu",
+          "pt-BR": "torneio",
+          "id": "turnamen",
+          "fr": "tournoi",
+          "ar": "بطولة",
+          "tr": "turnuva",
+          "it": "torneo",
+          "pl": "turniej"
         },
         "example": {
           "en": "A twenty-nine-year-old all-rounder named Auqib Nabi has become the first cricketer from Jammu and Kashmir to earn a call-up to India's Test team."
@@ -116,14 +284,42 @@
     {
       "id": "infrastructure",
       "en": "infrastructure",
-      "ko": "The basic systems and structures needed for a place to work",
+      "ko": "기반 시설",
       "l1": {
-        "en": "The basic systems and structures needed for a place to work"
+        "en": "The basic systems and structures needed for a place to work",
+        "ko": "기반 시설",
+        "zh-Hans": "基础设施",
+        "ja": "インフラ",
+        "es": "infraestructura",
+        "hi": "बुनियादी ढांचा",
+        "de": "Infrastruktur",
+        "vi": "cơ sở hạ tầng",
+        "pt-BR": "infraestrutura",
+        "id": "infrastruktur",
+        "fr": "infrastructure",
+        "ar": "البنية التحتية",
+        "tr": "altyapı",
+        "it": "infrastruttura",
+        "pl": "infrastruktura"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The basic systems and structures needed for a place to work"
+          "en": "The basic systems and structures needed for a place to work",
+          "ko": "기반 시설",
+          "zh-Hans": "基础设施",
+          "ja": "インフラ",
+          "es": "infraestructura",
+          "hi": "बुनियादी ढांचा",
+          "de": "Infrastruktur",
+          "vi": "cơ sở hạ tầng",
+          "pt-BR": "infraestrutura",
+          "id": "infrastruktur",
+          "fr": "infrastructure",
+          "ar": "البنية التحتية",
+          "tr": "altyapı",
+          "it": "infrastruttura",
+          "pl": "infrastruktura"
         },
         "example": {
           "en": "For a region where conflict, harsh winters and limited infrastructure have long restricted sporting opportunities, Auqib's selection is being seen as a landmark moment."
@@ -134,14 +330,42 @@
     {
       "id": "obstacle",
       "en": "obstacle",
-      "ko": "Something that blocks the way or makes progress difficult.",
+      "ko": "장애물",
       "l1": {
-        "en": "Something that blocks the way or makes progress difficult."
+        "en": "Something that blocks the way or makes progress difficult.",
+        "ko": "장애물",
+        "zh-Hans": "障碍",
+        "ja": "障害",
+        "es": "obstáculo",
+        "hi": "बाधा",
+        "de": "Hindernis",
+        "vi": "chướng ngại vật",
+        "pt-BR": "obstáculo",
+        "id": "hambatan",
+        "fr": "obstacle",
+        "ar": "عقبة",
+        "tr": "engel",
+        "it": "ostacolo",
+        "pl": "przeszkoda"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Something that blocks the way or makes progress difficult."
+          "en": "Something that blocks the way or makes progress difficult.",
+          "ko": "장애물",
+          "zh-Hans": "障碍",
+          "ja": "障害",
+          "es": "obstáculo",
+          "hi": "बाधा",
+          "de": "Hindernis",
+          "vi": "chướng ngại vật",
+          "pt-BR": "obstáculo",
+          "id": "hambatan",
+          "fr": "obstacle",
+          "ar": "عقبة",
+          "tr": "engel",
+          "it": "ostacolo",
+          "pl": "przeszkoda"
         },
         "example": {
           "en": "A twenty-nine-year-old all-rounder named Auqib Nabi has become the first cricketer from Jammu and Kashmir to earn a call-up to India's Test team."
@@ -152,14 +376,42 @@
     {
       "id": "landmark",
       "en": "landmark",
-      "ko": "An important event or a famous place that is easy to recognize.",
+      "ko": "중요한 사건이나 알아보기 쉬운 유명한 장소",
       "l1": {
-        "en": "An important event or a famous place that is easy to recognize."
+        "en": "An important event or a famous place that is easy to recognize.",
+        "ko": "중요한 사건이나 알아보기 쉬운 유명한 장소",
+        "zh-Hans": "重要事件或容易辨认的著名地点",
+        "ja": "重要な出来事や見分けやすい有名な場所",
+        "es": "evento importante o lugar famoso fácil de reconocer",
+        "hi": "महत्वपूर्ण घटना या आसानी से पहचानने योग्य प्रसिद्ध स्थान",
+        "de": "wichtiges Ereignis oder leicht erkennbarer berühmter Ort",
+        "vi": "sự kiện quan trọng hoặc địa điểm nổi tiếng dễ nhận biết",
+        "pt-BR": "evento importante ou lugar famoso fácil de reconhecer",
+        "id": "peristiwa penting atau tempat terkenal yang mudah dikenali",
+        "fr": "événement important ou lieu célèbre facile à reconnaître",
+        "ar": "حدث مهم أو مكان شهير يسهل التعرف عليه",
+        "tr": "önemli olay veya kolayca tanınan ünlü yer",
+        "it": "evento importante o luogo famoso facile da riconoscere",
+        "pl": "ważne wydarzenie lub łatwe do rozpoznania słynne miejsce"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "An important event or a famous place that is easy to recognize."
+          "en": "An important event or a famous place that is easy to recognize.",
+          "ko": "중요한 사건이나 알아보기 쉬운 유명한 장소",
+          "zh-Hans": "重要事件或容易辨认的著名地点",
+          "ja": "重要な出来事や見分けやすい有名な場所",
+          "es": "evento importante o lugar famoso fácil de reconocer",
+          "hi": "महत्वपूर्ण घटना या आसानी से पहचानने योग्य प्रसिद्ध स्थान",
+          "de": "wichtiges Ereignis oder leicht erkennbarer berühmter Ort",
+          "vi": "sự kiện quan trọng hoặc địa điểm nổi tiếng dễ nhận biết",
+          "pt-BR": "evento importante ou lugar famoso fácil de reconhecer",
+          "id": "peristiwa penting atau tempat terkenal yang mudah dikenali",
+          "fr": "événement important ou lieu célèbre facile à reconnaître",
+          "ar": "حدث مهم أو مكان شهير يسهل التعرف عليه",
+          "tr": "önemli olay veya kolayca tanınan ünlü yer",
+          "it": "evento importante o luogo famoso facile da riconoscere",
+          "pl": "ważne wydarzenie lub łatwe do rozpoznania słynne miejsce"
         },
         "example": {
           "en": "For a region where conflict, harsh winters and limited infrastructure have long restricted sporting opportunities, Auqib's selection is being seen as a landmark moment."
@@ -170,14 +422,42 @@
     {
       "id": "select",
       "en": "select",
-      "ko": "To choose someone or something from a group.",
+      "ko": "여러 사람이나 사물 중에서 고르다",
       "l1": {
-        "en": "To choose someone or something from a group."
+        "en": "To choose someone or something from a group.",
+        "ko": "여러 사람이나 사물 중에서 고르다",
+        "zh-Hans": "从一组中挑选某人或某物",
+        "ja": "グループから誰かや何かを選ぶこと",
+        "es": "elegir a alguien o algo de un grupo",
+        "hi": "समूह से किसी को या कुछ चुनना",
+        "de": "jemanden oder etwas aus einer Gruppe auswählen",
+        "vi": "chọn ai đó hoặc thứ gì đó từ một nhóm",
+        "pt-BR": "escolher alguém ou algo de um grupo",
+        "id": "memilih seseorang atau sesuatu dari kelompok",
+        "fr": "choisir quelqu'un ou quelque chose dans un groupe",
+        "ar": "اختيار شخص أو شيء من مجموعة",
+        "tr": "bir gruptan birini veya bir şeyi seçmek",
+        "it": "scegliere qualcuno o qualcosa da un gruppo",
+        "pl": "wybrać kogoś lub coś z grupy"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "To choose someone or something from a group."
+          "en": "To choose someone or something from a group.",
+          "ko": "여러 사람이나 사물 중에서 고르다",
+          "zh-Hans": "从一组中挑选某人或某物",
+          "ja": "グループから誰かや何かを選ぶこと",
+          "es": "elegir a alguien o algo de un grupo",
+          "hi": "समूह से किसी को या कुछ चुनना",
+          "de": "jemanden oder etwas aus einer Gruppe auswählen",
+          "vi": "chọn ai đó hoặc thứ gì đó từ một nhóm",
+          "pt-BR": "escolher alguém ou algo de um grupo",
+          "id": "memilih seseorang atau sesuatu dari kelompok",
+          "fr": "choisir quelqu'un ou quelque chose dans un groupe",
+          "ar": "اختيار شخص أو شيء من مجموعة",
+          "tr": "bir gruptan birini veya bir şeyi seçmek",
+          "it": "scegliere qualcuno o qualcosa da un gruppo",
+          "pl": "wybrać kogoś lub coś z grupy"
         },
         "example": {
           "en": "A twenty-nine-year-old all-rounder named Auqib Nabi has become the first cricketer from Jammu and Kashmir to earn a call-up to India's Test team."

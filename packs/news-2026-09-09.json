@@ -8,14 +8,42 @@
     {
       "id": "rocket",
       "en": "rocket",
-      "ko": "A vehicle that pushes itself through space by burning fuel",
+      "ko": "연료를 태워 우주로 가는 탈것",
       "l1": {
-        "en": "A vehicle that pushes itself through space by burning fuel"
+        "en": "A vehicle that pushes itself through space by burning fuel",
+        "ko": "연료를 태워 우주로 가는 탈것",
+        "zh-Hans": "燃烧燃料推进的航天器",
+        "ja": "燃料を燃やして宇宙を進む乗り物",
+        "es": "vehículo que se impulsa quemando combustible",
+        "hi": "ईंधन जलाकर अंतरिक्ष में जाने वाला वाहन",
+        "de": "Fahrzeug, das durch Verbrennung von Treibstoff fliegt",
+        "vi": "phương tiện đẩy bằng nhiên liệu vào không gian",
+        "pt-BR": "veículo que se impulsiona queimando combustível",
+        "id": "kendaraan yang melaju dengan membakar bahan bakar",
+        "fr": "véhicule propulsé en brûlant du carburant",
+        "ar": "مركبة تندفع بحرق الوقود في الفضاء",
+        "tr": "yakıt yakarak uzaya giden araç",
+        "it": "veicolo che si spinge bruciando carburante",
+        "pl": "pojazd napędzany spalaniem paliwa"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A vehicle that pushes itself through space by burning fuel"
+          "en": "A vehicle that pushes itself through space by burning fuel",
+          "ko": "연료를 태워 우주로 가는 탈것",
+          "zh-Hans": "燃烧燃料推进的航天器",
+          "ja": "燃料を燃やして宇宙を進む乗り物",
+          "es": "vehículo que se impulsa quemando combustible",
+          "hi": "ईंधन जलाकर अंतरिक्ष में जाने वाला वाहन",
+          "de": "Fahrzeug, das durch Verbrennung von Treibstoff fliegt",
+          "vi": "phương tiện đẩy bằng nhiên liệu vào không gian",
+          "pt-BR": "veículo que se impulsiona queimando combustível",
+          "id": "kendaraan yang melaju dengan membakar bahan bakar",
+          "fr": "véhicule propulsé en brûlant du carburant",
+          "ar": "مركبة تندفع بحرق الوقود في الفضاء",
+          "tr": "yakıt yakarak uzaya giden araç",
+          "it": "veicolo che si spinge bruciando carburante",
+          "pl": "pojazd napędzany spalaniem paliwa"
         },
         "example": {
           "en": "Germany's Isar Aerospace has put a Spectrum rocket into orbit from Norway, a milestone for European spaceflight."
@@ -26,14 +54,42 @@
     {
       "id": "satellite",
       "en": "satellite",
-      "ko": "A machine sent into orbit to collect data or relay signals",
+      "ko": "궤도에서 데이터를 수집하는 기계",
       "l1": {
-        "en": "A machine sent into orbit to collect data or relay signals"
+        "en": "A machine sent into orbit to collect data or relay signals",
+        "ko": "궤도에서 데이터를 수집하는 기계",
+        "zh-Hans": "在轨道上收集数据的机器",
+        "ja": "軌道でデータを集める機械",
+        "es": "máquina en órbita que recoge datos",
+        "hi": "कक्षा में डेटा जुटाने वाली मशीन",
+        "de": "Maschine im Orbit zur Datensammlung",
+        "vi": "máy trên quỹ đạo thu thập dữ liệu",
+        "pt-BR": "máquina em órbita que coleta dados",
+        "id": "mesin di orbit untuk mengumpulkan data",
+        "fr": "machine en orbite qui collecte des données",
+        "ar": "آلة في المدار لجمع البيانات",
+        "tr": "yörüngede veri toplayan makine",
+        "it": "macchina in orbita che raccoglie dati",
+        "pl": "maszyna na orbicie zbierająca dane"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A machine sent into orbit to collect data or relay signals"
+          "en": "A machine sent into orbit to collect data or relay signals",
+          "ko": "궤도에서 데이터를 수집하는 기계",
+          "zh-Hans": "在轨道上收集数据的机器",
+          "ja": "軌道でデータを集める機械",
+          "es": "máquina en órbita que recoge datos",
+          "hi": "कक्षा में डेटा जुटाने वाली मशीन",
+          "de": "Maschine im Orbit zur Datensammlung",
+          "vi": "máy trên quỹ đạo thu thập dữ liệu",
+          "pt-BR": "máquina em órbita que coleta dados",
+          "id": "mesin di orbit untuk mengumpulkan data",
+          "fr": "machine en orbite qui collecte des données",
+          "ar": "آلة في المدار لجمع البيانات",
+          "tr": "yörüngede veri toplayan makine",
+          "it": "macchina in orbita che raccoglie dati",
+          "pl": "maszyna na orbicie zbierająca dane"
         },
         "example": {
           "en": "Germany's Isar Aerospace has put a Spectrum rocket into orbit from Norway, a milestone for European spaceflight."
@@ -44,14 +100,42 @@
     {
       "id": "launch",
       "en": "launch",
-      "ko": "The moment a rocket lifts off and begins its flight",
+      "ko": "로켓이 이륙하는 순간",
       "l1": {
-        "en": "The moment a rocket lifts off and begins its flight"
+        "en": "The moment a rocket lifts off and begins its flight",
+        "ko": "로켓이 이륙하는 순간",
+        "zh-Hans": "火箭升空的时刻",
+        "ja": "ロケットが打ち上げられる瞬間",
+        "es": "momento en que despega el cohete",
+        "hi": "रॉकेट के उड़ान भरने का क्षण",
+        "de": "Moment, in dem die Rakete abhebt",
+        "vi": "thời điểm tên lửa cất cánh",
+        "pt-BR": "momento em que o foguete decola",
+        "id": "saat roket lepas landas",
+        "fr": "moment où la fusée décolle",
+        "ar": "لحظة انطلاق الصاروخ",
+        "tr": "roketin havalandığı an",
+        "it": "momento in cui il razzo decolla",
+        "pl": "moment startu rakiety"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The moment a rocket lifts off and begins its flight"
+          "en": "The moment a rocket lifts off and begins its flight",
+          "ko": "로켓이 이륙하는 순간",
+          "zh-Hans": "火箭升空的时刻",
+          "ja": "ロケットが打ち上げられる瞬間",
+          "es": "momento en que despega el cohete",
+          "hi": "रॉकेट के उड़ान भरने का क्षण",
+          "de": "Moment, in dem die Rakete abhebt",
+          "vi": "thời điểm tên lửa cất cánh",
+          "pt-BR": "momento em que o foguete decola",
+          "id": "saat roket lepas landas",
+          "fr": "moment où la fusée décolle",
+          "ar": "لحظة انطلاق الصاروخ",
+          "tr": "roketin havalandığı an",
+          "it": "momento in cui il razzo decolla",
+          "pl": "moment startu rakiety"
         },
         "example": {
           "en": "Europe wants cheaper access to space as competition with SpaceX reshapes the launch market."
@@ -62,14 +146,42 @@
     {
       "id": "payload",
       "en": "payload",
-      "ko": "The cargo a rocket carries into space",
+      "ko": "로켓이 우주로 운반하는 화물",
       "l1": {
-        "en": "The cargo a rocket carries into space"
+        "en": "The cargo a rocket carries into space",
+        "ko": "로켓이 우주로 운반하는 화물",
+        "zh-Hans": "火箭运往太空的货物",
+        "ja": "ロケットが宇宙へ運ぶ積荷",
+        "es": "carga que lleva el cohete al espacio",
+        "hi": "रॉकेट द्वारा अंतरिक्ष में ले जाया गया माल",
+        "de": "Fracht, die eine Rakete ins All bringt",
+        "vi": "hàng hóa tên lửa mang vào không gian",
+        "pt-BR": "carga que o foguete leva ao espaço",
+        "id": "kargo yang dibawa roket ke angkasa",
+        "fr": "cargaison emportée par la fusée dans l'espace",
+        "ar": "الحمولة التي يحملها الصاروخ إلى الفضاء",
+        "tr": "roketin uzaya taşıdığı yük",
+        "it": "carico che il razzo porta nello spazio",
+        "pl": "ładunek wynoszony przez rakietę w kosmos"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The cargo a rocket carries into space"
+          "en": "The cargo a rocket carries into space",
+          "ko": "로켓이 우주로 운반하는 화물",
+          "zh-Hans": "火箭运往太空的货物",
+          "ja": "ロケットが宇宙へ運ぶ積荷",
+          "es": "carga que lleva el cohete al espacio",
+          "hi": "रॉकेट द्वारा अंतरिक्ष में ले जाया गया माल",
+          "de": "Fracht, die eine Rakete ins All bringt",
+          "vi": "hàng hóa tên lửa mang vào không gian",
+          "pt-BR": "carga que o foguete leva ao espaço",
+          "id": "kargo yang dibawa roket ke angkasa",
+          "fr": "cargaison emportée par la fusée dans l'espace",
+          "ar": "الحمولة التي يحملها الصاروخ إلى الفضاء",
+          "tr": "roketin uzaya taşıdığı yük",
+          "it": "carico che il razzo porta nello spazio",
+          "pl": "ładunek wynoszony przez rakietę w kosmos"
         },
         "example": {
           "en": "The rocket can haul about one tonne of payload."
@@ -80,14 +192,42 @@
     {
       "id": "stage",
       "en": "stage",
-      "ko": "One section of a multi-part rocket",
+      "ko": "다단 로켓의 한 부분",
       "l1": {
-        "en": "One section of a multi-part rocket"
+        "en": "One section of a multi-part rocket",
+        "ko": "다단 로켓의 한 부분",
+        "zh-Hans": "多级火箭的一个部分",
+        "ja": "多段ロケットの一区切り",
+        "es": "una sección de un cohete por etapas",
+        "hi": "बहुचरणीय रॉकेट का एक भाग",
+        "de": "ein Abschnitt einer mehrstufigen Rakete",
+        "vi": "một phần của tên lửa nhiều tầng",
+        "pt-BR": "uma seção de um foguete de múltiplos estágios",
+        "id": "satu bagian dari roket bertingkat",
+        "fr": "une section d'une fusée à étages",
+        "ar": "جزء من صاروخ متعدد المراحل",
+        "tr": "çok kademeli roketin bir bölümü",
+        "it": "una sezione di un razzo a stadi",
+        "pl": "jedna część rakiety wielostopniowej"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "One section of a multi-part rocket"
+          "en": "One section of a multi-part rocket",
+          "ko": "다단 로켓의 한 부분",
+          "zh-Hans": "多级火箭的一个部分",
+          "ja": "多段ロケットの一区切り",
+          "es": "una sección de un cohete por etapas",
+          "hi": "बहुचरणीय रॉकेट का एक भाग",
+          "de": "ein Abschnitt einer mehrstufigen Rakete",
+          "vi": "một phần của tên lửa nhiều tầng",
+          "pt-BR": "uma seção de um foguete de múltiplos estágios",
+          "id": "satu bagian dari roket bertingkat",
+          "fr": "une section d'une fusée à étages",
+          "ar": "جزء من صاروخ متعدد المراحل",
+          "tr": "çok kademeli roketin bir bölümü",
+          "it": "una sezione di un razzo a stadi",
+          "pl": "jedna część rakiety wielostopniowej"
         },
         "example": {
           "en": "ABC News says the twenty-eight-metre two-stage rocket lifted off from Andoya spaceport north of the Arctic Circle."
@@ -98,14 +238,42 @@
     {
       "id": "spaceport",
       "en": "spaceport",
-      "ko": "A facility built for launching rockets",
+      "ko": "로켓 발사를 위한 시설",
       "l1": {
-        "en": "A facility built for launching rockets"
+        "en": "A facility built for launching rockets",
+        "ko": "로켓 발사를 위한 시설",
+        "zh-Hans": "用于发射火箭的设施",
+        "ja": "ロケット打ち上げ用の施設",
+        "es": "instalación para lanzar cohetes",
+        "hi": "रॉकेट छोड़ने की सुविधा",
+        "de": "Anlage zum Starten von Raketen",
+        "vi": "cơ sở phóng tên lửa",
+        "pt-BR": "instalação para lançar foguetes",
+        "id": "fasilitas untuk meluncurkan roket",
+        "fr": "installation pour lancer des fusées",
+        "ar": "منشأة لإطلاق الصواريخ",
+        "tr": "roket fırlatma tesisi",
+        "it": "struttura per lanciare razzi",
+        "pl": "obiekt do wystrzeliwania rakiet"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A facility built for launching rockets"
+          "en": "A facility built for launching rockets",
+          "ko": "로켓 발사를 위한 시설",
+          "zh-Hans": "用于发射火箭的设施",
+          "ja": "ロケット打ち上げ用の施設",
+          "es": "instalación para lanzar cohetes",
+          "hi": "रॉकेट छोड़ने की सुविधा",
+          "de": "Anlage zum Starten von Raketen",
+          "vi": "cơ sở phóng tên lửa",
+          "pt-BR": "instalação para lançar foguetes",
+          "id": "fasilitas untuk meluncurkan roket",
+          "fr": "installation pour lancer des fusées",
+          "ar": "منشأة لإطلاق الصواريخ",
+          "tr": "roket fırlatma tesisi",
+          "it": "struttura per lanciare razzi",
+          "pl": "obiekt do wystrzeliwania rakiet"
         },
         "example": {
           "en": "ABC News says the twenty-eight-metre two-stage rocket lifted off from Andoya spaceport north of the Arctic Circle."
@@ -116,14 +284,42 @@
     {
       "id": "private",
       "en": "private",
-      "ko": "Owned or run by a company rather than a government",
+      "ko": "정부가 아닌 회사가 운영하는",
       "l1": {
-        "en": "Owned or run by a company rather than a government"
+        "en": "Owned or run by a company rather than a government",
+        "ko": "정부가 아닌 회사가 운영하는",
+        "zh-Hans": "由公司而非政府拥有或经营",
+        "ja": "政府ではなく企業が所有・運営する",
+        "es": "de una empresa, no del gobierno",
+        "hi": "सरकार के बजाय कंपनी द्वारा संचालित",
+        "de": "von einer Firma statt vom Staat betrieben",
+        "vi": "do công ty thay vì chính phủ điều hành",
+        "pt-BR": "de propriedade de uma empresa, não do governo",
+        "id": "dimiliki perusahaan, bukan pemerintah",
+        "fr": "géré par une entreprise, pas l'État",
+        "ar": "مملوك لشركة وليس للحكومة",
+        "tr": "devlet yerine şirket tarafından işletilen",
+        "it": "gestito da un'azienda, non dal governo",
+        "pl": "należący do firmy, nie do rządu"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Owned or run by a company rather than a government"
+          "en": "Owned or run by a company rather than a government",
+          "ko": "정부가 아닌 회사가 운영하는",
+          "zh-Hans": "由公司而非政府拥有或经营",
+          "ja": "政府ではなく企業が所有・運営する",
+          "es": "de una empresa, no del gobierno",
+          "hi": "सरकार के बजाय कंपनी द्वारा संचालित",
+          "de": "von einer Firma statt vom Staat betrieben",
+          "vi": "do công ty thay vì chính phủ điều hành",
+          "pt-BR": "de propriedade de uma empresa, não do governo",
+          "id": "dimiliki perusahaan, bukan pemerintah",
+          "fr": "géré par une entreprise, pas l'État",
+          "ar": "مملوك لشركة وليس للحكومة",
+          "tr": "devlet yerine şirket tarafından işletilen",
+          "it": "gestito da un'azienda, non dal governo",
+          "pl": "należący do firmy, nie do rządu"
         },
         "example": {
           "en": "Germany's Isar Aerospace has put a Spectrum rocket into orbit from Norway, a milestone for European spaceflight."
@@ -134,14 +330,42 @@
     {
       "id": "capacity",
       "en": "capacity",
-      "ko": "The ability to produce or carry a certain amount",
+      "ko": "생산하거나 운반할 수 있는 양",
       "l1": {
-        "en": "The ability to produce or carry a certain amount"
+        "en": "The ability to produce or carry a certain amount",
+        "ko": "생산하거나 운반할 수 있는 양",
+        "zh-Hans": "生产或携带一定量的能力",
+        "ja": "生産または運搬できる量",
+        "es": "capacidad de producir o transportar cierta cantidad",
+        "hi": "कुछ मात्रा उत्पादन या ढोने की क्षमता",
+        "de": "Fähigkeit, eine bestimmte Menge zu tragen",
+        "vi": "khả năng sản xuất hoặc chuyên chở một lượng",
+        "pt-BR": "capacidade de produzir ou transportar certa quantidade",
+        "id": "kemampuan memproduksi atau mengangkut sejumlah",
+        "fr": "capacité de produire ou transporter une quantité",
+        "ar": "القدرة على إنتاج أو حمل كمية معينة",
+        "tr": "belirli miktarda üretme veya taşıma yeteneği",
+        "it": "capacità di produrre o trasportare una certa quantità",
+        "pl": "zdolność wytworzenia lub przewiezienia ilości"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The ability to produce or carry a certain amount"
+          "en": "The ability to produce or carry a certain amount",
+          "ko": "생산하거나 운반할 수 있는 양",
+          "zh-Hans": "生产或携带一定量的能力",
+          "ja": "生産または運搬できる量",
+          "es": "capacidad de producir o transportar cierta cantidad",
+          "hi": "कुछ मात्रा उत्पादन या ढोने की क्षमता",
+          "de": "Fähigkeit, eine bestimmte Menge zu tragen",
+          "vi": "khả năng sản xuất hoặc chuyên chở một lượng",
+          "pt-BR": "capacidade de produzir ou transportar certa quantidade",
+          "id": "kemampuan memproduksi atau mengangkut sejumlah",
+          "fr": "capacité de produire ou transporter une quantité",
+          "ar": "القدرة على إنتاج أو حمل كمية معينة",
+          "tr": "belirli miktarda üretme veya taşıma yeteneği",
+          "it": "capacità di produrre o trasportare una certa quantità",
+          "pl": "zdolność wytworzenia lub przewiezienia ilości"
         },
         "example": {
           "en": "Germany's Isar Aerospace has put a Spectrum rocket into orbit from Norway, a milestone for European spaceflight."
@@ -152,14 +376,42 @@
     {
       "id": "independence",
       "en": "independence",
-      "ko": "Freedom from relying on others",
+      "ko": "다른 사람에게 의존하지 않음",
       "l1": {
-        "en": "Freedom from relying on others"
+        "en": "Freedom from relying on others",
+        "ko": "다른 사람에게 의존하지 않음",
+        "zh-Hans": "不依赖他人",
+        "ja": "他人に頼らないこと",
+        "es": "no depender de otros",
+        "hi": "दूसरों पर निर्भरता से मुक्ति",
+        "de": "Unabhängigkeit von anderen",
+        "vi": "không phụ thuộc vào người khác",
+        "pt-BR": "não depender de outros",
+        "id": "tidak bergantung pada orang lain",
+        "fr": "ne pas dépendre des autres",
+        "ar": "عدم الاعتماد على الآخرين",
+        "tr": "başkalarına bağımlı olmama",
+        "it": "non dipendere dagli altri",
+        "pl": "niezależność od innych"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Freedom from relying on others"
+          "en": "Freedom from relying on others",
+          "ko": "다른 사람에게 의존하지 않음",
+          "zh-Hans": "不依赖他人",
+          "ja": "他人に頼らないこと",
+          "es": "no depender de otros",
+          "hi": "दूसरों पर निर्भरता से मुक्ति",
+          "de": "Unabhängigkeit von anderen",
+          "vi": "không phụ thuộc vào người khác",
+          "pt-BR": "não depender de outros",
+          "id": "tidak bergantung pada orang lain",
+          "fr": "ne pas dépendre des autres",
+          "ar": "عدم الاعتماد على الآخرين",
+          "tr": "başkalarına bağımlı olmama",
+          "it": "non dipendere dagli altri",
+          "pl": "niezależność od innych"
         },
         "example": {
           "en": "For English learners, this story links words like launch, payload, and independence with a real shift in who can send satellites to orbit from European soil."
@@ -170,14 +422,42 @@
     {
       "id": "mission",
       "en": "mission",
-      "ko": "A planned operation with a clear goal",
+      "ko": "명확한 목표가 있는 계획된 작전",
       "l1": {
-        "en": "A planned operation with a clear goal"
+        "en": "A planned operation with a clear goal",
+        "ko": "명확한 목표가 있는 계획된 작전",
+        "zh-Hans": "有明确目标的计划行动",
+        "ja": "明確な目標を持つ計画的行動",
+        "es": "operación planificada con un objetivo claro",
+        "hi": "स्पष्ट लक्ष्य वाला नियोजित अभियान",
+        "de": "geplante Operation mit klarem Ziel",
+        "vi": "hoạt động có kế hoạch với mục tiêu rõ ràng",
+        "pt-BR": "operação planejada com objetivo claro",
+        "id": "operasi terencana dengan tujuan jelas",
+        "fr": "opération planifiée avec un but clair",
+        "ar": "عملية مخططة بهدف واضح",
+        "tr": "net hedefi olan planlı operasyon",
+        "it": "operazione pianificata con obiettivo chiaro",
+        "pl": "zaplanowana operacja z jasnym celem"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A planned operation with a clear goal"
+          "en": "A planned operation with a clear goal",
+          "ko": "명확한 목표가 있는 계획된 작전",
+          "zh-Hans": "有明确目标的计划行动",
+          "ja": "明確な目標を持つ計画的行動",
+          "es": "operación planificada con un objetivo claro",
+          "hi": "स्पष्ट लक्ष्य वाला नियोजित अभियान",
+          "de": "geplante Operation mit klarem Ziel",
+          "vi": "hoạt động có kế hoạch với mục tiêu rõ ràng",
+          "pt-BR": "operação planejada com objetivo claro",
+          "id": "operasi terencana dengan tujuan jelas",
+          "fr": "opération planifiée avec un but clair",
+          "ar": "عملية مخططة بهدف واضح",
+          "tr": "net hedefi olan planlı operasyon",
+          "it": "operazione pianificata con obiettivo chiaro",
+          "pl": "zaplanowana operacja z jasnym celem"
         },
         "example": {
           "en": "The mission called Onward and Upward followed months of delays from technical and safety checks."

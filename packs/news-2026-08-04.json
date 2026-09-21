@@ -8,14 +8,42 @@
     {
       "id": "tariff",
       "en": "tariff",
-      "ko": "A tax that a government charges on goods coming into a country.",
+      "ko": "수입품에 부과하는 세금",
       "l1": {
-        "en": "A tax that a government charges on goods coming into a country."
+        "en": "A tax that a government charges on goods coming into a country.",
+        "ko": "수입품에 부과하는 세금",
+        "zh-Hans": "对进口商品征收的税",
+        "ja": "輸入品にかかる関税",
+        "es": "impuesto sobre bienes importados",
+        "hi": "आयातित वस्तुओं पर कर",
+        "de": "Steuer auf importierte Waren",
+        "vi": "thuế đánh vào hàng nhập khẩu",
+        "pt-BR": "imposto sobre bens importados",
+        "id": "pajak atas barang impor",
+        "fr": "taxe sur les biens importés",
+        "ar": "ضريبة على البضائع المستوردة",
+        "tr": "ithal mallara uygulanan vergi",
+        "it": "tassa sulle merci importate",
+        "pl": "podatek od importowanych towarów"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A tax that a government charges on goods coming into a country."
+          "en": "A tax that a government charges on goods coming into a country.",
+          "ko": "수입품에 부과하는 세금",
+          "zh-Hans": "对进口商品征收的税",
+          "ja": "輸入品にかかる関税",
+          "es": "impuesto sobre bienes importados",
+          "hi": "आयातित वस्तुओं पर कर",
+          "de": "Steuer auf importierte Waren",
+          "vi": "thuế đánh vào hàng nhập khẩu",
+          "pt-BR": "imposto sobre bens importados",
+          "id": "pajak atas barang impor",
+          "fr": "taxe sur les biens importés",
+          "ar": "ضريبة على البضائع المستوردة",
+          "tr": "ithal mallara uygulanan vergi",
+          "it": "tassa sulle merci importate",
+          "pl": "podatek od importowanych towarów"
         },
         "example": {
           "en": "President Trump issued three proclamations under Section three hundred thirty-eight of the Tariff Act of nineteen thirty, imposing an additional fifty percent duty on certain Canadian goods."
@@ -26,14 +54,42 @@
     {
       "id": "duty",
       "en": "duty",
-      "ko": "A tax paid on goods brought into or taken out of a country.",
+      "ko": "수출입품에 부과하는 세금",
       "l1": {
-        "en": "A tax paid on goods brought into or taken out of a country."
+        "en": "A tax paid on goods brought into or taken out of a country.",
+        "ko": "수출입품에 부과하는 세금",
+        "zh-Hans": "进出口货物缴纳的税",
+        "ja": "輸出入品にかかる税",
+        "es": "impuesto sobre bienes importados o exportados",
+        "hi": "आयात-निर्यात पर लगने वाला कर",
+        "de": "Steuer auf ein- oder ausgeführte Waren",
+        "vi": "thuế đánh vào hàng xuất nhập khẩu",
+        "pt-BR": "imposto sobre bens importados ou exportados",
+        "id": "pajak atas barang impor atau ekspor",
+        "fr": "taxe sur les marchandises importées ou exportées",
+        "ar": "ضريبة على البضائع المستوردة أو المصدرة",
+        "tr": "ithal veya ihraç edilen mallara vergi",
+        "it": "tassa su merci importate o esportate",
+        "pl": "podatek od towarów importowanych lub eksportowanych"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A tax paid on goods brought into or taken out of a country."
+          "en": "A tax paid on goods brought into or taken out of a country.",
+          "ko": "수출입품에 부과하는 세금",
+          "zh-Hans": "进出口货物缴纳的税",
+          "ja": "輸出入品にかかる税",
+          "es": "impuesto sobre bienes importados o exportados",
+          "hi": "आयात-निर्यात पर लगने वाला कर",
+          "de": "Steuer auf ein- oder ausgeführte Waren",
+          "vi": "thuế đánh vào hàng xuất nhập khẩu",
+          "pt-BR": "imposto sobre bens importados ou exportados",
+          "id": "pajak atas barang impor atau ekspor",
+          "fr": "taxe sur les marchandises importées ou exportées",
+          "ar": "ضريبة على البضائع المستوردة أو المصدرة",
+          "tr": "ithal veya ihraç edilen mallara vergi",
+          "it": "tassa su merci importate o esportate",
+          "pl": "podatek od towarów importowanych lub eksportowanych"
         },
         "example": {
           "en": "President Trump issued three proclamations under Section three hundred thirty-eight of the Tariff Act of nineteen thirty, imposing an additional fifty percent duty on certain Canadian goods."
@@ -44,14 +100,42 @@
     {
       "id": "import",
       "en": "import",
-      "ko": "To bring goods into a country from another country for sale.",
+      "ko": "다른 나라에서 물건을 들여오다",
       "l1": {
-        "en": "To bring goods into a country from another country for sale."
+        "en": "To bring goods into a country from another country for sale.",
+        "ko": "다른 나라에서 물건을 들여오다",
+        "zh-Hans": "从别国进口商品",
+        "ja": "他国から商品を輸入する",
+        "es": "traer bienes de otro país",
+        "hi": "दूसरे देश से माल लाना",
+        "de": "Waren aus einem anderen Land einführen",
+        "vi": "nhập hàng từ nước khác",
+        "pt-BR": "trazer mercadorias de outro país",
+        "id": "membawa barang dari negara lain",
+        "fr": "importer des biens d'un autre pays",
+        "ar": "استيراد البضائع من بلد آخر",
+        "tr": "başka ülkeden mal getirmek",
+        "it": "importare merci da un altro paese",
+        "pl": "sprowadzać towary z innego kraju"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "To bring goods into a country from another country for sale."
+          "en": "To bring goods into a country from another country for sale.",
+          "ko": "다른 나라에서 물건을 들여오다",
+          "zh-Hans": "从别国进口商品",
+          "ja": "他国から商品を輸入する",
+          "es": "traer bienes de otro país",
+          "hi": "दूसरे देश से माल लाना",
+          "de": "Waren aus einem anderen Land einführen",
+          "vi": "nhập hàng từ nước khác",
+          "pt-BR": "trazer mercadorias de outro país",
+          "id": "membawa barang dari negara lain",
+          "fr": "importer des biens d'un autre pays",
+          "ar": "استيراد البضائع من بلد آخر",
+          "tr": "başka ülkeden mal getirmek",
+          "it": "importare merci da un altro paese",
+          "pl": "sprowadzać towary z innego kraju"
         },
         "example": {
           "en": "President Trump issued three proclamations under Section three hundred thirty-eight of the Tariff Act of nineteen thirty, imposing an additional fifty percent duty on certain Canadian goods."
@@ -62,14 +146,42 @@
     {
       "id": "export",
       "en": "export",
-      "ko": "To send goods to another country for sale.",
+      "ko": "다른 나라로 물건을 보내다",
       "l1": {
-        "en": "To send goods to another country for sale."
+        "en": "To send goods to another country for sale.",
+        "ko": "다른 나라로 물건을 보내다",
+        "zh-Hans": "向别国出口商品",
+        "ja": "他国へ商品を輸出する",
+        "es": "enviar bienes a otro país",
+        "hi": "दूसरे देश को माल भेजना",
+        "de": "Waren in ein anderes Land ausführen",
+        "vi": "xuất hàng sang nước khác",
+        "pt-BR": "enviar mercadorias para outro país",
+        "id": "mengirim barang ke negara lain",
+        "fr": "exporter des biens vers un autre pays",
+        "ar": "تصدير البضائع إلى بلد آخر",
+        "tr": "başka ülkeye mal göndermek",
+        "it": "esportare merci in un altro paese",
+        "pl": "wysyłać towary do innego kraju"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "To send goods to another country for sale."
+          "en": "To send goods to another country for sale.",
+          "ko": "다른 나라로 물건을 보내다",
+          "zh-Hans": "向别国出口商品",
+          "ja": "他国へ商品を輸出する",
+          "es": "enviar bienes a otro país",
+          "hi": "दूसरे देश को माल भेजना",
+          "de": "Waren in ein anderes Land ausführen",
+          "vi": "xuất hàng sang nước khác",
+          "pt-BR": "enviar mercadorias para outro país",
+          "id": "mengirim barang ke negara lain",
+          "fr": "exporter des biens vers un autre pays",
+          "ar": "تصدير البضائع إلى بلد آخر",
+          "tr": "başka ülkeye mal göndermek",
+          "it": "esportare merci in un altro paese",
+          "pl": "wysyłać towary do innego kraju"
         },
         "example": {
           "en": "President Trump issued three proclamations under Section three hundred thirty-eight of the Tariff Act of nineteen thirty, imposing an additional fifty percent duty on certain Canadian goods."
@@ -80,14 +192,42 @@
     {
       "id": "proclamation",
       "en": "proclamation",
-      "ko": "An official public announcement or order.",
+      "ko": "공식적인 발표나 명령",
       "l1": {
-        "en": "An official public announcement or order."
+        "en": "An official public announcement or order.",
+        "ko": "공식적인 발표나 명령",
+        "zh-Hans": "官方公告或命令",
+        "ja": "公式の発表や命令",
+        "es": "anuncio o decreto oficial",
+        "hi": "आधिकारिक घोषणा या आदेश",
+        "de": "offizielle Bekanntmachung oder Anordnung",
+        "vi": "thông báo hoặc lệnh chính thức",
+        "pt-BR": "anúncio ou ordem oficial",
+        "id": "pengumuman atau perintah resmi",
+        "fr": "annonce ou ordre officiel",
+        "ar": "إعلان أو أمر رسمي",
+        "tr": "resmi duyuru veya emir",
+        "it": "annuncio o ordine ufficiale",
+        "pl": "oficjalne ogłoszenie lub zarządzenie"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "An official public announcement or order."
+          "en": "An official public announcement or order.",
+          "ko": "공식적인 발표나 명령",
+          "zh-Hans": "官方公告或命令",
+          "ja": "公式の発表や命令",
+          "es": "anuncio o decreto oficial",
+          "hi": "आधिकारिक घोषणा या आदेश",
+          "de": "offizielle Bekanntmachung oder Anordnung",
+          "vi": "thông báo hoặc lệnh chính thức",
+          "pt-BR": "anúncio ou ordem oficial",
+          "id": "pengumuman atau perintah resmi",
+          "fr": "annonce ou ordre officiel",
+          "ar": "إعلان أو أمر رسمي",
+          "tr": "resmi duyuru veya emir",
+          "it": "annuncio o ordine ufficiale",
+          "pl": "oficjalne ogłoszenie lub zarządzenie"
         },
         "example": {
           "en": "President Trump issued three proclamations under Section three hundred thirty-eight of the Tariff Act of nineteen thirty, imposing an additional fifty percent duty on certain Canadian goods."
@@ -98,14 +238,42 @@
     {
       "id": "discrimination",
       "en": "discrimination",
-      "ko": "Unfair treatment of one group compared with another.",
+      "ko": "한 집단을 불공정하게 대우함",
       "l1": {
-        "en": "Unfair treatment of one group compared with another."
+        "en": "Unfair treatment of one group compared with another.",
+        "ko": "한 집단을 불공정하게 대우함",
+        "zh-Hans": "对某群体的不公平对待",
+        "ja": "ある集団への不公平な扱い",
+        "es": "trato injusto hacia un grupo",
+        "hi": "किसी समूह के साथ अन्यायपूर्ण व्यवहार",
+        "de": "unfaire Behandlung einer Gruppe",
+        "vi": "đối xử bất công với một nhóm",
+        "pt-BR": "tratamento injusto de um grupo",
+        "id": "perlakuan tidak adil terhadap kelompok",
+        "fr": "traitement injuste d'un groupe",
+        "ar": "معاملة غير عادلة لمجموعة",
+        "tr": "bir gruba adaletsiz davranma",
+        "it": "trattamento ingiusto di un gruppo",
+        "pl": "niesprawiedliwe traktowanie grupy"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Unfair treatment of one group compared with another."
+          "en": "Unfair treatment of one group compared with another.",
+          "ko": "한 집단을 불공정하게 대우함",
+          "zh-Hans": "对某群体的不公平对待",
+          "ja": "ある集団への不公平な扱い",
+          "es": "trato injusto hacia un grupo",
+          "hi": "किसी समूह के साथ अन्यायपूर्ण व्यवहार",
+          "de": "unfaire Behandlung einer Gruppe",
+          "vi": "đối xử bất công với một nhóm",
+          "pt-BR": "tratamento injusto de um grupo",
+          "id": "perlakuan tidak adil terhadap kelompok",
+          "fr": "traitement injuste d'un groupe",
+          "ar": "معاملة غير عادلة لمجموعة",
+          "tr": "bir gruba adaletsiz davranma",
+          "it": "trattamento ingiusto di un gruppo",
+          "pl": "niesprawiedliwe traktowanie grupy"
         },
         "example": {
           "en": "President Trump issued three proclamations under Section three hundred thirty-eight of the Tariff Act of nineteen thirty, imposing an additional fifty percent duty on certain Canadian goods."
@@ -116,14 +284,42 @@
     {
       "id": "exclusion",
       "en": "exclusion",
-      "ko": "The act of leaving something or someone out.",
+      "ko": "제외",
       "l1": {
-        "en": "The act of leaving something or someone out."
+        "en": "The act of leaving something or someone out.",
+        "ko": "제외",
+        "zh-Hans": "排除",
+        "ja": "除外",
+        "es": "exclusión",
+        "hi": "बहिष्करण",
+        "de": "Ausschluss",
+        "vi": "sự loại trừ",
+        "pt-BR": "exclusão",
+        "id": "pengecualian",
+        "fr": "exclusion",
+        "ar": "استبعاد",
+        "tr": "dışlama",
+        "it": "esclusione",
+        "pl": "wykluczenie"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "The act of leaving something or someone out."
+          "en": "The act of leaving something or someone out.",
+          "ko": "제외",
+          "zh-Hans": "排除",
+          "ja": "除外",
+          "es": "exclusión",
+          "hi": "बहिष्करण",
+          "de": "Ausschluss",
+          "vi": "sự loại trừ",
+          "pt-BR": "exclusão",
+          "id": "pengecualian",
+          "fr": "exclusion",
+          "ar": "استبعاد",
+          "tr": "dışlama",
+          "it": "esclusione",
+          "pl": "wykluczenie"
         },
         "example": {
           "en": "President Trump issued three proclamations under Section three hundred thirty-eight of the Tariff Act of nineteen thirty, imposing an additional fifty percent duty on certain Canadian goods."
@@ -134,14 +330,42 @@
     {
       "id": "agreement",
       "en": "agreement",
-      "ko": "An official arrangement or promise between two or more sides.",
+      "ko": "협정",
       "l1": {
-        "en": "An official arrangement or promise between two or more sides."
+        "en": "An official arrangement or promise between two or more sides.",
+        "ko": "협정",
+        "zh-Hans": "协议",
+        "ja": "協定",
+        "es": "acuerdo",
+        "hi": "समझौता",
+        "de": "Vereinbarung",
+        "vi": "thỏa thuận",
+        "pt-BR": "acordo",
+        "id": "perjanjian",
+        "fr": "accord",
+        "ar": "اتفاق",
+        "tr": "anlaşma",
+        "it": "accordo",
+        "pl": "umowa"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "An official arrangement or promise between two or more sides."
+          "en": "An official arrangement or promise between two or more sides.",
+          "ko": "협정",
+          "zh-Hans": "协议",
+          "ja": "協定",
+          "es": "acuerdo",
+          "hi": "समझौता",
+          "de": "Vereinbarung",
+          "vi": "thỏa thuận",
+          "pt-BR": "acordo",
+          "id": "perjanjian",
+          "fr": "accord",
+          "ar": "اتفاق",
+          "tr": "anlaşma",
+          "it": "accordo",
+          "pl": "umowa"
         },
         "example": {
           "en": "They generally apply to covered Canadian goods regardless of whether those goods qualify for preferential treatment under the United States Mexico Canada Agreement, also known as USMCA, subject to specified exclusions."
@@ -152,14 +376,42 @@
     {
       "id": "commerce",
       "en": "commerce",
-      "ko": "The buying and selling of goods and services.",
+      "ko": "상업",
       "l1": {
-        "en": "The buying and selling of goods and services."
+        "en": "The buying and selling of goods and services.",
+        "ko": "상업",
+        "zh-Hans": "商业",
+        "ja": "商業",
+        "es": "comercio",
+        "hi": "वाणिज्य",
+        "de": "Handel",
+        "vi": "thương mại",
+        "pt-BR": "comércio",
+        "id": "perdagangan",
+        "fr": "commerce",
+        "ar": "تجارة",
+        "tr": "ticaret",
+        "it": "commercio",
+        "pl": "handel"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The buying and selling of goods and services."
+          "en": "The buying and selling of goods and services.",
+          "ko": "상업",
+          "zh-Hans": "商业",
+          "ja": "商業",
+          "es": "comercio",
+          "hi": "वाणिज्य",
+          "de": "Handel",
+          "vi": "thương mại",
+          "pt-BR": "comércio",
+          "id": "perdagangan",
+          "fr": "commerce",
+          "ar": "تجارة",
+          "tr": "ticaret",
+          "it": "commercio",
+          "pl": "handel"
         },
         "example": {
           "en": "President Trump issued three proclamations under Section three hundred thirty-eight of the Tariff Act of nineteen thirty, imposing an additional fifty percent duty on certain Canadian goods."
@@ -170,14 +422,42 @@
     {
       "id": "offset",
       "en": "offset",
-      "ko": "To balance or cancel out an effect.",
+      "ko": "상쇄하다",
       "l1": {
-        "en": "To balance or cancel out an effect."
+        "en": "To balance or cancel out an effect.",
+        "ko": "상쇄하다",
+        "zh-Hans": "抵消",
+        "ja": "相殺する",
+        "es": "compensar",
+        "hi": "काटना",
+        "de": "ausgleichen",
+        "vi": "bù đắp",
+        "pt-BR": "compensar",
+        "id": "mengimbangi",
+        "fr": "compenser",
+        "ar": "يعوض",
+        "tr": "dengelemek",
+        "it": "compensare",
+        "pl": "zrównoważyć"
       },
       "ww": {
         "pos": "v",
         "def": {
-          "en": "To balance or cancel out an effect."
+          "en": "To balance or cancel out an effect.",
+          "ko": "상쇄하다",
+          "zh-Hans": "抵消",
+          "ja": "相殺する",
+          "es": "compensar",
+          "hi": "काटना",
+          "de": "ausgleichen",
+          "vi": "bù đắp",
+          "pt-BR": "compensar",
+          "id": "mengimbangi",
+          "fr": "compenser",
+          "ar": "يعوض",
+          "tr": "dengelemek",
+          "it": "compensare",
+          "pl": "zrównoważyć"
         },
         "example": {
           "en": "President Trump issued three proclamations under Section three hundred thirty-eight of the Tariff Act of nineteen thirty, imposing an additional fifty percent duty on certain Canadian goods."

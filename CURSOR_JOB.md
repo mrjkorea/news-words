@@ -7,9 +7,9 @@ GitHub Pages: main branch, / root. Include .nojekyll.
 DATA (already here — do not invent words):
 - packs/index.json = date catalog (newest first)
 - packs/news-YYYY-MM-DD.json = 10-word packs
-Schema per pack: date, timezone=KST, headline, youtube_url, word_count=10,
-words: [{en, pos, def_en, example_en, sense_note}]
-English defs only. No Korean/IPA in JSON.
+Marketing SOURCE json is English-only (def_en). Student pack JSON on GitHub
+MUST include 15 L1 glosses per word (en,ko,zh-Hans,ja,es,hi,de,vi,pt-BR,id,fr,ar,tr,it,pl)
+plus `ko` = Hangul gloss. Factory fills L1. Never ship l1.en-only.
 
 STUDENT PATH:
 1. days.html lists dates only (newest first). Mobile-first. Whole row is the tap.

@@ -8,14 +8,42 @@
     {
       "id": "quantum",
       "en": "quantum",
-      "ko": "Relating to the smallest possible units of energy and matter in physics.",
+      "ko": "양자",
       "l1": {
-        "en": "Relating to the smallest possible units of energy and matter in physics."
+        "en": "Relating to the smallest possible units of energy and matter in physics.",
+        "ko": "양자",
+        "zh-Hans": "量子",
+        "ja": "量子",
+        "es": "cuántico",
+        "hi": "क्वांटम",
+        "de": "Quanten-",
+        "vi": "lượng tử",
+        "pt-BR": "quântico",
+        "id": "kuantum",
+        "fr": "quantique",
+        "ar": "كمي",
+        "tr": "kuantum",
+        "it": "quantistico",
+        "pl": "kwantowy"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Relating to the smallest possible units of energy and matter in physics."
+          "en": "Relating to the smallest possible units of energy and matter in physics.",
+          "ko": "양자",
+          "zh-Hans": "量子",
+          "ja": "量子",
+          "es": "cuántico",
+          "hi": "क्वांटम",
+          "de": "Quanten-",
+          "vi": "lượng tử",
+          "pt-BR": "quântico",
+          "id": "kuantum",
+          "fr": "quantique",
+          "ar": "كمي",
+          "tr": "kuantum",
+          "it": "quantistico",
+          "pl": "kwantowy"
         },
         "example": {
           "en": "Researchers have achieved the first real-world demonstration of quantum entanglement over a busy telecommunications fiber network."
@@ -26,14 +54,42 @@
     {
       "id": "photon",
       "en": "photon",
-      "ko": "A tiny particle of light energy.",
+      "ko": "광자",
       "l1": {
-        "en": "A tiny particle of light energy."
+        "en": "A tiny particle of light energy.",
+        "ko": "광자",
+        "zh-Hans": "光子",
+        "ja": "光子",
+        "es": "fotón",
+        "hi": "फोटॉन",
+        "de": "Photon",
+        "vi": "photon",
+        "pt-BR": "fóton",
+        "id": "foton",
+        "fr": "photon",
+        "ar": "فوتون",
+        "tr": "foton",
+        "it": "fotone",
+        "pl": "foton"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A tiny particle of light energy."
+          "en": "A tiny particle of light energy.",
+          "ko": "광자",
+          "zh-Hans": "光子",
+          "ja": "光子",
+          "es": "fotón",
+          "hi": "फोटॉन",
+          "de": "Photon",
+          "vi": "photon",
+          "pt-BR": "fóton",
+          "id": "foton",
+          "fr": "photon",
+          "ar": "فوتون",
+          "tr": "foton",
+          "it": "fotone",
+          "pl": "foton"
         },
         "example": {
           "en": "A single photon carrying quantum information traveled more than twenty-four kilometers through an optical fiber already crowded with powerful internet signals, and it reached downtown Chicago still entangled with its partner at Northwestern University."
@@ -44,14 +100,42 @@
     {
       "id": "fiber",
       "en": "fiber",
-      "ko": "A thin thread-like material especially a glass thread that carries light signals.",
+      "ko": "섬유",
       "l1": {
-        "en": "A thin thread-like material especially a glass thread that carries light signals."
+        "en": "A thin thread-like material especially a glass thread that carries light signals.",
+        "ko": "섬유",
+        "zh-Hans": "纤维",
+        "ja": "ファイバー",
+        "es": "fibra",
+        "hi": "फाइबर",
+        "de": "Faser",
+        "vi": "sợi",
+        "pt-BR": "fibra",
+        "id": "serat",
+        "fr": "fibre",
+        "ar": "ألياف",
+        "tr": "lif",
+        "it": "fibra",
+        "pl": "włókno"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A thin thread-like material especially a glass thread that carries light signals."
+          "en": "A thin thread-like material especially a glass thread that carries light signals.",
+          "ko": "섬유",
+          "zh-Hans": "纤维",
+          "ja": "ファイバー",
+          "es": "fibra",
+          "hi": "फाइबर",
+          "de": "Faser",
+          "vi": "sợi",
+          "pt-BR": "fibra",
+          "id": "serat",
+          "fr": "fibre",
+          "ar": "ألياف",
+          "tr": "lif",
+          "it": "fibra",
+          "pl": "włókno"
         },
         "example": {
           "en": "Researchers have achieved the first real-world demonstration of quantum entanglement over a busy telecommunications fiber network."
@@ -62,14 +146,42 @@
     {
       "id": "entangled",
       "en": "entangled",
-      "ko": "Connected in a way that the state of one particle affects another even at a distance.",
+      "ko": "얽힌",
       "l1": {
-        "en": "Connected in a way that the state of one particle affects another even at a distance."
+        "en": "Connected in a way that the state of one particle affects another even at a distance.",
+        "ko": "얽힌",
+        "zh-Hans": "纠缠的",
+        "ja": "もつれた",
+        "es": "entrelazado",
+        "hi": "उलझा हुआ",
+        "de": "verschränkt",
+        "vi": "vướng víu",
+        "pt-BR": "emaranhado",
+        "id": "terjerat",
+        "fr": "intriqué",
+        "ar": "متشابك",
+        "tr": "dolanık",
+        "it": "intrecciato",
+        "pl": "splątany"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Connected in a way that the state of one particle affects another even at a distance."
+          "en": "Connected in a way that the state of one particle affects another even at a distance.",
+          "ko": "얽힌",
+          "zh-Hans": "纠缠的",
+          "ja": "もつれた",
+          "es": "entrelazado",
+          "hi": "उलझा हुआ",
+          "de": "verschränkt",
+          "vi": "vướng víu",
+          "pt-BR": "emaranhado",
+          "id": "terjerat",
+          "fr": "intriqué",
+          "ar": "متشابك",
+          "tr": "dolanık",
+          "it": "intrecciato",
+          "pl": "splątany"
         },
         "example": {
           "en": "A single photon carrying quantum information traveled more than twenty-four kilometers through an optical fiber already crowded with powerful internet signals, and it reached downtown Chicago still entangled with its partner at Northwestern University."
@@ -80,14 +192,42 @@
     {
       "id": "fidelity",
       "en": "fidelity",
-      "ko": "The degree of exactness with which something is copied or transmitted.",
+      "ko": "복사나 전송의 정확도",
       "l1": {
-        "en": "The degree of exactness with which something is copied or transmitted."
+        "en": "The degree of exactness with which something is copied or transmitted.",
+        "ko": "복사나 전송의 정확도",
+        "zh-Hans": "复制或传输的精确度",
+        "ja": "複製や伝送の正確さ",
+        "es": "grado de exactitud de una copia",
+        "hi": "प्रतिलिपि या संचरण की सटीकता",
+        "de": "Genauigkeit einer Kopie oder Übertragung",
+        "vi": "độ chính xác khi sao chép hoặc truyền",
+        "pt-BR": "grau de exatidão de uma cópia",
+        "id": "tingkat ketepatan salinan atau transmisi",
+        "fr": "degré d'exactitude d'une copie",
+        "ar": "درجة دقة النسخ أو النقل",
+        "tr": "kopya veya iletimdeki doğruluk derecesi",
+        "it": "grado di esattezza di una copia",
+        "pl": "stopień dokładności kopii lub transmisji"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The degree of exactness with which something is copied or transmitted."
+          "en": "The degree of exactness with which something is copied or transmitted.",
+          "ko": "복사나 전송의 정확도",
+          "zh-Hans": "复制或传输的精确度",
+          "ja": "複製や伝送の正確さ",
+          "es": "grado de exactitud de una copia",
+          "hi": "प्रतिलिपि या संचरण की सटीकता",
+          "de": "Genauigkeit einer Kopie oder Übertragung",
+          "vi": "độ chính xác khi sao chép hoặc truyền",
+          "pt-BR": "grau de exatidão de uma cópia",
+          "id": "tingkat ketepatan salinan atau transmisi",
+          "fr": "degré d'exactitude d'une copie",
+          "ar": "درجة دقة النسخ أو النقل",
+          "tr": "kopya veya iletimdeki doğruluk derecesi",
+          "it": "grado di esattezza di una copia",
+          "pl": "stopień dokładności kopii lub transmisji"
         },
         "example": {
           "en": "The quantum connection retained more than ninety-four percent fidelity, showing that delicate quantum signals can survive alongside conventional data streams in existing infrastructure."
@@ -98,14 +238,42 @@
     {
       "id": "wavelength",
       "en": "wavelength",
-      "ko": "The distance between two peaks of a wave such as a light or sound wave.",
+      "ko": "파동의 두 마루 사이 거리",
       "l1": {
-        "en": "The distance between two peaks of a wave such as a light or sound wave."
+        "en": "The distance between two peaks of a wave such as a light or sound wave.",
+        "ko": "파동의 두 마루 사이 거리",
+        "zh-Hans": "波的两个波峰之间的距离",
+        "ja": "波の山から山までの距離",
+        "es": "distancia entre dos crestas de una onda",
+        "hi": "तरंग के दो शिखरों के बीच की दूरी",
+        "de": "Abstand zwischen zwei Wellenbergen",
+        "vi": "khoảng cách giữa hai đỉnh sóng",
+        "pt-BR": "distância entre duas cristas de onda",
+        "id": "jarak antara dua puncak gelombang",
+        "fr": "distance entre deux crêtes d'onde",
+        "ar": "المسافة بين قمتين لموجة",
+        "tr": "iki dalga tepesi arasındaki mesafe",
+        "it": "distanza tra due creste d'onda",
+        "pl": "odległość między dwoma szczytami fali"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The distance between two peaks of a wave such as a light or sound wave."
+          "en": "The distance between two peaks of a wave such as a light or sound wave.",
+          "ko": "파동의 두 마루 사이 거리",
+          "zh-Hans": "波的两个波峰之间的距离",
+          "ja": "波の山から山までの距離",
+          "es": "distancia entre dos crestas de una onda",
+          "hi": "तरंग के दो शिखरों के बीच की दूरी",
+          "de": "Abstand zwischen zwei Wellenbergen",
+          "vi": "khoảng cách giữa hai đỉnh sóng",
+          "pt-BR": "distância entre duas cristas de onda",
+          "id": "jarak antara dua puncak gelombang",
+          "fr": "distance entre deux crêtes d'onde",
+          "ar": "المسافة بين قمتين لموجة",
+          "tr": "iki dalga tepesi arasındaki mesafe",
+          "it": "distanza tra due creste d'onda",
+          "pl": "odległość między dwoma szczytami fali"
         },
         "example": {
           "en": "Researchers have achieved the first real-world demonstration of quantum entanglement over a busy telecommunications fiber network."
@@ -116,14 +284,42 @@
     {
       "id": "interference",
       "en": "interference",
-      "ko": "Disruption that disturbs a signal or process.",
+      "ko": "신호나 과정을 방해하는 일",
       "l1": {
-        "en": "Disruption that disturbs a signal or process."
+        "en": "Disruption that disturbs a signal or process.",
+        "ko": "신호나 과정을 방해하는 일",
+        "zh-Hans": "干扰信号或过程的因素",
+        "ja": "信号や過程を妨害すること",
+        "es": "interrupción que perturba una señal",
+        "hi": "संकेत या प्रक्रिया में बाधा",
+        "de": "Störung eines Signals oder Ablaufs",
+        "vi": "sự nhiễu loạn tín hiệu hoặc quá trình",
+        "pt-BR": "perturbação que afeta um sinal",
+        "id": "gangguan yang mengacaukan sinyal",
+        "fr": "perturbation d'un signal ou processus",
+        "ar": "تشويش يعطل إشارة أو عملية",
+        "tr": "sinyali veya süreci bozan girişim",
+        "it": "disturbo che perturba un segnale",
+        "pl": "zakłócenie sygnału lub procesu"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Disruption that disturbs a signal or process."
+          "en": "Disruption that disturbs a signal or process.",
+          "ko": "신호나 과정을 방해하는 일",
+          "zh-Hans": "干扰信号或过程的因素",
+          "ja": "信号や過程を妨害すること",
+          "es": "interrupción que perturba una señal",
+          "hi": "संकेत या प्रक्रिया में बाधा",
+          "de": "Störung eines Signals oder Ablaufs",
+          "vi": "sự nhiễu loạn tín hiệu hoặc quá trình",
+          "pt-BR": "perturbação que afeta um sinal",
+          "id": "gangguan yang mengacaukan sinyal",
+          "fr": "perturbation d'un signal ou processus",
+          "ar": "تشويش يعطل إشارة أو عملية",
+          "tr": "sinyali veya süreci bozan girişim",
+          "it": "disturbo che perturba un segnale",
+          "pl": "zakłócenie sygnału lub procesu"
         },
         "example": {
           "en": "Researchers have achieved the first real-world demonstration of quantum entanglement over a busy telecommunications fiber network."
@@ -134,14 +330,42 @@
     {
       "id": "teleportation",
       "en": "teleportation",
-      "ko": "The theoretical transfer of matter or information from one place to another instantly.",
+      "ko": "물질이나 정보를 순간 이동시키는 이론",
       "l1": {
-        "en": "The theoretical transfer of matter or information from one place to another instantly."
+        "en": "The theoretical transfer of matter or information from one place to another instantly.",
+        "ko": "물질이나 정보를 순간 이동시키는 이론",
+        "zh-Hans": "物质或信息瞬间转移的理论",
+        "ja": "物質や情報を瞬間移動させる理論",
+        "es": "transferencia instantánea teórica de materia",
+        "hi": "पदार्थ या सूचना के तत्काल स्थानांतरण का सिद्धांत",
+        "de": "theoretische sofortige Übertragung von Materie",
+        "vi": "lý thuyết chuyển vật chất tức thời",
+        "pt-BR": "transferência instantânea teórica de matéria",
+        "id": "teori pemindahan materi secara instan",
+        "fr": "transfert instantané théorique de matière",
+        "ar": "نقل فوري نظري للمادة أو المعلومات",
+        "tr": "maddenin anında ışınlanması teorisi",
+        "it": "trasferimento istantaneo teorico di materia",
+        "pl": "teoretyczne natychmiastowe przenoszenie materii"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The theoretical transfer of matter or information from one place to another instantly."
+          "en": "The theoretical transfer of matter or information from one place to another instantly.",
+          "ko": "물질이나 정보를 순간 이동시키는 이론",
+          "zh-Hans": "物质或信息瞬间转移的理论",
+          "ja": "物質や情報を瞬間移動させる理論",
+          "es": "transferencia instantánea teórica de materia",
+          "hi": "पदार्थ या सूचना के तत्काल स्थानांतरण का सिद्धांत",
+          "de": "theoretische sofortige Übertragung von Materie",
+          "vi": "lý thuyết chuyển vật chất tức thời",
+          "pt-BR": "transferência instantânea teórica de matéria",
+          "id": "teori pemindahan materi secara instan",
+          "fr": "transfert instantané théorique de matière",
+          "ar": "نقل فوري نظري للمادة أو المعلومات",
+          "tr": "maddenin anında ışınlanması teorisi",
+          "it": "trasferimento istantaneo teorico di materia",
+          "pl": "teoretyczne natychmiastowe przenoszenie materii"
         },
         "example": {
           "en": "The team now plans to attempt quantum teleportation between remote nodes through a real telecommunications network."
@@ -152,14 +376,42 @@
     {
       "id": "network",
       "en": "network",
-      "ko": "A group of computers or devices connected to share information.",
+      "ko": "정보를 공유하도록 연결된 컴퓨터 집단",
       "l1": {
-        "en": "A group of computers or devices connected to share information."
+        "en": "A group of computers or devices connected to share information.",
+        "ko": "정보를 공유하도록 연결된 컴퓨터 집단",
+        "zh-Hans": "连接共享信息的计算机群",
+        "ja": "情報共有のために接続されたコンピュータ群",
+        "es": "grupo de computadoras conectadas",
+        "hi": "सूचना साझा करने हेतु जुड़े कंप्यूटरों का समूह",
+        "de": "Verbund vernetzter Computer",
+        "vi": "nhóm máy tính được kết nối",
+        "pt-BR": "grupo de computadores conectados",
+        "id": "kelompok komputer yang terhubung",
+        "fr": "groupe d'ordinateurs connectés",
+        "ar": "مجموعة حواسيب متصلة لتبادل المعلومات",
+        "tr": "bilgi paylaşan bağlı bilgisayar grubu",
+        "it": "gruppo di computer collegati",
+        "pl": "grupa połączonych komputerów"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A group of computers or devices connected to share information."
+          "en": "A group of computers or devices connected to share information.",
+          "ko": "정보를 공유하도록 연결된 컴퓨터 집단",
+          "zh-Hans": "连接共享信息的计算机群",
+          "ja": "情報共有のために接続されたコンピュータ群",
+          "es": "grupo de computadoras conectadas",
+          "hi": "सूचना साझा करने हेतु जुड़े कंप्यूटरों का समूह",
+          "de": "Verbund vernetzter Computer",
+          "vi": "nhóm máy tính được kết nối",
+          "pt-BR": "grupo de computadores conectados",
+          "id": "kelompok komputer yang terhubung",
+          "fr": "groupe d'ordinateurs connectés",
+          "ar": "مجموعة حواسيب متصلة لتبادل المعلومات",
+          "tr": "bilgi paylaşan bağlı bilgisayar grubu",
+          "it": "gruppo di computer collegati",
+          "pl": "grupa połączonych komputerów"
         },
         "example": {
           "en": "Researchers have achieved the first real-world demonstration of quantum entanglement over a busy telecommunications fiber network."
@@ -170,14 +422,42 @@
     {
       "id": "metropolitan",
       "en": "metropolitan",
-      "ko": "Relating to a large city and its surrounding area.",
+      "ko": "대도시와 주변 지역에 관한",
       "l1": {
-        "en": "Relating to a large city and its surrounding area."
+        "en": "Relating to a large city and its surrounding area.",
+        "ko": "대도시와 주변 지역에 관한",
+        "zh-Hans": "关于大城市及其周边地区的",
+        "ja": "大都市とその周辺に関する",
+        "es": "relativo a una gran ciudad y su área",
+        "hi": "बड़े शहर और उसके आसपास से संबंधित",
+        "de": "eine Großstadt und Umgebung betreffend",
+        "vi": "liên quan đến thành phố lớn và vùng phụ cận",
+        "pt-BR": "relativo a uma grande cidade e arredores",
+        "id": "berkaitan dengan kota besar dan sekitarnya",
+        "fr": "relatif à une grande ville et sa région",
+        "ar": "متعلق بمدينة كبيرة وضواحيها",
+        "tr": "büyük şehir ve çevresiyle ilgili",
+        "it": "relativo a una grande città e dintorni",
+        "pl": "dotyczący wielkiego miasta i okolic"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Relating to a large city and its surrounding area."
+          "en": "Relating to a large city and its surrounding area.",
+          "ko": "대도시와 주변 지역에 관한",
+          "zh-Hans": "关于大城市及其周边地区的",
+          "ja": "大都市とその周辺に関する",
+          "es": "relativo a una gran ciudad y su área",
+          "hi": "बड़े शहर और उसके आसपास से संबंधित",
+          "de": "eine Großstadt und Umgebung betreffend",
+          "vi": "liên quan đến thành phố lớn và vùng phụ cận",
+          "pt-BR": "relativo a uma grande cidade e arredores",
+          "id": "berkaitan dengan kota besar dan sekitarnya",
+          "fr": "relatif à une grande ville et sa région",
+          "ar": "متعلق بمدينة كبيرة وضواحيها",
+          "tr": "büyük şehir ve çevresiyle ilgili",
+          "it": "relativo a una grande città e dintorni",
+          "pl": "dotyczący wielkiego miasta i okolic"
         },
         "example": {
           "en": "Researchers have achieved the first real-world demonstration of quantum entanglement over a busy telecommunications fiber network."

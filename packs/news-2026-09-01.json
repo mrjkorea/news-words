@@ -8,14 +8,42 @@
     {
       "id": "hurdles",
       "en": "hurdles",
-      "ko": "A race where runners jump over barriers on a track",
+      "ko": "트랙에서 장애물을 뛰어넘는 경주",
       "l1": {
-        "en": "A race where runners jump over barriers on a track"
+        "en": "A race where runners jump over barriers on a track",
+        "ko": "트랙에서 장애물을 뛰어넘는 경주",
+        "zh-Hans": "在跑道上跨越障碍物的赛跑",
+        "ja": "トラックで障害物を跳び越える競走",
+        "es": "carrera con obstáculos en una pista",
+        "hi": "ट्रैक पर बाधाएँ कूदने की दौड़",
+        "de": "Rennen mit Hürden auf der Bahn",
+        "vi": "cuộc đua vượt rào trên đường chạy",
+        "pt-BR": "corrida com barreiras numa pista",
+        "id": "lomba lari melompati rintangan di lintasan",
+        "fr": "course avec obstacles sur une piste",
+        "ar": "سباق قفز فوق الحواجز على المضمار",
+        "tr": "pistte engel aşarak koşulan yarış",
+        "it": "corsa a ostacoli su una pista",
+        "pl": "bieg przez płotki na bieżni"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A race where runners jump over barriers on a track"
+          "en": "A race where runners jump over barriers on a track",
+          "ko": "트랙에서 장애물을 뛰어넘는 경주",
+          "zh-Hans": "在跑道上跨越障碍物的赛跑",
+          "ja": "トラックで障害物を跳び越える競走",
+          "es": "carrera con obstáculos en una pista",
+          "hi": "ट्रैक पर बाधाएँ कूदने की दौड़",
+          "de": "Rennen mit Hürden auf der Bahn",
+          "vi": "cuộc đua vượt rào trên đường chạy",
+          "pt-BR": "corrida com barreiras numa pista",
+          "id": "lomba lari melompati rintangan di lintasan",
+          "fr": "course avec obstacles sur une piste",
+          "ar": "سباق قفز فوق الحواجز على المضمار",
+          "tr": "pistte engel aşarak koşulan yarış",
+          "it": "corsa a ostacoli su una pista",
+          "pl": "bieg przez płotki na bieżni"
         },
         "example": {
           "en": "Dos Santos struck first in the men's four hundred meter hurdles."
@@ -26,14 +54,42 @@
     {
       "id": "record",
       "en": "record",
-      "ko": "The best result ever officially measured in an event",
+      "ko": "경기에서 공식 측정된 최고 기록",
       "l1": {
-        "en": "The best result ever officially measured in an event"
+        "en": "The best result ever officially measured in an event",
+        "ko": "경기에서 공식 측정된 최고 기록",
+        "zh-Hans": "比赛中官方测量的最佳成绩",
+        "ja": "競技で公式に測定された最高記録",
+        "es": "mejor resultado oficial en una prueba",
+        "hi": "किसी स्पर्धा में आधिकारिक सर्वश्रेष्ठ परिणाम",
+        "de": "bestes offiziell gemessenes Ergebnis",
+        "vi": "kết quả tốt nhất được đo chính thức",
+        "pt-BR": "melhor resultado oficial numa prova",
+        "id": "hasil terbaik yang diukur secara resmi",
+        "fr": "meilleur résultat officiel dans une épreuve",
+        "ar": "أفضل نتيجة مسجلة رسميًا في مسابقة",
+        "tr": "bir yarışmada resmi en iyi sonuç",
+        "it": "miglior risultato ufficiale in una gara",
+        "pl": "najlepszy oficjalny wynik w konkurencji"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The best result ever officially measured in an event"
+          "en": "The best result ever officially measured in an event",
+          "ko": "경기에서 공식 측정된 최고 기록",
+          "zh-Hans": "比赛中官方测量的最佳成绩",
+          "ja": "競技で公式に測定された最高記録",
+          "es": "mejor resultado oficial en una prueba",
+          "hi": "किसी स्पर्धा में आधिकारिक सर्वश्रेष्ठ परिणाम",
+          "de": "bestes offiziell gemessenes Ergebnis",
+          "vi": "kết quả tốt nhất được đo chính thức",
+          "pt-BR": "melhor resultado oficial numa prova",
+          "id": "hasil terbaik yang diukur secara resmi",
+          "fr": "meilleur résultat officiel dans une épreuve",
+          "ar": "أفضل نتيجة مسجلة رسميًا في مسابقة",
+          "tr": "bir yarışmada resmi en iyi sonuç",
+          "it": "miglior risultato ufficiale in una gara",
+          "pl": "najlepszy oficjalny wynik w konkurencji"
         },
         "example": {
           "en": "Each record breaker left Zurich with a cheque for eighty thousand dollars."
@@ -44,14 +100,42 @@
     {
       "id": "stadium",
       "en": "stadium",
-      "ko": "A large outdoor place built for sports events",
+      "ko": "스포츠 경기를 위한 대형 야외 장소",
       "l1": {
-        "en": "A large outdoor place built for sports events"
+        "en": "A large outdoor place built for sports events",
+        "ko": "스포츠 경기를 위한 대형 야외 장소",
+        "zh-Hans": "为体育赛事建造的大型户外场所",
+        "ja": "スポーツイベント用の大きな屋外施設",
+        "es": "gran lugar al aire libre para deportes",
+        "hi": "खेल आयोजनों के लिए बड़ा खुला स्थान",
+        "de": "großer Außenort für Sportveranstaltungen",
+        "vi": "nơi lớn ngoài trời cho sự kiện thể thao",
+        "pt-BR": "grande local ao ar livre para esportes",
+        "id": "tempat luar besar untuk acara olahraga",
+        "fr": "grand lieu extérieur pour les sports",
+        "ar": "مكان خارجي كبير للفعاليات الرياضية",
+        "tr": "spor etkinlikleri için büyük açık alan",
+        "it": "grande luogo all'aperto per lo sport",
+        "pl": "duże miejsce na świeżym powietrzu dla sportu"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A large outdoor place built for sports events"
+          "en": "A large outdoor place built for sports events",
+          "ko": "스포츠 경기를 위한 대형 야외 장소",
+          "zh-Hans": "为体育赛事建造的大型户外场所",
+          "ja": "スポーツイベント用の大きな屋外施設",
+          "es": "gran lugar al aire libre para deportes",
+          "hi": "खेल आयोजनों के लिए बड़ा खुला स्थान",
+          "de": "großer Außenort für Sportveranstaltungen",
+          "vi": "nơi lớn ngoài trời cho sự kiện thể thao",
+          "pt-BR": "grande local ao ar livre para esportes",
+          "id": "tempat luar besar untuk acara olahraga",
+          "fr": "grand lieu extérieur pour les sports",
+          "ar": "مكان خارجي كبير للفعاليات الرياضية",
+          "tr": "spor etkinlikleri için büyük açık alan",
+          "it": "grande luogo all'aperto per lo sport",
+          "pl": "duże miejsce na świeżym powietrzu dla sportu"
         },
         "example": {
           "en": "The Guardian says Brazil's Alison dos Santos and America's Masai Russell both broke global marks at the Letzigrund Stadium."
@@ -62,14 +146,42 @@
     {
       "id": "champion",
       "en": "champion",
-      "ko": "The winner of a major competition",
+      "ko": "주요 대회의 우승자",
       "l1": {
-        "en": "The winner of a major competition"
+        "en": "The winner of a major competition",
+        "ko": "주요 대회의 우승자",
+        "zh-Hans": "重大比赛的获胜者",
+        "ja": "主要大会の優勝者",
+        "es": "ganador de una competición importante",
+        "hi": "बड़ी प्रतियोगिता का विजेता",
+        "de": "Sieger eines großen Wettbewerbs",
+        "vi": "người thắng cuộc thi lớn",
+        "pt-BR": "vencedor de uma grande competição",
+        "id": "pemenang kompetisi besar",
+        "fr": "vainqueur d'une grande compétition",
+        "ar": "الفائز في مسابقة كبرى",
+        "tr": "büyük bir yarışmanın kazananı",
+        "it": "vincitore di una grande competizione",
+        "pl": "zwycięzca dużych zawodów"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The winner of a major competition"
+          "en": "The winner of a major competition",
+          "ko": "주요 대회의 우승자",
+          "zh-Hans": "重大比赛的获胜者",
+          "ja": "主要大会の優勝者",
+          "es": "ganador de una competición importante",
+          "hi": "बड़ी प्रतियोगिता का विजेता",
+          "de": "Sieger eines großen Wettbewerbs",
+          "vi": "người thắng cuộc thi lớn",
+          "pt-BR": "vencedor de uma grande competição",
+          "id": "pemenang kompetisi besar",
+          "fr": "vainqueur d'une grande compétition",
+          "ar": "الفائز في مسابقة كبرى",
+          "tr": "büyük bir yarışmanın kazananı",
+          "it": "vincitore di una grande competizione",
+          "pl": "zwycięzca dużych zawodów"
         },
         "example": {
           "en": "Later the same night, Olympic champion Masai Russell ran the women's one hundred meter hurdles in twelve point zero nine seconds."
@@ -80,14 +192,42 @@
     {
       "id": "athlete",
       "en": "athlete",
-      "ko": "A person trained to compete in sports",
+      "ko": "운동선수",
       "l1": {
-        "en": "A person trained to compete in sports"
+        "en": "A person trained to compete in sports",
+        "ko": "운동선수",
+        "zh-Hans": "运动员",
+        "ja": "運動選手",
+        "es": "atleta",
+        "hi": "खिलाड़ी",
+        "de": "Athlet",
+        "vi": "vận động viên",
+        "pt-BR": "atleta",
+        "id": "atlet",
+        "fr": "athlète",
+        "ar": "رياضي",
+        "tr": "atlet",
+        "it": "atleta",
+        "pl": "sportowiec"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A person trained to compete in sports"
+          "en": "A person trained to compete in sports",
+          "ko": "운동선수",
+          "zh-Hans": "运动员",
+          "ja": "運動選手",
+          "es": "atleta",
+          "hi": "खिलाड़ी",
+          "de": "Athlet",
+          "vi": "vận động viên",
+          "pt-BR": "atleta",
+          "id": "atlet",
+          "fr": "athlète",
+          "ar": "رياضي",
+          "tr": "atlet",
+          "it": "atleta",
+          "pl": "sportowiec"
         },
         "example": {
           "en": "Two world records fell on a wild Thursday night at the Diamond League meeting in Zurich."
@@ -98,14 +238,42 @@
     {
       "id": "vault",
       "en": "vault",
-      "ko": "A jump over a high bar using a long pole",
+      "ko": "장대높이뛰기",
       "l1": {
-        "en": "A jump over a high bar using a long pole"
+        "en": "A jump over a high bar using a long pole",
+        "ko": "장대높이뛰기",
+        "zh-Hans": "撑杆跳",
+        "ja": "棒高跳び",
+        "es": "salto con pértiga",
+        "hi": "बांस कूद",
+        "de": "Stabhochsprung",
+        "vi": "nhảy sào",
+        "pt-BR": "salto com vara",
+        "id": "lompat galah",
+        "fr": "saut à la perche",
+        "ar": "القفز بالزانة",
+        "tr": "sırıkla atlama",
+        "it": "salto con l'asta",
+        "pl": "skok o tyczce"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A jump over a high bar using a long pole"
+          "en": "A jump over a high bar using a long pole",
+          "ko": "장대높이뛰기",
+          "zh-Hans": "撑杆跳",
+          "ja": "棒高跳び",
+          "es": "salto con pértiga",
+          "hi": "बांस कूद",
+          "de": "Stabhochsprung",
+          "vi": "nhảy sào",
+          "pt-BR": "salto com vara",
+          "id": "lompat galah",
+          "fr": "saut à la perche",
+          "ar": "القفز بالزانة",
+          "tr": "sırıkla atlama",
+          "it": "salto con l'asta",
+          "pl": "skok o tyczce"
         },
         "example": {
           "en": "Mondo Duplantis won a tense pole vault duel."
@@ -116,14 +284,42 @@
     {
       "id": "crowd",
       "en": "crowd",
-      "ko": "A large group of people watching an event",
+      "ko": "관중",
       "l1": {
-        "en": "A large group of people watching an event"
+        "en": "A large group of people watching an event",
+        "ko": "관중",
+        "zh-Hans": "观众",
+        "ja": "観客",
+        "es": "público",
+        "hi": "दर्शक",
+        "de": "Zuschauer",
+        "vi": "khán giả",
+        "pt-BR": "público",
+        "id": "penonton",
+        "fr": "foule",
+        "ar": "جمهور",
+        "tr": "seyirci",
+        "it": "pubblico",
+        "pl": "publiczność"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A large group of people watching an event"
+          "en": "A large group of people watching an event",
+          "ko": "관중",
+          "zh-Hans": "观众",
+          "ja": "観客",
+          "es": "público",
+          "hi": "दर्शक",
+          "de": "Zuschauer",
+          "vi": "khán giả",
+          "pt-BR": "público",
+          "id": "penonton",
+          "fr": "foule",
+          "ar": "جمهور",
+          "tr": "seyirci",
+          "it": "pubblico",
+          "pl": "publiczność"
         },
         "example": {
           "en": "A sold-out crowd of twenty-five thousand packed the stands."
@@ -134,14 +330,42 @@
     {
       "id": "track",
       "en": "track",
-      "ko": "The oval running surface used in athletics",
+      "ko": "트랙",
       "l1": {
-        "en": "The oval running surface used in athletics"
+        "en": "The oval running surface used in athletics",
+        "ko": "트랙",
+        "zh-Hans": "跑道",
+        "ja": "トラック",
+        "es": "pista",
+        "hi": "ट्रैक",
+        "de": "Bahn",
+        "vi": "đường chạy",
+        "pt-BR": "pista",
+        "id": "lintasan",
+        "fr": "piste",
+        "ar": "مضمار",
+        "tr": "pist",
+        "it": "pista",
+        "pl": "bieżnia"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The oval running surface used in athletics"
+          "en": "The oval running surface used in athletics",
+          "ko": "트랙",
+          "zh-Hans": "跑道",
+          "ja": "トラック",
+          "es": "pista",
+          "hi": "ट्रैक",
+          "de": "Bahn",
+          "vi": "đường chạy",
+          "pt-BR": "pista",
+          "id": "lintasan",
+          "fr": "piste",
+          "ar": "مضمار",
+          "tr": "pist",
+          "it": "pista",
+          "pl": "bieżnia"
         },
         "example": {
           "en": "Fans called it a crazy night of track and field."
@@ -152,14 +376,42 @@
     {
       "id": "sportsmanship",
       "en": "sportsmanship",
-      "ko": "Fair and respectful behavior in sports",
+      "ko": "스포츠맨십",
       "l1": {
-        "en": "Fair and respectful behavior in sports"
+        "en": "Fair and respectful behavior in sports",
+        "ko": "스포츠맨십",
+        "zh-Hans": "体育精神",
+        "ja": "スポーツマンシップ",
+        "es": "deportividad",
+        "hi": "खेल भावना",
+        "de": "Fairplay",
+        "vi": "tinh thần thể thao",
+        "pt-BR": "espírito esportivo",
+        "id": "sportivitas",
+        "fr": "esprit sportif",
+        "ar": "روح رياضية",
+        "tr": "sportmenlik",
+        "it": "sportività",
+        "pl": "duch sportowy"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Fair and respectful behavior in sports"
+          "en": "Fair and respectful behavior in sports",
+          "ko": "스포츠맨십",
+          "zh-Hans": "体育精神",
+          "ja": "スポーツマンシップ",
+          "es": "deportividad",
+          "hi": "खेल भावना",
+          "de": "Fairplay",
+          "vi": "tinh thần thể thao",
+          "pt-BR": "espírito esportivo",
+          "id": "sportivitas",
+          "fr": "esprit sportif",
+          "ar": "روح رياضية",
+          "tr": "sportmenlik",
+          "it": "sportività",
+          "pl": "duch sportowy"
         },
         "example": {
           "en": "Two world records fell on a wild Thursday night at the Diamond League meeting in Zurich."
@@ -170,14 +422,42 @@
     {
       "id": "meeting",
       "en": "meeting",
-      "ko": "A scheduled sports event with many races",
+      "ko": "경기 대회",
       "l1": {
-        "en": "A scheduled sports event with many races"
+        "en": "A scheduled sports event with many races",
+        "ko": "경기 대회",
+        "zh-Hans": "运动会",
+        "ja": "競技会",
+        "es": "encuentro",
+        "hi": "प्रतियोगिता",
+        "de": "Sportfest",
+        "vi": "cuộc thi đấu",
+        "pt-BR": "competição",
+        "id": "pertemuan olahraga",
+        "fr": "meeting",
+        "ar": "لقاء رياضي",
+        "tr": "müsabaka",
+        "it": "meeting",
+        "pl": "mityng"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A scheduled sports event with many races"
+          "en": "A scheduled sports event with many races",
+          "ko": "경기 대회",
+          "zh-Hans": "运动会",
+          "ja": "競技会",
+          "es": "encuentro",
+          "hi": "प्रतियोगिता",
+          "de": "Sportfest",
+          "vi": "cuộc thi đấu",
+          "pt-BR": "competição",
+          "id": "pertemuan olahraga",
+          "fr": "meeting",
+          "ar": "لقاء رياضي",
+          "tr": "müsabaka",
+          "it": "meeting",
+          "pl": "mityng"
         },
         "example": {
           "en": "Two world records fell on a wild Thursday night at the Diamond League meeting in Zurich."

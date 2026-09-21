@@ -8,14 +8,42 @@
     {
       "id": "diagnosis",
       "en": "diagnosis",
-      "ko": "The identification of a disease or medical condition through examination and testing.",
+      "ko": "질병 진단",
       "l1": {
-        "en": "The identification of a disease or medical condition through examination and testing."
+        "en": "The identification of a disease or medical condition through examination and testing.",
+        "ko": "질병 진단",
+        "zh-Hans": "疾病诊断",
+        "ja": "病気の診断",
+        "es": "diagnóstico de enfermedad",
+        "hi": "रोग का निदान",
+        "de": "Diagnose einer Krankheit",
+        "vi": "chẩn đoán bệnh",
+        "pt-BR": "diagnóstico de doença",
+        "id": "diagnosis penyakit",
+        "fr": "diagnostic d'une maladie",
+        "ar": "تشخيص المرض",
+        "tr": "hastalık teşhisi",
+        "it": "diagnosi di malattia",
+        "pl": "diagnoza choroby"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The identification of a disease or medical condition through examination and testing."
+          "en": "The identification of a disease or medical condition through examination and testing.",
+          "ko": "질병 진단",
+          "zh-Hans": "疾病诊断",
+          "ja": "病気の診断",
+          "es": "diagnóstico de enfermedad",
+          "hi": "रोग का निदान",
+          "de": "Diagnose einer Krankheit",
+          "vi": "chẩn đoán bệnh",
+          "pt-BR": "diagnóstico de doença",
+          "id": "diagnosis penyakit",
+          "fr": "diagnostic d'une maladie",
+          "ar": "تشخيص المرض",
+          "tr": "hastalık teşhisi",
+          "it": "diagnosi di malattia",
+          "pl": "diagnoza choroby"
         },
         "example": {
           "en": "Today's news uses the word diagnosis."
@@ -26,14 +54,42 @@
     {
       "id": "prevention",
       "en": "prevention",
-      "ko": "Action taken to stop something from happening especially to avoid disease or injury.",
+      "ko": "예방 조치",
       "l1": {
-        "en": "Action taken to stop something from happening especially to avoid disease or injury."
+        "en": "Action taken to stop something from happening especially to avoid disease or injury.",
+        "ko": "예방 조치",
+        "zh-Hans": "预防措施",
+        "ja": "予防措置",
+        "es": "prevención",
+        "hi": "रोकथाम",
+        "de": "Vorbeugung",
+        "vi": "phòng ngừa",
+        "pt-BR": "prevenção",
+        "id": "pencegahan",
+        "fr": "prévention",
+        "ar": "الوقاية",
+        "tr": "önleme",
+        "it": "prevenzione",
+        "pl": "zapobieganie"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Action taken to stop something from happening especially to avoid disease or injury."
+          "en": "Action taken to stop something from happening especially to avoid disease or injury.",
+          "ko": "예방 조치",
+          "zh-Hans": "预防措施",
+          "ja": "予防措置",
+          "es": "prevención",
+          "hi": "रोकथाम",
+          "de": "Vorbeugung",
+          "vi": "phòng ngừa",
+          "pt-BR": "prevenção",
+          "id": "pencegahan",
+          "fr": "prévention",
+          "ar": "الوقاية",
+          "tr": "önleme",
+          "it": "prevenzione",
+          "pl": "zapobieganie"
         },
         "example": {
           "en": "Today's news uses the word prevention."
@@ -44,14 +100,42 @@
     {
       "id": "survival",
       "en": "survival",
-      "ko": "The state of continuing to live or exist especially after a dangerous or difficult event.",
+      "ko": "생존",
       "l1": {
-        "en": "The state of continuing to live or exist especially after a dangerous or difficult event."
+        "en": "The state of continuing to live or exist especially after a dangerous or difficult event.",
+        "ko": "생존",
+        "zh-Hans": "生存",
+        "ja": "生存",
+        "es": "supervivencia",
+        "hi": "उत्तरजीविता",
+        "de": "Überleben",
+        "vi": "sự sống sót",
+        "pt-BR": "sobrevivência",
+        "id": "kelangsungan hidup",
+        "fr": "survie",
+        "ar": "البقاء على قيد الحياة",
+        "tr": "hayatta kalma",
+        "it": "sopravvivenza",
+        "pl": "przetrwanie"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The state of continuing to live or exist especially after a dangerous or difficult event."
+          "en": "The state of continuing to live or exist especially after a dangerous or difficult event.",
+          "ko": "생존",
+          "zh-Hans": "生存",
+          "ja": "生存",
+          "es": "supervivencia",
+          "hi": "उत्तरजीविता",
+          "de": "Überleben",
+          "vi": "sự sống sót",
+          "pt-BR": "sobrevivência",
+          "id": "kelangsungan hidup",
+          "fr": "survie",
+          "ar": "البقاء على قيد الحياة",
+          "tr": "hayatta kalma",
+          "it": "sopravvivenza",
+          "pl": "przetrwanie"
         },
         "example": {
           "en": "Today's news uses the word survival."
@@ -62,14 +146,42 @@
     {
       "id": "screening",
       "en": "screening",
-      "ko": "Testing a group of people for a disease or condition even if they have no symptoms.",
+      "ko": "검사",
       "l1": {
-        "en": "Testing a group of people for a disease or condition even if they have no symptoms."
+        "en": "Testing a group of people for a disease or condition even if they have no symptoms.",
+        "ko": "검사",
+        "zh-Hans": "筛查",
+        "ja": "検診",
+        "es": "cribado",
+        "hi": "जाँच",
+        "de": "Screening",
+        "vi": "sàng lọc",
+        "pt-BR": "triagem",
+        "id": "skrining",
+        "fr": "dépistage",
+        "ar": "فحص",
+        "tr": "tarama",
+        "it": "screening",
+        "pl": "badanie przesiewowe"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Testing a group of people for a disease or condition even if they have no symptoms."
+          "en": "Testing a group of people for a disease or condition even if they have no symptoms.",
+          "ko": "검사",
+          "zh-Hans": "筛查",
+          "ja": "検診",
+          "es": "cribado",
+          "hi": "जाँच",
+          "de": "Screening",
+          "vi": "sàng lọc",
+          "pt-BR": "triagem",
+          "id": "skrining",
+          "fr": "dépistage",
+          "ar": "فحص",
+          "tr": "tarama",
+          "it": "screening",
+          "pl": "badanie przesiewowe"
         },
         "example": {
           "en": "Today's news uses the word screening."
@@ -80,14 +192,42 @@
     {
       "id": "tobacco",
       "en": "tobacco",
-      "ko": "A plant whose leaves are dried and used for smoking in cigarettes cigars and pipes.",
+      "ko": "담배",
       "l1": {
-        "en": "A plant whose leaves are dried and used for smoking in cigarettes cigars and pipes."
+        "en": "A plant whose leaves are dried and used for smoking in cigarettes cigars and pipes.",
+        "ko": "담배",
+        "zh-Hans": "烟草",
+        "ja": "タバコ",
+        "es": "tabaco",
+        "hi": "तंबाकू",
+        "de": "Tabak",
+        "vi": "thuốc lá",
+        "pt-BR": "tabaco",
+        "id": "tembakau",
+        "fr": "tabac",
+        "ar": "تبغ",
+        "tr": "tütün",
+        "it": "tabacco",
+        "pl": "tytoń"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A plant whose leaves are dried and used for smoking in cigarettes cigars and pipes."
+          "en": "A plant whose leaves are dried and used for smoking in cigarettes cigars and pipes.",
+          "ko": "담배",
+          "zh-Hans": "烟草",
+          "ja": "タバコ",
+          "es": "tabaco",
+          "hi": "तंबाकू",
+          "de": "Tabak",
+          "vi": "thuốc lá",
+          "pt-BR": "tabaco",
+          "id": "tembakau",
+          "fr": "tabac",
+          "ar": "تبغ",
+          "tr": "tütün",
+          "it": "tabacco",
+          "pl": "tytoń"
         },
         "example": {
           "en": "Today's news uses the word tobacco."
@@ -98,14 +238,42 @@
     {
       "id": "obesity",
       "en": "obesity",
-      "ko": "The medical condition of being extremely overweight which increases health risks.",
+      "ko": "비만",
       "l1": {
-        "en": "The medical condition of being extremely overweight which increases health risks."
+        "en": "The medical condition of being extremely overweight which increases health risks.",
+        "ko": "비만",
+        "zh-Hans": "肥胖",
+        "ja": "肥満",
+        "es": "obesidad",
+        "hi": "मोटापा",
+        "de": "Fettleibigkeit",
+        "vi": "béo phì",
+        "pt-BR": "obesidade",
+        "id": "obesitas",
+        "fr": "obésité",
+        "ar": "السمنة",
+        "tr": "obezite",
+        "it": "obesità",
+        "pl": "otyłość"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The medical condition of being extremely overweight which increases health risks."
+          "en": "The medical condition of being extremely overweight which increases health risks.",
+          "ko": "비만",
+          "zh-Hans": "肥胖",
+          "ja": "肥満",
+          "es": "obesidad",
+          "hi": "मोटापा",
+          "de": "Fettleibigkeit",
+          "vi": "béo phì",
+          "pt-BR": "obesidade",
+          "id": "obesitas",
+          "fr": "obésité",
+          "ar": "السمنة",
+          "tr": "obezite",
+          "it": "obesità",
+          "pl": "otyłość"
         },
         "example": {
           "en": "Today's news uses the word obesity."
@@ -116,14 +284,42 @@
     {
       "id": "infectious",
       "en": "infectious",
-      "ko": "Capable of spreading from one person or organism to another such as a virus or bacteria.",
+      "ko": "전염성 있는",
       "l1": {
-        "en": "Capable of spreading from one person or organism to another such as a virus or bacteria."
+        "en": "Capable of spreading from one person or organism to another such as a virus or bacteria.",
+        "ko": "전염성 있는",
+        "zh-Hans": "传染性的",
+        "ja": "感染性の",
+        "es": "infeccioso",
+        "hi": "संक्रामक",
+        "de": "ansteckend",
+        "vi": "truyền nhiễm",
+        "pt-BR": "infeccioso",
+        "id": "menular",
+        "fr": "infectieux",
+        "ar": "معدٍ",
+        "tr": "bulaşıcı",
+        "it": "infettivo",
+        "pl": "zakaźny"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Capable of spreading from one person or organism to another such as a virus or bacteria."
+          "en": "Capable of spreading from one person or organism to another such as a virus or bacteria.",
+          "ko": "전염성 있는",
+          "zh-Hans": "传染性的",
+          "ja": "感染性の",
+          "es": "infeccioso",
+          "hi": "संक्रामक",
+          "de": "ansteckend",
+          "vi": "truyền nhiễm",
+          "pt-BR": "infeccioso",
+          "id": "menular",
+          "fr": "infectieux",
+          "ar": "معدٍ",
+          "tr": "bulaşıcı",
+          "it": "infettivo",
+          "pl": "zakaźny"
         },
         "example": {
           "en": "Today's news uses the word infectious."
@@ -134,14 +330,42 @@
     {
       "id": "mortality",
       "en": "mortality",
-      "ko": "The state of being subject to death; the death rate within a population.",
+      "ko": "사망률",
       "l1": {
-        "en": "The state of being subject to death; the death rate within a population."
+        "en": "The state of being subject to death; the death rate within a population.",
+        "ko": "사망률",
+        "zh-Hans": "死亡率",
+        "ja": "死亡率",
+        "es": "mortalidad",
+        "hi": "मृत्यु दर",
+        "de": "Sterblichkeit",
+        "vi": "tỷ lệ tử vong",
+        "pt-BR": "mortalidade",
+        "id": "mortalitas",
+        "fr": "mortalité",
+        "ar": "معدل الوفيات",
+        "tr": "ölüm oranı",
+        "it": "mortalità",
+        "pl": "śmiertelność"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "The state of being subject to death; the death rate within a population."
+          "en": "The state of being subject to death; the death rate within a population.",
+          "ko": "사망률",
+          "zh-Hans": "死亡率",
+          "ja": "死亡率",
+          "es": "mortalidad",
+          "hi": "मृत्यु दर",
+          "de": "Sterblichkeit",
+          "vi": "tỷ lệ tử vong",
+          "pt-BR": "mortalidade",
+          "id": "mortalitas",
+          "fr": "mortalité",
+          "ar": "معدل الوفيات",
+          "tr": "ölüm oranı",
+          "it": "mortalità",
+          "pl": "śmiertelność"
         },
         "example": {
           "en": "Today's news uses the word mortality."
@@ -152,14 +376,42 @@
     {
       "id": "vaccine",
       "en": "vaccine",
-      "ko": "A substance that stimulates the body's immune system to protect against a specific disease.",
+      "ko": "백신",
       "l1": {
-        "en": "A substance that stimulates the body's immune system to protect against a specific disease."
+        "en": "A substance that stimulates the body's immune system to protect against a specific disease.",
+        "ko": "백신",
+        "zh-Hans": "疫苗",
+        "ja": "ワクチン",
+        "es": "vacuna",
+        "hi": "टीका",
+        "de": "Impfstoff",
+        "vi": "vắc-xin",
+        "pt-BR": "vacina",
+        "id": "vaksin",
+        "fr": "vaccin",
+        "ar": "لقاح",
+        "tr": "aşı",
+        "it": "vaccino",
+        "pl": "szczepionka"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "A substance that stimulates the body's immune system to protect against a specific disease."
+          "en": "A substance that stimulates the body's immune system to protect against a specific disease.",
+          "ko": "백신",
+          "zh-Hans": "疫苗",
+          "ja": "ワクチン",
+          "es": "vacuna",
+          "hi": "टीका",
+          "de": "Impfstoff",
+          "vi": "vắc-xin",
+          "pt-BR": "vacina",
+          "id": "vaksin",
+          "fr": "vaccin",
+          "ar": "لقاح",
+          "tr": "aşı",
+          "it": "vaccino",
+          "pl": "szczepionka"
         },
         "example": {
           "en": "Today's news uses the word vaccine."
@@ -170,14 +422,42 @@
     {
       "id": "inequity",
       "en": "inequity",
-      "ko": "Lack of fairness or justice; an unfair difference between groups of people.",
+      "ko": "불공평",
       "l1": {
-        "en": "Lack of fairness or justice; an unfair difference between groups of people."
+        "en": "Lack of fairness or justice; an unfair difference between groups of people.",
+        "ko": "불공평",
+        "zh-Hans": "不公平",
+        "ja": "不公平",
+        "es": "desigualdad",
+        "hi": "असमानता",
+        "de": "Ungerechtigkeit",
+        "vi": "sự bất công",
+        "pt-BR": "iniquidade",
+        "id": "ketidakadilan",
+        "fr": "iniquité",
+        "ar": "ظلم",
+        "tr": "adaletsizlik",
+        "it": "iniquità",
+        "pl": "nierówność"
       },
       "ww": {
         "pos": "n",
         "def": {
-          "en": "Lack of fairness or justice; an unfair difference between groups of people."
+          "en": "Lack of fairness or justice; an unfair difference between groups of people.",
+          "ko": "불공평",
+          "zh-Hans": "不公平",
+          "ja": "不公平",
+          "es": "desigualdad",
+          "hi": "असमानता",
+          "de": "Ungerechtigkeit",
+          "vi": "sự bất công",
+          "pt-BR": "iniquidade",
+          "id": "ketidakadilan",
+          "fr": "iniquité",
+          "ar": "ظلم",
+          "tr": "adaletsizlik",
+          "it": "iniquità",
+          "pl": "nierówność"
         },
         "example": {
           "en": "Today's news uses the word inequity."
