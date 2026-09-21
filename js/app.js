@@ -55,9 +55,13 @@
   function meaning(w) {
     if (!w) return "";
     const loc = localeCode();
-    if (w.l1 && w.l1[loc]) return w.l1[loc];
-    if (loc === "en" && w.en) return w.en;
-    return w.ko || w.en || "";
+    const l1 = w.l1 && typeof w.l1 === "object" ? w.l1 : {};
+    const enDef = String(l1.en || "").trim();
+    if (loc === "en") return enDef || w.en || "";
+    let locGloss = String(l1[loc] || "").trim();
+    if (!locGloss && loc === "ko") locGloss = String(w.ko || "").trim();
+    if (locGloss && enDef && locGloss !== enDef) return locGloss + " · " + enDef;
+    return locGloss || enDef || w.en || "";
   }
 
   function packWord(w, i) {

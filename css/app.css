@@ -46,6 +46,19 @@ button:disabled { cursor: not-allowed; opacity: 0.38; }
   flex-direction: column;
 }
 @media (max-width: 480px) { .phone { width: 100vw; } }
+/* Computer: fill the window. Do not keep a phone column on a big screen. */
+@media (min-width: 700px) {
+  html { background: var(--bg); }
+  body {
+    display: block;
+    background: var(--bg);
+  }
+  .phone {
+    width: 100vw;
+    max-width: none;
+    height: 100dvh;
+  }
+}
 
 /* Chrome */
 .topbar {

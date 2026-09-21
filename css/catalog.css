@@ -19,6 +19,13 @@ body {
     radial-gradient(900px 420px at 50% -12%, #24345a 0%, transparent 58%),
     var(--bg);
 }
+@media (min-width: 700px) {
+  body {
+    max-width: none;
+    padding: calc(32px + env(safe-area-inset-top)) 40px 72px;
+  }
+  .day { max-width: 720px; }
+}
 .hero { text-align: center; margin-bottom: 8px; }
 .mark {
   margin: 0;

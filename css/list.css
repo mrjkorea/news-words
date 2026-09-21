@@ -2,6 +2,7 @@
 :root { --bg:#f6f3ec; --ink:#1c1916; --muted:#5c564e; --card:#fff; --line:#e6e0d4; --accent:#0b6e4f; --accent2:#123a73; }
 *{box-sizing:border-box} html,body{margin:0;padding:0;background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;}
 body{max-width:720px;margin:0 auto;padding:20px 16px 64px;}
+@media (min-width: 700px){ body{ max-width: none; padding: 28px 40px 72px; } }
 .brand{display:flex;gap:10px;align-items:center;margin-bottom:8px}
 .logo{width:28px;height:28px;border-radius:8px;background:linear-gradient(135deg,var(--accent),var(--accent2))}
 .pill{display:inline-block;font-size:12px;background:#e8f4ee;color:var(--accent);padding:2px 8px;border-radius:999px;font-weight:600}
