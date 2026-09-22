@@ -42,3 +42,10 @@
 - **Model:** composer-2.5
 - **Files:** `js/app.js`, `index.html`, `CURSOR_RECEIPT.md`
 - **Behavior:** Saved `displayName` no longer skips `#screen-name`; must confirm via button or Enter; home has `#btn-change-name`.
+
+## Desktop keyboard typing (Learn B/C, Hard test) — 22 Sep 2026
+
+- **Command:** Fix Word Master typing — hide on-screen A–Z pad on desktop (fine pointer + hover, not coarse); physical keys via `e.code` KeyA–KeyZ; phones keep pad; cache bump `?v=20260922-kb`.
+- **Model:** composer-2.5
+- **Files:** `js/app.js`, `css/app.css`, `index.html`, `CURSOR_RECEIPT.md`
+- **Behavior:** `body.kb-desk` from media queries; `keydown` calls `onAz`/`delAz`/check only on Learn B/C and Hard test; `preventDefault` blocks IME Hangul on letter keys.

@@ -1262,6 +1262,39 @@
     });
   }
 
+  function isKbDesk() {
+    return window.matchMedia("(hover: hover) and (pointer: fine)").matches
+      && !window.matchMedia("(pointer: coarse)").matches;
+  }
+
+  function updateKbDesk() {
+    document.body.classList.toggle("kb-desk", isKbDesk());
+  }
+
+  function watchKbDesk() {
+    updateKbDesk();
+    const fine = window.matchMedia("(hover: hover) and (pointer: fine)");
+    const coarse = window.matchMedia("(pointer: coarse)");
+    function onMqChange() { updateKbDesk(); }
+    if (fine.addEventListener) {
+      fine.addEventListener("change", onMqChange);
+      coarse.addEventListener("change", onMqChange);
+    } else if (fine.addListener) {
+      fine.addListener(onMqChange);
+      coarse.addListener(onMqChange);
+    }
+  }
+
+  function typingScreenActive() {
+    if (currentScreen === "learn") {
+      return learn.cur && !learn.locking && (learn.mode === "B" || learn.mode === "C");
+    }
+    if (currentScreen === "test") {
+      return quiz && quiz.kind === "hard" && !quiz.locking;
+    }
+    return false;
+  }
+
   function buildPad(host) {
     host.innerHTML = "";
     "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("").forEach(function (ch) {
@@ -1353,6 +1386,7 @@
   }
 
   function renderLearn(doSpeak) {
+    updateKbDesk();
     const set = currentSet();
     if (!set || !learn.cur) return;
     const ws = winsState(set);
@@ -1672,6 +1706,7 @@
   }
 
   function renderQuiz() {
+    updateKbDesk();
     const item = quiz.items[quiz.index];
     if (!item) return finishQuiz();
     $("#test-kind").textContent = quiz.kind === "easy" ? "EASY" : "HARD";
@@ -2047,6 +2082,7 @@
   }
 
   function bind() {
+    watchKbDesk();
     $("#btn-tap-start").addEventListener("click", function () {
       unlockSpeech();
       setVoice(state.voice);
@@ -2217,6 +2253,30 @@
     }
 
     document.addEventListener("keydown", function (e) {
+      if (e.ctrlKey || e.metaKey || e.altKey) return;
+      const tag = e.target && e.target.tagName;
+      const inField = tag === "INPUT" || tag === "TEXTAREA" || tag === "SELECT";
+
+      if (typingScreenActive() && !inField) {
+        if (e.code && e.code.length === 4 && e.code >= "KeyA" && e.code <= "KeyZ") {
+          e.preventDefault();
+          onAz(e.code.slice(3));
+          return;
+        }
+        if (e.code === "Backspace") {
+          e.preventDefault();
+          delAz();
+          return;
+        }
+        if (e.key === "Enter") {
+          e.preventDefault();
+          if (currentScreen === "learn") onLearnCheck();
+          else onHardCheck();
+          return;
+        }
+        return;
+      }
+
       if (e.key !== "Enter") return;
       if (currentScreen === "learn") {
         e.preventDefault();

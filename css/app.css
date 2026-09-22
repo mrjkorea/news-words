@@ -664,6 +664,7 @@ button:disabled { cursor: not-allowed; opacity: 0.38; }
   grid-template-columns: repeat(7, 1fr);
   gap: 5px;
 }
+body.kb-desk .az-pad { display: none !important; }
 .az-key, .kbtn {
   min-height: 38px;
   border-radius: 8px;
