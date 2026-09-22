@@ -11,16 +11,16 @@
     id: DEMO_PACK_ID,
     title: "News 2026-09-18",
     words: [
-      { id: "detector", en: "detector", ko: "A device that finds metal hidden in the ground" },
-      { id: "hoard", en: "hoard", ko: "A large secret store of valuable objects" },
-      { id: "silver", en: "silver", ko: "A shiny grey precious metal used for coins and jewelry" },
-      { id: "coin", en: "coin", ko: "A flat piece of metal used as money" },
-      { id: "jewelry", en: "jewelry", ko: "Decorative objects worn on the body like rings or beads" },
-      { id: "treasure", en: "treasure", ko: "Valuable objects such as gold silver or gems" },
-      { id: "ancient", en: "ancient", ko: "Very old from a long time ago" },
-      { id: "museum", en: "museum", ko: "A place where important objects are kept and shown" },
-      { id: "container", en: "container", ko: "Something used to hold or carry other things" },
-      { id: "discover", en: "discover", ko: "To find something for the first time" },
+      { id: "detector", en: "detector", ko: "탐지기" },
+      { id: "hoard", en: "hoard", ko: "비축" },
+      { id: "silver", en: "silver", ko: "은" },
+      { id: "coin", en: "coin", ko: "동전" },
+      { id: "jewelry", en: "jewelry", ko: "보석" },
+      { id: "treasure", en: "treasure", ko: "보물" },
+      { id: "ancient", en: "ancient", ko: "고대의" },
+      { id: "museum", en: "museum", ko: "박물관" },
+      { id: "container", en: "container", ko: "용기" },
+      { id: "discover", en: "discover", ko: "발견하다" },
     ],
   };
 
@@ -56,12 +56,14 @@
     if (!w) return "";
     const loc = localeCode();
     const l1 = w.l1 && typeof w.l1 === "object" ? w.l1 : {};
-    const enDef = String(l1.en || "").trim();
-    if (loc === "en") return enDef || w.en || "";
-    let locGloss = String(l1[loc] || "").trim();
-    if (!locGloss && loc === "ko") locGloss = String(w.ko || "").trim();
-    if (locGloss && enDef && locGloss !== enDef) return locGloss + " · " + enDef;
-    return locGloss || enDef || w.en || "";
+    const wwEn =
+      w.ww && w.ww.def && w.ww.def.en ? String(w.ww.def.en).trim() : "";
+    const l1En = String(l1.en || "").trim();
+    const enExplanation = wwEn || l1En;
+    if (loc === "en") return enExplanation || String(w.en || "").trim();
+    let native = String(l1[loc] || "").trim();
+    if (!native && loc === "ko") native = String(w.ko || "").trim();
+    return native;
   }
 
   function packWord(w, i) {

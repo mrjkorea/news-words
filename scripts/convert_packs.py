@@ -47,7 +47,7 @@ def convert_word(w: dict) -> dict:
     out = {
         "id": wid,
         "en": en,
-        "ko": def_en,
+        "ko": "",
         "l1": {"en": def_en},
         "ww": {
             "pos": p,

@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Fill 15 L1 glosses on every news-words pack JSON.
 
-Marketing source is English-only (def_en). Factory must add learner glosses
-so Korean UI shows Korean + English, and every other locale works too.
+Marketing source is English-only (def_en). Factory adds native-language WORDS
+(not translated definition sentences). English UI keeps explanation sentences.
 """
 from __future__ import annotations
 
@@ -72,14 +72,15 @@ def chat(key: str, payload: list[dict]) -> list[dict]:
             {
                 "role": "system",
                 "content": (
-                    "You write short ESL learner glosses. "
+                    "You map English lemmas to the common native HEADWORD "
+                    "in each locale, matching the given sense. "
                     "Return ONLY JSON: {\"items\":[{\"en\":\"word\","
-                    "\"l1\":{locale:gloss}}]}. "
+                    "\"l1\":{locale:word}}]}. "
                     "Locales required: " + ",".join(NEED) + ". "
-                    "Each gloss is the MEANING in that language (not a "
-                    "transliteration of the English spelling). "
-                    "Keep glosses short (2-12 words). Match the given sense. "
-                    "Korean must use Hangul."
+                    "ONE dictionary word or short compound (max 3 words). "
+                    "NEVER a definition/explanation sentence. NEVER translate "
+                    "the English explanation. Example: cat → ko 고양이, "
+                    "zh-Hans 猫, ja 猫, es gato. Korean Hangul. No 것 style."
                 ),
             },
             {
