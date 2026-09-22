@@ -35,3 +35,10 @@
   $ rg -n 'function meaning' -A20 js/app.js | rg ' · ' || echo 'PASS: no middle-dot concat inside meaning() block (first 20 lines)'
   PASS: no middle-dot concat inside meaning() block (first 20 lines)
   ```
+
+## Name screen every visit — 22 Sep 2026
+
+- **Command:** Fix News Words name lock — always show name box on tap start; prefill saved name; Change name on home; `js/app.js` + `index.html` only.
+- **Model:** composer-2.5
+- **Files:** `js/app.js`, `index.html`, `CURSOR_RECEIPT.md`
+- **Behavior:** Saved `displayName` no longer skips `#screen-name`; must confirm via button or Enter; home has `#btn-change-name`.

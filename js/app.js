@@ -236,6 +236,21 @@
       .replace(/[^a-z]/g, "");
   }
 
+  let nameReturnTo = "boot";
+
+  function openNameScreen(returnTo) {
+    nameReturnTo = returnTo || currentScreen;
+    const input = $("#name-input");
+    if (input) {
+      input.value = state.displayName || "";
+      try {
+        input.focus();
+        input.setSelectionRange(input.value.length, input.value.length);
+      } catch (e) {}
+    }
+    showScreen("name");
+  }
+
   function showScreen(name) {
     currentScreen = name;
     $$(".screen").forEach(function (el) {
@@ -2035,11 +2050,11 @@
     $("#btn-tap-start").addEventListener("click", function () {
       unlockSpeech();
       setVoice(state.voice);
-      if (!state.displayName) {
-        showScreen("name");
-        return;
-      }
-      afterBootHome();
+      openNameScreen("boot");
+    });
+    const changeNameBtn = $("#btn-change-name");
+    if (changeNameBtn) changeNameBtn.addEventListener("click", function () {
+      openNameScreen("home");
     });
     const nameGo = $("#btn-name-go");
     if (nameGo) nameGo.addEventListener("click", function () {
@@ -2047,6 +2062,11 @@
       if (!n) return;
       state.displayName = n;
       persist();
+      if (nameReturnTo === "home") {
+        renderHome();
+        showScreen("home");
+        return;
+      }
       afterBootHome();
     });
     const listBtn = $("#btn-word-list");
