@@ -36,7 +36,7 @@ LANGS = [
     "it",
     "pl",
 ]
-HINT_RE = re.compile(r"\s+\(([A-Za-z][A-Za-z'\-]*)\)\s*$")
+HINT_RE = re.compile(r"\s+\(([A-Za-z][A-Za-z'\-]*\d*)\)\s*$")
 SPLIT_RE = re.compile(r"\s*[/／,，;；]\s*")
 
 
@@ -55,7 +55,8 @@ def strip_hint(text: str, en: str) -> str:
     if not match:
         return raw
     hint = match.group(1)
-    if lemma_letters(en).lower().startswith(hint.lower()):
+    letters = re.sub(r"\d+$", "", hint)
+    if letters and lemma_letters(en).lower().startswith(letters.lower()):
         return raw[: match.start()].strip()
     return raw
 
@@ -194,10 +195,18 @@ def run(root: Path) -> int:
         doc = json.loads(path.read_text(encoding="utf-8"))
         if not isinstance(doc, dict) or not isinstance(doc.get("words"), list):
             continue
-        n = disambiguate_doc(doc)
-        left = collisions(doc)
-        if left:
-            print("STILL_COLLIDE", path.name, left)
+        n = 0
+        for _ in range(5):
+            step = disambiguate_doc(doc)
+            n += step
+            left = collisions(doc)
+            if left:
+                print("STILL_COLLIDE", path.name, left[:8])
+                return 1
+            if step == 0:
+                break
+        else:
+            print("UNSTABLE", path.name)
             return 1
         if n:
             write_doc(path, doc)
