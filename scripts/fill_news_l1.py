@@ -80,7 +80,8 @@ def chat(key: str, payload: list[dict]) -> list[dict]:
                     "ONE dictionary word or short compound (max 3 words). "
                     "NEVER a definition/explanation sentence. NEVER translate "
                     "the English explanation. Example: cat → ko 고양이, "
-                    "zh-Hans 猫, ja 猫, es gato. Korean Hangul. No 것 style."
+                    "zh-Hans 猫, ja 猫, es gato. Korean Hangul. No 것 style. "
+                    "If two lemmas share one dictionary word, still return it. A later pass adds an English-letter hint."
                 ),
             },
             {
@@ -205,6 +206,11 @@ def main() -> None:
                 still += 1
                 print("GAP", path.name, w.get("en"))
     print("FILL_NEWS_L1_DONE need_was", len(todo), "still", still, flush=True)
+    import sys
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    from disambiguate_l1 import run as disambiguate_run
+    if disambiguate_run(PACKS) != 0:
+        raise SystemExit("identical answers remain after hint pass")
     if still:
         raise SystemExit(2)
 

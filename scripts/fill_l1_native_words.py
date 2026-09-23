@@ -117,7 +117,8 @@ def chat(key: str, payload: list[dict], model: str) -> list[dict]:
                     "vi=mèo, pt-BR=gato, id=kucing, fr=chat, ar=قطة, tr=kedi, "
                     "it=gatto, pl=kot. "
                     "Korean must be Hangul. No 것 / 하는 것 definition style. "
-                    "If the English item is a proper name, transliterate."
+                    "If the English item is a proper name, transliterate. "
+                    "If two lemmas share one true dictionary word in a language, still return that word. A later pass adds a short English-letter hint so the answers are not identical."
                 ),
             },
             {
@@ -256,6 +257,11 @@ def main() -> None:
                 still += 1
                 print("GAP", path.name, w.get("en"), flush=True)
     print("FILL_L1_NATIVE_DONE need_was", len(todo), "still", still, flush=True)
+    import sys
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    from disambiguate_l1 import run as disambiguate_run
+    if disambiguate_run(packs) != 0:
+        raise SystemExit("identical answers remain after hint pass")
     if still:
         raise SystemExit(2)
 

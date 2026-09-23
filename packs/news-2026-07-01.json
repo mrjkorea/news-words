@@ -13,7 +13,7 @@
         "en": "a competition with a series of games where losers are eliminated until one winner remains",
         "ko": "토너먼트",
         "zh-Hans": "锦标赛",
-        "ja": "トーナメント",
+        "ja": "トーナメント (T)",
         "es": "torneo",
         "hi": "टूर्नामेंट",
         "de": "Turnier",
@@ -59,7 +59,7 @@
         "en": "a stage where the loser of a single match is eliminated from the competition",
         "ko": "녹아웃",
         "zh-Hans": "淘汰赛",
-        "ja": "トーナメント",
+        "ja": "トーナメント (K)",
         "es": "eliminatoria",
         "hi": "नॉकआउट",
         "de": "K.O.",
@@ -68,8 +68,8 @@
         "id": "sistem gugur",
         "fr": "éliminatoire",
         "ar": "خروج المغلوب",
-        "tr": "eleme",
-        "it": "eliminazione",
+        "tr": "eleme (K)",
+        "it": "eliminazione (K)",
         "pl": "puchar"
       },
       "ww": {
@@ -298,8 +298,8 @@
         "id": "eliminasi",
         "fr": "élimination",
         "ar": "إقصاء",
-        "tr": "eleme",
-        "it": "eliminazione",
+        "tr": "eleme (E)",
+        "it": "eliminazione (E)",
         "pl": "eliminacja"
       },
       "ww": {
@@ -318,7 +318,7 @@
           "fr": "élimination",
           "ar": "إقصاء",
           "tr": "eleme, elenme",
-          "it": "eliminazione",
+          "it": "eliminazione (E)",
           "pl": "eliminacja"
         },
         "example": {

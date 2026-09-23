@@ -21,7 +21,7 @@
         "pt-BR": "colocação",
         "id": "penempatan",
         "fr": "placement",
-        "ar": "طرح",
+        "ar": "طرح (P)",
         "tr": "yerleştirme",
         "it": "collocamento",
         "pl": "plasowanie"
@@ -113,7 +113,7 @@
         "pt-BR": "oferta",
         "id": "penawaran",
         "fr": "offre",
-        "ar": "طرح",
+        "ar": "طرح (O)",
         "tr": "arz",
         "it": "offerta",
         "pl": "oferta"

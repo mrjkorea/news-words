@@ -67,10 +67,10 @@
         "pt-BR": "presa",
         "id": "gading",
         "fr": "défense",
-        "ar": "ناب",
+        "ar": "ناب (T)",
         "tr": "diş",
         "it": "zanna",
-        "pl": "kieł"
+        "pl": "kieł (T)"
       },
       "ww": {
         "pos": "n",
@@ -297,10 +297,10 @@
         "pt-BR": "canino",
         "id": "taring",
         "fr": "canine",
-        "ar": "ناب",
+        "ar": "ناب (C)",
         "tr": "köpek dişi",
         "it": "canino",
-        "pl": "kieł"
+        "pl": "kieł (C)"
       },
       "ww": {
         "pos": "n",
