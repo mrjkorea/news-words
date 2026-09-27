@@ -1,0 +1,479 @@
+{
+  "id": "news-2026-09-28",
+  "title": "TikTok agrees to teen time limits in its first US state safety settlement",
+  "headline": "TikTok agrees to teen time limits in its first US state safety settlement",
+  "date": "2026-09-28",
+  "word_count": 10,
+  "words": [
+    {
+      "id": "settlement",
+      "en": "settlement",
+      "pos": "noun",
+      "ko": "합의",
+      "l1": {
+        "en": "An official agreement that ends a legal fight.",
+        "ko": "합의",
+        "zh-Hans": "和解",
+        "ja": "和解",
+        "es": "acuerdo",
+        "hi": "समझौता",
+        "de": "Vergleich",
+        "vi": "dàn xếp",
+        "pt-BR": "acordo",
+        "id": "penyelesaian",
+        "fr": "accord",
+        "ar": "تسوية",
+        "tr": "uzlaşma",
+        "it": "accordo",
+        "pl": "ugoda"
+      },
+      "example_en": "Alabama reached a settlement with TikTok.",
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "An official agreement that ends a legal fight.",
+          "ko": "합의",
+          "zh-Hans": "和解",
+          "ja": "和解",
+          "es": "acuerdo",
+          "hi": "समझौता",
+          "de": "Vergleich",
+          "vi": "dàn xếp",
+          "pt-BR": "acordo",
+          "id": "penyelesaian",
+          "fr": "accord",
+          "ar": "تسوية",
+          "tr": "uzlaşma",
+          "it": "accordo",
+          "pl": "ugoda"
+        },
+        "example": {
+          "en": "Alabama reached a settlement with TikTok."
+        }
+      }
+    },
+    {
+      "id": "teenager",
+      "en": "teenager",
+      "pos": "noun",
+      "ko": "십대",
+      "l1": {
+        "en": "A young person between childhood and adulthood.",
+        "ko": "십대",
+        "zh-Hans": "青少年",
+        "ja": "ティーンエイジャー",
+        "es": "adolescente",
+        "hi": "किशोर",
+        "de": "Jugendlicher",
+        "vi": "thiếu niên",
+        "pt-BR": "adolescente",
+        "id": "remaja",
+        "fr": "adolescent",
+        "ar": "مراهق",
+        "tr": "genç",
+        "it": "adolescente",
+        "pl": "nastolatek"
+      },
+      "example_en": "Teenagers in Alabama get a two-hour daily time limit.",
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A young person between childhood and adulthood.",
+          "ko": "십대",
+          "zh-Hans": "青少年",
+          "ja": "ティーンエイジャー",
+          "es": "adolescente",
+          "hi": "किशोर",
+          "de": "Jugendlicher",
+          "vi": "thiếu niên",
+          "pt-BR": "adolescente",
+          "id": "remaja",
+          "fr": "adolescent",
+          "ar": "مراهق",
+          "tr": "genç",
+          "it": "adolescente",
+          "pl": "nastolatek"
+        },
+        "example": {
+          "en": "Teenagers in Alabama get a two-hour daily time limit."
+        }
+      }
+    },
+    {
+      "id": "limit",
+      "en": "limit",
+      "pos": "noun",
+      "ko": "한도",
+      "l1": {
+        "en": "The highest amount of something that is allowed.",
+        "ko": "한도",
+        "zh-Hans": "限制",
+        "ja": "制限",
+        "es": "límite",
+        "hi": "सीमा",
+        "de": "Grenze",
+        "vi": "giới hạn",
+        "pt-BR": "limite",
+        "id": "batas",
+        "fr": "limite",
+        "ar": "حد",
+        "tr": "sınır",
+        "it": "limite",
+        "pl": "limit"
+      },
+      "example_en": "The app sets a two-hour daily limit.",
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The highest amount of something that is allowed.",
+          "ko": "한도",
+          "zh-Hans": "限制",
+          "ja": "制限",
+          "es": "límite",
+          "hi": "सीमा",
+          "de": "Grenze",
+          "vi": "giới hạn",
+          "pt-BR": "limite",
+          "id": "batas",
+          "fr": "limite",
+          "ar": "حد",
+          "tr": "sınır",
+          "it": "limite",
+          "pl": "limit"
+        },
+        "example": {
+          "en": "The app sets a two-hour daily limit."
+        }
+      }
+    },
+    {
+      "id": "addictive",
+      "en": "addictive",
+      "pos": "noun",
+      "ko": "중독성",
+      "l1": {
+        "en": "Very hard to stop using or doing.",
+        "ko": "중독성",
+        "zh-Hans": "上瘾",
+        "ja": "中毒性",
+        "es": "adictivo",
+        "hi": "नशीला",
+        "de": "süchtig",
+        "vi": "gây nghiện",
+        "pt-BR": "viciante",
+        "id": "adiktif",
+        "fr": "addictif",
+        "ar": "إدماني",
+        "tr": "bağımlılık yapıcı",
+        "it": "addivo",
+        "pl": "uzależniający"
+      },
+      "example_en": "Alabama said the app is highly addictive.",
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "Very hard to stop using or doing.",
+          "ko": "중독성",
+          "zh-Hans": "上瘾",
+          "ja": "中毒性",
+          "es": "adictivo",
+          "hi": "नशीला",
+          "de": "süchtig",
+          "vi": "gây nghiện",
+          "pt-BR": "viciante",
+          "id": "adiktif",
+          "fr": "addictif",
+          "ar": "إدماني",
+          "tr": "bağımlılık yapıcı",
+          "it": "addivo",
+          "pl": "uzależniający"
+        },
+        "example": {
+          "en": "Alabama said the app is highly addictive."
+        }
+      }
+    },
+    {
+      "id": "algorithm",
+      "en": "algorithm",
+      "pos": "noun",
+      "ko": "알고리즘",
+      "l1": {
+        "en": "A set of rules a computer uses to decide what to show next.",
+        "ko": "알고리즘",
+        "zh-Hans": "算法",
+        "ja": "アルゴリズム",
+        "es": "algoritmo",
+        "hi": "एल्गोरिदम",
+        "de": "Algorithmus",
+        "vi": "thuật toán",
+        "pt-BR": "algoritmo",
+        "id": "algoritma",
+        "fr": "algorithme",
+        "ar": "خوارزمية",
+        "tr": "algoritma",
+        "it": "algoritmo",
+        "pl": "algorytm"
+      },
+      "example_en": "The algorithm can push young users toward intense content.",
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A set of rules a computer uses to decide what to show next.",
+          "ko": "알고리즘",
+          "zh-Hans": "算法",
+          "ja": "アルゴリズム",
+          "es": "algoritmo",
+          "hi": "एल्गोरिदम",
+          "de": "Algorithmus",
+          "vi": "thuật toán",
+          "pt-BR": "algoritmo",
+          "id": "algoritma",
+          "fr": "algorithme",
+          "ar": "خوارزمية",
+          "tr": "algoritma",
+          "it": "algoritmo",
+          "pl": "algorytm"
+        },
+        "example": {
+          "en": "The algorithm can push young users toward intense content."
+        }
+      }
+    },
+    {
+      "id": "verification",
+      "en": "verification",
+      "pos": "noun",
+      "ko": "검증",
+      "l1": {
+        "en": "The act of checking that information is true.",
+        "ko": "검증",
+        "zh-Hans": "验证",
+        "ja": "検証",
+        "es": "verificación",
+        "hi": "सत्यापन",
+        "de": "Überprüfung",
+        "vi": "xác minh",
+        "pt-BR": "verificação",
+        "id": "verifikasi",
+        "fr": "vérification",
+        "ar": "تحقق",
+        "tr": "doğrulama",
+        "it": "verifica",
+        "pl": "weryfikacja"
+      },
+      "example_en": "The deal requires stricter age verification.",
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The act of checking that information is true.",
+          "ko": "검증",
+          "zh-Hans": "验证",
+          "ja": "検証",
+          "es": "verificación",
+          "hi": "सत्यापन",
+          "de": "Überprüfung",
+          "vi": "xác minh",
+          "pt-BR": "verificação",
+          "id": "verifikasi",
+          "fr": "vérification",
+          "ar": "تحقق",
+          "tr": "doğrulama",
+          "it": "verifica",
+          "pl": "weryfikacja"
+        },
+        "example": {
+          "en": "The deal requires stricter age verification."
+        }
+      }
+    },
+    {
+      "id": "lawsuit",
+      "en": "lawsuit",
+      "pos": "noun",
+      "ko": "소송",
+      "l1": {
+        "en": "A case taken to a court of law.",
+        "ko": "소송",
+        "zh-Hans": "诉讼",
+        "ja": "訴訟",
+        "es": "demanda",
+        "hi": "मुकदमा",
+        "de": "Klage",
+        "vi": "vụ kiện",
+        "pt-BR": "processo",
+        "id": "gugatan",
+        "fr": "procès",
+        "ar": "دعوى",
+        "tr": "dava",
+        "it": "causa",
+        "pl": "pozew"
+      },
+      "example_en": "This is the first teen-safety lawsuit a US state settled with TikTok.",
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A case taken to a court of law.",
+          "ko": "소송",
+          "zh-Hans": "诉讼",
+          "ja": "訴訟",
+          "es": "demanda",
+          "hi": "मुकदमा",
+          "de": "Klage",
+          "vi": "vụ kiện",
+          "pt-BR": "processo",
+          "id": "gugatan",
+          "fr": "procès",
+          "ar": "دعوى",
+          "tr": "dava",
+          "it": "causa",
+          "pl": "pozew"
+        },
+        "example": {
+          "en": "This is the first teen-safety lawsuit a US state settled with TikTok."
+        }
+      }
+    },
+    {
+      "id": "platform",
+      "en": "platform",
+      "pos": "noun",
+      "ko": "플랫폼",
+      "l1": {
+        "en": "A digital service where people share and watch content.",
+        "ko": "플랫폼",
+        "zh-Hans": "平台",
+        "ja": "プラットフォーム",
+        "es": "plataforma",
+        "hi": "प्लेटफ़ॉर्म",
+        "de": "Plattform",
+        "vi": "nền tảng",
+        "pt-BR": "plataforma",
+        "id": "platform",
+        "fr": "plateforme",
+        "ar": "منصة",
+        "tr": "platform",
+        "it": "piattaforma",
+        "pl": "platforma"
+      },
+      "example_en": "TikTok is a short-video platform.",
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A digital service where people share and watch content.",
+          "ko": "플랫폼",
+          "zh-Hans": "平台",
+          "ja": "プラットフォーム",
+          "es": "plataforma",
+          "hi": "प्लेटफ़ॉर्म",
+          "de": "Plattform",
+          "vi": "nền tảng",
+          "pt-BR": "plataforma",
+          "id": "platform",
+          "fr": "plateforme",
+          "ar": "منصة",
+          "tr": "platform",
+          "it": "piattaforma",
+          "pl": "platforma"
+        },
+        "example": {
+          "en": "TikTok is a short-video platform."
+        }
+      }
+    },
+    {
+      "id": "safety",
+      "en": "safety",
+      "pos": "noun",
+      "ko": "안전",
+      "l1": {
+        "en": "The state of being protected from harm.",
+        "ko": "안전",
+        "zh-Hans": "安全",
+        "ja": "安全",
+        "es": "seguridad",
+        "hi": "सुरक्षा",
+        "de": "Sicherheit",
+        "vi": "an toàn",
+        "pt-BR": "segurança",
+        "id": "keamanan",
+        "fr": "sécurité",
+        "ar": "سلامة",
+        "tr": "güvenlik",
+        "it": "sicurezza",
+        "pl": "bezpieczeństwo"
+      },
+      "example_en": "The company wants better safety tools for teens.",
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The state of being protected from harm.",
+          "ko": "안전",
+          "zh-Hans": "安全",
+          "ja": "安全",
+          "es": "seguridad",
+          "hi": "सुरक्षा",
+          "de": "Sicherheit",
+          "vi": "an toàn",
+          "pt-BR": "segurança",
+          "id": "keamanan",
+          "fr": "sécurité",
+          "ar": "سلامة",
+          "tr": "güvenlik",
+          "it": "sicurezza",
+          "pl": "bezpieczeństwo"
+        },
+        "example": {
+          "en": "The company wants better safety tools for teens."
+        }
+      }
+    },
+    {
+      "id": "scroll",
+      "en": "scroll",
+      "pos": "noun",
+      "ko": "스크롤",
+      "l1": {
+        "en": "To move up or down through a long screen of videos or text.",
+        "ko": "스크롤",
+        "zh-Hans": "滚动",
+        "ja": "スクロール",
+        "es": "desplazar",
+        "hi": "स्क्रॉल",
+        "de": "scrollen",
+        "vi": "cuộn",
+        "pt-BR": "rolar",
+        "id": "gulir",
+        "fr": "défiler",
+        "ar": "تمرير",
+        "tr": "kaydırmak",
+        "it": "scorrere",
+        "pl": "przewijać"
+      },
+      "example_en": "Officials want to cut endless scrolling.",
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "To move up or down through a long screen of videos or text.",
+          "ko": "스크롤",
+          "zh-Hans": "滚动",
+          "ja": "スクロール",
+          "es": "desplazar",
+          "hi": "स्क्रॉल",
+          "de": "scrollen",
+          "vi": "cuộn",
+          "pt-BR": "rolar",
+          "id": "gulir",
+          "fr": "défiler",
+          "ar": "تمرير",
+          "tr": "kaydırmak",
+          "it": "scorrere",
+          "pl": "przewijać"
+        },
+        "example": {
+          "en": "Officials want to cut endless scrolling."
+        }
+      }
+    }
+  ]
+}
