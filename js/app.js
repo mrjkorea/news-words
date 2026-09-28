@@ -144,6 +144,28 @@
     }
   }
 
+
+  // Jay 28SEP2026: every answered item also lands in the ONE score book.
+  function logToScoreBook(ev) {
+    if (!window.MRJ_SCORES || !ev) return;
+    var set = currentSet();
+    var who = (state.displayName || "").trim() || "unknown";
+    window.MRJ_SCORES.post({
+      student: who,
+      program: "news-words",
+      appName: "MRJ News Words",
+      source: "news-words",
+      bookTitle: set ? (set.title || set.id || "") : "",
+      unitTitle: ev.mode || "",
+      itemId: "news-words:" + (ev.item_id || "") + ":" + (ev.activity_id || ""),
+      itemType: ev.activity_id || "word_item",
+      scoreValue: ev.correct ? 1 : 0,
+      scoreMax: 1,
+      correctness: ev.correct ? "correct" : "incorrect",
+      metadata: { skill_tags: ev.skill_tags || [], latency_ms: ev.latency_ms || 0 },
+    });
+  }
+
   function logEvent(partial) {
     const set = currentSet();
     const ev = {
@@ -167,6 +189,7 @@
     };
     const events = loadEvents();
     events.push(ev);
+    try { logToScoreBook(ev); } catch (e) {}
     try {
       localStorage.setItem(LS_EVENTS, JSON.stringify(events));
     } catch (e) {}
