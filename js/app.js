@@ -2051,6 +2051,7 @@
       leapfrog: "games/leap-frog/index.html",
       snowjump: "games/snow-jump/index.html",
       spellfire: "games/spellfire/index.html",
+      spaceshooter: "https://mrjkorea.github.io/sound-invaders/index.html",
     };
     const path = paths[kind];
     if (!path) return;
@@ -2260,7 +2261,7 @@
     $$("#game-slots .slot.playable").forEach(function (slot) {
       slot.addEventListener("click", function () {
         const g = slot.getAttribute("data-game");
-        if (g === "leapfrog" || g === "snowjump" || g === "spellfire") openPortableGame(g);
+        if (g === "leapfrog" || g === "snowjump" || g === "spellfire" || g === "spaceshooter") openPortableGame(g);
       });
     });
     $("#btn-listen-speak").addEventListener("click", function () {
