@@ -85,6 +85,17 @@
   let ttsProbe = null;
 
   let state = loadState();
+  let authReady = false;
+  let authId = "";
+
+  function studentForScores() {
+    return String(authId || "").trim();
+  }
+
+  function practiceAllowed() {
+    return authReady;
+  }
+
   let learn = blankLearn();
   let quiz = blankQuiz();
   let matchGame = null;
@@ -105,7 +116,7 @@
       if (raw) {
         const parsed = JSON.parse(raw);
         if (parsed && parsed.studentId) {
-          if (!parsed.displayName) parsed.displayName = "";
+          parsed.displayName = "";
           if (!parsed.testKind) parsed.testKind = "easy";
           if (!parsed.studySize) parsed.studySize = 10;
           if (!parsed.voice || parsed.voice === "man") parsed.voice = "us_m";
@@ -148,8 +159,9 @@
   // Jay 28SEP2026: every answered item also lands in the ONE score book.
   function logToScoreBook(ev) {
     if (!window.MRJ_SCORES || !ev) return;
+    var who = studentForScores();
+    if (!who) return;
     var set = currentSet();
-    var who = (state.displayName || "").trim() || "unknown";
     window.MRJ_SCORES.post({
       student: who,
       program: "news-words",
@@ -259,22 +271,8 @@
       .replace(/[^a-z]/g, "");
   }
 
-  let nameReturnTo = "boot";
-
-  function openNameScreen(returnTo) {
-    nameReturnTo = returnTo || currentScreen;
-    const input = $("#name-input");
-    if (input) {
-      input.value = state.displayName || "";
-      try {
-        input.focus();
-        input.setSelectionRange(input.value.length, input.value.length);
-      } catch (e) {}
-    }
-    showScreen("name");
-  }
-
   function showScreen(name) {
+    if (name === "name") name = "boot";
     currentScreen = name;
     $$(".screen").forEach(function (el) {
       el.classList.toggle("active", el.getAttribute("data-screen") === name);
@@ -704,6 +702,7 @@
   }
 
   async function openPack(pid) {
+    if (!practiceAllowed()) return;
     const pack = await loadPackFile(pid);
     if (!pack || !pack.words.length) return;
     const existing = Object.keys(state.sets)
@@ -725,6 +724,7 @@
   }
 
   async function openDemo() {
+    if (!practiceAllowed()) return;
     const existing = Object.keys(state.sets)
       .map(function (k) { return state.sets[k]; })
       .find(function (s) { return s.packId === DEMO_PACK_ID; });
@@ -781,6 +781,7 @@
   }
 
   async function afterBootHome() {
+    if (!practiceAllowed()) return;
     const pid = newsPackIdFromUrl();
     if (pid) {
       await openPack(pid);
@@ -794,7 +795,8 @@
     const btn = $("#btn-continue");
     const set = currentSet();
     const hello = $("#hello-line");
-    if (hello) hello.textContent = state.displayName ? t("hello", { name: state.displayName }) : "";
+    const who = studentForScores();
+    if (hello) hello.textContent = who ? t("hello", { name: who }) : "";
     renderNewsDayList();
     let forever = 0;
     let trying = 0;
@@ -928,6 +930,7 @@
   }
 
   function startTapmap() {
+    if (!practiceAllowed()) return;
     const set = currentSet();
     if (!set) return;
     if (!set.intro) set.intro = {};
@@ -1213,6 +1216,7 @@
   }
 
   function startLearnAt(mode) {
+    if (!practiceAllowed()) return;
     const set = currentSet();
     if (!set) return;
     if (!tapmapDone(set)) return startTapmap();
@@ -1222,6 +1226,7 @@
   }
 
   function jumpTo(step) {
+    if (!practiceAllowed()) return;
     const go = function () {
       if (step === "intro") return startMeet();
       if (step === "A" || step === "B" || step === "C") return startLearnAt(step);
@@ -1692,6 +1697,7 @@
   }
 
   function startEasy() {
+    if (!practiceAllowed()) return;
     const set = currentSet();
     if (!set) return;
     quiz = blankQuiz();
@@ -1710,6 +1716,7 @@
   }
 
   function startHard() {
+    if (!practiceAllowed()) return;
     const set = currentSet();
     if (!set) return;
     quiz = blankQuiz();
@@ -1862,6 +1869,7 @@
   }
 
   function goGames() {
+    if (!practiceAllowed()) return;
     if (!currentSet()) {
       openDemo().then(function () {
         $("#games-set-hint").textContent = t("games_hint", { title: currentSet().title });
@@ -2031,6 +2039,8 @@
   }
 
   function openPortableGame(kind) {
+    const who = studentForScores();
+    if (!practiceAllowed() || !who) return;
     const set = currentSet();
     if (!set) {
       openDemo().then(function () { openPortableGame(kind); });
@@ -2066,8 +2076,7 @@
       sessionStorage.setItem("mrj.wm.gamepack", JSON.stringify(pack));
     } catch (e) { /* ignore */ }
     const frame = $("#game-frame");
-    const name = encodeURIComponent(state.displayName || "Student");
-    frame.src = path + "?pack=session&packid=" + encodeURIComponent(currentPackId()) + "&student=" + name;
+    frame.src = path + "?pack=session&packid=" + encodeURIComponent(currentPackId()) + "&student=" + encodeURIComponent(who);
     showScreen("playgame");
   }
 
@@ -2109,35 +2118,35 @@
     $("#btn-tap-start").addEventListener("click", function () {
       unlockSpeech();
       setVoice(state.voice);
-      openNameScreen("boot");
+      if (!practiceAllowed()) return;
+      afterBootHome();
     });
     const changeNameBtn = $("#btn-change-name");
     if (changeNameBtn) changeNameBtn.addEventListener("click", function () {
-      openNameScreen("home");
-    });
-    const nameGo = $("#btn-name-go");
-    if (nameGo) nameGo.addEventListener("click", function () {
-      const n = ($("#name-input").value || "").trim();
-      if (!n) return;
-      state.displayName = n;
+      authReady = false;
+      authId = "";
+      state.displayName = "";
       persist();
-      if (nameReturnTo === "home") {
-        renderHome();
-        showScreen("home");
-        return;
+      if (window.MRJ_AUTH && typeof window.MRJ_AUTH.signOut === "function") {
+        window.MRJ_AUTH.signOut();
       }
-      afterBootHome();
+      const gate = document.getElementById("mrj-auth-gate");
+      if (gate) gate.hidden = false;
+      document.documentElement.classList.add("mrj-auth-locked");
+      showScreen("boot");
     });
     const listBtn = $("#btn-word-list");
     if (listBtn) listBtn.addEventListener("click", function () {
       openDemo().then(function () {
+        const set = currentSet();
+        if (!set) return;
         const box = $("#alpha-list");
         box.innerHTML = "";
-        currentSet().words.slice().sort(function (a, b) { return a.en.localeCompare(b.en); }).forEach(function (w) {
+        set.words.slice().sort(function (a, b) { return a.en.localeCompare(b.en); }).forEach(function (w) {
           const row = document.createElement("button");
           row.type = "button";
           row.className = "word-row";
-          const tag = currentSet().srsForever ? t("tag_forever") : (currentSet().srsTrying ? t("tag_learning") : t("tag_new"));
+          const tag = set.srsForever ? t("tag_forever") : (set.srsTrying ? t("tag_learning") : t("tag_new"));
           row.innerHTML = '<span class="en"></span><span class="meaning"></span>';
           row.querySelector(".en").textContent = w.en;
           row.querySelector(".meaning").textContent = meaning(w) + " · " + tag;
@@ -2307,9 +2316,6 @@
       } else if (currentScreen === "test") {
         e.preventDefault();
         onHardCheck();
-      } else if (currentScreen === "name") {
-        e.preventDefault();
-        $("#btn-name-go").click();
       }
     });
     if (window.visualViewport) {
@@ -2386,5 +2392,13 @@
     I18n.applyDom(document);
   }
   setVoice(state.voice);
+  window.addEventListener("mrj-auth-ready", function (event) {
+    const raw = event && event.detail ? event.detail.id : "";
+    authId = raw == null ? "" : String(raw).trim();
+    authReady = true;
+    state.displayName = authId;
+    persist();
+    if (currentScreen === "home") renderHome();
+  });
   showScreen("boot");
 })();

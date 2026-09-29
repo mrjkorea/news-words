@@ -49,3 +49,11 @@
 - **Model:** composer-2.5
 - **Files:** `js/app.js`, `css/app.css`, `index.html`, `CURSOR_RECEIPT.md`
 - **Behavior:** `body.kb-desk` from media queries; `keydown` calls `onAz`/`delAz`/check only on Learn B/C and Hard test; `preventDefault` blocks IME Hangul on letter keys.
+
+## Shared MRJ sign-in — 29 Sep 2026
+
+- **Command:** Wire News Words to the shared MRJ door. No second login. Do not push GitHub.
+- **Model:** Grok 4.7
+- **Not pushed.**
+- **Files:** `index.html`, `js/app.js`, `CURSOR_RECEIPT.md`
+- **Behavior:** Shared door scripts load before the app. `#screen-name` is not the way in. Practice waits for `mrj-auth-ready`. Scores use `event.detail.id` only, and an empty id is not posted. Change name calls `MRJ_AUTH.signOut()` when that function is present.
