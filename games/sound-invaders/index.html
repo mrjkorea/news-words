@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover"
+    />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="theme-color" content="#05060f" />
+    <title>Sound Invaders</title>
+    <link rel="icon" href="./textures/pilot.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fredoka:wght@600;700&family=Tektur:wght@500;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      html,
+      body {
+        margin: 0;
+        background: #05060f;
+        color: #f4ead5;
+      }
+    </style>
+    <script type="module" crossorigin src="./assets/index-C1lJcvkB.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-B0zWibXi.css">
+  </head>
+  <body>
+    <div id="app">
+      <canvas id="view"></canvas>
+
+      <div id="vignette"></div>
+      <div id="freeze-veil"></div>
+      <div id="flash"></div>
+
+      <div id="hud" class="hud hidden" aria-live="polite">
+        <div class="hud-top">
+          <button id="btn-mute" class="icon-btn" type="button" aria-label="Mute music">
+            <svg id="icon-music" viewBox="0 0 24 24" aria-hidden="true">
+              <path
+                fill="currentColor"
+                d="M9 5v10.2A3.2 3.2 0 1 0 11 18V9h6V5H9z"
+              />
+            </svg>
+            <span id="mute-x" class="mute-x hidden">/</span>
+          </button>
+          <div id="lives" class="lives"></div>
+          <div class="hud-score">
+            <span class="label">SCORE</span>
+            <span id="score">0</span>
+          </div>
+        </div>
+        <div class="hud-progress">
+          <span id="progress-label">STAGE 1</span>
+          <div class="pips" id="pips"></div>
+          <div id="ammo" class="ammo" aria-label="shots"></div>
+        </div>
+      </div>
+
+      <div id="touch" class="touch hidden">
+        <div id="steer-zone" class="steer-zone">
+          <span id="steer-hint" class="steer-hint">SLIDE</span>
+        </div>
+        <div id="shoot-zone" class="shoot-zone">
+          <button id="btn-ice" type="button" aria-label="Use ice" disabled>ICE</button>
+          <button id="btn-shoot" type="button" aria-label="Shoot">
+            <span>SHOOT</span>
+          </button>
+        </div>
+      </div>
+
+      <div id="pops" class="pops"></div>
+
+      <div id="overlay" class="overlay">
+        <div class="card" id="card">
+          <img class="pilot" src="./textures/pilot.png" alt="" />
+          <p class="kicker">MRJ · listen &amp; shoot</p>
+          <h1>SOUND INVADERS</h1>
+          <ol class="howto">
+            <li>2 shots per word set. Make them count.</li>
+            <li>Bump a space station = extra life. Grab ice, tap ICE to freeze.</li>
+            <li>3 lives. Stages never end — they get faster. Highest score wins.</li>
+          </ol>
+          <button id="btn-start" type="button">TAP TO START</button>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

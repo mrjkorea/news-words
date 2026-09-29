@@ -1,0 +1,168 @@
+{
+  "pack_id": "minimal-pairs-v1",
+  "title": "Sound Invaders \u2014 tiny word listen",
+  "module_id": "sound_invaders",
+  "activity_id": "hear_shoot",
+  "api_version": "0.1.0",
+  "skill_tags": [
+    "listening",
+    "phonics-words",
+    "minimal-pairs",
+    "a1"
+  ],
+  "ui_locale": "en",
+  "lives": 3,
+  "win_corrects": 8,
+  "prompt_mode": "listen",
+  "notes": "Target audio = G1 Clear Female (word taps). Swap pack to change words/voice.",
+  "items": [
+    {
+      "item_id": "mom01",
+      "prompt": "mom",
+      "correct": "mom",
+      "wrong": [
+        "mim",
+        "mem",
+        "mum"
+      ],
+      "audio": "audio/words/mom.mp3",
+      "skill_tags": [
+        "short-vowels",
+        "m-words"
+      ]
+    },
+    {
+      "item_id": "mim01",
+      "prompt": "mim",
+      "correct": "mim",
+      "wrong": [
+        "mom",
+        "mem",
+        "mum"
+      ],
+      "audio": "audio/words/mim.mp3",
+      "skill_tags": [
+        "short-vowels",
+        "m-words"
+      ]
+    },
+    {
+      "item_id": "mem01",
+      "prompt": "mem",
+      "correct": "mem",
+      "wrong": [
+        "mom",
+        "mim",
+        "mum"
+      ],
+      "audio": "audio/words/mem.mp3",
+      "skill_tags": [
+        "short-vowels",
+        "m-words"
+      ]
+    },
+    {
+      "item_id": "mum01",
+      "prompt": "mum",
+      "correct": "mum",
+      "wrong": [
+        "mom",
+        "mim",
+        "mem"
+      ],
+      "audio": "audio/words/mum.mp3",
+      "skill_tags": [
+        "short-vowels",
+        "m-words"
+      ]
+    },
+    {
+      "item_id": "ship01",
+      "prompt": "ship",
+      "correct": "ship",
+      "wrong": [
+        "sheep",
+        "sip",
+        "chip"
+      ],
+      "audio": "audio/words/ship.mp3",
+      "skill_tags": [
+        "sh",
+        "minimal-pair"
+      ]
+    },
+    {
+      "item_id": "sheep01",
+      "prompt": "sheep",
+      "correct": "sheep",
+      "wrong": [
+        "ship",
+        "cheap",
+        "seep"
+      ],
+      "audio": "audio/words/sheep.mp3",
+      "skill_tags": [
+        "ee",
+        "minimal-pair"
+      ]
+    },
+    {
+      "item_id": "bat01",
+      "prompt": "bat",
+      "correct": "bat",
+      "wrong": [
+        "bet",
+        "bit",
+        "but"
+      ],
+      "audio": "audio/words/bat.mp3",
+      "skill_tags": [
+        "short-vowels"
+      ]
+    },
+    {
+      "item_id": "cat01",
+      "prompt": "cat",
+      "correct": "cat",
+      "wrong": [
+        "cut",
+        "cot",
+        "kit"
+      ],
+      "audio": "audio/words/cat.mp3",
+      "skill_tags": [
+        "short-vowels"
+      ]
+    },
+    {
+      "item_id": "fan01",
+      "prompt": "fan",
+      "correct": "fan",
+      "wrong": [
+        "fin",
+        "fun",
+        "van"
+      ],
+      "audio": "audio/words/fan.mp3",
+      "skill_tags": [
+        "short-vowels"
+      ]
+    },
+    {
+      "item_id": "pin01",
+      "prompt": "pin",
+      "correct": "pin",
+      "wrong": [
+        "pen",
+        "pan",
+        "pun"
+      ],
+      "audio": "audio/words/pin.mp3",
+      "skill_tags": [
+        "short-vowels"
+      ]
+    }
+  ],
+  "voice_id": "18aea83acb7f40c3b0291ac6d575398b",
+  "voice_name": "g1_clear_female"
+}

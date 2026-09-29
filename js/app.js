@@ -2038,6 +2038,28 @@
     }).filter(function (it) { return it.correct && it.wrong.length >= 1; });
   }
 
+  function shooterPack(set) {
+    const words = playWords(set).filter(function (w) { return w && w.en; });
+    const ens = words.map(function (w) { return w.en; });
+    const v = state.voice || "us_m";
+    return {
+      pack_id: set.id || "nouns100",
+      title: set.title,
+      module_id: "sound-invaders",
+      activity_id: "hear_shoot",
+      items: words.map(function (w) {
+        const id = String(w.en).toLowerCase().replace(/[^a-z]/g, "");
+        const others = ens.filter(function (en) { return en !== w.en; });
+        return {
+          correct: w.en,
+          prompt: w.en,
+          wrong: others.slice(0, 3),
+          audio: id ? ("../../" + packBase() + "/audio/" + v + "/" + id + ".mp3") : null,
+        };
+      }),
+    };
+  }
+
   function openPortableGame(kind) {
     const who = studentForScores();
     if (!practiceAllowed() || !who) return;
@@ -2051,7 +2073,7 @@
       leapfrog: "games/leap-frog/index.html",
       snowjump: "games/snow-jump/index.html",
       spellfire: "games/spellfire/index.html",
-      spaceshooter: "https://mrjkorea.github.io/sound-invaders/index.html",
+      soundinvaders: "games/sound-invaders/index.html",
     };
     const path = paths[kind];
     if (!path) return;
@@ -2063,6 +2085,8 @@
         seconds_per_letter: 5,
         items: set.words.map(function (w) { return { item_id: w.id, word: w.en }; }),
       };
+    } else if (kind === "soundinvaders") {
+      pack = shooterPack(set);
     } else {
       pack = {
         pack_id: set.id || "nouns100",
@@ -2261,7 +2285,7 @@
     $$("#game-slots .slot.playable").forEach(function (slot) {
       slot.addEventListener("click", function () {
         const g = slot.getAttribute("data-game");
-        if (g === "leapfrog" || g === "snowjump" || g === "spellfire" || g === "spaceshooter") openPortableGame(g);
+        if (g === "leapfrog" || g === "snowjump" || g === "spellfire" || g === "soundinvaders") openPortableGame(g);
       });
     });
     $("#btn-listen-speak").addEventListener("click", function () {
