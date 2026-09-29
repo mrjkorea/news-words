@@ -66,6 +66,16 @@
     return native;
   }
 
+  function rockLabel(w) {
+    if (!w) return "";
+    const loc = localeCode();
+    if (loc === "en") return String(w.en || "").trim();
+    const l1 = w.l1 && typeof w.l1 === "object" ? w.l1 : {};
+    let native = String(l1[loc] || "").trim();
+    if (!native && loc === "ko") native = String(w.ko || "").trim();
+    return native;
+  }
+
   function packWord(w, i) {
     const l1 = w.l1 && typeof w.l1 === "object" ? w.l1 : null;
     return {
@@ -2039,8 +2049,7 @@
   }
 
   function shooterPack(set) {
-    const words = playWords(set).filter(function (w) { return w && w.en; });
-    const ens = words.map(function (w) { return w.en; });
+    const words = playWords(set).filter(function (w) { return w && w.en && rockLabel(w); });
     const v = state.voice || "us_m";
     return {
       pack_id: set.id || "nouns100",
@@ -2049,14 +2058,22 @@
       activity_id: "hear_shoot",
       items: words.map(function (w) {
         const id = String(w.en).toLowerCase().replace(/[^a-z]/g, "");
-        const others = ens.filter(function (en) { return en !== w.en; });
+        const label = rockLabel(w);
+        const wrong = [];
+        for (let i = 0; i < words.length && wrong.length < 3; i++) {
+          if (words[i] === w) continue;
+          const other = rockLabel(words[i]);
+          if (!other || other === label) continue;
+          wrong.push(other);
+        }
         return {
           correct: w.en,
           prompt: w.en,
-          wrong: others.slice(0, 3),
+          label: label,
+          wrong: wrong,
           audio: id ? ("../../" + packBase() + "/audio/" + v + "/" + id + ".mp3") : null,
         };
-      }),
+      }).filter(function (it) { return it.label; }),
     };
   }
 
