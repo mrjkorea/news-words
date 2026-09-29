@@ -57,3 +57,11 @@
 - **Not pushed.**
 - **Files:** `index.html`, `js/app.js`, `CURSOR_RECEIPT.md`
 - **Behavior:** Shared door scripts load before the app. `#screen-name` is not the way in. Practice waits for `mrj-auth-ready`. Scores use `event.detail.id` only, and an empty id is not posted. Change name calls `MRJ_AUTH.signOut()` when that function is present.
+
+## Tue 29 Sep pictures + 8 voices — 29 Sep 2026
+
+- **Command:** `cursor-agent -p --force --trust --sandbox disabled --approve-mcps --workspace ~/.hermes/projects/mrj-news-words --model composer-2.5` Generate Image ×10
+- **Model:** composer-2.5 (Nano Banana Pro stills)
+- **Files:** `packs/news-2026-09-29/*.png` (10) and `packs/news-2026-09-29/audio/{us_m,us_f,uk_m,uk_f,grandma,leo,grandpa,robot}/*.mp3` (80 Fish)
+- **Gate:** `python3 scripts/verify_day_media.py 2026-09-29` printed `MEDIA_OK` locally before push.
+

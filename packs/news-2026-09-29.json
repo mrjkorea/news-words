@@ -27,7 +27,30 @@
         "it": "nanoparticella",
         "pl": "nanocząstka"
       },
-      "example_en": "An extremely small particle, far too tiny to see."
+      "example_en": "Researchers at Purdue University say a fresh cleaning smell can hide a cloud of invisible nanoparticles.",
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "An extremely small particle, far too tiny to see.",
+          "ko": "나노입자",
+          "zh-Hans": "纳米颗粒",
+          "ja": "ナノ粒子",
+          "es": "nanopartícula",
+          "hi": "नैनोकण",
+          "de": "Nanopartikel",
+          "vi": "hạt nano",
+          "pt-BR": "nanopartícula",
+          "id": "nanopartikel",
+          "fr": "nanoparticule",
+          "ar": "جسيم نانوي",
+          "tr": "nanopartikül",
+          "it": "nanoparticella",
+          "pl": "nanocząstka"
+        },
+        "example": {
+          "en": "Researchers at Purdue University say a fresh cleaning smell can hide a cloud of invisible nanoparticles."
+        }
+      }
     },
     {
       "id": "fragrance",
@@ -51,7 +74,30 @@
         "it": "profumo",
         "pl": "zapach"
       },
-      "example_en": "A sweet or strong smell added to a product."
+      "example_en": "A fragrance in the cleaner can hide a cloud of tiny particles.",
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A sweet or strong smell added to a product.",
+          "ko": "향료",
+          "zh-Hans": "香料",
+          "ja": "香料",
+          "es": "fragancia",
+          "hi": "सुगंध",
+          "de": "Duftstoff",
+          "vi": "hương liệu",
+          "pt-BR": "fragrância",
+          "id": "parfum",
+          "fr": "parfum",
+          "ar": "عطر",
+          "tr": "koku",
+          "it": "profumo",
+          "pl": "zapach"
+        },
+        "example": {
+          "en": "A fragrance in the cleaner can hide a cloud of tiny particles."
+        }
+      }
     },
     {
       "id": "ozone",
@@ -75,7 +121,30 @@
         "it": "ozono",
         "pl": "ozon"
       },
-      "example_en": "A form of oxygen that can react with scented chemicals in indoor air."
+      "example_en": "Scented cleaners react with indoor ozone and form tiny particles within minutes.",
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A form of oxygen that can react with scented chemicals in indoor air.",
+          "ko": "오존",
+          "zh-Hans": "臭氧",
+          "ja": "オゾン",
+          "es": "ozono",
+          "hi": "ओज़ोन",
+          "de": "Ozon",
+          "vi": "ozon",
+          "pt-BR": "ozônio",
+          "id": "ozon",
+          "fr": "ozone",
+          "ar": "أوزون",
+          "tr": "ozon",
+          "it": "ozono",
+          "pl": "ozon"
+        },
+        "example": {
+          "en": "Scented cleaners react with indoor ozone and form tiny particles within minutes."
+        }
+      }
     },
     {
       "id": "ventilation",
@@ -99,12 +168,35 @@
         "it": "ventilazione",
         "pl": "wentylacja"
       },
-      "example_en": "The movement of fresh air through a room."
+      "example_en": "An open window gives the room ventilation while you clean.",
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The movement of fresh air through a room.",
+          "ko": "환기",
+          "zh-Hans": "通风",
+          "ja": "換気",
+          "es": "ventilación",
+          "hi": "वेंटिलेशन",
+          "de": "Lüftung",
+          "vi": "thông gió",
+          "pt-BR": "ventilação",
+          "id": "ventilasi",
+          "fr": "ventilation",
+          "ar": "تهوية",
+          "tr": "havalandırma",
+          "it": "ventilazione",
+          "pl": "wentylacja"
+        },
+        "example": {
+          "en": "An open window gives the room ventilation while you clean."
+        }
+      }
     },
     {
       "id": "inhale",
       "en": "inhale",
-      "pos": "noun",
+      "pos": "verb",
       "ko": "들이마시다",
       "l1": {
         "en": "To breathe something into the lungs.",
@@ -123,12 +215,35 @@
         "it": "inalare",
         "pl": "wdychać"
       },
-      "example_en": "To breathe something into the lungs."
+      "example_en": "By the time a room looks finished, the particles have already been inhaled.",
+      "ww": {
+        "pos": "v",
+        "def": {
+          "en": "To breathe something into the lungs.",
+          "ko": "들이마시다",
+          "zh-Hans": "吸入",
+          "ja": "吸い込む",
+          "es": "inhalar",
+          "hi": "साँस लेना",
+          "de": "einatmen",
+          "vi": "hít vào",
+          "pt-BR": "inalar",
+          "id": "menghirup",
+          "fr": "inhaler",
+          "ar": "يستنشق",
+          "tr": "solumak",
+          "it": "inalare",
+          "pl": "wdychać"
+        },
+        "example": {
+          "en": "By the time a room looks finished, the particles have already been inhaled."
+        }
+      }
     },
     {
       "id": "ultrafine",
       "en": "ultrafine",
-      "pos": "noun",
+      "pos": "adjective",
       "ko": "초미세",
       "l1": {
         "en": "Smaller than ordinary dust, small enough to go deep into the lungs.",
@@ -147,7 +262,30 @@
         "it": "ultrafine",
         "pl": "ultradrobny"
       },
-      "example_en": "Smaller than ordinary dust, small enough to go deep into the lungs."
+      "example_en": "Because they are ultrafine, they can travel deep into the lungs.",
+      "ww": {
+        "pos": "adj",
+        "def": {
+          "en": "Smaller than ordinary dust, small enough to go deep into the lungs.",
+          "ko": "초미세",
+          "zh-Hans": "超细",
+          "ja": "超微細",
+          "es": "ultrafino",
+          "hi": "अति सूक्ष्म",
+          "de": "ultrafein",
+          "vi": "siêu mịn",
+          "pt-BR": "ultrafino",
+          "id": "ultrafine",
+          "fr": "ultrafin",
+          "ar": "فائق الدقة",
+          "tr": "ultra ince",
+          "it": "ultrafine",
+          "pl": "ultradrobny"
+        },
+        "example": {
+          "en": "Because they are ultrafine, they can travel deep into the lungs."
+        }
+      }
     },
     {
       "id": "exposure",
@@ -171,7 +309,30 @@
         "it": "esposizione",
         "pl": "ekspozycja"
       },
-      "example_en": "The state of being in contact with something, often a risk."
+      "example_en": "An open window can cut the exposure.",
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "The state of being in contact with something, often a risk.",
+          "ko": "노출",
+          "zh-Hans": "暴露",
+          "ja": "曝露",
+          "es": "exposición",
+          "hi": "संपर्क",
+          "de": "Exposition",
+          "vi": "phơi nhiễm",
+          "pt-BR": "exposição",
+          "id": "paparan",
+          "fr": "exposition",
+          "ar": "تعرض",
+          "tr": "maruziyet",
+          "it": "esposizione",
+          "pl": "ekspozycja"
+        },
+        "example": {
+          "en": "An open window can cut the exposure."
+        }
+      }
     },
     {
       "id": "pollutant",
@@ -195,7 +356,30 @@
         "it": "inquinante",
         "pl": "zanieczyszczenie"
       },
-      "example_en": "A substance that makes air, water, or land dirty or unsafe."
+      "example_en": "A scented cleaner can release a pollutant you cannot see.",
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A substance that makes air, water, or land dirty or unsafe.",
+          "ko": "오염물질",
+          "zh-Hans": "污染物",
+          "ja": "汚染物質",
+          "es": "contaminante",
+          "hi": "प्रदूषक",
+          "de": "Schadstoff",
+          "vi": "chất ô nhiễm",
+          "pt-BR": "poluente",
+          "id": "polutan",
+          "fr": "polluant",
+          "ar": "ملوث",
+          "tr": "kirletici",
+          "it": "inquinante",
+          "pl": "zanieczyszczenie"
+        },
+        "example": {
+          "en": "A scented cleaner can release a pollutant you cannot see."
+        }
+      }
     },
     {
       "id": "citrus",
@@ -219,7 +403,30 @@
         "it": "agrume",
         "pl": "cytrus"
       },
-      "example_en": "A sharp fresh smell like lemon or orange."
+      "example_en": "Clean air should not smell like strong citrus.",
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A sharp fresh smell like lemon or orange.",
+          "ko": "시트러스",
+          "zh-Hans": "柑橘",
+          "ja": "柑橘",
+          "es": "cítrico",
+          "hi": "सिट्रस",
+          "de": "Zitrus",
+          "vi": "cam chanh",
+          "pt-BR": "cítrico",
+          "id": "jeruk",
+          "fr": "agrume",
+          "ar": "حمضيات",
+          "tr": "narenciye",
+          "it": "agrume",
+          "pl": "cytrus"
+        },
+        "example": {
+          "en": "Clean air should not smell like strong citrus."
+        }
+      }
     },
     {
       "id": "terpene",
@@ -243,7 +450,33 @@
         "it": "terpene",
         "pl": "terpen"
       },
-      "example_en": "A natural smelly compound found in plants such as pine and lemon."
+      "example_en": "Plants release terpenes such as pinene from pine and limonene from lemon.",
+      "ww": {
+        "pos": "n",
+        "def": {
+          "en": "A natural smelly compound found in plants such as pine and lemon.",
+          "ko": "테르펜",
+          "zh-Hans": "萜烯",
+          "ja": "テルペン",
+          "es": "terpeno",
+          "hi": "टरपीन",
+          "de": "Terpen",
+          "vi": "terpene",
+          "pt-BR": "terpeno",
+          "id": "terpena",
+          "fr": "terpène",
+          "ar": "تربين",
+          "tr": "terpen",
+          "it": "terpene",
+          "pl": "terpen"
+        },
+        "example": {
+          "en": "Plants release terpenes such as pinene from pine and limonene from lemon."
+        }
+      }
     }
-  ]
+  ],
+  "source_quizlet": "quizlet_0929.txt",
+  "youtube_title": "Scented cleaners can fill a home with invisible nanoparticles within minutes",
+  "youtube_url": "https://youtu.be/CPH6MptI2NM"
 }
