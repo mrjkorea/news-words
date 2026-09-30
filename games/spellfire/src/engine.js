@@ -19,8 +19,7 @@ const API = "1.6.0";
 const STORAGE_KEY = "mrj.firefighter_spelling.records";
 const CUSTOM_KEY = "mrj.firefighter_spelling.custom_words";
 const VOICE_KEY = "mrj.firefighter_spelling.tts_gender";
-const DEFAULT_PACK_URL = "packs/numbers-en.json";
-const WORDS_TXT_URL = "packs/words.txt";
+const DEFAULT_PACK_URL = "";
 const WINDOWS = 5;
 const LETTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 const HURRY_MS = 4000;
@@ -34,7 +33,7 @@ const GRANDMA_VOL = 0.26;
 const GRANDMA_RATE = 1.12;
 const WORD_VOL = 1;
 const WORD_RATE = 1;
-const VERSION = "1.9";
+const VERSION = "1.11";
 const TAP_DEBOUNCE_MS = 50;
 const HIT_PAD = 10;
 const SNAP_PX = 28;
@@ -518,22 +517,55 @@ function playGrandmaRotate(list, key) {
   enqueueGrandma(id);
 }
 
+function packWordUrl(word) {
+  const w = String(word || "").toLowerCase().replace(/[^a-z]/g, "");
+  if (!w) return "";
+  const item = ((state.pack && state.pack.items) || []).find((it) => it.word === w);
+  if (item && item.audio) return item.audio;
+  const voice = params.get("voice") || "us_m";
+  if (packIdHint) return `../../packs/${packIdHint}/audio/${voice}/${w}.mp3`;
+  if (BAKED_WORDS.has(w)) return `audio/narrator/word-${w}.mp3?v=1.11`;
+  return "";
+}
+
+function speakLetters(word) {
+  const w = String(word || "").toLowerCase().replace(/[^a-z]/g, "");
+  if (!w) return;
+  stopNarrator();
+  w.split("").forEach((ch) => {
+    enqueueNarrator({ clip: `letter-${ch}`, text: ch, volume: 1, gapMs: 80 });
+  });
+}
+
+function playWordFile(word, again) {
+  const url = packWordUrl(word);
+  if (!url) {
+    speakLetters(word);
+    return;
+  }
+  const a = new Audio(url);
+  a.preload = "auto";
+  a.volume = 1;
+  const fail = () => speakLetters(word);
+  a.onerror = fail;
+  a.onended = again ? () => {
+    a.onended = null;
+    try { a.currentTime = 0; } catch { /* ignore */ }
+    const p2 = a.play();
+    if (p2 && p2.catch) p2.catch(fail);
+  } : null;
+  narratorNowRef.a = a;
+  const p = a.play();
+  if (p && p.catch) p.catch(fail);
+}
+
 function announceTargetWord() {
   stopGrandma();
   stopNarrator();
   const w = (state.word || "").toLowerCase();
-  caption((state.word || "").toUpperCase());
+  caption(w ? "Listen." : "No words in this set.");
   if (!state.audioOn || !w) return;
-  const baked = BAKED_WORDS.has(w) ? `word-${w}` : null;
-  const say = (gap) => enqueueNarrator({
-    clip: baked,
-    text: w,
-    volume: WORD_VOL,
-    rate: WORD_RATE,
-    gapMs: gap,
-  });
-  say(280);
-  say(200);
+  playWordFile(w, true);
 }
 
 function speakSpell() {
@@ -659,7 +691,7 @@ function normalizePack(raw, sourceId) {
     .map((it, i) => {
       const word = String(it.word || it).trim().toLowerCase().replace(/[^a-z]/g, "");
       if (!word) return null;
-      return { item_id: it.item_id || `${sourceId}-${i}-${word}`, word };
+      return { item_id: it.item_id || `${sourceId}-${i}-${word}`, word, audio: it.audio || "" };
     })
     .filter(Boolean);
   return {
@@ -682,37 +714,44 @@ function packFromLines(text, id) {
   return normalizePack({ pack_id: id, seconds_per_letter: DEFAULT_SEC_PER_LETTER, items }, id);
 }
 
+function packFromWordsParam() {
+  const raw = params.get("words") || "";
+  const voice = params.get("voice") || "us_m";
+  const items = raw.split(",").map((w) => w.trim().toLowerCase().replace(/[^a-z]/g, "")).filter(Boolean).map((word) => ({
+    item_id: word,
+    word,
+    audio: packIdHint ? `../../packs/${packIdHint}/audio/${voice}/${word}.mp3` : "",
+  }));
+  if (!items.length) return null;
+  return normalizePack({ pack_id: packIdHint || "url-words", seconds_per_letter: DEFAULT_SEC_PER_LETTER, items }, "url-words");
+}
+
 async function fetchPack() {
-  if (packUrl === "session") {
-    try {
-      const raw = sessionStorage.getItem("mrj.wm.gamepack");
-      if (raw) {
-        const pack = normalizePack(JSON.parse(raw), "session");
-        if (pack.items.length) return pack;
+  const fromUrl = packFromWordsParam();
+  if (!packUrl || packUrl === "session") {
+    if (packUrl === "session") {
+      try {
+        const raw = sessionStorage.getItem("mrj.wm.gamepack");
+        if (raw) {
+          const pack = normalizePack(JSON.parse(raw), "session");
+          if (pack.items.length) return pack;
+        }
+      } catch {
+        /* no other pack */
       }
-    } catch {
-      /* fall through */
     }
+    if (fromUrl) return fromUrl;
+    return normalizePack({ pack_id: "empty", seconds_per_letter: DEFAULT_SEC_PER_LETTER, items: [] }, "empty");
   }
   try {
-    const res = await fetch(packUrl === "session" ? "packs/nouns100.json" : packUrl, { cache: "no-store" });
+    const res = await fetch(packUrl, { cache: "no-store" });
     if (res.ok) {
       const json = await res.json();
       const pack = normalizePack(json, json.pack_id || "fetched");
       if (pack.items.length) return pack;
     }
   } catch {
-    /* fall through */
-  }
-  try {
-    const res = await fetch(WORDS_TXT_URL, { cache: "no-store" });
-    if (res.ok) {
-      const text = await res.text();
-      const pack = packFromLines(text, "words-txt");
-      if (pack.items.length) return pack;
-    }
-  } catch {
-    /* last resort empty — still not hardcoded as only source */
+    /* no other pack */
   }
   return normalizePack({ pack_id: "empty", seconds_per_letter: DEFAULT_SEC_PER_LETTER, items: [] }, "empty");
 }
@@ -848,10 +887,32 @@ function skipWord() {
   nextWord();
 }
 
+function unlockVoice() {
+  const clips = Object.values(narratorAudio).concat(Object.values(grandmaAudio));
+  for (const a of clips) {
+    if (!a) continue;
+    try {
+      const vol = a.volume;
+      a.volume = 0;
+      const p = a.play();
+      const done = () => {
+        try { a.pause(); a.currentTime = 0; } catch { /* ignore */ }
+        a.volume = vol == null ? 1 : vol;
+      };
+      if (p && p.then) p.then(done).catch(() => {});
+      else done();
+    } catch { /* ignore */ }
+  }
+}
+
 function tapToPlay() {
   state.audioOn = true;
   ensureAudio();
   if (audioCtx && audioCtx.state === "suspended") audioCtx.resume();
+  unlockVoice();
+  const first = state.pack && state.pack.items && state.pack.items[0];
+  if (first && first.word) playWordFile(first.word, true);
+  else caption("No words in this set.");
   state.phase = "truck";
   state.truckX = -320;
   state.truckT = 0;
@@ -2044,15 +2105,20 @@ window.FirefighterSpelling = {
       if (ttsStatusEl) ttsStatusEl.textContent = "Voice server not ready. Open this from the Game Creator link.";
     });
   let pack = null;
-  try {
-    const saved = localStorage.getItem(CUSTOM_KEY);
-    if (saved && pasteEl) {
-      pasteEl.value = saved;
-      const custom = packFromLines(saved, "custom-paste");
-      if (custom.items.length) pack = custom;
-    }
-  } catch { /* ignore */ }
-  if (!pack) pack = await fetchPack();
+  if (packUrl === "session" || params.get("words")) {
+    pack = await fetchPack();
+  } else {
+    try {
+      const saved = localStorage.getItem(CUSTOM_KEY);
+      if (saved && pasteEl) {
+        pasteEl.value = saved;
+        const custom = packFromLines(saved, "custom-paste");
+        if (custom.items.length) pack = custom;
+      }
+    } catch { /* ignore */ }
+    if (!pack) pack = await fetchPack();
+  }
+  if (!pack || !pack.items.length) pack = packFromWordsParam() || pack;
   state.pack = pack;
   state.packId = pack.pack_id;
   state.phase = "tap";
