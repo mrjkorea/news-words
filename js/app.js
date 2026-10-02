@@ -407,30 +407,42 @@
     if (!id) return;
     const v = state.voice || "us_m";
     const src = packBase() + "/audio/" + v + "/" + id + ".mp3";
+    const token = window.SpellStop.bump();
+    const audio = new Audio(src);
+    window.SpellStop.bind(audio);
+    currentAudio = audio;
+    let p = null;
     try {
-      if (currentAudio) {
-        currentAudio.pause();
-        currentAudio.src = "";
-      }
+      p = audio.play();
     } catch (e) {}
-    currentAudio = new Audio(src);
-    const p = currentAudio.play();
-    if (p && p.catch) p.catch(function () {});
+    if (p && typeof p.then === "function") {
+      p.then(function () {
+        window.SpellStop.settle(audio, token);
+      }, function () {
+        window.SpellStop.settle(audio, token);
+      });
+    }
   }
 
   function speakWW(w) {
     const id = String((w && (w.id || w.en)) || "").toLowerCase().replace(/[^a-z]/g, "");
     if (!id) return;
     const src = packBase() + "/audio/ww_us_m/" + id + ".mp3";
+    const token = window.SpellStop.bump();
+    const audio = new Audio(src);
+    window.SpellStop.bind(audio);
+    currentAudio = audio;
+    let p = null;
     try {
-      if (currentAudio) {
-        currentAudio.pause();
-        currentAudio.src = "";
-      }
+      p = audio.play();
     } catch (e) {}
-    currentAudio = new Audio(src);
-    const p = currentAudio.play();
-    if (p && p.catch) p.catch(function () {});
+    if (p && typeof p.then === "function") {
+      p.then(function () {
+        window.SpellStop.settle(audio, token);
+      }, function () {
+        window.SpellStop.settle(audio, token);
+      });
+    }
   }
 
   function wwLoc(blob) {
@@ -502,33 +514,95 @@
     }
   }
 
-  function speakLetter(ch) {
-    const id = String(ch || "").toUpperCase().replace(/[^A-Z]/g, "");
-    if (!id) return Promise.resolve();
+  function waitAudioEnd(audio, token) {
     return new Promise(function (resolve) {
-      try {
-        if (currentAudio) {
-          currentAudio.pause();
-          currentAudio.src = "";
-        }
-      } catch (e) {}
-      const shared = "packs/_shared/audio/letters/" + id + ".mp3";
-      const primary = packBase() + "/audio/letters/" + id + ".mp3";
-      currentAudio = new Audio(primary);
-      currentAudio.onended = function () { resolve(); };
-      currentAudio.onerror = function () {
-        if (currentAudio && currentAudio.src.indexOf("_shared") < 0) {
-          currentAudio.src = shared;
-          const p2 = currentAudio.play();
-          if (p2 && p2.catch) p2.catch(function () { resolve(); });
-        } else {
-          resolve();
-        }
-      };
-      const p = currentAudio.play();
-      if (p && p.catch) p.catch(function () { resolve(); });
-      setTimeout(resolve, 2200);
+      if (!audio || (token != null && window.SpellStop.stale(token))) {
+        resolve();
+        return;
+      }
+      var settled = false;
+      var safety = null;
+      var watch = null;
+      function finish() {
+        if (settled) return;
+        settled = true;
+        if (safety) clearTimeout(safety);
+        if (watch) clearInterval(watch);
+        try {
+          audio.onended = null;
+          audio.onerror = null;
+        } catch (e) {}
+        resolve();
+      }
+      safety = setTimeout(finish, 4000);
+      if (token != null) {
+        watch = setInterval(function () {
+          if (window.SpellStop.stale(token)) finish();
+        }, 40);
+      }
+      audio.onended = finish;
+      audio.onerror = finish;
     });
+  }
+
+  async function tryPlayLetterSrc(audio, src, token) {
+    if (!audio || window.SpellStop.stale(token)) return false;
+    try {
+      audio.pause();
+    } catch (e) {}
+    for (var attempt = 0; attempt < 2; attempt++) {
+      if (window.SpellStop.stale(token)) return false;
+      audio.src = src;
+      try {
+        var p = audio.play();
+        if (p && typeof p.then === "function") {
+          p.then(function () {
+            window.SpellStop.settle(audio, token);
+          }, function () {
+            window.SpellStop.settle(audio, token);
+          });
+        }
+        await p;
+      } catch (e) {
+        if (window.SpellStop.stale(token)) {
+          window.SpellStop.settle(audio, token);
+          return false;
+        }
+        continue;
+      }
+      if (window.SpellStop.stale(token)) {
+        window.SpellStop.settle(audio, token);
+        return false;
+      }
+      return true;
+    }
+    return false;
+  }
+
+  async function speakLetter(ch, token) {
+    const id = String(ch || "").toUpperCase().replace(/[^A-Z]/g, "");
+    if (!id) return;
+    if (window.SpellStop.stale(token)) return;
+    var audio = currentAudio;
+    if (!audio) {
+      audio = new Audio();
+      currentAudio = audio;
+      window.SpellStop.bind(audio);
+    }
+    var ok = await tryPlayLetterSrc(audio, packBase() + "/audio/letters/" + id + ".mp3", token);
+    if (window.SpellStop.stale(token)) {
+      window.SpellStop.settle(audio, token);
+      return;
+    }
+    if (!ok) {
+      ok = await tryPlayLetterSrc(audio, "packs/_shared/audio/letters/" + id + ".mp3", token);
+    }
+    if (window.SpellStop.stale(token)) {
+      window.SpellStop.settle(audio, token);
+      return;
+    }
+    if (!ok) return;
+    await waitAudioEnd(audio, token);
   }
 
   function unlockSpeech() {
@@ -1615,6 +1689,7 @@
   }
 
   async function advanceLearn(nxt, hitTwo, ok) {
+    window.SpellStop.bump();
     const set = currentSet();
     const meta = Algo.MODE_META[learn.mode];
     if (nxt.partDone) {
@@ -1655,13 +1730,27 @@
       rail.appendChild(s);
     });
     speak(word);
-    await wait(900);
+    const spellToken = window.SpellStop.token();
+    function spellAborted() {
+      if (!window.SpellStop.stale(spellToken)) return false;
+      const box = $("#letter-rail");
+      if (box) {
+        box.hidden = true;
+        box.innerHTML = "";
+      }
+      return true;
+    }
+    await waitAudioEnd(currentAudio, spellToken);
+    if (spellAborted()) return;
     const spans = $$("#letter-rail span");
     for (let i = 0; i < spans.length; i++) {
+      if (spellAborted()) return;
       spans[i].classList.add("on");
-      await speakLetter(spans[i].textContent);
+      await speakLetter(spans[i].textContent, spellToken);
+      if (spellAborted()) return;
     }
     await wait(250);
+    if (spellAborted()) return;
   }
 
   async function replayEnglish(word, times) {
