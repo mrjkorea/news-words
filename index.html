@@ -7,6 +7,14 @@
   <meta name="mobile-web-app-capable" content="yes" />
   <meta name="theme-color" content="#f6f3ec" />
   <title>Daily ESL News · Word Master · MRJ English</title>
+  <script>
+    (function () {
+      var date = new URLSearchParams(location.search).get("date") || "";
+      if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) return;
+      var src = "https://mrjkorea.github.io/news-words/packs/news-" + date + ".json";
+      location.replace("https://mrjkorea.github.io/word-master/?packsrc=" + encodeURIComponent(src));
+    })();
+  </script>
   <link rel="stylesheet" href="css/app.css?v=20260929-fit" />
 </head>
 <body>
