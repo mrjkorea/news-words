@@ -1,0 +1,109 @@
+{
+  "id": "news-2026-10-05",
+  "title": "Boeing white-collar workers approve a contract and avert a strike",
+  "headline": "Boeing white-collar workers approve a contract and avert a strike",
+  "date": "2026-10-05",
+  "word_count": 10,
+  "words": [
+    {
+      "id": "contract",
+      "en": "contract",
+      "pos": "noun",
+      "ko": "contract",
+      "l1": {
+        "en": "A written agreement that both sides must follow."
+      },
+      "example_en": "A written agreement that both sides must follow."
+    },
+    {
+      "id": "union",
+      "en": "union",
+      "pos": "noun",
+      "ko": "union",
+      "l1": {
+        "en": "A group of workers who bargain together."
+      },
+      "example_en": "A group of workers who bargain together."
+    },
+    {
+      "id": "strike",
+      "en": "strike",
+      "pos": "noun",
+      "ko": "strike",
+      "l1": {
+        "en": "A stop of work to push for a better deal."
+      },
+      "example_en": "A stop of work to push for a better deal."
+    },
+    {
+      "id": "ratify",
+      "en": "ratify",
+      "pos": "noun",
+      "ko": "ratify",
+      "l1": {
+        "en": "To vote yes and make an agreement official."
+      },
+      "example_en": "To vote yes and make an agreement official."
+    },
+    {
+      "id": "offer",
+      "en": "offer",
+      "pos": "noun",
+      "ko": "offer",
+      "l1": {
+        "en": "A proposal that the other side can accept or refuse."
+      },
+      "example_en": "A proposal that the other side can accept or refuse."
+    },
+    {
+      "id": "jetliner",
+      "en": "jetliner",
+      "pos": "noun",
+      "ko": "jetliner",
+      "l1": {
+        "en": "A large airplane that carries many passengers."
+      },
+      "example_en": "A large airplane that carries many passengers."
+    },
+    {
+      "id": "certification",
+      "en": "certification",
+      "pos": "noun",
+      "ko": "certification",
+      "l1": {
+        "en": "Official approval that a machine is safe to use."
+      },
+      "example_en": "Official approval that a machine is safe to use."
+    },
+    {
+      "id": "factory",
+      "en": "factory",
+      "pos": "noun",
+      "ko": "factory",
+      "l1": {
+        "en": "A building where things are made."
+      },
+      "example_en": "A building where things are made."
+    },
+    {
+      "id": "delay",
+      "en": "delay",
+      "pos": "noun",
+      "ko": "delay",
+      "l1": {
+        "en": "A wait that makes something happen later."
+      },
+      "example_en": "A wait that makes something happen later."
+    },
+    {
+      "id": "bargain",
+      "en": "bargain",
+      "pos": "noun",
+      "ko": "bargain",
+      "l1": {
+        "en": "A deal reached by talking and trading terms."
+      },
+      "example_en": "A deal reached by talking and trading terms."
+    }
+  ]
+}
