@@ -1,0 +1,109 @@
+{
+  "id": "news-2026-10-06",
+  "title": "A rare tornado tears through Ulladulla on the New South Wales coast",
+  "headline": "A rare tornado tears through Ulladulla on the New South Wales coast",
+  "date": "2026-10-06",
+  "word_count": 10,
+  "words": [
+    {
+      "id": "tornado",
+      "en": "tornado",
+      "pos": "noun",
+      "ko": "tornado",
+      "l1": {
+        "en": "A spinning column of air that can wreck buildings."
+      },
+      "example_en": "A spinning column of air that can wreck buildings."
+    },
+    {
+      "id": "damage",
+      "en": "damage",
+      "pos": "noun",
+      "ko": "damage",
+      "l1": {
+        "en": "Harm done to buildings, trees, or other things."
+      },
+      "example_en": "Harm done to buildings, trees, or other things."
+    },
+    {
+      "id": "warning",
+      "en": "warning",
+      "pos": "noun",
+      "ko": "warning",
+      "l1": {
+        "en": "A message that tells people danger is coming."
+      },
+      "example_en": "A message that tells people danger is coming."
+    },
+    {
+      "id": "hailstone",
+      "en": "hailstone",
+      "pos": "noun",
+      "ko": "hailstone",
+      "l1": {
+        "en": "A ball of ice that falls from a storm cloud."
+      },
+      "example_en": "A ball of ice that falls from a storm cloud."
+    },
+    {
+      "id": "roof",
+      "en": "roof",
+      "pos": "noun",
+      "ko": "roof",
+      "l1": {
+        "en": "The top cover of a building."
+      },
+      "example_en": "The top cover of a building."
+    },
+    {
+      "id": "unusual",
+      "en": "unusual",
+      "pos": "noun",
+      "ko": "unusual",
+      "l1": {
+        "en": "Not common or not what people expect."
+      },
+      "example_en": "Not common or not what people expect."
+    },
+    {
+      "id": "thunderstorm",
+      "en": "thunderstorm",
+      "pos": "noun",
+      "ko": "thunderstorm",
+      "l1": {
+        "en": "A storm with thunder, lightning, and heavy rain."
+      },
+      "example_en": "A storm with thunder, lightning, and heavy rain."
+    },
+    {
+      "id": "coast",
+      "en": "coast",
+      "pos": "noun",
+      "ko": "coast",
+      "l1": {
+        "en": "The land next to the sea."
+      },
+      "example_en": "The land next to the sea."
+    },
+    {
+      "id": "column",
+      "en": "column",
+      "pos": "noun",
+      "ko": "column",
+      "l1": {
+        "en": "A tall narrow shape, like a spinning tube of air."
+      },
+      "example_en": "A tall narrow shape, like a spinning tube of air."
+    },
+    {
+      "id": "funnel",
+      "en": "funnel",
+      "pos": "noun",
+      "ko": "funnel",
+      "l1": {
+        "en": "A cone shape that is wide at the top and narrow at the bottom."
+      },
+      "example_en": "A cone shape that is wide at the top and narrow at the bottom."
+    }
+  ]
+}
