@@ -1,0 +1,109 @@
+{
+  "id": "news-2026-10-07",
+  "title": "Some passengers feel motion sick in quiet electric cars",
+  "headline": "Some passengers feel motion sick in quiet electric cars",
+  "date": "2026-10-07",
+  "word_count": 10,
+  "words": [
+    {
+      "id": "motion",
+      "en": "motion",
+      "pos": "noun",
+      "ko": "motion",
+      "l1": {
+        "en": "The act of moving from one place to another."
+      },
+      "example_en": "The act of moving from one place to another."
+    },
+    {
+      "id": "sickness",
+      "en": "sickness",
+      "pos": "noun",
+      "ko": "sickness",
+      "l1": {
+        "en": "The feeling of being unwell."
+      },
+      "example_en": "The feeling of being unwell."
+    },
+    {
+      "id": "passenger",
+      "en": "passenger",
+      "pos": "noun",
+      "ko": "passenger",
+      "l1": {
+        "en": "A person who rides but does not drive."
+      },
+      "example_en": "A person who rides but does not drive."
+    },
+    {
+      "id": "electric",
+      "en": "electric",
+      "pos": "noun",
+      "ko": "electric",
+      "l1": {
+        "en": "Powered by electricity instead of a fuel engine."
+      },
+      "example_en": "Powered by electricity instead of a fuel engine."
+    },
+    {
+      "id": "vehicle",
+      "en": "vehicle",
+      "pos": "noun",
+      "ko": "vehicle",
+      "l1": {
+        "en": "A machine used to carry people or goods."
+      },
+      "example_en": "A machine used to carry people or goods."
+    },
+    {
+      "id": "nausea",
+      "en": "nausea",
+      "pos": "noun",
+      "ko": "nausea",
+      "l1": {
+        "en": "The feeling that you may vomit."
+      },
+      "example_en": "The feeling that you may vomit."
+    },
+    {
+      "id": "vibration",
+      "en": "vibration",
+      "pos": "noun",
+      "ko": "vibration",
+      "l1": {
+        "en": "A fast small shake you can feel."
+      },
+      "example_en": "A fast small shake you can feel."
+    },
+    {
+      "id": "braking",
+      "en": "braking",
+      "pos": "noun",
+      "ko": "braking",
+      "l1": {
+        "en": "The act of slowing or stopping a vehicle."
+      },
+      "example_en": "The act of slowing or stopping a vehicle."
+    },
+    {
+      "id": "cue",
+      "en": "cue",
+      "pos": "noun",
+      "ko": "cue",
+      "l1": {
+        "en": "A signal that tells the body what is happening."
+      },
+      "example_en": "A signal that tells the body what is happening."
+    },
+    {
+      "id": "mismatch",
+      "en": "mismatch",
+      "pos": "noun",
+      "ko": "mismatch",
+      "l1": {
+        "en": "A situation where two signals do not agree."
+      },
+      "example_en": "A situation where two signals do not agree."
+    }
+  ]
+}
