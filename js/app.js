@@ -2,8 +2,10 @@
   "use strict";
 
   const Algo = window.WordFactoryAlgo;
+  const Progress = window.WordFactoryProgress;
   const LS_STATE = "mrj.word_factory.state";
   const LS_EVENTS = "mrj.word_factory.events";
+  const BUILD = "20261007-pack-sync-2";
   const DEMO_PACK_ID = "news-2026-09-18";
   const NEWS_INDEX_URL = "packs/index.json";
 
@@ -97,6 +99,8 @@
   let state = loadState();
   let authReady = false;
   let authId = "";
+  let remoteSync = null;
+  let activeSessionToken = null;
 
   function studentForScores() {
     return String(authId || "").trim();
@@ -120,23 +124,29 @@
     );
   }
 
-  function loadState() {
+  function bootPrefsFromLegacy() {
     try {
       const raw = localStorage.getItem(LS_STATE);
-      if (raw) {
-        const parsed = JSON.parse(raw);
-        if (parsed && parsed.studentId) {
-          parsed.displayName = "";
-          if (!parsed.testKind) parsed.testKind = "easy";
-          if (!parsed.studySize) parsed.studySize = 10;
-          if (!parsed.voice || parsed.voice === "man") parsed.voice = "us_m";
-          if (parsed.voice === "woman") parsed.voice = "us_f";
-          if (parsed.voice === "maya" || parsed.voice === "wizard") parsed.voice = parsed.voice === "wizard" ? "grandpa" : "grandma";
-          return parsed;
-        }
-      }
-    } catch (e) {}
-    return {
+      if (!raw) return null;
+      const parsed = JSON.parse(raw);
+      if (!parsed || typeof parsed !== "object") return null;
+      return {
+        voice: parsed.voice,
+        locale: parsed.locale,
+        testKind: parsed.testKind,
+        studySize: parsed.studySize,
+      };
+    } catch (e) {
+      return null;
+    }
+  }
+
+  function loadState(forStudentId) {
+    const sid = forStudentId == null ? "" : String(forStudentId).trim();
+    if (sid && Progress) {
+      return Progress.loadLocalState(sid, window.MRJ_AUTH);
+    }
+    const base = Progress ? Progress.defaultState(uid) : {
       studentId: uid("stu"),
       sessionId: uid("ses"),
       voice: "us_m",
@@ -147,21 +157,52 @@
       currentSetId: null,
       sets: {},
     };
+    const legacy = bootPrefsFromLegacy();
+    if (legacy) {
+      if (legacy.voice) base.voice = legacy.voice;
+      if (legacy.locale) base.locale = legacy.locale;
+      if (legacy.testKind) base.testKind = legacy.testKind;
+      if (legacy.studySize) base.studySize = legacy.studySize;
+    }
+    return base;
   }
 
   function persist() {
+    if (!authId) return;
     try {
-      localStorage.setItem(LS_STATE, JSON.stringify(state));
+      if (Progress) Progress.persistLocalState(authId, state, window.MRJ_AUTH);
+      else {
+        var ik = String(authId).trim().toLowerCase();
+        localStorage.setItem(LS_STATE + ":" + ik, JSON.stringify(state));
+      }
+      if (remoteSync) {
+        remoteSync.markDirty();
+        remoteSync.scheduleSave(false);
+      }
     } catch (e) {}
   }
 
   function loadEvents() {
+    if (authId && Progress) return Progress.loadLocalEvents(authId, window.MRJ_AUTH);
+    return [];
+  }
+
+  function persistEvents(events) {
+    if (!authId) return;
     try {
-      const raw = localStorage.getItem(LS_EVENTS);
-      const arr = raw ? JSON.parse(raw) : [];
-      return Array.isArray(arr) ? arr : [];
-    } catch (e) {
-      return [];
+      if (Progress) Progress.persistLocalEvents(authId, events, window.MRJ_AUTH);
+      if (remoteSync) {
+        remoteSync.markDirty();
+        remoteSync.scheduleSave(false);
+      }
+    } catch (e) {}
+  }
+
+  function endStudentSession() {
+    activeSessionToken = null;
+    if (remoteSync) {
+      remoteSync.stop();
+      remoteSync = null;
     }
   }
 
@@ -213,7 +254,7 @@
     events.push(ev);
     try { logToScoreBook(ev); } catch (e) {}
     try {
-      localStorage.setItem(LS_EVENTS, JSON.stringify(events));
+      persistEvents(events);
     } catch (e) {}
   }
 
@@ -2267,8 +2308,9 @@
     if (changeNameBtn) changeNameBtn.addEventListener("click", function () {
       authReady = false;
       authId = "";
+      endStudentSession();
+      state = loadState();
       state.displayName = "";
-      persist();
       if (window.MRJ_AUTH && typeof window.MRJ_AUTH.signOut === "function") {
         window.MRJ_AUTH.signOut();
       }
@@ -2525,6 +2567,7 @@
   }
 
   window.MRJ_WORD_FACTORY_PACK = { words: [] };
+  window.MRJ_NEWS_WORDS_BUILD = BUILD;
   bind();
   probeLinuxTts();
   if (I18n) {
@@ -2534,13 +2577,71 @@
     I18n.applyDom(document);
   }
   setVoice(state.voice);
+  function beginStudentSession(id) {
+    const auth = window.MRJ_AUTH;
+    const idKeyVal = Progress ? Progress.idKey(id, auth) : String(id || "").trim().toLowerCase();
+    if (
+      authReady &&
+      remoteSync &&
+      activeSessionToken &&
+      Progress &&
+      Progress.idKey(authId, auth) === idKeyVal &&
+      remoteSync.sessionToken &&
+      Progress.sessionMatches(remoteSync.sessionToken, activeSessionToken)
+    ) {
+      return;
+    }
+    endStudentSession();
+    authId = id;
+    authReady = true;
+    state = loadState(authId);
+    state.displayName = authId;
+    if (!Progress) {
+      persist();
+      return;
+    }
+    activeSessionToken = Progress.newSessionToken(idKeyVal);
+    remoteSync = Progress.createRemoteSync(auth, {
+      sessionToken: activeSessionToken,
+      isSessionActive: function (token) {
+        return Progress.sessionMatches(token, activeSessionToken);
+      },
+      disableLoadRetry: false,
+      getSnapshot: function () {
+        return { state: state, events: loadEvents() };
+      },
+      applySnapshot: function (snap) {
+        if (!snap) return;
+        if (!Progress.sessionMatches(activeSessionToken, remoteSync.sessionToken)) return;
+        state = Progress.normalizeLoadedState(snap.state, uid);
+        state.displayName = authId;
+        Progress.persistLocalState(authId, state, auth);
+        Progress.persistLocalEvents(authId, snap.events || [], auth);
+        syncPack();
+      },
+      afterMerge: function () {
+        state.displayName = authId;
+      },
+    });
+    remoteSync.loadFromServer().then(function () {
+      if (currentScreen === "home") renderHome();
+    });
+    if (currentScreen === "home") renderHome();
+  }
+
   window.addEventListener("mrj-auth-ready", function (event) {
     const raw = event && event.detail ? event.detail.id : "";
-    authId = raw == null ? "" : String(raw).trim();
-    authReady = true;
-    state.displayName = authId;
-    persist();
-    if (currentScreen === "home") renderHome();
+    const id = raw == null ? "" : String(raw).trim();
+    if (!id) return;
+    beginStudentSession(id);
   });
+
+  window.addEventListener("pagehide", function () {
+    if (remoteSync) remoteSync.onPageHide();
+  });
+  if (window.MRJ_AUTH && typeof window.MRJ_AUTH.student === "function") {
+    const early = String(window.MRJ_AUTH.student() || "").trim();
+    if (early) beginStudentSession(early);
+  }
   showScreen("boot");
 })();
