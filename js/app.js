@@ -2560,6 +2560,7 @@
   }
   setVoice(state.voice);
   function beginStudentSession(id) {
+    if (authReady && authId === id && remoteSync) return;
     authId = id;
     authReady = true;
     state = loadState(authId);
