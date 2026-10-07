@@ -5,7 +5,7 @@
   const Progress = window.WordFactoryProgress;
   const LS_STATE = "mrj.word_factory.state";
   const LS_EVENTS = "mrj.word_factory.events";
-  const BUILD = "20261007-pack-sync";
+  const BUILD = "20261007-pack-sync-2";
   const DEMO_PACK_ID = "news-2026-09-18";
   const NEWS_INDEX_URL = "packs/index.json";
 
@@ -100,6 +100,7 @@
   let authReady = false;
   let authId = "";
   let remoteSync = null;
+  let activeSessionToken = null;
 
   function studentForScores() {
     return String(authId || "").trim();
@@ -143,7 +144,7 @@
   function loadState(forStudentId) {
     const sid = forStudentId == null ? "" : String(forStudentId).trim();
     if (sid && Progress) {
-      return Progress.loadLocalState(sid);
+      return Progress.loadLocalState(sid, window.MRJ_AUTH);
     }
     const base = Progress ? Progress.defaultState(uid) : {
       studentId: uid("stu"),
@@ -169,23 +170,40 @@
   function persist() {
     if (!authId) return;
     try {
-      if (Progress) Progress.persistLocalState(authId, state);
-      else localStorage.setItem(LS_STATE + ":" + authId, JSON.stringify(state));
-      if (remoteSync) remoteSync.scheduleSave(false);
+      if (Progress) Progress.persistLocalState(authId, state, window.MRJ_AUTH);
+      else {
+        var ik = String(authId).trim().toLowerCase();
+        localStorage.setItem(LS_STATE + ":" + ik, JSON.stringify(state));
+      }
+      if (remoteSync) {
+        remoteSync.markDirty();
+        remoteSync.scheduleSave(false);
+      }
     } catch (e) {}
   }
 
   function loadEvents() {
-    if (authId && Progress) return Progress.loadLocalEvents(authId);
+    if (authId && Progress) return Progress.loadLocalEvents(authId, window.MRJ_AUTH);
     return [];
   }
 
   function persistEvents(events) {
     if (!authId) return;
     try {
-      if (Progress) Progress.persistLocalEvents(authId, events);
-      if (remoteSync) remoteSync.scheduleSave(false);
+      if (Progress) Progress.persistLocalEvents(authId, events, window.MRJ_AUTH);
+      if (remoteSync) {
+        remoteSync.markDirty();
+        remoteSync.scheduleSave(false);
+      }
     } catch (e) {}
+  }
+
+  function endStudentSession() {
+    activeSessionToken = null;
+    if (remoteSync) {
+      remoteSync.stop();
+      remoteSync = null;
+    }
   }
 
 
@@ -2290,7 +2308,7 @@
     if (changeNameBtn) changeNameBtn.addEventListener("click", function () {
       authReady = false;
       authId = "";
-      remoteSync = null;
+      endStudentSession();
       state = loadState();
       state.displayName = "";
       if (window.MRJ_AUTH && typeof window.MRJ_AUTH.signOut === "function") {
@@ -2560,7 +2578,20 @@
   }
   setVoice(state.voice);
   function beginStudentSession(id) {
-    if (authReady && authId === id && remoteSync) return;
+    const auth = window.MRJ_AUTH;
+    const idKeyVal = Progress ? Progress.idKey(id, auth) : String(id || "").trim().toLowerCase();
+    if (
+      authReady &&
+      remoteSync &&
+      activeSessionToken &&
+      Progress &&
+      Progress.idKey(authId, auth) === idKeyVal &&
+      remoteSync.sessionToken &&
+      Progress.sessionMatches(remoteSync.sessionToken, activeSessionToken)
+    ) {
+      return;
+    }
+    endStudentSession();
     authId = id;
     authReady = true;
     state = loadState(authId);
@@ -2569,17 +2600,23 @@
       persist();
       return;
     }
-    const auth = window.MRJ_AUTH;
+    activeSessionToken = Progress.newSessionToken(idKeyVal);
     remoteSync = Progress.createRemoteSync(auth, {
+      sessionToken: activeSessionToken,
+      isSessionActive: function (token) {
+        return Progress.sessionMatches(token, activeSessionToken);
+      },
+      disableLoadRetry: false,
       getSnapshot: function () {
         return { state: state, events: loadEvents() };
       },
       applySnapshot: function (snap) {
         if (!snap) return;
+        if (!Progress.sessionMatches(activeSessionToken, remoteSync.sessionToken)) return;
         state = Progress.normalizeLoadedState(snap.state, uid);
         state.displayName = authId;
-        Progress.persistLocalState(authId, state);
-        Progress.persistLocalEvents(authId, snap.events || []);
+        Progress.persistLocalState(authId, state, auth);
+        Progress.persistLocalEvents(authId, snap.events || [], auth);
         syncPack();
       },
       afterMerge: function () {

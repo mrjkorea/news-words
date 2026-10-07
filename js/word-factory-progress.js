@@ -14,19 +14,59 @@
   var LS_EVENTS = "mrj.word_factory.events";
   var PACK_VERSION = 1;
   var SAVE_THROTTLE_MS = 17000;
+  var MAX_LOAD_RETRIES = 10;
+  var LOAD_RETRY_DELAYS = [0, 1500, 4000, 60000];
+  var SAVE_RETRY_DELAYS = [1500, 4000, 60000];
+  var nextSessionGeneration = 1;
 
-  function studentKey(id) {
-    return String(id || "").trim();
+  function idKey(id, auth) {
+    if (auth && typeof auth.idKey === "function") {
+      try {
+        var fromAuth = auth.idKey(id);
+        if (fromAuth != null && String(fromAuth).trim()) {
+          return String(fromAuth).trim().toLowerCase();
+        }
+      } catch (e) {}
+    }
+    return String(id || "").trim().toLowerCase();
   }
 
-  function lsStateKey(id) {
-    var k = studentKey(id);
+  function studentKey(id, auth) {
+    return idKey(id, auth);
+  }
+
+  function lsStateKey(idKeyVal) {
+    var k = String(idKeyVal || "").trim();
     return k ? LS_STATE + ":" + k : LS_STATE;
   }
 
-  function lsEventsKey(id) {
-    var k = studentKey(id);
+  function lsEventsKey(idKeyVal) {
+    var k = String(idKeyVal || "").trim();
     return k ? LS_EVENTS + ":" + k : LS_EVENTS;
+  }
+
+  function legacyRawKeyCandidates(id, auth) {
+    var raw = String(id || "").trim();
+    var out = [];
+    if (raw) out.push(raw);
+    var ik = idKey(id, auth);
+    if (ik && out.indexOf(ik) < 0) out.push(ik);
+    return out;
+  }
+
+  function newSessionToken(idKeyVal) {
+    return {
+      generation: nextSessionGeneration++,
+      idKey: String(idKeyVal || "").trim().toLowerCase(),
+    };
+  }
+
+  function sessionMatches(token, active) {
+    if (!token || !active) return false;
+    return (
+      token.generation === active.generation &&
+      String(token.idKey).toLowerCase() === String(active.idKey).toLowerCase()
+    );
   }
 
   function defaultState(uid) {
@@ -88,24 +128,50 @@
     } catch (e) {}
   }
 
-  function loadLocalState(id) {
-    return normalizeLoadedState(readLocalJson(lsStateKey(id)), null);
+  function readLocalStateWithFallback(id, auth) {
+    var ik = idKey(id, auth);
+    var fromNorm = readLocalJson(lsStateKey(ik));
+    if (fromNorm) return fromNorm;
+    var raw = String(id || "").trim();
+    if (raw && raw !== ik) {
+      var fromRaw = readLocalJson(LS_STATE + ":" + raw);
+      if (fromRaw) return fromRaw;
+    }
+    return null;
   }
 
-  function loadLocalEvents(id) {
-    var arr = readLocalJson(lsEventsKey(id));
+  function loadLocalState(id, auth) {
+    return normalizeLoadedState(readLocalStateWithFallback(id, auth), null);
+  }
+
+  function readLocalEventsWithFallback(id, auth) {
+    var ik = idKey(id, auth);
+    var fromNorm = readLocalJson(lsEventsKey(ik));
+    if (fromNorm) return fromNorm;
+    var raw = String(id || "").trim();
+    if (raw && raw !== ik) {
+      var fromRaw = readLocalJson(LS_EVENTS + ":" + raw);
+      if (fromRaw) return fromRaw;
+    }
+    return null;
+  }
+
+  function loadLocalEvents(id, auth) {
+    var arr = readLocalEventsWithFallback(id, auth);
     return Array.isArray(arr) ? arr : [];
   }
 
-  function persistLocalState(id, state) {
-    if (!studentKey(id)) return;
+  function persistLocalState(id, state, auth) {
+    var ik = idKey(id, auth);
+    if (!ik) return;
     var copy = normalizeLoadedState(state, null);
-    writeLocalJson(lsStateKey(id), copy);
+    writeLocalJson(lsStateKey(ik), copy);
   }
 
-  function persistLocalEvents(id, events) {
-    if (!studentKey(id)) return;
-    writeLocalJson(lsEventsKey(id), Array.isArray(events) ? events : []);
+  function persistLocalEvents(id, events, auth) {
+    var ik = idKey(id, auth);
+    if (!ik) return;
+    writeLocalJson(lsEventsKey(ik), Array.isArray(events) ? events : []);
   }
 
   function maxWinMap(a, b) {
@@ -115,8 +181,8 @@
     var bk = b && typeof b === "object" ? Object.keys(b) : [];
     ak.forEach(function (k) { keys[k] = 1; });
     bk.forEach(function (k) { keys[k] = 1; });
-    Object.keys(keys).forEach(function (id) {
-      out[id] = Math.max(Number(a && a[id]) || 0, Number(b && b[id]) || 0);
+    Object.keys(keys).forEach(function (wid) {
+      out[wid] = Math.max(Number(a && a[wid]) || 0, Number(b && b[wid]) || 0);
     });
     return out;
   }
@@ -128,8 +194,8 @@
     var bk = b && typeof b === "object" ? Object.keys(b) : [];
     ak.forEach(function (k) { keys[k] = 1; });
     bk.forEach(function (k) { keys[k] = 1; });
-    Object.keys(keys).forEach(function (id) {
-      out[id] = !!(a && a[id]) || !!(b && b[id]);
+    Object.keys(keys).forEach(function (wid) {
+      out[wid] = !!(a && a[wid]) || !!(b && b[wid]);
     });
     return out;
   }
@@ -180,8 +246,8 @@
         out[set.id] = JSON.parse(JSON.stringify(set));
         return;
       }
-      var id = byKey[mk];
-      out[id] = mergeOneSet(out[id], set);
+      var sid = byKey[mk];
+      out[sid] = mergeOneSet(out[sid], set);
     }
     var lk = localSets && typeof localSets === "object" ? Object.keys(localSets) : [];
     var rk = remoteSets && typeof remoteSets === "object" ? Object.keys(remoteSets) : [];
@@ -268,8 +334,8 @@
     ["winsA", "winsB", "winsC"].forEach(function (bucket) {
       var m = set[bucket];
       if (!m || typeof m !== "object") return;
-      Object.keys(m).forEach(function (id) {
-        n += Number(m[id]) || 0;
+      Object.keys(m).forEach(function (wid) {
+        n += Number(m[wid]) || 0;
       });
     });
     return n;
@@ -342,18 +408,50 @@
     return auth;
   }
 
+  function loadRetryDelayMs(attemptIndex, hooks) {
+    if (hooks && hooks.loadRetryDelays) return hooks.loadRetryDelays[attemptIndex] || 60000;
+    if (attemptIndex < LOAD_RETRY_DELAYS.length) return LOAD_RETRY_DELAYS[attemptIndex];
+    return 60000;
+  }
+
+  function saveRetryDelayMs(attemptIndex) {
+    if (attemptIndex < SAVE_RETRY_DELAYS.length) return SAVE_RETRY_DELAYS[attemptIndex];
+    return 60000;
+  }
+
   function createRemoteSync(auth, hooks) {
     var api = authPackApi(auth);
     var program = PACK_PROGRAM;
+    var sessionToken =
+      hooks && hooks.sessionToken
+        ? hooks.sessionToken
+        : newSessionToken("");
     var loadOk = false;
     var loadDone = false;
     var loadError = "";
     var saveTimer = null;
+    var saveRetryTimer = null;
     var lastSaveAt = 0;
     var pendingFlush = false;
-    var retryTimer = null;
-    var retryDelayMs =
-      hooks && typeof hooks.retryDelayMs === "number" ? hooks.retryDelayMs : 60000;
+    var loadRetryTimer = null;
+    var loadRetryCount = 0;
+    var saveRetryCount = 0;
+    var stopped = false;
+    var dirty = false;
+    var dirtyEpoch = 0;
+    var maxLoadRetries =
+      hooks && typeof hooks.maxLoadRetries === "number"
+        ? hooks.maxLoadRetries
+        : MAX_LOAD_RETRIES;
+    var loadRetriesDisabled = !!(hooks && hooks.disableLoadRetry);
+
+    function isActive() {
+      if (stopped) return false;
+      if (hooks && typeof hooks.isSessionActive === "function") {
+        return hooks.isSessionActive(sessionToken);
+      }
+      return true;
+    }
 
     function packReady() {
       if (!api) return false;
@@ -362,20 +460,49 @@
     }
 
     function canRemoteSave() {
-      return !!(api && loadOk && loadDone && !loadError);
+      return !!(api && loadOk && loadDone && !loadError && isActive());
     }
 
     function getSnapshot() {
+      if (!isActive()) return null;
       if (!hooks || typeof hooks.getSnapshot !== "function") return null;
       return hooks.getSnapshot();
     }
 
     function applySnapshot(snap) {
+      if (!isActive()) return;
       if (hooks && typeof hooks.applySnapshot === "function") hooks.applySnapshot(snap);
     }
 
+    function markDirty() {
+      if (!isActive()) return;
+      dirty = true;
+      dirtyEpoch += 1;
+    }
+
+    function clearDirtyIfUnchanged(epochAtStart) {
+      if (dirtyEpoch === epochAtStart) dirty = false;
+    }
+
+    function stop() {
+      stopped = true;
+      if (saveTimer) {
+        clearTimeout(saveTimer);
+        saveTimer = null;
+      }
+      if (saveRetryTimer) {
+        clearTimeout(saveRetryTimer);
+        saveRetryTimer = null;
+      }
+      if (loadRetryTimer) {
+        clearTimeout(loadRetryTimer);
+        loadRetryTimer = null;
+      }
+    }
+
     function scheduleSave(flush) {
-      if (!canRemoteSave() || !packReady()) return;
+      if (!isActive() || !canRemoteSave() || !packReady()) return;
+      if (!dirty) return;
       if (flush) pendingFlush = true;
       var delay = SAVE_THROTTLE_MS;
       if (flush) delay = 0;
@@ -390,8 +517,20 @@
       }, delay);
     }
 
+    function scheduleSaveRetry() {
+      if (!isActive() || !dirty || saveRetryTimer) return;
+      var delay = saveRetryDelayMs(saveRetryCount);
+      saveRetryCount += 1;
+      saveRetryTimer = setTimeout(function () {
+        saveRetryTimer = null;
+        runSave(true);
+      }, delay);
+    }
+
     function runSave(flush) {
-      if (!canRemoteSave() || !packReady()) return Promise.resolve();
+      if (!isActive() || !canRemoteSave() || !packReady()) return Promise.resolve();
+      if (!dirty) return Promise.resolve();
+      var epochAtStart = dirtyEpoch;
       var snap = getSnapshot();
       if (!snap) return Promise.resolve();
       var body = JSON.stringify(packFromParts(snap.state, snap.events));
@@ -400,17 +539,59 @@
         return Promise.resolve();
       }
       return api.savePack(program, body).then(function (res) {
-        if (res && res.ok) lastSaveAt = Date.now();
-        else if (res && res.error) loadError = String(res.error);
-      }).catch(function () {});
+        if (!isActive()) return res;
+        if (res && res.ok) {
+          lastSaveAt = Date.now();
+          saveRetryCount = 0;
+          clearDirtyIfUnchanged(epochAtStart);
+        } else {
+          markDirty();
+          scheduleSaveRetry();
+        }
+        return res;
+      }).catch(function () {
+        if (!isActive()) return;
+        markDirty();
+        scheduleSaveRetry();
+      });
     }
 
-    function scheduleRetry() {
-      if (!retryDelayMs || retryTimer || !api) return;
-      retryTimer = setTimeout(function () {
-        retryTimer = null;
+    function scheduleLoadRetry() {
+      if (loadRetriesDisabled || !isActive() || !api) return;
+      if (loadRetryCount >= maxLoadRetries) return;
+      if (loadRetryTimer) return;
+      var delay = loadRetryDelayMs(loadRetryCount, hooks);
+      loadRetryCount += 1;
+      loadRetryTimer = setTimeout(function () {
+        loadRetryTimer = null;
         loadFromServer();
-      }, retryDelayMs);
+      }, delay);
+    }
+
+    function saveMergedIfRicher(mergedState, mergedEvents, parsed) {
+      if (!isActive()) return Promise.resolve();
+      var serverScore = richnessScore(parsed.state, parsed.events);
+      var mergedScore = richnessScore(mergedState, mergedEvents);
+      if (mergedScore <= serverScore || !packReady()) return Promise.resolve();
+      markDirty();
+      var epochAtStart = dirtyEpoch;
+      var body = JSON.stringify(packFromParts(mergedState, mergedEvents));
+      return api.savePack(program, body).then(function (saveRes) {
+        if (!isActive()) return saveRes;
+        if (saveRes && saveRes.ok) {
+          lastSaveAt = Date.now();
+          saveRetryCount = 0;
+          clearDirtyIfUnchanged(epochAtStart);
+        } else {
+          markDirty();
+          scheduleSaveRetry();
+        }
+        return saveRes;
+      }).catch(function () {
+        if (!isActive()) return;
+        markDirty();
+        scheduleSaveRetry();
+      });
     }
 
     function loadFromServer() {
@@ -419,16 +600,21 @@
         loadOk = false;
         return Promise.resolve({ ok: false, skipped: true });
       }
+      if (!isActive()) {
+        return Promise.resolve({ ok: false, stale: true });
+      }
       return api.loadPack(program).then(function (res) {
+        if (!isActive()) return res || { ok: false, stale: true };
         loadDone = true;
         if (!res || !res.ok) {
           loadOk = false;
           loadError = res && res.error ? String(res.error) : "load_failed";
-          scheduleRetry();
+          scheduleLoadRetry();
           return res || { ok: false };
         }
         loadOk = true;
         loadError = "";
+        loadRetryCount = 0;
         var parsed = parsePackJson(res.progress_json);
         var local = getSnapshot() || { state: defaultState(), events: [] };
         var mergedState = mergeState(local.state, parsed.state);
@@ -441,25 +627,21 @@
             serverParsed: parsed,
           });
         }
-        var serverScore = richnessScore(parsed.state, parsed.events);
-        var mergedScore = richnessScore(mergedState, mergedEvents);
-        if (mergedScore > serverScore && packReady()) {
-          return api.savePack(program, JSON.stringify(packFromParts(mergedState, mergedEvents))).then(function (saveRes) {
-            if (saveRes && saveRes.ok) lastSaveAt = Date.now();
-            return res;
-          });
-        }
-        return res;
+        return saveMergedIfRicher(mergedState, mergedEvents, parsed).then(function () {
+          return res;
+        });
       }).catch(function () {
+        if (!isActive()) return { ok: false, stale: true };
         loadDone = true;
         loadOk = false;
         loadError = "network";
-        scheduleRetry();
+        scheduleLoadRetry();
         return { ok: false, error: "network" };
       });
     }
 
     function onPageHide() {
+      if (!dirty) return;
       if (saveTimer) {
         clearTimeout(saveTimer);
         saveTimer = null;
@@ -469,11 +651,15 @@
 
     return {
       program: program,
+      sessionToken: sessionToken,
       loadFromServer: loadFromServer,
       scheduleSave: scheduleSave,
+      markDirty: markDirty,
       onPageHide: onPageHide,
+      stop: stop,
       canRemoteSave: canRemoteSave,
       packReady: packReady,
+      isDirty: function () { return dirty; },
       loadOk: function () { return loadOk; },
       loadError: function () { return loadError; },
     };
@@ -485,9 +671,13 @@
     LS_EVENTS: LS_EVENTS,
     PACK_VERSION: PACK_VERSION,
     SAVE_THROTTLE_MS: SAVE_THROTTLE_MS,
+    MAX_LOAD_RETRIES: MAX_LOAD_RETRIES,
+    idKey: idKey,
     studentKey: studentKey,
     lsStateKey: lsStateKey,
     lsEventsKey: lsEventsKey,
+    newSessionToken: newSessionToken,
+    sessionMatches: sessionMatches,
     defaultState: defaultState,
     normalizeLoadedState: normalizeLoadedState,
     loadLocalState: loadLocalState,
