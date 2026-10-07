@@ -1,0 +1,109 @@
+{
+  "id": "news-2026-10-08",
+  "title": "Robots and AI will put seventy million UK museum specimens online",
+  "headline": "Robots and AI will put seventy million UK museum specimens online",
+  "date": "2026-10-08",
+  "word_count": 10,
+  "words": [
+    {
+      "id": "specimen",
+      "en": "specimen",
+      "pos": "noun",
+      "ko": "specimen",
+      "l1": {
+        "en": "One sample kept so people can study it."
+      },
+      "example_en": "One sample kept so people can study it."
+    },
+    {
+      "id": "fossil",
+      "en": "fossil",
+      "pos": "noun",
+      "ko": "fossil",
+      "l1": {
+        "en": "The remains of an ancient plant or animal in rock."
+      },
+      "example_en": "The remains of an ancient plant or animal in rock."
+    },
+    {
+      "id": "digitize",
+      "en": "digitize",
+      "pos": "noun",
+      "ko": "digitize",
+      "l1": {
+        "en": "To turn a physical object into a computer file."
+      },
+      "example_en": "To turn a physical object into a computer file."
+    },
+    {
+      "id": "beetle",
+      "en": "beetle",
+      "pos": "noun",
+      "ko": "beetle",
+      "l1": {
+        "en": "An insect with a hard pair of wing cases."
+      },
+      "example_en": "An insect with a hard pair of wing cases."
+    },
+    {
+      "id": "museum",
+      "en": "museum",
+      "pos": "noun",
+      "ko": "museum",
+      "l1": {
+        "en": "A place that keeps and shows objects from the past."
+      },
+      "example_en": "A place that keeps and shows objects from the past."
+    },
+    {
+      "id": "collection",
+      "en": "collection",
+      "pos": "noun",
+      "ko": "collection",
+      "l1": {
+        "en": "A group of objects kept together."
+      },
+      "example_en": "A group of objects kept together."
+    },
+    {
+      "id": "climate",
+      "en": "climate",
+      "pos": "noun",
+      "ko": "climate",
+      "l1": {
+        "en": "The usual weather of a place over many years."
+      },
+      "example_en": "The usual weather of a place over many years."
+    },
+    {
+      "id": "robot",
+      "en": "robot",
+      "pos": "noun",
+      "ko": "robot",
+      "l1": {
+        "en": "A machine that can do a task with little help."
+      },
+      "example_en": "A machine that can do a task with little help."
+    },
+    {
+      "id": "database",
+      "en": "database",
+      "pos": "noun",
+      "ko": "database",
+      "l1": {
+        "en": "An organized store of information on a computer."
+      },
+      "example_en": "An organized store of information on a computer."
+    },
+    {
+      "id": "species",
+      "en": "species",
+      "pos": "noun",
+      "ko": "species",
+      "l1": {
+        "en": "A group of living things that can breed together."
+      },
+      "example_en": "A group of living things that can breed together."
+    }
+  ]
+}
