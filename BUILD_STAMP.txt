@@ -1,1 +1,2 @@
-news-2026-09-18 Word Master player + pack 2026-09-19T04:53KST
+news-2026-10-08 no-signin public launch 2026-10-08T07:10UTC
+build=20261008-no-signin-1

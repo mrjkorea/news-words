@@ -5,7 +5,8 @@
   const Progress = window.WordFactoryProgress;
   const LS_STATE = "mrj.word_factory.state";
   const LS_EVENTS = "mrj.word_factory.events";
-  const BUILD = "20261007-pack-sync-2";
+  const BUILD = "20261008-no-signin-1";
+  const LS_DEVICE_ID = "mrj.news_words.device_id";
   const DEMO_PACK_ID = "news-2026-09-18";
   const NEWS_INDEX_URL = "packs/index.json";
 
@@ -99,8 +100,21 @@
   let state = loadState();
   let authReady = false;
   let authId = "";
-  let remoteSync = null;
-  let activeSessionToken = null;
+
+  function deviceStorageId() {
+    try {
+      var existing = localStorage.getItem(LS_DEVICE_ID);
+      if (existing && String(existing).trim()) return String(existing).trim();
+      var fresh =
+        "dev_" +
+        Math.random().toString(36).slice(2, 10) +
+        Date.now().toString(36).slice(-4);
+      localStorage.setItem(LS_DEVICE_ID, fresh);
+      return fresh;
+    } catch (e) {
+      return "dev_anonymous";
+    }
+  }
 
   function studentForScores() {
     return String(authId || "").trim();
@@ -144,7 +158,7 @@
   function loadState(forStudentId) {
     const sid = forStudentId == null ? "" : String(forStudentId).trim();
     if (sid && Progress) {
-      return Progress.loadLocalState(sid, window.MRJ_AUTH);
+      return Progress.loadLocalState(sid, null);
     }
     const base = Progress ? Progress.defaultState(uid) : {
       studentId: uid("stu"),
@@ -170,42 +184,25 @@
   function persist() {
     if (!authId) return;
     try {
-      if (Progress) Progress.persistLocalState(authId, state, window.MRJ_AUTH);
+      if (Progress) Progress.persistLocalState(authId, state, null);
       else {
         var ik = String(authId).trim().toLowerCase();
         localStorage.setItem(LS_STATE + ":" + ik, JSON.stringify(state));
-      }
-      if (remoteSync) {
-        remoteSync.markDirty();
-        remoteSync.scheduleSave(false);
       }
     } catch (e) {}
   }
 
   function loadEvents() {
-    if (authId && Progress) return Progress.loadLocalEvents(authId, window.MRJ_AUTH);
+    if (authId && Progress) return Progress.loadLocalEvents(authId, null);
     return [];
   }
 
   function persistEvents(events) {
     if (!authId) return;
     try {
-      if (Progress) Progress.persistLocalEvents(authId, events, window.MRJ_AUTH);
-      if (remoteSync) {
-        remoteSync.markDirty();
-        remoteSync.scheduleSave(false);
-      }
+      if (Progress) Progress.persistLocalEvents(authId, events, null);
     } catch (e) {}
   }
-
-  function endStudentSession() {
-    activeSessionToken = null;
-    if (remoteSync) {
-      remoteSync.stop();
-      remoteSync = null;
-    }
-  }
-
 
   // Jay 28SEP2026: every answered item also lands in the ONE score book.
   function logToScoreBook(ev) {
@@ -2209,7 +2206,7 @@
 
   function openPortableGame(kind) {
     const who = studentForScores();
-    if (!practiceAllowed() || !who) return;
+    if (!practiceAllowed()) return;
     const set = currentSet();
     if (!set) {
       openDemo().then(function () { openPortableGame(kind); });
@@ -2303,21 +2300,6 @@
       setVoice(state.voice);
       if (!practiceAllowed()) return;
       afterBootHome();
-    });
-    const changeNameBtn = $("#btn-change-name");
-    if (changeNameBtn) changeNameBtn.addEventListener("click", function () {
-      authReady = false;
-      authId = "";
-      endStudentSession();
-      state = loadState();
-      state.displayName = "";
-      if (window.MRJ_AUTH && typeof window.MRJ_AUTH.signOut === "function") {
-        window.MRJ_AUTH.signOut();
-      }
-      const gate = document.getElementById("mrj-auth-gate");
-      if (gate) gate.hidden = false;
-      document.documentElement.classList.add("mrj-auth-locked");
-      showScreen("boot");
     });
     const listBtn = $("#btn-word-list");
     if (listBtn) listBtn.addEventListener("click", function () {
@@ -2568,6 +2550,14 @@
 
   window.MRJ_WORD_FACTORY_PACK = { words: [] };
   window.MRJ_NEWS_WORDS_BUILD = BUILD;
+  function beginDeviceSession() {
+    authId = deviceStorageId();
+    authReady = true;
+    state = loadState(authId);
+    state.displayName = "";
+    persist();
+  }
+  beginDeviceSession();
   bind();
   probeLinuxTts();
   if (I18n) {
@@ -2577,71 +2567,5 @@
     I18n.applyDom(document);
   }
   setVoice(state.voice);
-  function beginStudentSession(id) {
-    const auth = window.MRJ_AUTH;
-    const idKeyVal = Progress ? Progress.idKey(id, auth) : String(id || "").trim().toLowerCase();
-    if (
-      authReady &&
-      remoteSync &&
-      activeSessionToken &&
-      Progress &&
-      Progress.idKey(authId, auth) === idKeyVal &&
-      remoteSync.sessionToken &&
-      Progress.sessionMatches(remoteSync.sessionToken, activeSessionToken)
-    ) {
-      return;
-    }
-    endStudentSession();
-    authId = id;
-    authReady = true;
-    state = loadState(authId);
-    state.displayName = authId;
-    if (!Progress) {
-      persist();
-      return;
-    }
-    activeSessionToken = Progress.newSessionToken(idKeyVal);
-    remoteSync = Progress.createRemoteSync(auth, {
-      sessionToken: activeSessionToken,
-      isSessionActive: function (token) {
-        return Progress.sessionMatches(token, activeSessionToken);
-      },
-      disableLoadRetry: false,
-      getSnapshot: function () {
-        return { state: state, events: loadEvents() };
-      },
-      applySnapshot: function (snap) {
-        if (!snap) return;
-        if (!Progress.sessionMatches(activeSessionToken, remoteSync.sessionToken)) return;
-        state = Progress.normalizeLoadedState(snap.state, uid);
-        state.displayName = authId;
-        Progress.persistLocalState(authId, state, auth);
-        Progress.persistLocalEvents(authId, snap.events || [], auth);
-        syncPack();
-      },
-      afterMerge: function () {
-        state.displayName = authId;
-      },
-    });
-    remoteSync.loadFromServer().then(function () {
-      if (currentScreen === "home") renderHome();
-    });
-    if (currentScreen === "home") renderHome();
-  }
-
-  window.addEventListener("mrj-auth-ready", function (event) {
-    const raw = event && event.detail ? event.detail.id : "";
-    const id = raw == null ? "" : String(raw).trim();
-    if (!id) return;
-    beginStudentSession(id);
-  });
-
-  window.addEventListener("pagehide", function () {
-    if (remoteSync) remoteSync.onPageHide();
-  });
-  if (window.MRJ_AUTH && typeof window.MRJ_AUTH.student === "function") {
-    const early = String(window.MRJ_AUTH.student() || "").trim();
-    if (early) beginStudentSession(early);
-  }
   showScreen("boot");
 })();
