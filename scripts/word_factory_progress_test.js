@@ -264,6 +264,32 @@ function testCrossStudentStaleLoad() {
   });
 }
 
+function testAnonymousDeviceKeyRoundTrip() {
+  const store = {};
+  global.localStorage = {
+    getItem(k) {
+      return store[k] == null ? null : store[k];
+    },
+    setItem(k, v) {
+      store[k] = v;
+    },
+    removeItem(k) {
+      delete store[k];
+    },
+  };
+  const deviceId = "dev_test_device_01";
+  const seeded = Progress.defaultState(() => "seed");
+  seeded.sets = { x: { id: "x", winsA: { w: 3 } } };
+  Progress.persistLocalState(deviceId, seeded, null);
+  const loaded = Progress.loadLocalState(deviceId, null);
+  assert.strictEqual(loaded.sets.x.winsA.w, 3);
+  assert.strictEqual(
+    Progress.lsStateKey(Progress.idKey(deviceId, null)),
+    "mrj.word_factory.state:" + deviceId.toLowerCase()
+  );
+  delete global.localStorage;
+}
+
 function testLegacyKeyUntouched() {
   const store = {};
   global.localStorage = {
@@ -297,6 +323,7 @@ function run() {
   testRicherMergeTriggersSave();
   testIdKeyNormalization();
   testRawKeyFallbackReadOnly();
+  testAnonymousDeviceKeyRoundTrip();
   testLegacyKeyUntouched();
   return Promise.all([
     testGatingNoSaveBeforeLoad(),
