@@ -558,5 +558,13 @@
     "wordCount": 10,
     "data": "packs/news-2026-10-08.json",
     "youtube_url": ""
+  },
+  {
+    "id": "2026-10-09",
+    "date": "2026-10-09",
+    "title": "Ghana starts enforcing a ban on preaching inside moving buses",
+    "wordCount": 10,
+    "data": "packs/news-2026-10-09.json",
+    "youtube_url": ""
   }
 ]

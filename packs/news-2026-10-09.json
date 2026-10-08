@@ -1,0 +1,109 @@
+{
+  "id": "news-2026-10-09",
+  "title": "Ghana starts enforcing a ban on preaching inside moving buses",
+  "headline": "Ghana starts enforcing a ban on preaching inside moving buses",
+  "date": "2026-10-09",
+  "word_count": 10,
+  "words": [
+    {
+      "id": "preaching",
+      "en": "preaching",
+      "pos": "noun",
+      "ko": "preaching",
+      "l1": {
+        "en": "Speaking a religious message to other people."
+      },
+      "example_en": "Speaking a religious message to other people."
+    },
+    {
+      "id": "pastor",
+      "en": "pastor",
+      "pos": "noun",
+      "ko": "pastor",
+      "l1": {
+        "en": "A Christian leader who teaches a congregation."
+      },
+      "example_en": "A Christian leader who teaches a congregation."
+    },
+    {
+      "id": "nuisance",
+      "en": "nuisance",
+      "pos": "noun",
+      "ko": "nuisance",
+      "l1": {
+        "en": "Something that annoys people or gets in the way."
+      },
+      "example_en": "Something that annoys people or gets in the way."
+    },
+    {
+      "id": "regulation",
+      "en": "regulation",
+      "pos": "noun",
+      "ko": "regulation",
+      "l1": {
+        "en": "An official rule that people must follow."
+      },
+      "example_en": "An official rule that people must follow."
+    },
+    {
+      "id": "gospel",
+      "en": "gospel",
+      "pos": "noun",
+      "ko": "gospel",
+      "l1": {
+        "en": "The Christian message about faith and salvation."
+      },
+      "example_en": "The Christian message about faith and salvation."
+    },
+    {
+      "id": "comfort",
+      "en": "comfort",
+      "pos": "noun",
+      "ko": "comfort",
+      "l1": {
+        "en": "A feeling of ease and physical ease."
+      },
+      "example_en": "A feeling of ease and physical ease."
+    },
+    {
+      "id": "fine",
+      "en": "fine",
+      "pos": "noun",
+      "ko": "fine",
+      "l1": {
+        "en": "Money a person must pay as a punishment."
+      },
+      "example_en": "Money a person must pay as a punishment."
+    },
+    {
+      "id": "aisle",
+      "en": "aisle",
+      "pos": "noun",
+      "ko": "aisle",
+      "l1": {
+        "en": "The walkway between rows of seats."
+      },
+      "example_en": "The walkway between rows of seats."
+    },
+    {
+      "id": "worship",
+      "en": "worship",
+      "pos": "noun",
+      "ko": "worship",
+      "l1": {
+        "en": "The act of showing religious honor."
+      },
+      "example_en": "The act of showing religious honor."
+    },
+    {
+      "id": "distraction",
+      "en": "distraction",
+      "pos": "noun",
+      "ko": "distraction",
+      "l1": {
+        "en": "Something that pulls attention away from a task."
+      },
+      "example_en": "Something that pulls attention away from a task."
+    }
+  ]
+}
