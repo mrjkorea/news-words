@@ -566,5 +566,13 @@
     "wordCount": 10,
     "data": "packs/news-2026-10-09.json",
     "youtube_url": ""
+  },
+  {
+    "id": "2026-10-12",
+    "date": "2026-10-12",
+    "title": "Smoke from Indonesian fires closes schools in Malaysia",
+    "wordCount": 10,
+    "data": "packs/news-2026-10-12.json",
+    "youtube_url": ""
   }
 ]

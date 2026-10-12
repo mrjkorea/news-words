@@ -1,0 +1,109 @@
+{
+  "id": "news-2026-10-12",
+  "title": "Smoke from Indonesian fires closes schools in Malaysia",
+  "headline": "Smoke from Indonesian fires closes schools in Malaysia",
+  "date": "2026-10-12",
+  "word_count": 10,
+  "words": [
+    {
+      "id": "haze",
+      "en": "haze",
+      "pos": "noun",
+      "ko": "haze",
+      "l1": {
+        "en": "Smoke or dust that makes the air hard to see through."
+      },
+      "example_en": "Smoke or dust that makes the air hard to see through."
+    },
+    {
+      "id": "peat",
+      "en": "peat",
+      "pos": "noun",
+      "ko": "peat",
+      "l1": {
+        "en": "Wet, dark soil made from old plants."
+      },
+      "example_en": "Wet, dark soil made from old plants."
+    },
+    {
+      "id": "smoke",
+      "en": "smoke",
+      "pos": "noun",
+      "ko": "smoke",
+      "l1": {
+        "en": "The grey cloud that rises from a fire."
+      },
+      "example_en": "The grey cloud that rises from a fire."
+    },
+    {
+      "id": "closure",
+      "en": "closure",
+      "pos": "noun",
+      "ko": "closure",
+      "l1": {
+        "en": "The act of shutting a place for a time."
+      },
+      "example_en": "The act of shutting a place for a time."
+    },
+    {
+      "id": "pollutant",
+      "en": "pollutant",
+      "pos": "noun",
+      "ko": "pollutant",
+      "l1": {
+        "en": "A harmful substance in the air, water, or soil."
+      },
+      "example_en": "A harmful substance in the air, water, or soil."
+    },
+    {
+      "id": "respiratory",
+      "en": "respiratory",
+      "pos": "noun",
+      "ko": "respiratory",
+      "l1": {
+        "en": "Related to breathing and the lungs."
+      },
+      "example_en": "Related to breathing and the lungs."
+    },
+    {
+      "id": "minister",
+      "en": "minister",
+      "pos": "noun",
+      "ko": "minister",
+      "l1": {
+        "en": "A senior government leader in charge of one area."
+      },
+      "example_en": "A senior government leader in charge of one area."
+    },
+    {
+      "id": "index",
+      "en": "index",
+      "pos": "noun",
+      "ko": "index",
+      "l1": {
+        "en": "A number scale that shows how high or low something is."
+      },
+      "example_en": "A number scale that shows how high or low something is."
+    },
+    {
+      "id": "seeding",
+      "en": "seeding",
+      "pos": "noun",
+      "ko": "seeding",
+      "l1": {
+        "en": "Putting something into clouds to try to make rain."
+      },
+      "example_en": "Putting something into clouds to try to make rain."
+    },
+    {
+      "id": "emergency",
+      "en": "emergency",
+      "pos": "noun",
+      "ko": "emergency",
+      "l1": {
+        "en": "A sudden danger that needs fast action."
+      },
+      "example_en": "A sudden danger that needs fast action."
+    }
+  ]
+}
