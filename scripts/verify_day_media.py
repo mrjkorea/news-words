@@ -20,6 +20,36 @@ PACKS = ROOT / "packs"
 VOICES = ("us_m", "us_f", "uk_m", "uk_f", "grandma", "leo", "grandpa", "robot")
 SITE = "https://mrjkorea.github.io/news-words"
 MIN_BYTES = 1500
+L1 = (
+    "en", "ko", "zh-Hans", "ja", "es", "hi", "de", "vi",
+    "pt-BR", "id", "fr", "ar", "tr", "it", "pl",
+)
+
+
+def looks_english(text: str) -> bool:
+    text = (text or "").strip()
+    if not text:
+        return True
+    return all(ord(ch) < 128 for ch in text)
+
+
+def l1_gaps(data: dict) -> list[str]:
+    gaps = []
+    for word in data.get("words") or []:
+        if not isinstance(word, dict):
+            continue
+        en = str(word.get("en") or word.get("id") or "?").strip()
+        raw = word.get("l1")
+        l1 = raw if isinstance(raw, dict) else {}
+        ko = str(word.get("ko") or "")
+        if looks_english(ko) or looks_english(str(l1.get("ko") or "")):
+            gaps.append(en)
+            continue
+        for loc in L1:
+            if not str(l1.get(loc) or "").strip():
+                gaps.append(en)
+                break
+    return gaps
 
 
 def lemmas(data: dict) -> list[str]:
@@ -62,6 +92,12 @@ def main() -> int:
         print(f"MEDIA_FAIL {day} missing {js.name}")
         return 1
     data = json.loads(js.read_text(encoding="utf-8"))
+    gaps = l1_gaps(data)
+    if gaps:
+        print(f"MEDIA_FAIL {day} translations missing {len(gaps)}/10")
+        for item in gaps[:12]:
+            print(f"  l1:{item}")
+        return 1
     words = lemmas(data)
     if len(words) != 10 or len(set(words)) != 10:
         print(f"MEDIA_FAIL {day} words={len(words)} unique={len(set(words))}")
@@ -104,7 +140,17 @@ def main() -> int:
             for item in bad[:12]:
                 print(f"  {item}")
             return 1
-        print(f"MEDIA_OK {day} local png=10 mp3=80 live={len(urls)}")
+        try:
+            with urllib.request.urlopen(f"{SITE}/packs/news-{day}.json", timeout=40) as resp:
+                live_doc = json.loads(resp.read().decode("utf-8"))
+        except Exception as exc:
+            print(f"MEDIA_FAIL {day} live json {exc}")
+            return 1
+        live_gaps = l1_gaps(live_doc)
+        if live_gaps:
+            print(f"MEDIA_FAIL {day} live translations missing {len(live_gaps)}/10")
+            return 1
+        print(f"MEDIA_OK {day} local png=10 mp3=80 l1=15 live={len(urls)}")
         return 0
     print(f"MEDIA_OK {day} local png=10 mp3=80")
     return 0
