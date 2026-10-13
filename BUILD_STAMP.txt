@@ -1,2 +1,2 @@
 news-2026-10-08 no-signin public launch 2026-10-08T07:10UTC
-build=20261008-no-signin-1
+build=20261013-gamepack
