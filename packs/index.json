@@ -582,5 +582,13 @@
     "wordCount": 10,
     "data": "packs/news-2026-10-13.json",
     "youtube_url": "https://www.youtube.com/watch?v=UJHlJ1mD6bw"
+  },
+  {
+    "id": "2026-10-14",
+    "date": "2026-10-14",
+    "title": "Britain opens eight hubs to help farms and hospitals use robots",
+    "wordCount": 10,
+    "data": "packs/news-2026-10-14.json",
+    "youtube_url": ""
   }
 ]
