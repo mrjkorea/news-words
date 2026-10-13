@@ -1,0 +1,109 @@
+{
+  "id": "news-2026-10-13",
+  "title": "A medicine prize honors a light switch for nerve cells",
+  "headline": "A medicine prize honors a light switch for nerve cells",
+  "date": "2026-10-13",
+  "word_count": 10,
+  "words": [
+    {
+      "id": "algae",
+      "en": "algae",
+      "pos": "noun",
+      "ko": "algae",
+      "l1": {
+        "en": "Simple water plants, sometimes only one cell."
+      },
+      "example_en": "Simple water plants, sometimes only one cell."
+    },
+    {
+      "id": "protein",
+      "en": "protein",
+      "pos": "noun",
+      "ko": "protein",
+      "l1": {
+        "en": "A complex molecule that does work inside a cell."
+      },
+      "example_en": "A complex molecule that does work inside a cell."
+    },
+    {
+      "id": "channel",
+      "en": "channel",
+      "pos": "noun",
+      "ko": "channel",
+      "l1": {
+        "en": "A small opening that lets something pass through."
+      },
+      "example_en": "A small opening that lets something pass through."
+    },
+    {
+      "id": "nerve",
+      "en": "nerve",
+      "pos": "noun",
+      "ko": "nerve",
+      "l1": {
+        "en": "A body part that carries signals."
+      },
+      "example_en": "A body part that carries signals."
+    },
+    {
+      "id": "impulse",
+      "en": "impulse",
+      "pos": "noun",
+      "ko": "impulse",
+      "l1": {
+        "en": "A short electrical signal."
+      },
+      "example_en": "A short electrical signal."
+    },
+    {
+      "id": "switch",
+      "en": "switch",
+      "pos": "noun",
+      "ko": "switch",
+      "l1": {
+        "en": "A control that turns something on or off."
+      },
+      "example_en": "A control that turns something on or off."
+    },
+    {
+      "id": "memory",
+      "en": "memory",
+      "pos": "noun",
+      "ko": "memory",
+      "l1": {
+        "en": "The stored record of something that happened."
+      },
+      "example_en": "The stored record of something that happened."
+    },
+    {
+      "id": "behavior",
+      "en": "behavior",
+      "pos": "noun",
+      "ko": "behavior",
+      "l1": {
+        "en": "The way a living thing acts."
+      },
+      "example_en": "The way a living thing acts."
+    },
+    {
+      "id": "sight",
+      "en": "sight",
+      "pos": "noun",
+      "ko": "sight",
+      "l1": {
+        "en": "The ability to see."
+      },
+      "example_en": "The ability to see."
+    },
+    {
+      "id": "circuit",
+      "en": "circuit",
+      "pos": "noun",
+      "ko": "circuit",
+      "l1": {
+        "en": "A path that a signal follows."
+      },
+      "example_en": "A path that a signal follows."
+    }
+  ]
+}

@@ -574,5 +574,13 @@
     "wordCount": 10,
     "data": "packs/news-2026-10-12.json",
     "youtube_url": ""
+  },
+  {
+    "id": "2026-10-13",
+    "date": "2026-10-13",
+    "title": "A medicine prize honors a light switch for nerve cells",
+    "wordCount": 10,
+    "data": "packs/news-2026-10-13.json",
+    "youtube_url": "https://www.youtube.com/watch?v=UJHlJ1mD6bw"
   }
 ]
