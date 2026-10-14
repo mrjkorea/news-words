@@ -590,5 +590,13 @@
     "wordCount": 10,
     "data": "packs/news-2026-10-14.json",
     "youtube_url": ""
+  },
+  {
+    "id": "2026-10-15",
+    "date": "2026-10-15",
+    "title": "Canadian writer Anne Carson wins the Nobel Prize in Literature",
+    "wordCount": 10,
+    "data": "packs/news-2026-10-15.json",
+    "youtube_url": ""
   }
 ]
