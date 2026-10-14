@@ -18,6 +18,7 @@ ROOT = Path(__file__).resolve().parents[1]
 PACKS = ROOT / "packs"
 WF = Path.home() / ".hermes/projects/mrj-word-factory/packs"
 LIB = Path.home() / "Library/CloudStorage/GoogleDrive-canadianvegetarian@gmail.com/My Drive/MRJ Picture Library/words"
+YT_DIR = Path.home() / "FishAudio/YouTube"
 FISH = Path.home() / ".hermes/scripts/fish_tts.py"
 VOICES = {
     "us_m": ("c4195e6b653a4a73b50972eaf45b0da5", "[friendly teacher, warm and clear]"),
@@ -78,6 +79,32 @@ def find_lib_png(lemma: str) -> Path | None:
     letter = lemma[0] if lemma else "x"
     p = LIB / letter / f"{lemma}.png"
     return p if p.is_file() else None
+
+
+def find_news_png(day: str, lemma: str) -> Path | None:
+    """Fall back to that day's own news stills.
+
+    The batch lesson build draws one still per vocabulary scene under
+    <project>/images/NN_<lemma>.png.  Word Factory and the Picture Library do
+    not hold a generic picture for an abstract news word such as "academy" or
+    "verse", so without this fallback the weekday pack ships JSON only and the
+    phone falls back to speechSynthesis.  Jay 29SEP2026 HARD: a word set with
+    no pictures and no voices is not live.
+    """
+    project = None
+    for candidate in sorted(YT_DIR.glob(f"{day}_*")):
+        if candidate.is_dir():
+            project = candidate
+            break
+    if project is None:
+        return None
+    images = project / "images"
+    if not images.is_dir():
+        return None
+    hits = [p for p in images.glob(f"*_{lemma}.png") if p.stat().st_size > 1500]
+    if not hits:
+        hits = [p for p in images.glob(f"{lemma}.png") if p.stat().st_size > 1500]
+    return max(hits, key=lambda p: p.stat().st_size) if hits else None
 
 
 def find_wf_mp3(voice: str, lemma: str) -> Path | None:
@@ -151,7 +178,7 @@ def main() -> None:
         for lemma in words:
             dest_png = pdir / f"{lemma}.png"
             if not (dest_png.is_file() and dest_png.stat().st_size > 1500):
-                src = find_lib_png(lemma) or find_wf_png(lemma)
+                src = find_lib_png(lemma) or find_wf_png(lemma) or find_news_png(day, lemma)
                 if src:
                     if copy_file(src, dest_png):
                         copied_png += 1
