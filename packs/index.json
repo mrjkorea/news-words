@@ -598,5 +598,13 @@
     "wordCount": 10,
     "data": "packs/news-2026-10-15.json",
     "youtube_url": ""
+  },
+  {
+    "id": "2026-10-19",
+    "date": "2026-10-19",
+    "title": "Eliud Kipchoge wins the Melbourne Marathon at forty-one",
+    "wordCount": 10,
+    "data": "packs/news-2026-10-19.json",
+    "youtube_url": ""
   }
 ]
