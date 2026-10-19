@@ -606,5 +606,13 @@
     "wordCount": 10,
     "data": "packs/news-2026-10-19.json",
     "youtube_url": ""
+  },
+  {
+    "id": "2026-10-20",
+    "date": "2026-10-20",
+    "title": "A small dog lost in Yellowstone for thirty-four days is found safe",
+    "wordCount": 10,
+    "data": "packs/news-2026-10-20.json",
+    "youtube_url": ""
   }
 ]
