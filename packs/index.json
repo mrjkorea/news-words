@@ -614,5 +614,13 @@
     "wordCount": 10,
     "data": "packs/news-2026-10-20.json",
     "youtube_url": ""
+  },
+  {
+    "id": "2026-10-21",
+    "date": "2026-10-21",
+    "title": "A small sugar sensor helps people with type two diabetes",
+    "wordCount": 10,
+    "data": "packs/news-2026-10-21.json",
+    "youtube_url": ""
   }
 ]
