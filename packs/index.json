@@ -622,5 +622,13 @@
     "wordCount": 10,
     "data": "packs/news-2026-10-21.json",
     "youtube_url": ""
+  },
+  {
+    "id": "2026-10-22",
+    "date": "2026-10-22",
+    "title": "New York votes on ending horse carriages in Central Park",
+    "wordCount": 10,
+    "data": "packs/news-2026-10-22.json",
+    "youtube_url": ""
   }
 ]
