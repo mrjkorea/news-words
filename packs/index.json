@@ -630,5 +630,13 @@
     "wordCount": 10,
     "data": "packs/news-2026-10-22.json",
     "youtube_url": ""
+  },
+  {
+    "id": "2026-10-23",
+    "date": "2026-10-23",
+    "title": "Drones and lasers map a sea coast to fight erosion",
+    "wordCount": 10,
+    "data": "packs/news-2026-10-23.json",
+    "youtube_url": ""
   }
 ]
