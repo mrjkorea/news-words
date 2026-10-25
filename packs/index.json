@@ -638,5 +638,13 @@
     "wordCount": 10,
     "data": "packs/news-2026-10-23.json",
     "youtube_url": ""
+  },
+  {
+    "id": "2026-10-26",
+    "date": "2026-10-26",
+    "title": "A big shark leaves a city canal in Busan after a month",
+    "wordCount": 10,
+    "data": "packs/news-2026-10-26.json",
+    "youtube_url": ""
   }
 ]
