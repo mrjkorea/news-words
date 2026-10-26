@@ -646,5 +646,13 @@
     "wordCount": 10,
     "data": "packs/news-2026-10-26.json",
     "youtube_url": ""
+  },
+  {
+    "id": "2026-10-27",
+    "date": "2026-10-27",
+    "title": "Grandmas in Barcelona teach visitors to cook traditional food",
+    "wordCount": 10,
+    "data": "packs/news-2026-10-27.json",
+    "youtube_url": ""
   }
 ]
