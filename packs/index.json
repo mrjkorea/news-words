@@ -654,5 +654,13 @@
     "wordCount": 10,
     "data": "packs/news-2026-10-27.json",
     "youtube_url": ""
+  },
+  {
+    "id": "2026-10-28",
+    "date": "2026-10-28",
+    "title": "A personal cancer vaccine helps stop skin cancer from coming back",
+    "wordCount": 10,
+    "data": "packs/news-2026-10-28.json",
+    "youtube_url": ""
   }
 ]
