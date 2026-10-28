@@ -662,5 +662,13 @@
     "wordCount": 10,
     "data": "packs/news-2026-10-28.json",
     "youtube_url": ""
+  },
+  {
+    "id": "2026-10-29",
+    "date": "2026-10-29",
+    "title": "Scientists test a bubble machine to clean toxic algae from a lake",
+    "wordCount": 10,
+    "data": "packs/news-2026-10-29.json",
+    "youtube_url": ""
   }
 ]
