@@ -670,5 +670,13 @@
     "wordCount": 10,
     "data": "packs/news-2026-10-29.json",
     "youtube_url": ""
+  },
+  {
+    "id": "2026-10-30",
+    "date": "2026-10-30",
+    "title": "A giant battery helps power an apartment building in New York",
+    "wordCount": 10,
+    "data": "packs/news-2026-10-30.json",
+    "youtube_url": ""
   }
 ]
