@@ -678,5 +678,13 @@
     "wordCount": 10,
     "data": "packs/news-2026-10-30.json",
     "youtube_url": ""
+  },
+  {
+    "id": "2026-11-02",
+    "date": "2026-11-02",
+    "title": "In an Amsterdam museum, people stand in cages and the animals look free",
+    "wordCount": 10,
+    "data": "packs/news-2026-11-02.json",
+    "youtube_url": ""
   }
 ]
