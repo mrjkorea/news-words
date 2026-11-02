@@ -686,5 +686,13 @@
     "wordCount": 10,
     "data": "packs/news-2026-11-02.json",
     "youtube_url": ""
+  },
+  {
+    "id": "2026-11-03",
+    "date": "2026-11-03",
+    "title": "AI helps scientists count bats in hundreds of British woods",
+    "wordCount": 10,
+    "data": "packs/news-2026-11-03.json",
+    "youtube_url": ""
   }
 ]
