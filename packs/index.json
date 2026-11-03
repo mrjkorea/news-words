@@ -694,5 +694,13 @@
     "wordCount": 10,
     "data": "packs/news-2026-11-03.json",
     "youtube_url": ""
+  },
+  {
+    "id": "2026-11-04",
+    "date": "2026-11-04",
+    "title": "Greenland's City of Icebergs opens a new international airport",
+    "wordCount": 10,
+    "data": "packs/news-2026-11-04.json",
+    "youtube_url": ""
   }
 ]
