@@ -702,5 +702,21 @@
     "wordCount": 10,
     "data": "packs/news-2026-11-04.json",
     "youtube_url": ""
+  },
+  {
+    "id": "2026-11-05",
+    "date": "2026-11-05",
+    "title": "After her wedding was called off, eleven strangers joined a woman's trip",
+    "wordCount": 10,
+    "data": "packs/news-2026-11-05.json",
+    "youtube_url": "https://youtu.be/re9YuGq3Owk"
+  },
+  {
+    "id": "2026-11-06",
+    "date": "2026-11-06",
+    "title": "Small US colleges start football teams to bring in more students",
+    "wordCount": 10,
+    "data": "packs/news-2026-11-06.json",
+    "youtube_url": "https://youtu.be/MZhp-UGJqBk"
   }
 ]
