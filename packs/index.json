@@ -718,5 +718,13 @@
     "wordCount": 10,
     "data": "packs/news-2026-11-06.json",
     "youtube_url": "https://youtu.be/MZhp-UGJqBk"
+  },
+  {
+    "id": "2026-11-09",
+    "date": "2026-11-09",
+    "title": "One of the year's most prolific meteor showers to light up the night sky",
+    "wordCount": 10,
+    "data": "packs/news-2026-11-09.json",
+    "youtube_url": ""
   }
 ]
