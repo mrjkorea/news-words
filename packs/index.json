@@ -726,5 +726,37 @@
     "wordCount": 10,
     "data": "packs/news-2026-11-09.json",
     "youtube_url": ""
+  },
+  {
+    "id": "2026-11-10",
+    "date": "2026-11-10",
+    "title": "Tesla signals the end of the road for the Cybertruck",
+    "wordCount": 10,
+    "data": "packs/news-2026-11-10.json",
+    "youtube_url": ""
+  },
+  {
+    "id": "2026-11-11",
+    "date": "2026-11-11",
+    "title": "Delhi's toxic winter air is back",
+    "wordCount": 10,
+    "data": "packs/news-2026-11-11.json",
+    "youtube_url": ""
+  },
+  {
+    "id": "2026-11-12",
+    "date": "2026-11-12",
+    "title": "Pope in pretty good health as he starts Latin America tour",
+    "wordCount": 10,
+    "data": "packs/news-2026-11-12.json",
+    "youtube_url": ""
+  },
+  {
+    "id": "2026-11-13",
+    "date": "2026-11-13",
+    "title": "Judge blocks construction of a planned triumphal arch in Washington",
+    "wordCount": 10,
+    "data": "packs/news-2026-11-13.json",
+    "youtube_url": ""
   }
 ]
