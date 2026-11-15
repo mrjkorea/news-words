@@ -758,5 +758,13 @@
     "wordCount": 10,
     "data": "packs/news-2026-11-13.json",
     "youtube_url": ""
+  },
+  {
+    "id": "2026-11-16",
+    "date": "2026-11-16",
+    "title": "A cut cable stops every flight in the United States",
+    "wordCount": 10,
+    "data": "packs/news-2026-11-16.json",
+    "youtube_url": ""
   }
 ]
