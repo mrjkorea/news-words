@@ -790,5 +790,13 @@
     "wordCount": 10,
     "data": "packs/news-2026-11-19.json",
     "youtube_url": ""
+  },
+  {
+    "id": "2026-11-20",
+    "date": "2026-11-20",
+    "title": "A Microsoft outage stops work in more than seventy countries",
+    "wordCount": 10,
+    "data": "packs/news-2026-11-20.json",
+    "youtube_url": ""
   }
 ]
