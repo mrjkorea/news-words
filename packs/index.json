@@ -774,5 +774,13 @@
     "wordCount": 10,
     "data": "packs/news-2026-11-17.json",
     "youtube_url": ""
+  },
+  {
+    "id": "2026-11-18",
+    "date": "2026-11-18",
+    "title": "The Philippines wins the first Eurovision Asia",
+    "wordCount": 10,
+    "data": "packs/news-2026-11-18.json",
+    "youtube_url": ""
   }
 ]
