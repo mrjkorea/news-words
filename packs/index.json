@@ -766,5 +766,13 @@
     "wordCount": 10,
     "data": "packs/news-2026-11-16.json",
     "youtube_url": ""
+  },
+  {
+    "id": "2026-11-17",
+    "date": "2026-11-17",
+    "title": "A climate summit in Turkey asks countries for much more clean power",
+    "wordCount": 10,
+    "data": "packs/news-2026-11-17.json",
+    "youtube_url": ""
   }
 ]
