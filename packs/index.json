@@ -822,5 +822,13 @@
     "wordCount": 10,
     "data": "packs/news-2026-11-25.json",
     "youtube_url": ""
+  },
+  {
+    "id": "2026-11-26",
+    "date": "2026-11-26",
+    "title": "A teenage gamer and his mother help to find a missing girl",
+    "wordCount": 10,
+    "data": "packs/news-2026-11-26.json",
+    "youtube_url": ""
   }
 ]
