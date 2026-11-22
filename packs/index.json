@@ -814,5 +814,13 @@
     "wordCount": 10,
     "data": "packs/news-2026-11-24.json",
     "youtube_url": ""
+  },
+  {
+    "id": "2026-11-25",
+    "date": "2026-11-25",
+    "title": "A daily pill gives new hope for a very deadly cancer",
+    "wordCount": 10,
+    "data": "packs/news-2026-11-25.json",
+    "youtube_url": ""
   }
 ]
