@@ -830,5 +830,13 @@
     "wordCount": 10,
     "data": "packs/news-2026-11-26.json",
     "youtube_url": ""
+  },
+  {
+    "id": "2026-11-27",
+    "date": "2026-11-27",
+    "title": "A small bird flies more than ten thousand kilometres and comes home",
+    "wordCount": 10,
+    "data": "packs/news-2026-11-27.json",
+    "youtube_url": ""
   }
 ]
