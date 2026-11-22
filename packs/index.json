@@ -798,5 +798,13 @@
     "wordCount": 10,
     "data": "packs/news-2026-11-20.json",
     "youtube_url": ""
+  },
+  {
+    "id": "2026-11-23",
+    "date": "2026-11-23",
+    "title": "A video game earns almost four billion dollars in one day",
+    "wordCount": 10,
+    "data": "packs/news-2026-11-23.json",
+    "youtube_url": ""
   }
 ]
