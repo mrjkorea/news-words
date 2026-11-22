@@ -806,5 +806,13 @@
     "wordCount": 10,
     "data": "packs/news-2026-11-23.json",
     "youtube_url": ""
+  },
+  {
+    "id": "2026-11-24",
+    "date": "2026-11-24",
+    "title": "Young job hunters ask employers for one honest answer",
+    "wordCount": 10,
+    "data": "packs/news-2026-11-24.json",
+    "youtube_url": ""
   }
 ]
